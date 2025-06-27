@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5d6fb074690a674",
+            "id": "516a7d459f797743",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Difficulty Level/Adjusting Difficulty Level.md",
+                "file": "Chapter_2/ch2_Condition_Compliant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adjusting Difficulty Level"
+              "title": "ch2_Condition_Compliant"
             }
           },
           {
-            "id": "e3ee3ed3050c7dc9",
+            "id": "9d868e07bd684bc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Difficulty Level/Adjusting Difficulty Level.md",
+                "file": "ch2_Condition_Deafened.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adjusting Difficulty Level"
-            }
-          },
-          {
-            "id": "f3150736dc0a3e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Difficulty Level/Adjusting Difficulty Level.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adjusting Difficulty Level"
-            }
-          },
-          {
-            "id": "ed51256738bff2dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Turns/Turn Order.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Turn Order"
+              "title": "ch2_Condition_Deafened"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,36 +181,38 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ed51256738bff2dc",
+  "active": "9d868e07bd684bc3",
   "lastOpenFiles": [
-    "Turns/Round Robin Turn Order.md",
-    "Turns/Turn Order.md",
-    "Turns/Turn Etiquette.md",
-    "Turns/Turns.md",
-    "Turns/Your Turn.md",
-    "Abilities.md",
-    "Ability Scores.md",
-    "Core Mechanic.md",
-    "Difficulty Level/Adjusting Difficulty Level Example.md",
-    "Difficulty Level/Exceeding Extreme (22).md",
-    "Making a Roll.md",
-    "Difficulty Level/Setting the Base Difficulty Level.md",
-    "Difficulty Level/Attitude.md",
-    "Difficulty Level/Conditions.md",
-    "Difficulty Level/Difficulty Level.md",
-    "Difficulty Level/Enhancements.md",
-    "Difficulty Level/Adjusting Difficulty Level.md",
-    "make a roll.md",
-    "Difficulty Level/Qualities.md",
-    "Difficulty Level/Traits.md",
-    "Turns/GM Turn.md",
-    "Turns/Combat Turn.md",
-    "Difficulty Level/Static DL.md",
-    "Difficulty Level/Skill Action DL Chart.md",
-    "Difficulty Level/Difficulty Level Chart.md",
-    "Rico.md",
+    "Chapter_2/ch2_Condition_Compliant.md",
+    "ch2_Condition_Deafened.md",
+    "Chapter_2/ch2_Conditions.md",
+    "Chapter_3/ch3_Speed.md",
+    "Chapter_1/00_Main_ch1_GHOSTBURN_2325.md",
+    "Chapter_1/ch1_Critical_Failure.md",
+    "Chapter_1/ch1_Abilities.md",
+    "Chapter_1/ch1_Failure.md",
+    "Chapter_1/ch1_Critical_Success.md",
+    "Chapter_1/ch1_Outcomes.md",
+    "Chapter_1/ch1_Outcome_Chart.md",
+    "Chapter_1/ch1_Outcome_Downgraded.md",
+    "Chapter_2/00_Main_ch2_GHOSTBURN_2325.md",
+    "Chapter_3/ch3_Health_Conditions.md",
+    "Chapter_2/ch2_Condition_Critical_Condition.md",
+    "Chapter_1/ch1_Success.md",
+    "Chapter_2/ch2_Condition_Concealment_Total.md",
+    "Chapter_2/ch2_Condition_Cognitive_Impairment.md",
+    "Chapter_2/ch2_Condition_Concealment_Partial.md",
+    "Chapter_1/ch1_Qualities.md",
+    "Chapter_2/ch2_Condition_Break.md",
+    "Chapter_2/ch2_Condition_Blinded.md",
+    "ch2_Agony.md",
+    "Chapter_2/ch2_Condition_Bleeding.md",
+    "Chapter_2/ch2_Condition_Bewildered.md",
+    "Chapter_2/ch2_Condition_Agony.md",
+    "Chapter_2",
+    "Chapter_3",
     "Turns",
-    "Difficulty Level",
+    "Chapter_1",
     "Core Rules",
     "Untitled.canvas"
   ]

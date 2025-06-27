@@ -1,0 +1,3 @@
+Players should generally avoid interrupting other players on their [[ch1_Turn_Order|turns]]. However, if one player narrates an action that would directly impact another player, the GM may allow the second player to react directly before returning to the first player. Any reaction by a second player should be minimal to preserve the first player's turn.
+
+If you are unsure of what to do on your turn, the GM may also prompt you with a question or two to help you identify possible actions your character could take. However, you are not required to take an action on your turn. You may pass.

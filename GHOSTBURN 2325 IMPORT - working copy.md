@@ -1,101 +1,15 @@
 
 ## 
 
-## Skills
 
-The **Skills** chapter provides information on individual skills,
-including the ability score typically associated with each and guidance
-on setting Difficulty Levels. Each skill includes around six skill
-actions that offer rules for adjudicating specific situations. For
-example, the Influence skill includes the skill actions, Persuade,
-Improve Attitude, Haggle, Command, Intimidate Person, and Intimidate
-Group.
 
-## Outcomes
 
-When you use a skill action, roll a d20 and add the appropriate ability
-score to get the result. Compare the result to the Difficulty Level
-(DL).
 
-If the result is equal to or greater than the DL, the character
-succeeded. If you rolled a 20 on the die (without adding your ability
-score), it's called a *Natural 20*, and it counts as a critical success.
-Another way to get a critical success is if your result (including your
-ability score) is higher than the DL by 10 or more.
 
-If the result is less than the DL, the character failed. If you rolled a
-1 on the die (without adding your ability score), it's called a *Natural
-1*, and it counts as a critical failure. You can also get a critical
-failure if your result (including your ability score) is less than the
-DL by 10 or more.
 
-  ------------------------------------------------------------------------
-  Outcome    Description          Effect              Example
-  ---------- -------------------- ------------------- --------------------
-  Success    The result equals or You achieve your    *You hit the target;
-             exceeds the DL.      goal.               roll damage.*
 
-  Critical   You roll a natural   You achieve your    *You hit the target;
-  Success    20, or the result is goal and gain an    roll double damage
-             at least 10 higher   extra benefit.      or pick a body part
-             than the DL.                             to apply a
-                                                      condition*
 
-  Failure    The result is lower  Your attempt fails. *You miss the target
-             than the DL.         You do not achieve  and deal no damage.*
-                                  your goal.          
 
-  Critical   You roll a natural   Your attempt fails. *You miss the target
-  Failure    1, or the result at  You do not achieve  and deal no damage.
-             least 10 lower than  your goal, and you  Also, your weapon
-             the DL.              suffer a            runs out of ammo and
-                                  complication.       needs a reload (1
-                                                      AP).*
-  ------------------------------------------------------------------------
-
-### Stress and Choice
-
-Some skill actions prescribe two other kinds of outcomes: stress and
-choice. Stress means you suffer to a complication on a success or
-critical success due to the extraordinary nature of what you're doing.
-Choice means you or the GM are given a choice about what comes next.
-
-  ------------------------------------------------------------------------
-  Outcome    Description          Effect             Example
-  ---------- -------------------- ------------------ ---------------------
-  Stress     The outcome of a     Apply the outcome, *You use Penetrate
-             skill action you     as well as the     Firewall and gain
-             used has an entry    complication       system access.
-             labeled, Stress.     described in the   Complication: The
-                                  Stress entry.      system security timer
-                                                     starts. Due to the
-                                                     security rating, you
-                                                     have 6 rounds before
-                                                     you get caught and
-                                                     trigger an IC
-                                                     encounter.*
-
-  Choice     The outcome of a     Apply the outcome. *You fail to gain
-             skill action you     If the Choice is   system access with
-             used has an entry    for you, the GM    Penetrate Firewall.
-             labeled, Choice.     will offer it to   Choice: Do you want
-                                  you, as described  to try again? If you
-                                  in the Choice      fail on your second
-                                  entry. If the      attempt, you will
-                                  Choice is for the  trigger an IC
-                                  GM, they will tell encounter. Or you can
-                                  you which one they back off and wait an
-                                  chose and how it   hour for the system
-                                  plays out.         to cool down before
-                                                     trying again.*
-  ------------------------------------------------------------------------
-
-# Conditions
-
-Conditions are temporary statuses that can be applied to characters.
-Each condition listed below includes its primary cause and often
-suggests other possible causes, describes the effect the condition has
-on a person, and explains how the condition is removed.
 
 ## Health Status
 
