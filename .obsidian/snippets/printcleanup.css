@@ -1,0 +1,160 @@
+/*
+ * CSS to clean up embedded notes for printing/PDF export
+ * Focus on eliminating the stubborn filenames in PDF
+ */
+
+/* --- Styles for Screen (Reading View) ---
+   (These were working well for the screen view, keeping them separated for clarity) */
+@media screen {
+    .embed-title.markdown-embed-title {
+        display: none !important;
+        visibility: hidden !important;
+        width: 0 !important;
+        height: 0 !important;
+        overflow: hidden !important;
+        margin: 0 !important; /* Ensure no residual space */
+        padding: 0 !important; /* Ensure no residual space */
+    }
+
+    .markdown-embed {
+        border-left: none !important;
+        box-shadow: none !important;
+    }
+
+    .markdown-embed-content {
+        padding-left: 20px !important;
+        margin-left: 20px !important;
+        background-color: transparent !important;
+    }
+
+    .markdown-preview-view .markdown-embed {
+        padding-left: 0 !important;
+        margin-left: 20px !important;
+        padding-top: 20px;
+    }
+
+    .markdown-preview-view .markdown-embed .markdown-content {
+        padding-left: 20px !important;
+        margin-left: 20px !important;
+    }
+
+    .embed-title.markdown-embed-title {
+        display: none !important;
+        visibility: hidden !important;
+        width: 0 !important;
+        height: 0 !important;
+        overflow: hidden !important;
+        margin: 0 !important; /* Ensure no residual space */
+        padding: 0 !important; /* Ensure no residual space */
+    }
+
+    .markdown-embed {
+        border-left: none !important;
+        box-shadow: none !important;
+    }
+
+    .markdown-embed-content {
+        padding-left: 0 !important;
+        margin-left: 25px !important;
+        margin-right: 20px;
+        background-color: transparent !important;
+    }
+
+    .markdown-preview-view .markdown-embed {
+        padding-left: 0 !important;
+        margin-left: 0 !important;
+    }
+
+    .markdown-preview-view .markdown-embed .markdown-content {
+        padding-left: 0 !important;
+        margin-left: 0 !important;
+    }
+
+    
+    
+
+}
+
+/* --- Styles for Print (PDF Export) --- */
+@media print {
+
+  p {
+    font-family: "Georgia", serif !important;
+    font-size: 14pt !important;
+    line-height: 1.6 !important;
+  }
+
+  body {
+    background-image: url('https://i.imgur.com/swajO92.png');
+    background-position: top left;
+    background-size: contain;
+
+    padding: 1in; /* -- This MUST be 1in for the background image to fit properly -- */
+    box-sizing: content-box;
+    color: #111;
+    margin-bottom: 2in;
+  }
+
+  html {
+    margin-top: 48pt;
+  }
+  .markdown-rendered,
+  .markdown-preview-view {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    /* margin: 0 !important; */
+  }
+
+  /* Hide embedded note titles (filenames like my-note.md) without leaving gaps */
+  .markdown-preview-view .markdown-embed .markdown-embed-title,
+  .markdown-embed-title,
+  .embed-title {
+    display: none !important;
+    height: 0 !important;
+    max-height: 0 !important;
+    overflow: hidden !important;
+    border: none !important;
+    line-height: 0 !important;
+    font-size: 0 !important;
+    visibility: hidden !important;
+  }
+
+   h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+    break-after: avoid;
+    font-family: "Helvetica Neue", "Arial", sans-serif !important;
+    font-weight: bold;
+    color: #111;
+    line-height: 1;
+  }
+
+  ul, ol, blockquote, pre {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .section-block {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .markdown-embed {
+    border-left: none !important;
+    box-shadow: none !important;
+    border: none !important;
+    background-color: transparent !important;
+    max-width: 7.5in;
+  }
+
+  .markdown-embed-content,
+  .markdown-embed-content > div,
+  .markdown-embed-content > p,
+  .markdown-preview-view .markdown-embed,
+  .markdown-preview-view .markdown-embed .markdown-content {
+    border: none !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+  }
+}

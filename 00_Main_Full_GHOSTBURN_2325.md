@@ -1,0 +1,3 @@
+![[00_Main_ch1_GHOSTBURN_2325]]
+
+![[00_Main_ch2_GHOSTBURN_2325]]

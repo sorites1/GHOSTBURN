@@ -1,0 +1,3 @@
+In combat, you can spend 1 AP to move a number of meters equal to your \[[[ch3_Speed|Speed]]\] score. For example, a character with a \[Speed\] of 10 can travel up to 10 meters in combat by spending 1 AP on their turn. You may spend 2 AP to move twice or 3 AP to move three times.
+
+Certain conditions and effects limit you to using only \[[[ch3_Half_Speed|Half-Speed]]\] action for 1 AP, or they may prevent you from completing your move by stopping you at your \[Half-Speed\] point.

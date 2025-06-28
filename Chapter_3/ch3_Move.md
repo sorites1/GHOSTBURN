@@ -1,0 +1,1 @@
+In this game, when you see the word, **move**, it means the ability to be ambulatory. In other words, it refers to walking, running, crawling, swimming, climbing, and so on. (It does not refer to minor, bodily movements, such as by the fingers, arms, neck, etc.)

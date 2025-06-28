@@ -1,1 +1,8 @@
-{}
+{
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "print-cleanup",
+    "printcleanup"
+  ],
+  "showViewHeader": true
+}
