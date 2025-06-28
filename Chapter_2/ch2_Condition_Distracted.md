@@ -4,4 +4,4 @@
 
 **Effect:** You are \[[[ch2_Condition_Off_Guard|Off Guard]]\].
 
-**Removal:** At the start of [[ch1_Your Turn|your turn]], you lose the \[Distracted Condition\]. You also lose \[Distracted\] if you are in the presence of danger. 
+**Removal:** At the start of [[ch01_04_Your_Turn|your turn]], you lose the \[Distracted Condition\]. You also lose \[Distracted\] if you are in the presence of danger. 

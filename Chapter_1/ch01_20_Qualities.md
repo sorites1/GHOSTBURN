@@ -1,8 +1,8 @@
 ### Qualities
 
-Qualities are short, freeform descriptors that are not specifically defined by the game's rules. A quality is an aspect of a person, place, or thing. When the GM [[ch1_Making_a_Roll|calls for a roll]], each quality relevant to the situation raises or lowers the [[ch1_Difficulty_Level]].
+Qualities are short, freeform descriptors that are not specifically defined by the game's rules. A quality is an aspect of a person, place, or thing. When the GM calls for a roll each quality relevant to the situation raises or lowers the Difficulty Level.
 
-For example, [[Rico]] the food cart vendor has the quality, \[Needs the Money\]. Qualities like this can help inform the GM's roleplaying and decision making. 
+For example, Rico the food cart vendor has the quality, \[Needs the Money\]. Qualities like this can help inform the GM's roleplaying and decision making. 
 
 A quality like \[Needs the Money\] means the character probably prioritizes their income and savings over other aspects of their life. They are likely to be thrifty or even penny-pinching.
 

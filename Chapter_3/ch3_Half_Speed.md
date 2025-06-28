@@ -1,6 +1,6 @@
 ## \[Half-Speed\]
 
-Your character's \[Half-Speed\] is equal to the sum of your character's [[ch1_Abilities|Strength]] and Agility scores. Your \[Speed\] [[ch1_Ability Scores|score]] is equal to \[Half-Speed\], multiplied by two.
+Your character's \[Half-Speed\] is equal to the sum of your character's [[ch01_12_Abilities|Strength]] and Agility scores. Your \[Speed\] [[ch01_13_Ability_Scores|score]] is equal to \[Half-Speed\], multiplied by two.
 
 For example, a character with a Strength of 2 and an Agility of 3 would have a \[Half-Speed\] as follows:
 

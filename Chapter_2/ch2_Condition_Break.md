@@ -4,4 +4,4 @@
 
 **Effect:** You attack, flee, or break down on the stop with an outpouring of emotion (the GM chooses). If you attack, you target what you perceive to be the source of your problems or ire, which could be a person, place, or thing. If you flee, you attempt to escape that perceived source.
 
-**Removal:** At the start of your turn, make a basic [[ch1_Abilities|Resilience]] roll with a DL of Hard (14). [[ch1_Success|Success]] means you regain control and lose the \[Break\] condition.
+**Removal:** At the start of your turn, make a basic [[ch01_12_Abilities|Resilience]] roll with a DL of Hard (14). [[ch01_27_Success|Success]] means you regain control and lose the \[Break\] condition.

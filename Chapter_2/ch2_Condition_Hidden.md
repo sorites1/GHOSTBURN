@@ -1,6 +1,6 @@
 ## Hidden
 
-**Cause:** When you [[ch1_Success|successfully]] use the Hide skill action, you gain the \[Hidden\] condition.
+**Cause:** When you [[ch01_27_Success|successfully]] use the Hide skill action, you gain the \[Hidden\] condition.
 
 **Effect:** You are \[Undetected\] and have \[[[ch2_Condition_Concealment_Total|Concealment, Total]]\].
 

@@ -1,6 +1,6 @@
 ## Difficulty Level
 
-Each Difficulty Level (DL) includes a name and a number in parenthesis. When you use a skill action, you [[ch1_Making_a_Roll|roll]] a d20 and add the appropriate [[ch1_Ability Scores|ability score]]. Then you compare the result to the DL to determine success or failure. 
+Each Difficulty Level (DL) includes a name and a number in parenthesis. When you use a skill action, you roll a d20 and add the appropriate ability score. Then you compare the result to the DL to determine success or failure. 
 
 For example, Easy (6) means the action is easy to do and requires you to roll against a 6. If the result is a 6 or higher, your character succeeds.
 
@@ -15,4 +15,4 @@ There are six Difficulty Levels in this game: Automatic (2), Easy (6), Moderate 
 | Massive                 | Severe (18)      |
 | Monumental              | Extreme (22)     |
 
-Before you roll, adjust the DL by applying relevant [[ch1_Conditions|conditions]], [[ch1_Qualities|qualities]], and enhancements. 
+Before you roll, adjust the DL by applying relevant conditions, qualities, and enhancements. 

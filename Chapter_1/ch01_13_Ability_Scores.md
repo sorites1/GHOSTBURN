@@ -1,6 +1,6 @@
 ### Ability Scores
 
-Each character has a number, called an ability score, associated with each of their [[ch1_Abilities|abilities]], as shown below.
+Each character has a number, called an ability score, associated with each of their abilities as shown below.
 
 | Ability Score | Ability Level | Description                                |
 |:-------------:|:--------------|:-------------------------------------------|

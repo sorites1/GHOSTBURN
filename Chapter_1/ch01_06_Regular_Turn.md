@@ -1,6 +1,6 @@
 ### Regular Turn
 
-A regular [[ch1_Turns|turn]] typically involves narration and may include the use of a few skill actions. You might describe your character doing something dangerous like sneaking into an abandoned warehouse. 
+A regular turn typically involves narration and may include the use of a few skill actions. You might describe your character doing something dangerous like sneaking into an abandoned warehouse. 
 
 During your turn, the GM may call for up to three rolls, such as a Climb / Jump roll to hop the fence, a Move Silently roll to avoid notice, and a Street Hack roll to open the lock. 
 

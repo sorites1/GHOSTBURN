@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "117f11ed922ee081",
+        "id": "573ede7c8b7cca2e",
         "type": "tabs",
         "children": [
           {
-            "id": "1b041e6426191ae4",
+            "id": "f9c436e96dfcba80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter_2/ch2_Condition_Muted.md",
+                "file": "Chapter_1/ch01_10_When_to_Roll.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ch2_Condition_Muted"
-            }
-          },
-          {
-            "id": "127e077b79bc6cc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter_2/00_Main_ch2_GHOSTBURN_2325.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00_Main_ch2_GHOSTBURN_2325"
-            }
-          },
-          {
-            "id": "acbdf26074d4208a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Main_Full_GHOSTBURN_2325.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00_Main_Full_GHOSTBURN_2325"
-            }
-          },
-          {
-            "id": "82fa90b17ff3203e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter_1_PDF/GHOSTBURN 2325 SAMPLE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GHOSTBURN 2325 SAMPLE"
-            }
-          },
-          {
-            "id": "6e7a54d832696026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter_1_PDF/GHOSTBURN 2325 SAMPLE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GHOSTBURN 2325 SAMPLE"
+              "title": "ch01_10_When_to_Roll"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grumpy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,49 +166,50 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6e7a54d832696026",
+  "active": "f9c436e96dfcba80",
   "lastOpenFiles": [
+    "Chapter_1/test.py",
+    "Chapter_1/ch01.typ",
+    "Chapter_1/ch01_09.1_Turn_Etiquette.md",
+    "Chapter_1/ch01_03_Turn_Order.md",
+    "Chapter_1/ch01_04_Your_Turn.md",
+    "Chapter_1/ch01_05_Types_of_Turns.md",
+    "Chapter_1/ch01_06_Regular_Turn.md",
+    "Chapter_1/ch01_07_Combat_Turn.md",
+    "Chapter_1/ch01_08_Group Turns.md",
+    "Chapter_1/ch01_02_Round_Robin_Flow.md",
+    "Chapter_1/ch01_01_Core_Document.md",
+    "Chapter_1/ch01_10_When_to_Roll.md",
+    "Chapter_1/ch01_09_GM_Turn.md",
+    "Chapter_1/ch01_32_Stress_and_Choice_Chart.md",
+    "Chapter_1/ch01_31_Stress_and_Choice.md",
+    "Chapter_1/ch01_30_Critical_Failure.md",
+    "Chapter_1/ch01_29_Failure.md",
+    "Chapter_1/ch01_28_Critical_Success.md",
+    "Chapter_1/ch01_27_Success.md",
+    "Chapter_1/ch01_26.3_Outcome_Upgraded.md",
+    "Chapter_1/ch01_26.2_Outcome_Downgraded.md",
+    "Chapter_1/ch01_26.1_Outcome_Chart.md",
+    "Chapter_1/ch01_26_Outcomes.md",
+    "Chapter_1/ch01_25_Exceeding_Extreme_22.md",
+    "Chapter_1/ch01_24_Adjusting_Difficulty_Level_Example.md",
+    "Chapter_1/ch01_23_Enhancements.md",
+    "Chapter_1/ch01_22_Attitude.md",
+    "Chapter_1/md_to_typst.py",
     "assets/cyberpunk_blue_background.png",
     "assets/cyberpunk_blue_background.png.crdownload",
-    "Chapter_1_PDF/ch1_p2_PDF.md",
-    "Chapter_1_PDF/GHOSTBURN 2325 SAMPLE.md",
-    "Chapter_1/00_Main_ch1_GHOSTBURN_2325.md",
-    "00_Main_Full_GHOSTBURN_2325.md",
     "Chapter_1_PDF",
     "assets/cyberpunk_page_border_FINAL.png",
-    "Chapter_1/ch1_Round_Robin_Turn_Order.md",
     "assets/cyberpunk_page_border.jpg.~tmp",
     "assets/cyberpunk_page_border.jpg",
     "assets/cyberpunk_page_border.png",
     "assets/cypberpunk_page_border.png",
     "assets",
-    "Chapter_2/00_Main_ch2_GHOSTBURN_2325.md",
-    "Chapter_2/ch2_Condition_Wounded.md",
-    "Chapter_2/ch2_Condition_Vision_Impairment.md",
-    "Chapter_2/ch2_Condition_Healthy.md",
-    "Chapter_2/ch2_Condition_Muted.md",
-    "Chapter_3/ch3_Health_Conditions_Chart.md",
     "00_Main_Full_GHOSTBURN_2325_SAMPLE_EXPORT_FROM_OBSIDIAN_20250627.pdf",
-    "Chapter_2/ch2_Condition_Disfigured_Minor.md",
-    "Chapter_2/ch2_Condition_Bleeding.md",
-    "Chapter_1/ch1_Outcome_Chart.md",
-    "Chapter_1/ch1_Attitude.md",
-    "Chapter_1/ch1_Abilities.md",
-    "Chapter_2/ch2_Condition_Bewildered.md",
-    "Chapter_1/ch1_Enhancements.md",
-    "GHOSTBURN 2325 IMPORT - working copy.md",
-    "GHOSTBURN 2325 IMPORT - original.md",
-    "Chapter_2/ch2_Conditions.md",
-    "Chapter_2/ch2_Condition_Unresponsive.md",
-    "Chapter_2/ch2_Condition_Undetected.md",
-    "Chapter_2/ch2_Condition_Unconscious.md",
-    "Chapter_2/ch2_Condition_Unaware.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Chapter_2",
     "Chapter_3",
-    "Turns",
-    "Chapter_1",
-    "Core Rules"
+    "Turns"
   ]
 }

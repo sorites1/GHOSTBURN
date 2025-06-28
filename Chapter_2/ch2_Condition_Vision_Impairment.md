@@ -2,6 +2,6 @@
 
 **Cause:** When you have difficulty seeing due to a condition or injury, you have \[Vision Impairment\].
 
-**Effect:** Skill actions with the \[Visual\] have their [[ch1_Adjusting_Difficulty_Level|DL raised]] by one. 
+**Effect:** Skill actions with the \[Visual\] have their [[ch01_19_Adjusting_Difficulty_Level|DL raised]] by one. 
 
 **Removal:** When the condition that caused \[Vision Impairment\] is removed, you lose the \[Vision Impairment\] condition. If you gained \[Vision Impairment\] as the result of an injury, receiving Surgery or Cybernetic Installation, as described in the Recovery entry of the injury description. causes you to lose \[Vision Impairment\]. In rare cases, this condition is permanent.
