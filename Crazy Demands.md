@@ -1,0 +1,1 @@
+The Dark One's demands are often nonsensical to humans. "We got the deal, but that crazy AI made us go out and catch strays down in shanty town. Can you believe that!? Said it would know if we just bought them. Made us drop off the pack at an address downtown. We had to pay off a bunch of bellhops just to get in the building."

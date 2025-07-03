@@ -1,4 +1,4 @@
-# Round Robin: The Flow of the Game
+# Chapter 1: The Flow of the Game
 
 This game uses a round robin turn-taking style for all scenes and actions, including those in combat and out of combat. In fact, in terms of player facetime with the GM, *this game makes no distinction between combat and non-combat turns*.
 

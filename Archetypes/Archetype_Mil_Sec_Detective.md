@@ -1,0 +1,3 @@
+## Mil-Sec Detective
+
+You were a member of a Mil-Sec investigative unit, a detective charged with solving cases that threatened the company's bottom line. You worked crimes like fraud, infidelity, identity theft, sabotage, and murder, not necessarily to bring the culprit to justice, but to dig into the details, to determine who knew what and when, and then report back up the chain to your superiors who take over once you've sussed out the truth.

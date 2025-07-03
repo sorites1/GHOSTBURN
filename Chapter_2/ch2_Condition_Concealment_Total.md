@@ -1,7 +1,0 @@
-## Concealment, Total
-
-**Cause:** Your entire body, including your gear, are totally concealed and cannot be seen by an observer. It is possible to have \[Concealment, Total\] to one observer and not another.
-
-**Effect:** Attacks made against you by an observer to whom you have \[Concealment, Total\] have their [[ch01_19_Adjusting_Difficulty_Level|DL raised]] by one. If the attacker's d20 roll (excluding ability score) is **odd** (1, 3, 5, 7, 9, 11, 13, 15, 17, or 19) then the attacker's [[ch01_26_Outcomes|outcome]] is [[ch01_26.2_Outcome_Downgraded|downgraded]]. Attempts made by the observer to locate you through sight alone automatically fail.
-
-**Removal:** When you become fully visible to an observer or switch to having \[[[ch2_Condition_Concealment_Partial|Concealment, Partial]]\] to them, you no longer have \[Concealment, Total\] to them.
