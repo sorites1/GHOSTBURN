@@ -14,7 +14,7 @@ If you purchase Streat Ganger as a Background during character creation, you get
 * **Soldier:***
 	* Trained in Firearms
 	* Firearms (Single Shot) +1 bonus
-	* Choose one: Deception, Stealth, or Driving; you are Trained in your chosen skill
+	* Choose one: (Deception, Stealth, or Driving); you are Trained in your chosen skill
 
 * **Lifestyle:** You start the game with 1 month Street Lifestyle paid
 
