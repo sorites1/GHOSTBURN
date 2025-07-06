@@ -9,8 +9,10 @@ If you purchase Quantum Analyst as a Background during character creation, you g
 
 * **Flux:**
 	* You gain 1 Psi point
-	* Choose one: Psychic Sense, Telepathy, or Telekinesis; you are Trained in your chosen skill
+	* Choose one: (Psychic Sense, Telepathy, or Telekinesis); you are Trained in your chosen skill
 	* Choose one skill action in your chosen skill and gain a +1 bonus to it
+
+* **Inventor**
 	* Trained in Tech
 
 * **Lifestyle:** You start the game with 1 month Low Lifestyle paid

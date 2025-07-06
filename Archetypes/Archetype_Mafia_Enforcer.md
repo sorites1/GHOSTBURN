@@ -9,9 +9,9 @@ If you purchase Mafia Enforcer as a Background during character creation, you ge
 
 * **Free Contact:** 
 	* Choose one: (Ex Con, Underground Brawler, Mil-Sec Detective) 
-	* You gain the selected contact. This is someone you know from the life, probably someone who was one of your regular stops. 
+	* You gain the selected contact. This is someone you know from the life, possibly one of your regular stops. 
 
-* **Soldier:**
+* **Thug:**
 	* Trained in Influence
 	* Influence (Intimidate Person) +1 bonus
 	* Trained in Melee Combat
@@ -26,7 +26,7 @@ If you select Mafia Enforcer  as a contact, they are able to assist with:
 
 * **Knowledge:** Mafia (organization structure, criminal rackets, other activities)
 
-* **Resources:** access to the family's debt ledger which shows the name of each person who owes, how much, the reason, and the current vig (interest rate)
+* **Resources:** Access to the family's debt ledger which shows the name of each person who owes, how much, the reason, and the current vig (interest rate)
 
 * **Quid Pro Quo:** The Mafia Enforcer charges a minimum of 1,000 cred just to have a sit down with a ghost 
 
