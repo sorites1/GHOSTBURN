@@ -2,39 +2,46 @@
 
 **Keywords:** \[Uncommon\], \[Underground\], \[Street\]
 
-The Vice Merchant sells what people want. Drugs and prostitution are time-tested offerings with an endless supply of customers, but most Vice Merchants specialize by catering to certain types of customers who want specific things. Some Vice Merchants even build their own brand identity to represent themselves and what they provide, though they tend to advertise on the street rather than the Net. 
-### Background (2 points)
+The Vice Merchant sells what people want. Drugs, sex, and *opies* (OPE's, or Other Peoples' Experiences) in all different flavors, grades, and purities. The Ridgeworld sprawl offers an endless supply of customers, so most Vice Merchants specialize to stand out. By catering to certain types of customers who want certain kinds of things, the Vice Merchant can make a name for themselves on the street. Some even build their own brand identity to represent themselves and what they provide, though the real survivors tend to stick to the shadows. 
+### Background Archetype
 
-If you purchase Vice Merchant as a Background during character creation, you get: 
+If you select Vice Merchant as a **Background Archetype**, you gain the following benefits: 
 
-* **Free Contact:** 
-	* Choose one: (Chem Pharmer, Street Doc, or Mil-Sec Detective) 
-	* You gain the selected contact. Nearly all relationships the Vice Merchant has are of a business nature.  
+**Ability Score Boost:**
+* Choose one: (**Strength** or **Presence**)
+* Increase the selected ability score by 1.
 
-* **Manipulator:***
-	* Trained in Influence
-	* Influence (Intimidate Person) +1 bonus
+**Skill Training:**
+	* Choose one: (**Melee Combat** or **Influence**)
+	* You are Trained in the selected skill
 
-* **Lifestyle:** You start the game with 3 months Low Lifestyle paid
+**Skill Action Bonus:**
+	* If you selected Melee Combat, you gain a +1 bonus to **Punch / Kick**
+	* If you selected Influence, you gain a +1 bonus to **Persuade**
 
-* **Resources:** Add 5,000 cred to your starting money
-### Contact
+**Contact Archetype:** 
+	* Choose one: (**Chem Pharmer**, **Street Doc**, or **Mil-Sec Detective**) 
+	* You gain the selected Contact Archetype for free
 
-If you select Vice Merchant as a contact, they are able to assist with: 
+### Contact Archetype
 
-* **Knowledge:*** Drugs, prostitution, street-level rumors, local gangs, mil-sec patrols, jail and prison
+If you select Vice Merchant as a **Contact Archetype**, they are able to assist with: 
 
-* **Resources:*** Medicine, safe house
+* **Knowledge:** Drugs, prostitution, opies, problematic clients, street-level rumors, local gangs, mil-sec patrols, jail and prison
 
-* **Quid Pro Quo:*** 500 cred per favor
+* **Resources:** Medicine (drugs), Doc-in-a-Box, safe house
+
+* **Quid Pro Quo:** 500 cred per favor
+
+----
 
 ![[vice_merchant_300x300.png]]
-### NPC Vice Merchant
+### NPC Archetype: Vice Merchant
 
-* **Aspects:** \[Business-Minded\], \[Unforgiving\], \[Cunning\]
+* **Aspects:** \[Business-Minded\], \[Unforgiving\], \[Cunning\], \[Runs a Territory\]
 * **Threat:** +1
 * **Attitude:** Friendly
-* **Wits:*** Hard (14)
+* **Wits:** Hard (14)
 * **Fortitude:** Hard (14)
 * **Skill Actions:** Deception (Bluff), Insight (Detect Lies), Firearms (Single Shot)
-* **Gear:** Pistol, armored vest (No drugs - the Vice Merchant does not carry drugs)
+* **Gear:** Pistol, armored vest (*does not carry product on their person*)

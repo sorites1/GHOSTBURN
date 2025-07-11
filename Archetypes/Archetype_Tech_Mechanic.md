@@ -2,8 +2,26 @@
 
 **Keywords:** \[Common\], \[Professional\]
 
-The Tech Mechanic knows how to maintain vehicles, robotics, and drones. They can run diagnostics, make repairs, and install upgrades on advanced machines. The Tech Mechanic might work at a state-of-the-art facility, spotless and pristine, or a more traditional tech garage. Most Tech Mechanics enjoy the simple things in life: fast cars, loud engines, and on occasion, big guns.  
-### Background (2 points)
+The Tech Mechanic knows vehicles, robots, and drones. With the right tools and equipment, they can run diagnostics, make repairs, and install upgrades on these advanced machines. The Tech Mechanic might work at a state-of-the-art facility, like those owned by megacorps, but most work in traditional, oily tech garages, as can be found on any streetcorner in the sprawl. Most Tech Mechanics enjoy the simple things in life: fast cars, loud engines, and on occasion, big guns.  
+### Background Archetype
+
+If you select Tech Mechanic as a **Background Archetype**, you gain the following benefits: 
+
+**Ability Score Boost:**
+* Choose one: (**Intelligence** or **Agility**)
+* Increase the selected ability score by 1.
+
+**Skill Training:**
+	* Choose one: (**Medicine** or **Drive**)
+	* You are Trained in the selected skill
+
+**Skill Action Bonus:**
+	* If you selected Medicine, you gain a +1 bonus to **First Aid**
+	* If you selected Drive, you gain a +1 bonus to **Precision Driving**
+
+**Contact Archetype:** 
+	* Choose one: (**Surgical Resident**, **Mil-Sec Patroller**, or **Organ Harvester**) 
+	* You gain the selected Contact Archetype for free
 
 If you purchase Tech Mechanic as a Background during character creation, you get: 
 

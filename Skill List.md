@@ -47,7 +47,7 @@
 
 - Computer
     
-- Culture (Keep here, clarify it's knowledge _about_ cultures)
+- Medicine
     
 - **NEW: Tech**
     
@@ -72,4 +72,6 @@
 
 **Awareness (Revised)**
 
-- Perception (Now purely mundane senses: Search, Listen, Alertness, Scrutinize)
+- Perception (Search, Listen, Alertness, Scrutinize)
+  
+- Culture (Street, Megacorps, Organized Crime, Gangs, Politicorps, Mil-Sec)

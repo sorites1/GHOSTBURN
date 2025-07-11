@@ -2,35 +2,45 @@
 
 **Keywords:** \[Common\]
 
-The wageslave is a low-level worker, a cog in the machine, destined to spend their life working a job they hate, earning barely enough to survive, and consuming as much as they can before they die. Most wageslaves work menial, retail jobs, like those found in coffee shops, fast food restaurants, and general goods stores, but some work entry-level positions in other industries, such as data entry analyst, administrative assistant, or front desk staff.
-### Background (1 point)
+The Wageslave is a low-level worker, a cog in the machine, trapped in a job they hate, earning barely enough to survive, and consuming what little comforts  they can, before they die. Most Wageslaves work menial, retail jobs, like those found in coffee shops, fast food restaurants, and general goods stores, but some work entry-level positions in other industries, such as data entry analyst, administrative assistant, or front desk staff. Some Wageslaves dream of another life, but most barely have enough time to catch their breath.
+### Background Archetype
 
-If you purchase Wageslave as a Background during character creation, you get: 
+If you select Wageslave as a **Background Archetype**, you gain the following benefits: 
 
-* **Free Contact:** 
-	* Choose one: (Trauma Medic, Street Rat, or Corporate Lawyer) 
-	* You gain the selected contact. This is someone you encountered regularly while at work. They might have been a customer, or just a frequent passer by, but you became friends.  
+**Ability Score Boost:**
+* Choose one: (**Intellect** or **Presence**)
+* Increase the selected ability score by 1.
 
-* **Lifestyle:** You start the game with 1 month Low Lifestyle paid
+**Skill Training:**
+	* Choose one: (**Culture** or **Deception**)
+	* You are Trained in the selected skill
 
-* **Resources:** Add 1,000 cred to your starting money
-### Contact
+**Skill Action Bonus:**
+	* If you selected Culture, you gain a +1 bonus to **Corporate**
+	* If you selected Deception, you gain a +1 bonus to **Bluff**
 
-If you select Wageslave as a contact, they are able to assist with: 
+**Contact Archetype:** 
+	* Choose one: (**Trauma Medic**, **Street Rat**, or **Corporate Lawyer**) 
+	* You gain the selected Contact Archetype for free
+### Contact Archetype
 
-* **Knowledge:*** Low-paying jobs, retail operations, mass transit system
+If you select Wageslave as a **Contact Archetype**, they are able to assist with: 
 
-* **Resources:*** a couch to sleep on
+* **Knowledge:** Low-paying jobs, retail operations, mass transit system
 
-* **Quid Pro Quo:*** Not much, maybe a Cup-O-Kaffe
+* **Resources:** Couch to sleep on
+
+* **Quid Pro Quo:** Not much, maybe a Cup-O-Kaffe or a hot Chorky on a bun
+
+----
 
 ![[wage_slave_300x300.png]]
-### NPC Wageslave
+### NPC Archetype: Wageslave
 
 * **Aspects:** \[Needs Money\], \[Tired\], \[Cynical\]
 * **Threat:** +0
 * **Attitude:** Neutral
-* **Wits:*** Easy (6)
+* **Wits:** Easy (6)
 * **Fortitude:** Easy (6)
 * **Skill Actions:** Deception (Bluff), Culture (Corporate)
 * **Gear:** Metro pass

@@ -2,36 +2,45 @@
 
 **Keywords:** \[Common\], \[Professional\], \[Street\]
 
-The Trauma Medic is usually one of the first responders to arrive at the scene of a firefight or disaster resulting in human injury. The more time a Trauma Medic spends on the streets, the more bloodshed and death they see. Many Trauma Medics wash out after a few years because even after saving countless lives, it is the eyes of the dead that haunt them.  
-### Background (2 points)
+The Trauma Medic is one of the first to arrive at the scene of a firefight, collision, or disaster. Ostensibly employed by one of the healthcare megacorps, the  Trauma Medic spends their time on the streets, riding in a *red+bus*, a (lightly armored) emergency response vehicle designed to transport the injured and wounded. The longer they dedicate themselves to their work, the more bloodshed and death they see, and it's not uncommon for a Trauma Medic to wash out after a year or two. The ones who stay on the job become hardened so they can remain effective. 
+### Background Archetype
 
-If you purchase Trauma Medic as a Background during character creation, you get: 
+If you select Trauma Medic as a **Background Archetype**, you gain the following benefits: 
 
-* **Medic:**
-	* Trained in Medicine
-	* Medicine (First Aid) +1 bonus
-	* Choose one more Medicine skill action and gain a +1 bonus to it
+**Ability Score Boost:**
+* Choose one: (**Intelligence** or **Agility**)
+* Increase the selected ability score by 1.
 
-* **Lifestyle:** You start the game with 3 months Low Lifestyle paid
+**Skill Training:**
+	* Choose one: (**Medicine** or **Drive**)
+	* You are Trained in the selected skill
 
-* **Resources:** Add 3,000 cred to your starting money
-### Contact
+**Skill Action Bonus:**
+	* If you selected Medicine, you gain a +1 bonus to **First Aid**
+	* If you selected Drive, you gain a +1 bonus to **Precision Driving**
 
-If you select Trauma Medic as a contact, they are able to assist with: 
+**Contact Archetype:** 
+	* Choose one: (**Surgical Resident**, **Mil-Sec Patroller**, or **Organ Harvester**) 
+	* You gain the selected Contact Archetype for free
+### Contact Archetype
 
-* **Knowledge:*** Medicine, hospitals, street docs, basic info on gangs
+If you select Trauma Medic as a **Contact Archetype**, they are able to assist with: 
 
-* **Resources:*** Medicine (drugs), medical attention, forensic examination, access to medical records
+* **Knowledge:** Medicine, hospitals, street docs, basic info on gangs
 
-* **Quid Pro Quo:*** Will usually ask you to help someone they know who is in need
+* **Resources:** Medicine (drugs), medical attention, forensic examination, access to medical records
+
+* **Quid Pro Quo:** Will usually ask you to help someone they know who is in need
+
+----
 
 ![[trauma_medic_300x300.png]]
-### NPC Trauma Medic
+### NPC Archetype: Trauma Medic
 
 * **Aspects:** \[Worn Out\], \[Do-Gooder\]
 * **Threat:** +0
-* **Attitude:** Neutral
-* **Wits:*** Hard (14)
+* **Attitude:** Friendly
+* **Wits:** Hard (14)
 * **Fortitude:** Moderate (10)
 * **Skill Actions:** Medicine (Medical Exam), Medicine (Forensic Exam), Medicine (First Aid), Medicine (Extended Care)
 * **Gear:** Medicine (drugs), Doc-in-a-Box, armored vest

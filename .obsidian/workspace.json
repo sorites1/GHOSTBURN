@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archetypes/Archetype_Yakuza_Soldier.md",
+                "file": "Skill List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Archetype_Yakuza_Soldier"
+              "title": "Skill List"
             }
           }
         ],
@@ -197,6 +197,17 @@
   },
   "active": "b8e62b7f3f1e113b",
   "lastOpenFiles": [
+    "Skill_Tech.md",
+    "Skill List.md",
+    "Archetypes/Archetype_Wageslave.md",
+    "Archetypes/Archetype_Yakuza_Soldier.md",
+    "Archetypes/Archetype_Tech_Mechanic.md",
+    "Archetypes/Archetype_Trauma_Medic.md",
+    "Archetypes/Archetype_Underground_Brawler.md",
+    "Archetypes/Archetype_Vice_Merchant.md",
+    "Archetypes/Archetype_Volatility_Trader.md",
+    "Archetypes/Archetype_Screen_Queen.md",
+    "Archetypes/Archetype_Street_Doc.md",
     "Character_Creation.md",
     "Zarchived_Instantiation_Points.md",
     "Archetypes/Archetype_Synthetic_Person.md",
@@ -208,10 +219,7 @@
     "assets/ex_con_300x300.png.~tmp",
     "assets/ex_con_300x300.png",
     "Archetypes/Archetype_Quantum_Analyst.md",
-    "Archetypes/Archetype_Screen_Queen.md",
-    "Archetypes/Archetype_Street_Doc.md",
     "Archetypes/Archetype_Street_Ganger.md",
-    "Archetypes/Archetype_Yakuza_Soldier.md",
     "Archetypes/Archetype_Driver.md",
     "Archetypes/Archetype_Mafia_Enforcer.md",
     "Archetypes/Archetype_Experimental_Error.md",
@@ -219,18 +227,10 @@
     "assets/experimental_error_300x300.png.~tmp",
     "assets/experimental_error_300x300.png",
     "Archetypes/Archetype_Clinic_Juicer.md",
-    "Archetypes/Archetype_Food_Cart_Vendor.md",
-    "Archetypes/Archetype_Factory_Worker.md",
     "assets/food_cart_vendor_300x280.png.~tmp",
     "assets/food_cart_vendor_300x280.png",
-    "Archetypes/Archetype_Gene_Splicer.md",
-    "Archetypes/Archetype_Gun_Tech.md",
     "assets/gene_splicer_300x290.png.~tmp",
     "assets/gene_splicer_300x290.png",
-    "Archetypes/Archetype_Wageslave.md",
-    "Archetypes/Archetype_Volatility_Trader.md",
-    "Archetypes/Archetype_Vice_Merchant.md",
-    "Archetypes/Archetype_Underground_Brawler.md",
     "assets/gun_tech_300x300.png.~tmp",
     "assets/gun_tech_300x300.png",
     "assets/mafia_enforcer_300x300.png.~tmp",
