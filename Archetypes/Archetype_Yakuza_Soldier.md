@@ -3,9 +3,9 @@
 **Keywords:** \[Uncommon\], \[Underground\], \[Street\]
 
 The Yakuza Soldier belongs to the powerful, Japanese criminal organization by the same name and serves the local *oyabun*, the crime boss. The Yakuza Soldier is an efficient enforcer skilled in firearms, as well as the *katana*. Responsible for carrying out the *oyabun''s* orders, the Yakuza Solder is decorated with tattoos commemorating past kills. The Yakuza Soldier is loyal to the *oyabun* because to disobey is to accept great dishonor and certain death. 
-### Background (3 points)
+### Background
 
-If you purchase Yakuza Soldier as a Background during character creation, you get: 
+If you select Yakuza Soldier as a Background Archetype during character creation, you get: 
 
  **Free Contact:** 
 	* Choose one: (Gun Tech, Street Ganger, Underground Brawler) 

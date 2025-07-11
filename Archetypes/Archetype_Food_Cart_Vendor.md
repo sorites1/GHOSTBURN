@@ -8,7 +8,7 @@ The Food Cart Vendor makes a living selling food on the street to walkers-by. It
 If you purchase Food Cart Vendor as a Background during character creation, you get: 
 
 * **Free Contact:** 
-	* Choose one: (Politicorp Employee, Factory Worker, Wageslave) 
+	* Choose one: (Politicorp Employee, Street Rat, Wageslave) 
 	* You gain the selected contact. This is someone you know from your day-to-day grind, possibly one of your regulars. 
 
 * **Lifestyle:** You start the game with 1 month Low Lifestyle paid
