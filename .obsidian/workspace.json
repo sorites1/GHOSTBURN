@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "573ede7c8b7cca2e",
+        "id": "02c63465ba4413e7",
         "type": "tabs",
         "children": [
           {
-            "id": "32ca0a018e807ff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archetypes/Archetype_Emergency_Responder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Archetype_Emergency_Responder"
-            }
-          },
-          {
-            "id": "9036e21882364eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character_Creation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character_Creation"
-            }
-          },
-          {
-            "id": "b8e62b7f3f1e113b",
+            "id": "74eef59ea1a6368c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,6 +19,34 @@
               },
               "icon": "lucide-file",
               "title": "Skill List"
+            }
+          },
+          {
+            "id": "2e8815d97ce2e927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archetypes/Archetype_Band_Mate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Archetype_Band_Mate"
+            }
+          },
+          {
+            "id": "448fe3259662cd65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archetypes/Archetype_Surgical_Resident.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Archetype_Surgical_Resident"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grumpy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,38 +195,40 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b8e62b7f3f1e113b",
+  "active": "448fe3259662cd65",
   "lastOpenFiles": [
-    "Skill_Tech.md",
-    "Skill List.md",
-    "Archetypes/Archetype_Wageslave.md",
-    "Archetypes/Archetype_Yakuza_Soldier.md",
+    "Archetypes/Archetype_Street_Rat.md",
+    "Archetypes/Archetype_Surgical_Resident.md",
     "Archetypes/Archetype_Tech_Mechanic.md",
     "Archetypes/Archetype_Trauma_Medic.md",
     "Archetypes/Archetype_Underground_Brawler.md",
     "Archetypes/Archetype_Vice_Merchant.md",
     "Archetypes/Archetype_Volatility_Trader.md",
-    "Archetypes/Archetype_Screen_Queen.md",
-    "Archetypes/Archetype_Street_Doc.md",
-    "Character_Creation.md",
-    "Zarchived_Instantiation_Points.md",
-    "Archetypes/Archetype_Synthetic_Person.md",
-    "Archetypes/Archetype_Surgical_Resident.md",
-    "Archetypes/Archetype_Street_Rat.md",
+    "Archetypes/Archetype_Wageslave.md",
+    "Archetypes/Archetype_Yakuza_Soldier.md",
+    "Archetypes/Archetype_Quantum_Analyst.md",
+    "Archetypes/Archetype_Politicorp_Employee.md",
+    "Archetypes/Archetype_Personal_Trainer.md",
+    "Archetypes/Archetype_Organ_Harvester.md",
+    "Archetypes/Archetype_Mil_Sec_Sniper.md",
+    "Archetypes/Archetype_Mil_Sec_Patroller.md",
     "Archetypes/Archetype_Mil_Sec_Detective.md",
+    "Archetypes/Archetype_Band_Mate.md",
+    "Chapter_2/ch02_07_Condition_Cognitive_Impairment.md",
+    "Chapter_1/ch01_12_Abilities.md",
+    "Archive/Archetype_Experimental_Error.md",
+    "Skill_Tech.md",
+    "Skill List.md",
+    "GHOSTBURN 2325 IMPORT - original.md",
+    "Archive",
+    "Archive/Archetype_Synthetic_Person.md",
     "Archetypes/Archetype_Emergency_Responder.md",
-    "Archetypes/Archetype_Ex_Con.md",
+    "Psi.md",
+    "Pasted image 20250630130714.png",
     "assets/ex_con_300x300.png.~tmp",
     "assets/ex_con_300x300.png",
-    "Archetypes/Archetype_Quantum_Analyst.md",
-    "Archetypes/Archetype_Street_Ganger.md",
-    "Archetypes/Archetype_Driver.md",
-    "Archetypes/Archetype_Mafia_Enforcer.md",
-    "Archetypes/Archetype_Experimental_Error.md",
-    "Chapter_1/ch01_12_Abilities.md",
     "assets/experimental_error_300x300.png.~tmp",
     "assets/experimental_error_300x300.png",
-    "Archetypes/Archetype_Clinic_Juicer.md",
     "assets/food_cart_vendor_300x280.png.~tmp",
     "assets/food_cart_vendor_300x280.png",
     "assets/gene_splicer_300x290.png.~tmp",
@@ -241,8 +243,6 @@
     "assets/mil_sec_patroller_300x300.png",
     "assets/mil_sec_sniper_300x300.png.~tmp",
     "assets/mil_sec_sniper_300x300.png",
-    "assets/organ_harvester_300x300.png.~tmp",
-    "organ_harvester2.png",
     "Character Origins Brainstorm.canvas",
     "Untitled 1.canvas"
   ]

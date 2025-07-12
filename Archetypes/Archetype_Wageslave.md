@@ -8,7 +8,7 @@ The Wageslave is a low-level worker, a cog in the machine, trapped in a job they
 If you select Wageslave as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Intellect** or **Presence**)
+* Choose one: (**Awareness** or **Presence**)
 * Increase the selected ability score by 1.
 
 **Skill Training:**
@@ -17,7 +17,7 @@ If you select Wageslave as a **Background Archetype**, you gain the following be
 
 **Skill Action Bonus:**
 	* If you selected Culture, you gain a +1 bonus to **Corporate**
-	* If you selected Deception, you gain a +1 bonus to **Bluff**
+	* If you selected Deception, you gain a +1 bonus to **Blend In**
 
 **Contact Archetype:** 
 	* Choose one: (**Trauma Medic**, **Street Rat**, or **Corporate Lawyer**) 

@@ -12,30 +12,20 @@ If you select Tech Mechanic as a **Background Archetype**, you gain the followin
 * Increase the selected ability score by 1.
 
 **Skill Training:**
-	* Choose one: (**Medicine** or **Drive**)
+	* Choose one: (**Tech** or **Drive**)
 	* You are Trained in the selected skill
 
 **Skill Action Bonus:**
-	* If you selected Medicine, you gain a +1 bonus to **First Aid**
-	* If you selected Drive, you gain a +1 bonus to **Precision Driving**
+	* If you selected Tech, you gain a +1 bonus to **Repair Device**
+	* If you selected Drive, you gain a +1 bonus to **Evade and Escape**
 
 **Contact Archetype:** 
-	* Choose one: (**Surgical Resident**, **Mil-Sec Patroller**, or **Organ Harvester**) 
+	* Choose one: (**Driver**, **Gun Tech**, or **Mil-Sec Patroller**) 
 	* You gain the selected Contact Archetype for free
 
-If you purchase Tech Mechanic as a Background during character creation, you get: 
+### Contact Archetype
 
-* **Mechanic:**
-	* Trained in Tech
-	* Tech (Repair Machine) +1 bonus
-	* Choose one: (Driving or Firearms); you are Trained in your chosen skill
-
-* **Lifestyle:** You start the game with 1 month Medium Lifestyle paid
-
-* **Resources:** Add 5,000 cred to your starting money
-### Contact
-
-If you select Tech Mechanic as a contact, they are able to assist with: 
+If you select Tech Mechanic as a **Contact Archetype**, they are able to assist with: 
 
 * **Knowledge:*** Vehicles, robotics, drones, machine enhancements, tech terminology
 
@@ -44,7 +34,7 @@ If you select Tech Mechanic as a contact, they are able to assist with:
 * **Quid Pro Quo:*** Standard rates
 
 ![[tech_mechanic_300x300.png]]
-### NPC Tech Mechanic
+### NPC Archetype: Tech Mechanic
 
 * **Aspects:** \[Loves Tech Jargon\], \[Smart\]
 * **Threat:** +0

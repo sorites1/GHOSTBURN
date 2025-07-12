@@ -3,30 +3,38 @@
 **Keywords:** \[Uncommon\], \[Professional\]
 
 The Surgical Resident spent years in medical school, costing an obscene amount of money, but it was all worth it to be where they are today. The feeling of saving a life through precision and skill, of holding a beating heart and knowing that *you* are the balance, *you* are the pendulum that swings, and you alone make the difference between life and death. That feeling is powerful drug in its own right, and it is one that the Surgical Resident cannot resist. 
-### Background (3 points)
+### Background Archetype
 
-If you purchase Surgical Resident as a Background during character creation, you get: 
+If you select Surgical Resident as a **Background Archetype**, you gain the following benefits: 
 
-* **Surgeon:**
-	* Trained in Medicine
-	* Medicine (Surgery) +1 bonus
-	* Medicine (Cybernetic Install) +1 bonus
+**Ability Score Boost:**
+* Choose one: (**Intelligence** or **Awareness**)
+* Increase the selected ability score by 1.
 
-* **Lifestyle:** You start the game with 3 months High Lifestyle paid
+**Skill Training:**
+	* Choose one: (**Medicine** or **Perception**)
+	* You are Trained in the selected skill
 
-* **Resources:** Add 100,000 cred to your starting money
-### Contact
+**Skill Action Bonus:**
+	* If you selected Medicine, you gain a +1 bonus to **Surgery**
+	* If you selected Drive, you gain a +1 bonus to **Notice**
 
-If you select Surgical Resident as a contact, they are able to assist with: 
+**Contact Archetype:** 
+	* Choose one: (**Corporate Lawyer**, **Personal Trainer**, or **Volatility Trader**) 
+	* You gain the selected Contact Archetype for free
 
-* **Knowledge:*** Medicine, science, biology, education
+### Contact Archetype
 
-* **Resources:*** Medical services (surgery and cybernetic installation), Medicine (drugs)
+If you select Surgical Resident as a **Contact Archetype**, they are able to assist with: 
 
-* **Quid Pro Quo:*** Standard rates for medical services and drugs, plus 2,000 cred 
+* **Knowledge:** Medicine, science, biology, education
+
+* **Resources:** Medical services (surgery and cybernetic installation), Medicine (drugs)
+
+* **Quid Pro Quo:** Standard rates for medical services and drugs, plus 2,000 cred 
 
 ![[surgical_resident_300x300.png]]
-### NPC Surgical Resident
+### NPC Archetype: Surgical Resident
 
 * **Aspects:** \[God Complex\], \[A Little Greedy\]
 * **Threat:** +0

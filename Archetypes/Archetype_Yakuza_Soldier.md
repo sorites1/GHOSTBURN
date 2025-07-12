@@ -2,7 +2,7 @@
 
 **Keywords:** \[Uncommon\], \[Underground\], \[Street\]
 
-The Yakuza Soldier serves a powerful Japanese criminal organization and its local *oyabun*, or crime boss. The Yakuza Soldier is skilled in firearms, as well as the *katana*. Honor-bound to carry out the *oyabun's* orders, the Yakuza Soldier is decorated with tattoos commemorating past kills. The Yakuza Soldier knows all too well that to disobey is to accept great dishonor and likely...  death. 
+The Yakuza Soldier serves a powerful Japanese criminal organization and its local *oyabun*, or crime boss. The Yakuza Soldier is skilled in firearms, as well as the *katana*. Honor-bound to carry out the oyabun's orders, the Yakuza Soldier is decorated with tattoos commemorating past kills. The Yakuza Soldier knows all too well that to disobey is to accept great dishonor and likely...  death. 
 ### Background Archetype
 
 If you select Yakuza Soldier as a **Background Archetype**, you gain the following benefits: 

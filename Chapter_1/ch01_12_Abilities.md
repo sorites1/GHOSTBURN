@@ -6,7 +6,7 @@ Each character is composed of the following abilities:
 
 - **Agility** -- Reflects a character's quickness, reaction speed, and manual dexterity
 
-- **Intellect** -- Indicates a character's education and critical thinking
+- **Intelligence** -- Indicates a character's education and critical thinking
 
 - **Perception** -- Represents a character's senses and is the source of psionic ability
 

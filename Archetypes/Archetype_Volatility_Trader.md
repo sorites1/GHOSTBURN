@@ -2,22 +2,22 @@
 
 **Keywords:** \[Uncommon\], \[Professional\]
 
-Employed by one of the big, financial firms, the Volatility Trader makes a living by buying and selling digital assets on the Net, choosing trades specifically designed to capitalize on market volatility. For these virtual robber barons, money and wealth seem to have lost all meaning, and they act as if they have  unlocked an "infinite money glitch" in real life.
+Employed by one of the big, financial firms, the Volatility Trader makes a living by buying and selling digital assets on the Net, choosing trades specifically designed to capitalize on market volatility. For these virtual robber barons, money and wealth seem to have lost all meaning, and they act as if they have unlocked an "infinite money glitch" in real life.
 ### Background Archetype
 
 If you select Volatility Trader as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Intellect** or **Presence**)
+* Choose one: (**Awareness** or **Presence**)
 * Increase the selected ability score by 1.
 
 **Skill Training:**
-	* Choose one: (**Culture** or **Insight**)
+	* Choose one: (**Culture** or **Influence**)
 	* You are Trained in the selected skill
 
 **Skill Action Bonus:**
 	* If you selected Culture, you gain a +1 bonus to **Corporate**
-	* If you selected Insight, you gain a +1 bonus to **Discern Intent**
+	* If you selected Insight, you gain a +1 bonus to **Intimidate Person**
 
 **Contact Archetype:** 
 	* Choose one: (**Bartender**, **Corporate Lawyer**, or **Vice Merchant**) 

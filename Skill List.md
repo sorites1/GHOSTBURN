@@ -1,29 +1,123 @@
-**Revised PSI Category Example:**
 
-**PSI** (New Top-Level Ability Score/Category)
+### Skill List
 
-- **Psychic Sense** (formerly some Perception actions like Astral Sight, Psychometry)
-    
-    - _Description:_ Perceiving the world through psionic senses, touching the past, or reading auras.
-        
-    - _Skill Actions:_ Astral Sight, Psychometry, new actions for other psychic perceptions.
-        
-- **Telepathy**
-    
-    - _Description:_ Mind over mind, communication, and direct mental manipulation.
-        
-    - _Skill Actions:_ Astral Projection, Push Emotion, Mind Link, Probe Thoughts, Veil Reality, Puppet Master.
-        
-- **Telekinesis**
-    
-    - _Description:_ Mind over matter, manipulating objects and energy with thought.
-        
-    - _Skill Actions:_ Poltergeist, Pyrokinesis, Telekinetic Throw, Gravity Collapse, Levitate, Teleport.
-        
 
----
+| Ability Score    | Skill             | Skill Action                      |
+| ---------------- | ----------------- | --------------------------------- |
+| **Presence**     | **Influence**     | Persuade                          |
+|                  |                   | Improve Attitude                  |
+|                  |                   | Haggle                            |
+|                  |                   | Command                           |
+|                  |                   | Intimidate Person                 |
+|                  |                   | Intimidate Group                  |
+|                  | **Deception**     | Disguise                          |
+|                  |                   | Forgery                           |
+|                  |                   | Street Hustle                     |
+|                  |                   | Blend In                          |
+|                  |                   | Bluff                             |
+|                  |                   | Misdirect                         |
+|                  | **Perform**       | Impersonate                       |
+|                  |                   | Adopt Persona                     |
+|                  |                   | Entertain                         |
+|                  |                   | Captivate                         |
+|                  |                   | Taunt                             |
+|                  |                   | Call Attention                    |
+|                  |                   |                                   |
+| **Agility**      | **Firearms**      | Single Shot                       |
+|                  |                   | Quick Shot                        |
+|                  |                   | Dual Wield Guns                   |
+|                  |                   | Controlled Burst                  |
+|                  |                   | Sustained Fire                    |
+|                  |                   | Point Blank Shot                  |
+|                  |                   | Called Shot                       |
+|                  | **Stealth**       | Hide                              |
+|                  |                   | Move Silently                     |
+|                  |                   | Eavesdrop                         |
+|                  |                   | Shadow Target                     |
+|                  |                   | Slip Past                         |
+|                  |                   | Silent Takedown                   |
+|                  | **Driving**       | Chase                             |
+|                  |                   | Evade and Escape                  |
+|                  |                   | Pit Maneuver                      |
+|                  |                   | Sideswipe                         |
+|                  |                   | Precision Driving                 |
+|                  |                   | Vehicle Transfer                  |
+|                  |                   |                                   |
+| **Intelligence** | **Hacking**       | Penetrate Firewall                |
+|                  |                   | System Override                   |
+|                  |                   | Manipulate Data                   |
+|                  |                   | Ghost Trace                       |
+|                  |                   | Street Hack                       |
+|                  |                   | Hack Cybernetics                  |
+|                  | **Medicine**      | Medical Exam                      |
+|                  |                   | Forensic Exam                     |
+|                  |                   | First Aid                         |
+|                  |                   | Extended Care                     |
+|                  |                   | Surgery                           |
+|                  |                   | Cybernetic Installation           |
+|                  | **Tech**          | Run Diagnostics                   |
+|                  |                   | Repair Device                     |
+|                  |                   | Install Enhancement               |
+|                  |                   | Disable Device                    |
+|                  |                   | Build Prototype                   |
+|                  |                   | Pilot Drone                       |
+|                  |                   |                                   |
+| **Strength**     | **Athletics**     | Dash                              |
+|                  |                   | Dodge                             |
+|                  |                   | Swim                              |
+|                  |                   | Grapple                           |
+|                  |                   | Climb / Jump                      |
+|                  |                   | Throw / Catch                     |
+|                  | **Melee Combat**  | Punch / Kick                      |
+|                  |                   | Bonebreaker                       |
+|                  |                   | Slashing Strike                   |
+|                  |                   | Stab, Stab, Stab                  |
+|                  |                   | Fight Dirty                       |
+|                  |                   | Finishing Move                    |
+|                  | **Heavy Weapons** | Machine Gun                       |
+|                  |                   | Rocket Launcher                   |
+|                  |                   | Sonic Weapon                      |
+|                  |                   | Flamethrower                      |
+|                  |                   | Rail Gun                          |
+|                  |                   | Portable Laser                    |
+|                  |                   |                                   |
+| **Psi**          | **Telepathy**     | Invisible to the Mind             |
+|                  |                   | Push Emotion                      |
+|                  |                   | Mind Link                         |
+|                  |                   | Probe Thoughts                    |
+|                  |                   | Veil Reality                      |
+|                  |                   | Puppet Master                     |
+|                  | **Telekinesis**   | Poltergeist                       |
+|                  |                   | Pyrokinesis                       |
+|                  |                   | Telekinetic Throw                 |
+|                  |                   | Gravity Collapse                  |
+|                  |                   | Levitate                          |
+|                  |                   | Teleport                          |
+|                  | **Clairvoyance**  | Read Aura                         |
+|                  |                   | Astral Projection                 |
+|                  |                   | Danger Sense                      |
+|                  |                   | Life Sense                        |
+|                  |                   | Psychometry                       |
+|                  |                   | Far Sight                         |
+|                  |                   |                                   |
+| **Awareness**    | **Perception**    | Search                            |
+|                  |                   | Listen                            |
+|                  |                   | Alertness (gives reaction action) |
+|                  |                   | Scrutinize                        |
+|                  |                   | Notice                            |
+|                  | **Culture**       | Corporate                         |
+|                  |                   | Mil-Sec                           |
+|                  |                   | Politicorp                        |
+|                  |                   | Organized Crime                   |
+|                  |                   | Gangs                             |
+|                  |                   | Street                            |
+|                  | **Insight**       | Detect Lies                       |
+|                  |                   | Discern Intent                    |
+|                  |                   | Sense Emotions                    |
+|                  |                   | Read the Room                     |
+|                  |                   | Size Up Opponent                  |
+|                  |                   | Connect the Dots                  |
 
-### Revised Skill List Structure (Summary of Proposed Changes)
 
 **Presence**
 
@@ -43,13 +137,13 @@
 - Driving
     
 
-**Intellect**
+**Intelligence**
 
-- Computer
+- Hacking
     
 - Medicine
     
-- **NEW: Tech**
+- Tech
     
 
 **Strength**
@@ -61,17 +155,20 @@
 - Heavy Weapons
     
 
-**PSI (New Top-Level Category)**
+**Psi
 
-- **Psychic Sense** (incorporating Astral Sight, Psychometry from old Perception)
+- Psychic Sense (Astral Sight, Psychometry)
     
 - Telepathy
     
 - Telekinesis
     
 
-**Awareness (Revised)**
+**Awareness
 
 - Perception (Search, Listen, Alertness, Scrutinize)
   
 - Culture (Street, Megacorps, Organized Crime, Gangs, Politicorps, Mil-Sec)
+
+- Insight
+    

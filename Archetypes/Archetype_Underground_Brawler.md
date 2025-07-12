@@ -8,7 +8,7 @@ The Underground Brawler is a bareknuckle fighter employed by one of the organize
 If you select Underground Brawler as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Strength** or **Presence**)
+* Choose one: (**Strength** or **Awareness**)
 * Increase the selected ability score by 1.
 
 **Skill Training:**

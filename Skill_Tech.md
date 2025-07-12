@@ -1,4 +1,4 @@
-# Tech (Intellect)
+# Tech (Intelligence)
 
 The Tech skill covers drones, robots, repair, research and design
 
