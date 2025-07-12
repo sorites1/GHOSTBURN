@@ -3,25 +3,29 @@
 **Keywords:** \[Common\], \[Street\]
 
 The Street Rat was born to the street and has been forgotten ever since. Focused primarily on day-to-day survival, the Street Rat scavenges through dumpsters for food, and seeks shelter from the rain. Days are long and nights are cold for the Street Rat. 
-### Background (1 point)
+### ### Background Archetype
 
-If you purchase Streat Rat as a Background during character creation, you get: 
+If you select Surgical Resident as a **Background Archetype**, you gain the following benefits: 
 
-* **Free Contact:** 
-	* Choose one: (Food Cart Vendor, Mil-Sec Patroller, or Underground Brawler). 
-	* You gain the selected contact. This is someone you encountered on the street and with whom you have formed a kind of friendship. 
+**Ability Score Boost:**
+* Choose one: (**Agility** or **Presence**)
+* Increase the selected ability score by 1.
 
-* **Unseen:***
-	* Trained in Stealth
-	* Stealth (Hide) +1 bonus
-	* Stealth (Slip Past) +1 bonus
+**Skill Training:**
+	* Choose one: (**Stealth** or **Deception**)
+	* You are Trained in the selected skill
 
-* **Lifestyle:** You start the game with 1 month Street Lifestyle paid
+**Skill Action Bonus:**
+	* If you selected Stealth, you gain a +1 bonus to **Hide**
+	* If you selected Deception, you gain a +1 bonus to **Blend In**
 
-* **Resources:** Add 500 cred to your starting money
-### Contact
+**Contact Archetype:** 
+	* Choose one: (**Food Card Vendor**, **Mil-Sec Patroller**, or **Underground Brawler**) 
+	* You gain the selected Contact Archetype for free
 
-If you select Street Rat as a contact, they are able to assist with: 
+### Contact Archetype
+
+If you select Street Rat as a **Contact Archetype**, they are able to assist with: 
 
 * **Knowledge:*** Local gangs, Mil-Sec patrols, scrounging for food, free clinics, street-level rumors 
 

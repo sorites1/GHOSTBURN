@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archetypes/Archetype_Surgical_Resident.md",
+                "file": "Archetypes/Archetype_Street_Rat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Archetype_Surgical_Resident"
+              "title": "Archetype_Street_Rat"
             }
           }
         ],
@@ -195,17 +195,57 @@
       "markdown-importer:Open format converter": false
     }
   },
+  "floating": {
+    "id": "a054a96bdbe19077",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1c80240c6840f8ef",
+        "type": "window",
+        "children": [
+          {
+            "id": "5f110428be40afe9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "907547919186facd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Skill List.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Skill List"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 929,
+        "y": 276,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "448fe3259662cd65",
   "lastOpenFiles": [
+    "Skill List.md",
     "Archetypes/Archetype_Street_Rat.md",
     "Archetypes/Archetype_Surgical_Resident.md",
-    "Archetypes/Archetype_Tech_Mechanic.md",
-    "Archetypes/Archetype_Trauma_Medic.md",
-    "Archetypes/Archetype_Underground_Brawler.md",
-    "Archetypes/Archetype_Vice_Merchant.md",
-    "Archetypes/Archetype_Volatility_Trader.md",
-    "Archetypes/Archetype_Wageslave.md",
     "Archetypes/Archetype_Yakuza_Soldier.md",
+    "Archetypes/Archetype_Wageslave.md",
+    "Archetypes/Archetype_Volatility_Trader.md",
+    "Archetypes/Archetype_Vice_Merchant.md",
+    "Archetypes/Archetype_Underground_Brawler.md",
+    "Archetypes/Archetype_Trauma_Medic.md",
+    "Archetypes/Archetype_Tech_Mechanic.md",
     "Archetypes/Archetype_Quantum_Analyst.md",
     "Archetypes/Archetype_Politicorp_Employee.md",
     "Archetypes/Archetype_Personal_Trainer.md",
@@ -218,7 +258,6 @@
     "Chapter_1/ch01_12_Abilities.md",
     "Archive/Archetype_Experimental_Error.md",
     "Skill_Tech.md",
-    "Skill List.md",
     "GHOSTBURN 2325 IMPORT - original.md",
     "Archive",
     "Archive/Archetype_Synthetic_Person.md",
