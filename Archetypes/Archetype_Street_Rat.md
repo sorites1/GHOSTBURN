@@ -3,35 +3,37 @@
 **Keywords:** \[Common\], \[Street\]
 
 The Street Rat was born to the street and has been forgotten ever since. Focused primarily on day-to-day survival, the Street Rat scavenges through dumpsters for food, and seeks shelter from the rain. Days are long and nights are cold for the Street Rat. 
-### ### Background Archetype
+### Background Archetype
 
-If you select Surgical Resident as a **Background Archetype**, you gain the following benefits: 
+If you select Street Rat as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Agility** or **Presence**)
-* Increase the selected ability score by 1.
+* Choose one: (**Agility** or **Awareness**)
+* Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Stealth** or **Deception**)
+	* Choose one: (**Stealth** or **Perception**)
 	* You are Trained in the selected skill
 
 **Skill Action Bonus:**
 	* If you selected Stealth, you gain a +1 bonus to **Hide**
-	* If you selected Deception, you gain a +1 bonus to **Blend In**
+	* If you selected Perception, you gain a +1 bonus to **Search**
 
 **Contact Archetype:** 
-	* Choose one: (**Food Card Vendor**, **Mil-Sec Patroller**, or **Underground Brawler**) 
+	* Choose one: (**Food Card Vendor**, **Mil-Sec Patroller**, or **Body Bagger**) 
 	* You gain the selected Contact Archetype for free
 
 ### Contact Archetype
 
 If you select Street Rat as a **Contact Archetype**, they are able to assist with: 
 
-* **Knowledge:*** Local gangs, Mil-Sec patrols, scrounging for food, free clinics, street-level rumors 
+* **Knowledge:** Local gangs, Mil-Sec patrols, scrounging for food, free clinics, street-level rumors 
 
-* **Resources:*** Safe places to hide out for a while
+* **Resources:** Safe places to hide out for a while
 
-* **Quid Pro Quo:*** A meal
+* **Quid Pro Quo:** A meal
+
+----
 
 ![[street_rat_300x300.png]]
 ### NPC Street Rat
@@ -39,7 +41,7 @@ If you select Street Rat as a **Contact Archetype**, they are able to assist wit
 * **Aspects:** \[Hungry\], \[Easily Goes Unnoticed\]
 * **Threat:** +0
 * **Attitude:** Neutral
-* **Wits:*** Moderate (10)
+* **Wits:** Moderate (10)
 * **Fortitude:** Easy (6)
 * **Skill Actions:** Stealth (Hide), Stealth (Move Silently), Culture (Street), Culture (Gangs)
 * **Gear:** Nothing

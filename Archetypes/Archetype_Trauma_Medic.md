@@ -9,7 +9,7 @@ If you select Trauma Medic as a **Background Archetype**, you gain the following
 
 **Ability Score Boost:**
 * Choose one: (**Intelligence** or **Agility**)
-* Increase the selected ability score by 1.
+* Increase the selected ability score by 1
 
 **Skill Training:**
 	* Choose one: (**Medicine** or **Drive**)

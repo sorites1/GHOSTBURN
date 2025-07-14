@@ -9,7 +9,7 @@ If you select Yakuza Soldier as a **Background Archetype**, you gain the followi
 
 **Ability Score Boost:**
 * Choose one: (**Agility** or **Strength**)
-* Increase the selected ability score by 1.
+* Increase the selected ability score by 1
 
 **Skill Training:**
 	* Choose one: (**Firearms** or **Melee Combat**)

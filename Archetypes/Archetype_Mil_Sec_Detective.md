@@ -3,39 +3,45 @@
 **Keywords:** \[Uncommon\], \[Professional\], \[Street\]
 
 The Mil-Sec Detective belongs to corporate law enforcement and works in an investigative unit charged with solving crimes that threaten the company's bottom line. Mil-Sec Detectives work cases involving fraud, infidelity, identity theft, sabotage, and murder. While they are responsible for digging into the details to determine who knew what and when, only some cases are sent forward to the Corporate Justice System where the culprit faces a judge and jury. At least as often, the Mil-Sec Detective reports their findings back up the chain to their faceless superior (who works on another floor and only communicates in written form) takes over. What happens from there, the Mil-Sec Detective will likely never know.
-### Background (3 points)
+### Background Archetype
 
-If you purchase Mil-Sec Detective as a Background during character creation, you get: 
+If you select Mil-Sec Detective as a **Background Archetype**, you gain the following benefits: 
 
-* **Free Contact:** 
-	* Choose one: (Trauma Medic, Mil-Sec Patroller, or Food Cart Vendor) 
-	* You gain the selected contact. This is someone you can go to for a little extra help when you need it, someone you trust. You may have met this person on the job, or they might be an old friend.
+**Ability Score Boost:**
+* Choose one: (**Agility** or **Awareness**)
+* Increase the selected ability score by 1
 
-* **Sleuth:**
-	* Trained in Influence
-	* Influence (Persuade) +1 bonus
-	* Choose one: (Deception or Insight); you are Trained in your chosen skill
+**Skill Training:**
+	* Choose one: (**Stealth** or **Insight**)
+	* You are Trained in the selected skill
 
-* **Lifestyle:** You start the game with 3 months Medium Lifestyle paid
+**Skill Action Bonus:**
+	* If you selected Stealth, you gain a +1 bonus to **Shadow Target**
+	* If you selected Insight, you gain a +1 bonus to **Connect the Dots**
 
-* **Resources:** Add 50,000 cred to your starting money
-### Contact
+**Contact Archetype:** 
+	* Choose one: (**Bartender**, **Politicorp Handler**, **Street Ganger**) 
+	* You gain the selected Contact Archetype for free
 
-If you select Mil-Sec Detective  as a contact, they are able to assist with: 
+### Contact Archetype
+
+If you select Mil-Sec Detective as a **Contact Archetype**, they are able to assist with: 
 
 * **Knowledge:** Mil-Sec procedures, warrants, jails, prisons, information about their current or past cases
 
 * **Resources:** Access to Mil-Sec systems that track criminal history, active cases, and open warrants
 
-* **Quid Pro Quo:** The Mil-Sec Detective will pay (up to 1,0000 cred) for leads that help solve an active case 
+* **Quid Pro Quo:** The Mil-Sec Detective will pay (up to 1,000 cred) for leads that help solve an active case 
+
+----
 
 ![[mil_sec_detective_300x300.png]]
-### NPC Mil-Sec Detective
+### NPC Archetype: Mil-Sec Detective
 
 * **Aspects:** \[Observant\], \[A Good Man\], \[Thorough\]
 * **Threat:** +2
 * **Attitude:** Neutral
-* **Wits:*** Severe (18)
+* **Wits:** Severe (18)
 * **Fortitude:** Moderate (10)
 * **Skill Actions:** Perception (Scrutinize), Firearms (Single Shot)
 * **Gear:** Trench coat, armor vest, pistol, unmarked Mil-Sec car

@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archetypes/Archetype_Street_Rat.md",
+                "file": "00_Main_ch1_GHOSTBURN_2325.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Archetype_Street_Rat"
+              "title": "00_Main_ch1_GHOSTBURN_2325"
+            }
+          },
+          {
+            "id": "9e26edd768c1b951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archetypes/Archetype_Corporate_Lawyer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Archetype_Corporate_Lawyer"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"ex con\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,15 +214,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "1c80240c6840f8ef",
+        "id": "73836b929b473ce8",
         "type": "window",
         "children": [
           {
-            "id": "5f110428be40afe9",
+            "id": "3ed0cbd9b9d5fd47",
             "type": "tabs",
             "children": [
               {
-                "id": "907547919186facd",
+                "id": "48feb64dbdd01b6b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -225,8 +239,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 929,
-        "y": 276,
+        "x": 219,
+        "y": 220,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -234,35 +248,39 @@
       }
     ]
   },
-  "active": "448fe3259662cd65",
+  "active": "9e26edd768c1b951",
   "lastOpenFiles": [
+    "Archetypes/Archetype_Gun_Tech.md",
+    "Archetypes/Archetype_Body_Bagger.md",
+    "Archetypes/Archetype_Body_Guard.md",
+    "Archetypes/Archetype_Bounty_Hunter.md",
+    "Archetypes/Archetype_Celebrity.md",
+    "Archetypes/Archetype_Chem_Pharmer.md",
+    "Archetypes/Archetype_Clinic_Juicer.md",
+    "Archetypes/Archetype_Corporate_Lawyer.md",
+    "Archetypes/Archetype_Corporate_Scientist.md",
+    "Archetypes/Archetype_Data_Courier.md",
+    "Archetypes/Archetype_Driver.md",
+    "Archetypes/Archetype_Ex_Con.md",
+    "Archetypes/Archetype_Screen_Queen.md",
     "Skill List.md",
-    "Archetypes/Archetype_Street_Rat.md",
-    "Archetypes/Archetype_Surgical_Resident.md",
+    "Archetypes/Archetype_Food_Cart_Vendor.md",
     "Archetypes/Archetype_Yakuza_Soldier.md",
     "Archetypes/Archetype_Wageslave.md",
-    "Archetypes/Archetype_Volatility_Trader.md",
     "Archetypes/Archetype_Vice_Merchant.md",
     "Archetypes/Archetype_Underground_Brawler.md",
-    "Archetypes/Archetype_Trauma_Medic.md",
     "Archetypes/Archetype_Tech_Mechanic.md",
+    "Archetypes/Archetype_Trauma_Medic.md",
+    "Archetypes/Archetype_Surgical_Resident.md",
+    "Archetypes/Archetype_Street_Rat.md",
+    "Archetypes/Archetype_Street_Ganger.md",
+    "Archetypes/Archetype_Street_Doc.md",
     "Archetypes/Archetype_Quantum_Analyst.md",
-    "Archetypes/Archetype_Politicorp_Employee.md",
-    "Archetypes/Archetype_Personal_Trainer.md",
-    "Archetypes/Archetype_Organ_Harvester.md",
-    "Archetypes/Archetype_Mil_Sec_Sniper.md",
-    "Archetypes/Archetype_Mil_Sec_Patroller.md",
-    "Archetypes/Archetype_Mil_Sec_Detective.md",
-    "Archetypes/Archetype_Band_Mate.md",
-    "Chapter_2/ch02_07_Condition_Cognitive_Impairment.md",
-    "Chapter_1/ch01_12_Abilities.md",
-    "Archive/Archetype_Experimental_Error.md",
-    "Skill_Tech.md",
-    "GHOSTBURN 2325 IMPORT - original.md",
+    "Untitled",
+    "assets/politicorp_handler_300x287.png",
+    "assets/cyberpunk_handler_300x287.png.~tmp",
+    "assets/cyberpunk_handler_300x287.png",
     "Archive",
-    "Archive/Archetype_Synthetic_Person.md",
-    "Archetypes/Archetype_Emergency_Responder.md",
-    "Psi.md",
     "Pasted image 20250630130714.png",
     "assets/ex_con_300x300.png.~tmp",
     "assets/ex_con_300x300.png",
@@ -278,10 +296,6 @@
     "assets/mafia_enforcer_300x300.png",
     "assets/mil_sec_detective_300x300.png.~tmp",
     "assets/mil_sec_detective_300x300.png",
-    "assets/mil_sec_patroller_300x300.png.~tmp",
-    "assets/mil_sec_patroller_300x300.png",
-    "assets/mil_sec_sniper_300x300.png.~tmp",
-    "assets/mil_sec_sniper_300x300.png",
     "Character Origins Brainstorm.canvas",
     "Untitled 1.canvas"
   ]

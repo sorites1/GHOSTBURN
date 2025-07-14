@@ -9,7 +9,7 @@ If you select Volatility Trader as a **Background Archetype**, you gain the foll
 
 **Ability Score Boost:**
 * Choose one: (**Awareness** or **Presence**)
-* Increase the selected ability score by 1.
+* Increase the selected ability score by 1
 
 **Skill Training:**
 	* Choose one: (**Culture** or **Influence**)

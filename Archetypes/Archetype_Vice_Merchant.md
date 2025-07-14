@@ -9,7 +9,7 @@ If you select Vice Merchant as a **Background Archetype**, you gain the followin
 
 **Ability Score Boost:**
 * Choose one: (**Strength** or **Presence**)
-* Increase the selected ability score by 1.
+* Increase the selected ability score by 1
 
 **Skill Training:**
 	* Choose one: (**Melee Combat** or **Influence**)

@@ -2,22 +2,30 @@
 
 **Keywords:** \[Common\], \[Professional\], \[Street\]
 
-The Mil-Sec Patroller works for a law enforcement corporation that sells its services to neighborhoods at varying levels of coverage based on how much the residents can pay. In lieu of a law enforcement contract, individuals are left to protect their homes themselves. Coalitions of residents sometimes form into a kind of militarized neighborhood watch, but these groups tend to be unstable and dissolve without strong leadership. The Mil-Sec Patroller is often paired with a partner and issued a patrol vehicle so they can cruise through the neighborhoods to which they are assigned. The patrol vehicle also enables the Mil-Sec Patroller to quickly respond to orders issued by central command. The level of respect and quality of enforcement residents can expect is directly proportional to the amount of money spent on the contract. Wealthy neighborhoods tend to be looked after by Mil-Sec Patrollers who are higher educated, more socially aware, and better looking than those at the other end of the spectrum. In fact, the lowest level contracts are little more than an assurance locals will be harassed, robbed, and beaten by the Mil-Sec Patrollers assigned to protect them.
-### Background (3 points)
+The Mil-Sec Patroller works for a law enforcement corporation that sells its services to neighborhoods at varying levels of coverage. In lieu of a law enforcement contract, individuals are left to protect their homes themselves. Coalitions of residents sometimes form into a kind of militarized neighborhood watch, but these groups tend to be unstable and dissolve without strong leadership. The Mil-Sec Patroller is often paired with a partner and issued a patrol vehicle so they can cruise through the neighborhoods to which they are assigned. The patrol vehicle also enables the Mil-Sec Patroller to quickly respond to orders issued by central command. The level of respect and quality of enforcement residents can expect is directly proportional to the amount of money spent on the contract. Wealthy neighborhoods tend to be looked after by Mil-Sec Patrollers who are higher educated, more socially aware, and better looking than those at the other end of the spectrum. In fact, the lowest level contracts are little more than an assurance that locals will be harassed, robbed, and beaten by the Mil-Sec Patrollers assigned to protect them.
+### Background Archetype
 
-If you purchase Mil-Sec Patroller as a Background during character creation, you get: 
+If you select Mil-Sec Patroller as a **Background Archetype**, you gain the following benefits: 
 
-* **Cruiser:**
-	* Trained in Drive
-	* Drive (Chase) +1 bonus
-	* Trained in Melee Combat
+**Ability Score Boost:**
+* Choose one: (**Agility** or **Strength**)
+* Increase the selected ability score by 1
 
-* **Lifestyle:** You start the game with 3 months Medium Lifestyle paid
+**Skill Training:**
+	* Choose one: (**Drive** or **Melee Combat**)
+	* You are Trained in the selected skill
 
-* **Resources:** Add 20,000 cred to your starting money
-### Contact
+**Skill Action Bonus:**
+	* If you selected Drive, you gain a +1 bonus to **Pit Maneuver**
+	* If you selected Melee Combat, you gain a +1 bonus to **Bonebreaker**
 
-If you select Mil-Sec Patroller  as a contact, they are able to assist with: 
+**Contact Archetype:** 
+	* Choose one: (**Food Cart Vendor**, **Mil-Sec Detective**, or **Tech Mechanic**) 
+	* You gain the selected Contact Archetype for free
+
+### Contact Archetype
+
+If you select Mil-Sec Patroller as a **Contact Archetype**, they are able to assist with: 
 
 * **Knowledge:** Mil-Sec procedures, warrants, jails, prisons, information about the neighborhood they patrol
 
@@ -25,13 +33,15 @@ If you select Mil-Sec Patroller  as a contact, they are able to assist with:
 
 * **Quid Pro Quo:** The Mil-Sec Patroller has simple tastes. They like cred, guns, and tech toys. Negotiations are often friendly, but short and to the point. 
 
+----
+
 ![[mil_sec_patroller_300x300.png]]
-### NPC Mil-Sec Patroller
+### NPC Archetype: Mil-Sec Patroller
 
 * **Aspects:** \[Thuggish\], \[Corrupt\]
 * **Threat:** +3
 * **Attitude:** Neutral
-* **Wits:*** Moderate (10)
+* **Wits:** Moderate (10)
 * **Fortitude:** Hard (14)
 * **Skill Actions:** Melee (Punch / Kick), Melee (Bonebreaker), Firearms (Single Shot)
 * **Gear:** Body armor, pistol, stun gun, baton, restraints, communications gear, patrol vehicle

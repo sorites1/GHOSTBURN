@@ -9,7 +9,7 @@ If you select Surgical Resident as a **Background Archetype**, you gain the foll
 
 **Ability Score Boost:**
 * Choose one: (**Intelligence** or **Awareness**)
-* Increase the selected ability score by 1.
+* Increase the selected ability score by 1
 
 **Skill Training:**
 	* Choose one: (**Medicine** or **Perception**)
@@ -17,10 +17,10 @@ If you select Surgical Resident as a **Background Archetype**, you gain the foll
 
 **Skill Action Bonus:**
 	* If you selected Medicine, you gain a +1 bonus to **Surgery**
-	* If you selected Drive, you gain a +1 bonus to **Notice**
+	* If you selected Perception, you gain a +1 bonus to **Notice**
 
 **Contact Archetype:** 
-	* Choose one: (**Corporate Lawyer**, **Personal Trainer**, or **Volatility Trader**) 
+	* Choose one: (**Chem Pharmer**, **Corporate Lawyer**, or **Volatility Trader**) 
 	* You gain the selected Contact Archetype for free
 
 ### Contact Archetype
@@ -33,13 +33,15 @@ If you select Surgical Resident as a **Contact Archetype**, they are able to ass
 
 * **Quid Pro Quo:** Standard rates for medical services and drugs, plus 2,000 cred 
 
+---
+
 ![[surgical_resident_300x300.png]]
 ### NPC Archetype: Surgical Resident
 
 * **Aspects:** \[God Complex\], \[A Little Greedy\]
 * **Threat:** +0
 * **Attitude:** Neutral
-* **Wits:*** Severe (18)
+* **Wits:** Severe (18)
 * **Fortitude:** Moderate (10)
 * **Skill Actions:** Medicine (Surgery), Medicine (Cybernetic Install), Medicine (First Aid)
 * **Gear:** Sports car

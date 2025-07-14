@@ -9,7 +9,7 @@ If you select Tech Mechanic as a **Background Archetype**, you gain the followin
 
 **Ability Score Boost:**
 * Choose one: (**Intelligence** or **Agility**)
-* Increase the selected ability score by 1.
+* Increase the selected ability score by 1
 
 **Skill Training:**
 	* Choose one: (**Tech** or **Drive**)
@@ -27,11 +27,13 @@ If you select Tech Mechanic as a **Background Archetype**, you gain the followin
 
 If you select Tech Mechanic as a **Contact Archetype**, they are able to assist with: 
 
-* **Knowledge:*** Vehicles, robotics, drones, machine enhancements, tech terminology
+* **Knowledge:** Vehicles, robotics, drones, machine enhancements, tech terminology
 
-* **Resources:*** Can repair (vehicles and drones), can install enhancements (vehicles and drones)
+* **Resources:** Can repair (vehicles and drones), can install enhancements (vehicles and drones)
 
-* **Quid Pro Quo:*** Standard rates
+* **Quid Pro Quo:** Standard rates
+
+----
 
 ![[tech_mechanic_300x300.png]]
 ### NPC Archetype: Tech Mechanic
@@ -39,7 +41,7 @@ If you select Tech Mechanic as a **Contact Archetype**, they are able to assist 
 * **Aspects:** \[Loves Tech Jargon\], \[Smart\]
 * **Threat:** +0
 * **Attitude:** Neutral
-* **Wits:*** Hard (14)
+* **Wits:** Hard (14)
 * **Fortitude:** Hard (14)
 * **Skill Actions:** Tech (Repair Machine), Tech (Install Upgrade), Tech (Diagnostics)
 * **Gear:** Fast car, tools, diagnostic computer

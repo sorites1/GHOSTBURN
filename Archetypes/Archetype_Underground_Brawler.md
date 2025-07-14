@@ -9,7 +9,7 @@ If you select Underground Brawler as a **Background Archetype**, you gain the fo
 
 **Ability Score Boost:**
 * Choose one: (**Strength** or **Awareness**)
-* Increase the selected ability score by 1.
+* Increase the selected ability score by 1
 
 **Skill Training:**
 	* Choose one: (**Melee Combat** or **Insight**)
@@ -29,7 +29,7 @@ If you select Underground Brawler as a **Contact Archetype**, they are able to a
 
 * **Knowledge:** Underground fighting, gambling, organized crime, street docs
 
-* **Resources:*** Nothing
+* **Resources:*** Nothing, not even a bed to call their own 
 
 * **Quid Pro Quo:*** Will help you for free
 

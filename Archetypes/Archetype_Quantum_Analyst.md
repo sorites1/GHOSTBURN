@@ -3,32 +3,39 @@
 **Keywords:** \[Rare\], \[Professional\], \[Corporate\]
 
 The Quantum Analyst works for a megacorporation in the bourgeoning field of quantum monetization. Through their work in state-of-the-art facilities, the Quantum Analyst might engage in precognitive quantum prediction analysis, quantum-molecular translocation property reintegration processes. or another exciting project. Absorbed by their work, the Quantum Analyst has very little use for the outside world. Megacorp arcologies are perfectly suited for the Quantum Analyst's needs, but even megacorp operations that rely on traditional buildings make special exceptions to feed, clothe, and house these scientists in order to maximize their productivity. 
-### Background (5 points)
+### Background Archetype
 
-If you purchase Quantum Analyst as a Background during character creation, you get: 
+If you select Quantum Analyst as a **Background Archetype**, you gain the following benefits: 
 
-* **Flux:**
-	* You gain 1 Psi point
-	* Choose one: (Psychic Sense, Telepathy, or Telekinesis); you are Trained in your chosen skill
-	* Choose one skill action in your chosen skill and gain a +1 bonus to it
+**Ability Score Boost:**
+* Choose one: (**Awareness** or **Psi**)
+* Increase the selected ability score by 1
 
-* **Inventor**
-	* Trained in Tech
+**Skill Training:**
+	* Choose one: (**Perception** or **Clairvoyance**)
+	* You are Trained in the selected skill
 
-* **Lifestyle:** You start the game with 1 month Low Lifestyle paid
+**Skill Action Bonus:**
+	* If you selected Perception, you gain a +1 bonus to **Scrutinize**
+	* If you selected Clairvoyance, you gain a +1 bonus to **Read Aura**
 
-* **Resources:** Add 1,000 cred to your starting money
-### Contact (N/A)
+**Contact Archetype:** 
+	* Choose one: (**Arcology Resident**, **Corporate Scientist**, or **Data Courier**) 
+	* You gain the selected Contact Archetype for free
 
-You cannot purchase Quantum Analyst as a contact. 
+### Contact Archetype
+
+The Quantum Analyst is not available as a **Contact Archetype** due to how secluded and protected they are. 
+
+----
 
 ![[quantum_analyst_300x300.png]]
-### NPC Quantum Analyst
+### NPC Archetype: Quantum Analyst
 
 * **Aspects:** \[Scientist\], \[Brainy\], \[Socially Awkward\]
 * **Threat:** +0
 * **Attitude:** Neutral
-* **Wits:*** Extreme (22)
+* **Wits:** Extreme (22)
 * **Fortitude:** Easy (6)
 * **Skill Actions:** Perception (Scrutinize), Culture (Corporate)
 * **Gear:** Quantum tools, a lab coat, glasses
