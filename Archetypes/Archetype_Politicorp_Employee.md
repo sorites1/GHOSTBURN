@@ -41,7 +41,7 @@ If you select Politicorp Employee as a **Contact Archetype**, they are able to a
 * **Aspects:** \[Disillusioned\], \[Wants a Better Life\]
 * **Threat:** +0
 * **Attitude:** Neutral
-* **Wits:* Moderate (10)
+* **Wits:** Moderate (10)
 * **Fortitude:** Moderate (10)
 * **Skill Actions:** Culture (Politicorp), Culture (Corporate), Deception (Bluff), Influence (Persuade)
 * **Gear:** A suit, a briefcase, business papers
