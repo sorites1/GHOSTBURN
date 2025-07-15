@@ -1,3 +1,5 @@
 ## Data Courier
 
-You were one of very few data couriers operating in the city. When someone needed data smuggled or exchanged without risking its detection or leakage by exposing it to the Net, they hired you. 
+**Keywords:** \[Rare\], \[Professional\], \[Underground\]
+
+The Data Courier specializes in transporting information so dangerous or confidential that exposing it even once to the Net could cause irrevocable harm. Criminal organizations sometimes employ the Data Courier to report earnings to the higher ups, and megacorps use them to deliver ciphers, which must be further decrypted upon receipt, to the agents they've installed in their rivals' workforces. In fact, the data package, as it were, commonly consists of literal paperwork and is transported in a briefcase. For this reason, the Data Courier is sometimes referred to as a *paper pusher*. Their most important asset is their anonymity, and to be effective, they have to be able to disappear into a crowd, change their appearance, or even adopt a new personality when the situation demands it. 

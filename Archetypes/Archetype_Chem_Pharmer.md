@@ -1,3 +1,5 @@
 ## Chem Pharmer
 
-You were an advocate for radical chemistry, the idea that all of life's problems can be solved through brain-altering chemical combinations. Your brain is half-fried from self-experimentation, but the other have is crystal clean. 
+**Keywords:** \[Rare\], \[Street\]
+
+The Chem Pharmer is an advocate for radical science, the notion that rigorous testing and peer review are obstacles to the real work of scientific exploration. For the Chem Pharmer, that means developing powerful, brain-altering chemistry and testing it on themselves at home. A loose network of likeminded individuals support one another over the Net, sharing their ideas, projects and results, but these posts and comments do not rise to the level of scientific standards and are usually little more than an echo chamber. The community also suffers from survivor bias, and for every success shared on the Net, there are a dozen or more so-called radical scientists who have fried their brains by running "trials" on themselves. Yet, every once in a great while, there is a Chem Pharmer who makes a remarkable breakthrough, one that has a powerful, if unexpected, effect on their body. 

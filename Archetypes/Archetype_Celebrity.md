@@ -1,3 +1,5 @@
 ## Celebrity
 
-You were the start of the show, the most influential voice on the scene, or the lead singer of the band. You've become accustomed to being the face of the brand or the one people turn to for answers, and you might enjoy the attention. 
+**Keywords:** \[Rare\], \[Professional\]
+
+The Celebrity has fame, fans, and has achieved mainstream success. They are the star of the show, the most influential voice on the scene, or the lead singer of the band. Over time, the Celebrity has evolved from being an authentic entertainer into a recognizable, powerful brand that people rely on for multiple facets of their lives. Beyond the ideas, the artistry, music, or cinema, that propelled the Celebrity to stardom, their name and image are now synonymous with designer brands of jewelry, perfume, clothing, food, and even diapers and cleaning supplies. The money and fame suffice for a time, but when there are people (family, bodyguards, producers, agents) in your orbit all of the time, and you have a face that is so recognizable, nearly everyone knows who you are, the inner voice making a plea to hide, or even to disappear, can become deafening. 

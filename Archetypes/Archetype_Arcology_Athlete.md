@@ -1,5 +1,7 @@
 ## Arcology Athlete
 
+**Keywords:** \[Rare\], \[Corporate\]
+
 The Arcology Athlete plays for one of the pro hyperball teams in Ridgeworld, with each team representing one of the seventeen arcologies in the city. Fiercely loyal and competitive, the Arcology Athlete wears their team's colors with pride, and they know, when they step out onto the field, they are representing not only themselves, but the millions of people who call their arcology home. The Arcology Athlete is among the best and the brightest, and the strongest and fastest, that the arcology has been able to produce. As one of the few residents allowed to travel outside the arcology's walls, the Arcology Athlete is subject to close behavioral monitoring by their Politicorp Handlers.
 
 ### Background Archetype
@@ -19,7 +21,7 @@ If you select Arcology Athlete as a **Background Archetype**, you gain the follo
 	* If you selected Perform, you gain a +1 bonus to **Captivate**
 
 **Contact Archetype:** 
-	* Choose one: (**Arcology Denizen**, **Body Guard**, or **Politicorp Handler**) 
+	* Choose one: (**Arcology Denizen**, **Bodyguard**, or **Politicorp Handler**) 
 	* You gain the selected Contact Archetype for free
 
 ### Contact

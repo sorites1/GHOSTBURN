@@ -1,5 +1,7 @@
 ## Arcology Denizen
 
+**Keywords:** \[Common\], \[Corporate\]
+
 The Arcology Denizen, their siblings, parents, grandparents, and everyone they've ever known has spent their entire lives inside the walls of the arcology. Ridgeworld boasts seventeen corporate arcologies, each of which is a fully enclosed, self-sustaining ecosystem. A veritable hive of industry offers everything a citizen could want. Schools, shopping centers, law offices, restaurants, night clubs, adventure parks, and retirement facilities, everything one might expect to find in a city, is carefully curated, packaged, and delivered by the arcology's residents *to* the arcology's residents. The Arcology Denizen believes in the spirit and the power of the megacorp to which they belong, but the occasional exception dreams of what life might be like beyond, outside the arcology's walled garden. 
 ### Background Archetype
 

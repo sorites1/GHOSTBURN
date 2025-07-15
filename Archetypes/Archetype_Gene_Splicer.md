@@ -27,7 +27,7 @@ If you select Gene Splicer as a **Background Archetype**, you gain the following
 
 If you select Gene Splicer as a **Contact Archetype**, they are able to assist with: 
 
-* **Knowledge:** Biology, genetics, the brain, psionics (knows about but does not possess), Body Baggers, Clinic Juicers, the underground biomed scene
+* **Knowledge:** Biology, genetics, the brain, psionics (knows about but does not possess), Body Baggers, Chem Pharmers, the underground biomed scene
 
 * **Resources:** An underground lab outfitted with high-tech gene manipulation technology and recovery rooms (also known as holding cells) 
 
