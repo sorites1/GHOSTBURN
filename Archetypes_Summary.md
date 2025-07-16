@@ -12,7 +12,7 @@
 
 ![[Archetype_Clinic_Juicer]]
 
-![[Archetype_Corporate_Lawyer]]
+![[Archetype_Technomonger]]
 
 ![[Archetype_Data_Courier]]
 

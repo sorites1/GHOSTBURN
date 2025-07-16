@@ -12,16 +12,16 @@ If you select Wageslave as a **Background Archetype**, you gain the following be
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Culture** or **Deception**)
-	* You are Trained in the selected skill
+* Awareness: Trained in **Culture**
+* Presence: Trained in **Deception**
 
 **Skill Action Bonus:**
-	* If you selected Culture, you gain a +1 bonus to **Corporate**
-	* If you selected Deception, you gain a +1 bonus to **Blend In**
+* Awareness: Gain a +1 bonus to **Culture (Corporate)**
+* Presence: Gain a +1 bonus to **Deception (Blend In)**
 
 **Contact Archetype:** 
-	* Choose one: (**Trauma Medic**, **Street Rat**, or **Corporate Lawyer**) 
-	* You gain the selected Contact Archetype for free
+* Choose one: (**Street Rat**, **Technomonger**, or **Trauma Medic**) 
+* You gain the selected Contact Archetype for free
 ### Contact Archetype
 
 If you select Wageslave as a **Contact Archetype**, they are able to assist with: 

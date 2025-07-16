@@ -12,16 +12,16 @@ If you select Trauma Medic as a **Background Archetype**, you gain the following
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Medicine** or **Drive**)
-	* You are Trained in the selected skill
+* Intelligence: Trained in **Medicine** 
+* Agility: Trained in **Drive**
 
 **Skill Action Bonus:**
-	* If you selected Medicine, you gain a +1 bonus to **First Aid**
-	* If you selected Drive, you gain a +1 bonus to **Precision Driving**
+* Intelligence: Gain a +1 bonus to **Medicine (First Aid)**
+* Agility: Gain a +1 bonus to **Precision Driving**
 
 **Contact Archetype:** 
-	* Choose one: (**Surgical Resident**, **Mil-Sec Patroller**, or **Organ Harvester**) 
-	* You gain the selected Contact Archetype for free
+* Choose one: (**Surgical Resident**, **Mil-Sec Patroller**, or **Organ Harvester**) 
+* You gain the selected Contact Archetype for free
 ### Contact Archetype
 
 If you select Trauma Medic as a **Contact Archetype**, they are able to assist with: 

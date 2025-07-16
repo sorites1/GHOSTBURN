@@ -12,17 +12,16 @@ If you select Politicorp Handler as a **Background Archetype**, you gain the fol
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Deception** or **Insight**)
-	* You are Trained in the selected skill
+* Presence: Trained in **Deception**
+* Awareness: Trained in **Insight**
 
 **Skill Action Bonus:**
-	* If you selected Deception, you gain a +1 bonus to **Bluff**
-	* If you selected Insight, you gain a +1 bonus to **Detect Lies**
+* Presence: Gain a +1 bonus to **Deception (Bluff)**
+* Awareness: Gain a +1 bonus to **Insight (Detect Lies)**
 
 **Contact Archetype:** 
-	* Choose one: (**Mil-Sec Detective**, **Mil-Sec Sniper**, or **Street Doc**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: (**Mil-Sec Detective**, **Mil-Sec Sniper**, or **Street Doc**) 
+* You gain the selected Contact Archetype for free
 ### Contact Archetype
 
 If you select Politicorp Handler as a **Contact Archetype**, they are able to assist with: 

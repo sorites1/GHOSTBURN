@@ -12,17 +12,16 @@ If you select Tech Mechanic as a **Background Archetype**, you gain the followin
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Tech** or **Drive**)
-	* You are Trained in the selected skill
+* Intelligence: Trained in **Tech**
+* Agility: Trained in **Drive**
 
 **Skill Action Bonus:**
-	* If you selected Tech, you gain a +1 bonus to **Repair Device**
-	* If you selected Drive, you gain a +1 bonus to **Evade and Escape**
+* Intelligence: Gain a +1 bonus to **Tech (Repair Device)**
+* Agility: Gain a +1 bonus to **Drive (Evade and Escape)**
 
 **Contact Archetype:** 
-	* Choose one: (**Driver**, **Gun Tech**, or **Mil-Sec Patroller**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: (**Driver**, **Gun Tech**, or **Mil-Sec Patroller**) 
+* You gain the selected Contact Archetype for free
 ### Contact Archetype
 
 If you select Tech Mechanic as a **Contact Archetype**, they are able to assist with: 

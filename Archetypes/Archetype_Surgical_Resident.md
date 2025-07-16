@@ -12,16 +12,16 @@ If you select Surgical Resident as a **Background Archetype**, you gain the foll
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Medicine** or **Perception**)
-	* You are Trained in the selected skill
+* Intelligence: Trained in **Medicine** 
+* Awareness: Trained in **Perception**
 
 **Skill Action Bonus:**
-	* If you selected Medicine, you gain a +1 bonus to **Surgery**
-	* If you selected Perception, you gain a +1 bonus to **Notice**
+* Intelligence: Gain a +1 bonus to **Medicine (Surgery)**
+* Awareness: Gain a +1 bonus to **Perception (Notice)**
 
 **Contact Archetype:** 
-	* Choose one: (**Chem Pharmer**, **Corporate Lawyer**, or **Volatility Trader**) 
-	* You gain the selected Contact Archetype for free
+* Choose one: (**Chem Pharmer**, **Organ Harvester**, or **Volatility Trader**) 
+* You gain the selected Contact Archetype for free
 
 ### Contact Archetype
 

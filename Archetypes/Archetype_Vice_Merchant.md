@@ -12,16 +12,16 @@ If you select Vice Merchant as a **Background Archetype**, you gain the followin
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Melee Combat** or **Influence**)
-	* You are Trained in the selected skill
+* Strength: Trained in **Melee Combat** 
+* Presence: Trained in **Influence**
 
 **Skill Action Bonus:**
-	* If you selected Melee Combat, you gain a +1 bonus to **Punch / Kick**
-	* If you selected Influence, you gain a +1 bonus to **Persuade**
+* Strength: Gain a +1 bonus to **Melee (Punch / Kick)**
+* Presence: Gain a +1 bonus to **Influence (Persuade)**
 
 **Contact Archetype:** 
-	* Choose one: (**Chem Pharmer**, **Street Doc**, or **Mil-Sec Detective**) 
-	* You gain the selected Contact Archetype for free
+* Choose one: (**Chem Pharmer**, **Street Doc**, or **Mil-Sec Detective**) 
+ * You gain the selected Contact Archetype for free
 
 ### Contact Archetype
 

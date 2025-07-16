@@ -12,17 +12,16 @@ If you select Volatility Trader as a **Background Archetype**, you gain the foll
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Culture** or **Influence**)
-	* You are Trained in the selected skill
+* Awareness: Trained in **Culture** 
+* Presence: Trained in **Influence**
 
 **Skill Action Bonus:**
-	* If you selected Culture, you gain a +1 bonus to **Corporate**
-	* If you selected Insight, you gain a +1 bonus to **Intimidate Person**
+* Awareness: Gain a +1 bonus to **Culture (Corporate)**
+* Presence: Gain a +1 bonus to **Influence (Intimidate Person)**
 
 **Contact Archetype:** 
-	* Choose one: (**Bartender**, **Corporate Lawyer**, or **Vice Merchant**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: (**Bartender**, **Mafia Enforcer**, or **Vice Merchant**) 
+* You gain the selected Contact Archetype for free
 ### Contact Archetype
 
 If you select Volatility Trader as a **Contact Archetype**, they are able to assist with: 

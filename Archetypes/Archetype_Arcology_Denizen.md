@@ -20,7 +20,7 @@ If you select Arcology Denizen as a **Background Archetype**, you gain the follo
 	* If you selected Culture, you gain a +1 bonus to **Corporate**
 
 **Contact Archetype:** 
-	* Choose one: (**Arcology Athlete**, **Corporate Lawyer**, **Data Courier**) 
+	* Choose one: (**Arcology Athlete**, **Data Courier**, **Politicorp Employee**) 
 	* You gain the selected Contact Archetype for free
 
 ### Contact Archetype

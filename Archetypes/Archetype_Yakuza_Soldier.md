@@ -12,16 +12,16 @@ If you select Yakuza Soldier as a **Background Archetype**, you gain the followi
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Firearms** or **Melee Combat**)
-	* You are Trained in the selected skill
+* Agility: Trained in **Firearms**
+* Strength: Trained in **Melee Combat**
 
 **Skill Action Bonus:**
-	* If you selected Firearms, you gain a +1 bonus to **Controlled Burst**
-	* If you selected Melee Combat, you gain a +1 bonus to **Slashing Strike**
+* Agility: Gain a +1 bonus to **Firearms (Controlled Burst)**
+* Strength: Gain a +1 bonus to **Melee Combat (Slashing Strike)**
 
 **Contact Archetype:** 
-	* Choose one: (**Gun Tech**, **Street Ganger**, or **Underground Brawler**) 
-	* You gain the selected Contact Archetype for free
+* Choose one: (**Gun Tech**, **Street Ganger**, or **Underground Brawler**) 
+* You gain the selected Contact Archetype for free
 ### Contact Archetype
 
 If you select Yakuza Soldier as a **Contact Archetype**, they are able to assist with: 

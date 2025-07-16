@@ -12,17 +12,16 @@ If you select Street Ganger as a **Background Archetype**, you gain the followin
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Firearms** or **Melee Combat**)
-	* You are Trained in the selected skill
+* Agility: Trained in **Firearms**
+* Strength: Trained in **Melee Combat**
 
 **Skill Action Bonus:**
-	* If you selected Firearms, you gain a +1 bonus to **Single Shot**
-	* If you selected Melee Combat, you gain a +1 bonus to **Punch / Kick**
+* Agility: Gain a +1 bonus to **Firearms (Single Shot)**
+* Strength: Gain a +1 bonus to **Melee Combat (Punch / Kick)**
 
 **Contact Archetype:** 
-	* Choose one: (**Clinic Juicer**, **Tech Mechanic**, or **Street Rat**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: (**Street Rat**, **Tech Mechanic**, or **Vice Merchant**) 
+* You gain the selected Contact Archetype for free
 ### Contact Archetype
 
 If you select Street Ganger as a **Contact Archetype**, they are able to assist with: 

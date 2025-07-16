@@ -1,3 +1,3 @@
 ## Corporate Scientist
 
-You were part of a 
+The Corporate Scientist is part of a large team tasked with using science to develop new ways for the company to increase the bottom line. New food flavors, at-home dental relief, monofilament wire, and uranium-enriched ammunition are just a few of the innovations made possible by the Corporate Scientist. Their combined efforts yield millions of operational efficiencies and new products each year. The work is intellectually stimulating and certainly pays well, a combination that has led to a high retention rate for the megacorps. However, some become disillusioned with the corporate mission, especially when empirically beneficial breakthroughs get sidelined for "lesser" projects that are more lucrative. Management disdains attitudes like this and monitor the Corporate Scientists they supervise. Dissenting voices are swiftly silenced before their ideas have time to take hold.

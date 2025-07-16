@@ -12,17 +12,16 @@ If you select Mil-Sec Sniper as a **Background Archetype**, you gain the followi
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Firearms** or **Athletics**)
-	* You are Trained in the selected skill
+* Agility: Trained in **Firearms** 
+* Strength: Trained in **Athletics**
 
 **Skill Action Bonus:**
-	* If you selected Firearms, you gain a +1 bonus to **Called Shot**
-	* If you selected Athletics, you gain a +1 bonus to **Climb / Jump**
+* Agility: Gain a +1 bonus to **Firearms (Called Shot)**
+* Strength: Gain a +1 bonus to **Athletics (Climb / Jump)**
 
 **Contact Archetype:** 
-	* Choose one: (**Politicorp Handler**, **Gun Tech**, or **Street Rat**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: (**Politicorp Handler**, **Gun Tech**, or **Street Rat**) 
+* You gain the selected Contact Archetype for free
 ### Contact Archetype
 
 If you select Mil-Sec Sniper as a **Contact Archetype**, they are able to assist with: 

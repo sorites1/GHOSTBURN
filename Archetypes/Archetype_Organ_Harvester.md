@@ -12,17 +12,16 @@ If you select Organ Harvester as a **Background Archetype**, you gain the follow
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Medicine** or **Melee Combat**)
-	* You are Trained in the selected skill
+* Intelligence: Trained in **Medicine**
+* Strength: Trained in **Melee Combat**
 
 **Skill Action Bonus:**
-	* If you selected Medicine, you gain a +1 bonus to **Surgery**
-	* If you selected Melee Combat, you gain a +1 bonus to **Fight Dirty**
+* Intelligence: Gain a +1 bonus to **Medicine (Surgery)**
+* Strength: Gain a +1 bonus to **Melee Combat (Fight Dirty)**
 
 **Contact Archetype:** 
-	* Choose one: (**Body Bagger**, **Chem Pharmer**, or **Street Doc**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: (**Body Bagger**, **Chem Pharmer**, or **Street Doc**) 
+* You gain the selected Contact Archetype for free
 ### Contact Archetype
 
 If you select Organ Harvester as a **Contact Archetype**, they are able to assist with: 

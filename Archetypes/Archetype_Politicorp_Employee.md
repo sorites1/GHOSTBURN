@@ -12,17 +12,16 @@ If you select Politicorp Employee as a **Background Archetype**, you gain the fo
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Deception** or **Culture**)
-	* You are Trained in the selected skill
+* Presence: Trained in **Deception**
+* Awareness: Trained in **Culture**
 
 **Skill Action Bonus:**
-	* If you selected Deception, you gain a +1 bonus to **Forgery**
-	* If you selected Culture, you gain a +1 bonus to **Politicorp**
+* Presence: Gain a +1 bonus to **Deception (Forgery)**
+* Awareness: Gain a +1 bonus to **Culture (Politicorp)**
 
 **Contact Archetype:** 
-	* Choose one: (**Bartender**, **Bandmate**, or **Wageslave**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: (**Bartender**, **Bandmate**, or **Wageslave**) 
+* You gain the selected Contact Archetype for free
 ### Contact
 
 If you select Politicorp Employee as a **Contact Archetype**, they are able to assist with: 

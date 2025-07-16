@@ -12,17 +12,16 @@ If you select Screen Queen as a **Background Archetype**, you gain the following
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Perform** or **Tech**)
-	* You are Trained in the selected skill
+* Presence: Trained in **Perform** 
+* Intelligence: Trained in **Tech**
 
 **Skill Action Bonus:**
-	* If you selected Perform, you gain a +1 bonus to **Entertain**
-	* If you selected Tech, you gain a +1 bonus to **Repair Device**
+* Presence: Gain a +1 bonus to **Perform (Entertain)**
+* Intelligence: Gain a +1 bonus to **Tech (Repair Device)**
 
 **Contact Archetype:** 
-	* Choose one: (**Celebrity**, **Ex-Con**, or **Tech Mechanic**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: (**Celebrity**, **Ex-Con**, or **Tech Mechanic**) 
+* You gain the selected Contact Archetype for free
 ### Contact Archetype
 
 If you select Screen Queen as a **Contact Archetype**, they are able to assist with: 

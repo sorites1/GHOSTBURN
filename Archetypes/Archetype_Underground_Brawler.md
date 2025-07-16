@@ -12,16 +12,16 @@ If you select Underground Brawler as a **Background Archetype**, you gain the fo
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Melee Combat** or **Insight**)
-	* You are Trained in the selected skill
+* Strength: Trained in **Melee Combat** 
+* Awareness: Trained in **Insight**
 
 **Skill Action Bonus:**
-	* If you selected Melee Combat, you gain a +1 bonus to **Punch / Kick**
-	* If you selected Insight, you gain a +1 bonus to **Size Up Opponent**
+* Strength: Gain a +1 bonus to **Melee Combat (Punch / Kick)**
+* Awareness: Gain a +1 bonus to **Insight (Size Up Opponent)**
 
 **Contact Archetype:** 
-	* Choose one: (**Mafia Enforcer**, **Yakuza Soldier**, or **Street Doc**) 
-	* You gain the selected Contact Archetype for free
+* Choose one: (**Mafia Enforcer**, **Yakuza Soldier**, or **Street Doc**) 
+* You gain the selected Contact Archetype for free
 
 ### Contact Archetype
 
