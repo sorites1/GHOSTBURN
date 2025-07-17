@@ -8,21 +8,18 @@ The Mafia Enforcer belongs to the family-based crime organization that traces it
 If you select Mafia Enforcer as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Presence** or **Strength**)
-* Increase the selected ability score by 1
+* Your **Strength** is increased by 1
 
 **Skill Training:**
-	* Choose one: (**Influence** or **Melee Combat**)
-	* You are Trained in the selected skill
+* You are Trained in **Melee Combat**
+* Choose one additional skill to be Trained in: **Influence** or **Insight**
 
 **Skill Action Bonus:**
-	* If you selected Influence, you gain a +1 bonus to **Intimidate Person**
-	* If you selected Melee Combat, you gain a +1 bonus to **Bonebreaker**
+* You gain a +1 bonus to **Melee Combat (Bonebreaker)**
 
 **Contact Archetype:** 
-	* Choose one: (**Ex-Con**, **Underground Brawler**, or **Vice Merchant**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: **Ex-Con**, **Underground Brawler**, or **Vice Merchant**
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Mafia Enforcer as a **Contact Archetype**, they are able to assist with: 

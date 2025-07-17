@@ -8,20 +8,18 @@ The Quantum Analyst works for a megacorporation in the bourgeoning field of quan
 If you select Quantum Analyst as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Awareness** or **Psi**)
-* Increase the selected ability score by 1
+* Your **Psi** score is increased by 1
 
 **Skill Training:**
-* Awareness: Trained in **Perception**
-* Psi: Trained in **Clairvoyance**
+* You are Trained in **Clairvoyance**
+* Choose one additional skill to be Trained in: **Perception** or **Tech** 
 
 **Skill Action Bonus:**
-* Awareness: Gain a +1 bonus to **Perception (Scrutinize)**
-* Ps: Gain a +1 bonus to **Clairvoyance (Read Aura)**
+* You gain a +1 bonus to **Clairvoyance (Read Aura)**
 
 **Contact Archetype:** 
 * Choose one: (**Arcology Resident**, **Corporate Scientist**, or **Data Courier**) 
-* You gain the selected Contact Archetype for free
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 The Quantum Analyst is not available as a **Contact Archetype** due to how secluded and protected they are. 

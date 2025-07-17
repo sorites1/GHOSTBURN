@@ -8,20 +8,18 @@ The Mil-Sec Sniper is classified as an Advanced Rapid Response Operations Weapon
 If you select Mil-Sec Sniper as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Agility** or **Strength**)
-* Increase the selected ability score by 1
+* Your **Agility** score is increased by 1
 
 **Skill Training:**
-* Agility: Trained in **Firearms** 
-* Strength: Trained in **Athletics**
+* You are Trained in **Firearms** 
+* Choose one additional skill to be Trained in: **Athletics** or **Stealth**
 
 **Skill Action Bonus:**
-* Agility: Gain a +1 bonus to **Firearms (Called Shot)**
-* Strength: Gain a +1 bonus to **Athletics (Climb / Jump)**
+* You gain a +1 bonus to **Firearms (Called Shot)**
 
 **Contact Archetype:** 
 * Choose one: (**Politicorp Handler**, **Gun Tech**, or **Street Rat**) 
-* You gain the selected Contact Archetype for free
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Mil-Sec Sniper as a **Contact Archetype**, they are able to assist with: 

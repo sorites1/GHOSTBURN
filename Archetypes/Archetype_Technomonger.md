@@ -6,20 +6,20 @@ The Technomonger is a scavenger who collects discarded, broken devices and fixes
 If you select Technomonger as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Intelligence** or **Psi**)
+* Choose one: **Intelligence** or **Psi**
 * Increase the selected ability score by 1
 
 **Skill Training:**
-* Intelligence: Trained in **Hacking** 
-* Psi: Trained in **Clairvoyance**	
+* You are trained in **Tech**
+* If you selected Intelligence, you are Trained in **Hacking**
+* If you selected Psi, you are Trained in **Clairvoyance**
 
 **Skill Action Bonus:**
-* Intelligence: Gain a +1 bonus to **Hacking (Street Hack)**
-* Psi: Gain a +1 bonus to **Clairvoyance (Psychometry)**
+* You gain a +1 bonus to **Tech (Repair)**
 
 **Contact Archetype:** 
 * Choose one: (**Brainbox Kid**, **Data Courier**, or **Tech Mechanic**) 
-* You gain the selected Contact Archetype for free
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Technomonger as a **Contact Archetype**, they are able to assist with: 

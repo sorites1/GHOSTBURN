@@ -8,21 +8,18 @@ The Gun Tech is a trained professional responsible for the inventory, maintenanc
 If you select Gun Tech as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Intelligence** or **Agility**)
-* Increase the selected ability score by 1
+* Your **Intelligence** score is increased by 1
 
 **Skill Training:**
-	* Choose one: (**Tech** or **Firearms**)
-	* You are Trained in the selected skill
+* You are Trained in **Tech**
+* Choose one additional skill to be Trained in: **Firearms** or **Heavy Weapons**
 
 **Skill Action Bonus:**
-	* If you selected Tech, you gain a +1 bonus to **Install Enhancement**
-	* If you selected Firearms, you gain a +1 bonus to **Single Shot**
+* You gain a +1 bonus to **Tech (Install Enhancement)**
 
 **Contact Archetype:** 
-	* Choose one: (**Corporate Scientist**, **Tech Mechanic**, or **Trauma Medic**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: (**Corporate Scientist**, **Tech Mechanic**, or **Trauma Medic**) 
+* You gain the selected Contact Archetype 
 ### Contact Archetype
 
 If you select Gun Tech as a **Contact Archetype**, they are able to assist with: 

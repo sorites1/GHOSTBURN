@@ -8,21 +8,18 @@ The Vice Merchant sells what people want. Drugs, sex, and *opies* (OPE's, or Oth
 If you select Vice Merchant as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Strength** or **Presence**)
-* Increase the selected ability score by 1
+* Your **Presence** score is increased by 1
 
 **Skill Training:**
-* Strength: Trained in **Melee Combat** 
-* Presence: Trained in **Influence**
+* You are Trained in **Influence**
+* Choose one additional skill to be Trained in: **Melee Combat** or **Deception**
 
 **Skill Action Bonus:**
-* Strength: Gain a +1 bonus to **Melee (Punch / Kick)**
-* Presence: Gain a +1 bonus to **Influence (Persuade)**
+* You gain a +1 bonus to **Influence (Persuade)**
 
 **Contact Archetype:** 
-* Choose one: (**Chem Pharmer**, **Street Doc**, or **Mil-Sec Detective**) 
- * You gain the selected Contact Archetype for free
-
+* Choose one: **Chem Pharmer**, **Street Doc**, or **Mil-Sec Detective**
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Vice Merchant as a **Contact Archetype**, they are able to assist with: 

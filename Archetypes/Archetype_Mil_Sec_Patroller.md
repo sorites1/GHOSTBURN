@@ -8,20 +8,20 @@ The Mil-Sec Patroller works for a law enforcement corporation that sells its ser
 If you select Mil-Sec Patroller as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Agility** or **Strength**)
+* Choose one: **Agility** or **Strength**
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Drive** or **Melee Combat**)
-	* You are Trained in the selected skill
+* You are Trained in **Drive**
+* If you selected Agility, you are Trained in **Firearms**
+* If you selected Strength, you are Trained in **Melee Combat**
 
 **Skill Action Bonus:**
-	* If you selected Drive, you gain a +1 bonus to **Pit Maneuver**
-	* If you selected Melee Combat, you gain a +1 bonus to **Bonebreaker**
+* You gain a +1 bonus to **Drive (Pit Maneuver)**
 
 **Contact Archetype:** 
-	* Choose one: (**Food Cart Vendor**, **Mil-Sec Detective**, or **Tech Mechanic**) 
-	* You gain the selected Contact Archetype for free
+* Choose one: **Food Cart Vendor**, **Mil-Sec Detective**, or **Tech Mechanic**
+* You gain the selected Contact Archetype
 
 ### Contact Archetype
 

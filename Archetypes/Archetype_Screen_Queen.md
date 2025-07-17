@@ -8,20 +8,18 @@ The Screen Queen is addicted to becoming Net famous. Most use streaming drones, 
 If you select Screen Queen as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Presence** or **Intelligence**)
-* Increase the selected ability score by 1
+* Your **Presence** score is increased by 1
 
 **Skill Training:**
-* Presence: Trained in **Perform** 
-* Intelligence: Trained in **Tech**
+* You are Trained in **Perform** 
+* Choose one additional skill to be Trained in: **Tech** or **Influence**
 
 **Skill Action Bonus:**
-* Presence: Gain a +1 bonus to **Perform (Entertain)**
-* Intelligence: Gain a +1 bonus to **Tech (Repair Device)**
+* You gain a +1 bonus to **Perform (Entertain)**
 
 **Contact Archetype:** 
 * Choose one: (**Celebrity**, **Ex-Con**, or **Tech Mechanic**) 
-* You gain the selected Contact Archetype for free
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Screen Queen as a **Contact Archetype**, they are able to assist with: 

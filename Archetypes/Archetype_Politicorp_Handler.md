@@ -8,20 +8,18 @@ The Politicorp Handler is ostensibly employed by a politicorp, one of many polit
 If you select Politicorp Handler as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Presence** or **Awareness**)
-* Increase the selected ability score by 1
+* Your **Presence** score is increased by 1
 
 **Skill Training:**
-* Presence: Trained in **Deception**
-* Awareness: Trained in **Insight**
+* You are Trained in **Deception**
+* Choose one additional skill to be Trained in: **Insight** or **Firearms**
 
 **Skill Action Bonus:**
-* Presence: Gain a +1 bonus to **Deception (Bluff)**
-* Awareness: Gain a +1 bonus to **Insight (Detect Lies)**
+* You gain a +1 bonus to **Deception (Bluff)**
 
 **Contact Archetype:** 
 * Choose one: (**Mil-Sec Detective**, **Mil-Sec Sniper**, or **Street Doc**) 
-* You gain the selected Contact Archetype for free
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Politicorp Handler as a **Contact Archetype**, they are able to assist with: 

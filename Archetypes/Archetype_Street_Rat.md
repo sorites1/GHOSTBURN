@@ -8,20 +8,18 @@ The Street Rat was born to the street and has been forgotten ever since. Focused
 If you select Street Rat as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Agility** or **Awareness**)
-* Increase the selected ability score by 1
+* Your **Awareness** score is increased by 1
 
 **Skill Training:**
-* Agility: Trained in **Stealth**
-* Awareness: Trained in **Perception**
+* You are Trained in **Perception**
+* Choose one additional skill to be Trained in: **Stealth** or **Culture**
 
 **Skill Action Bonus:**
-* Agility: Gain a +1 bonus to **Stealth (Hide)**
-* Awareness: Gain a +1 bonus to **Perception (Search)**
+* You gain a +1 bonus to **Perception (Search)**
 
 **Contact Archetype:** 
 * Choose one: (**Food Card Vendor**, **Mil-Sec Patroller**, or **Body Bagger**) 
-* You gain the selected Contact Archetype for free
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Street Rat as a **Contact Archetype**, they are able to assist with: 

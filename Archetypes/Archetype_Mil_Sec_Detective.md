@@ -8,20 +8,18 @@ The Mil-Sec Detective belongs to corporate law enforcement and works in an inves
 If you select Mil-Sec Detective as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Agility** or **Awareness**)
-* Increase the selected ability score by 1
+* Your **Awareness** score is increased by 1
 
 **Skill Training:**
-	* Choose one: (**Stealth** or **Insight**)
-	* You are Trained in the selected skill
+* You are Trained in **Insight**
+* Choose one additional skill to be Trained in: **Stealth** or **Deception**
 
 **Skill Action Bonus:**
-	* If you selected Stealth, you gain a +1 bonus to **Shadow Target**
-	* If you selected Insight, you gain a +1 bonus to **Connect the Dots**
+* You gain a +1 bonus to **Insight (Connect the Dots)**
 
 **Contact Archetype:** 
-	* Choose one: (**Bartender**, **Politicorp Handler**, **Street Ganger**) 
-	* You gain the selected Contact Archetype for free
+* Choose one: **Bartender**, **Politicorp Handler**, **Street Ganger**
+* You gain the selected Contact Archetype
 
 ### Contact Archetype
 

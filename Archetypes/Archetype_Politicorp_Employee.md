@@ -2,26 +2,24 @@
 
 **Keywords:** \[Common\], \[Professional\], \[Corporate\]
 
-The Politicorp Employee is a bureaucrat, a government drone, with just a hint of responsibility and power. The banality of it all, the cramped, windowless office, the never-ending requests to process, and the insufferable obsequiousness displayed by most employees makes the job of the Politicorp Employee impossibly unfulfilling. Still, most took the position because they were driven to do *some* good in the world. The reality is that the Politicorp Employee's road leads to one of three destinations: 1) embracing and benefiting from corruption, 2) realizing there is no way to actually make a difference and being resigned to perpetuate the system because it pays the bills; or 3) a wholesale rejection of the system and a determination to either stop taking part or to facilitate its destruction.
+The Politicorp Employee is a professional bureaucrat with just a hint of responsibility and power. The banality of it all, the cramped, windowless office, the never-ending requests to process, and the insufferable obsequiousness displayed by most employees makes the job impossibly unfulfilling. Still, most took the position because they were driven to do *some* good in the world. The reality is that the Politicorp Employee's road leads to one of three destinations: 1) embrace the corruption and profit from it, 2) accept that nothing will change but keep doing the job because it pays the bills; or 3) reject the system and resolve to either withdraw from it completely or work to facilitate its destruction.
 ### Background Archetype
 
 If you select Politicorp Employee as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Presence** or **Awareness**)
-* Increase the selected ability score by 1
+* Your **Awareness** score is increased by 1
 
 **Skill Training:**
-* Presence: Trained in **Deception**
-* Awareness: Trained in **Culture**
+* You are Trained in **Culture**
+* Choose one additional skill to be Trained in: **Deception** or **Influence**
 
 **Skill Action Bonus:**
-* Presence: Gain a +1 bonus to **Deception (Forgery)**
-* Awareness: Gain a +1 bonus to **Culture (Politicorp)**
+* You gain a +1 bonus to **Culture (Politicorp)**
 
 **Contact Archetype:** 
 * Choose one: (**Bartender**, **Bandmate**, or **Wageslave**) 
-* You gain the selected Contact Archetype for free
+* You gain the selected Contact Archetype
 ### Contact
 
 If you select Politicorp Employee as a **Contact Archetype**, they are able to assist with: 

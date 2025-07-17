@@ -2,26 +2,24 @@
 
 **Keywords:** \[Uncommon\], \[Underground\], \[Street\]
 
-The Yakuza Soldier serves a powerful Japanese criminal organization and its local *oyabun*, or crime boss. The Yakuza Soldier is skilled in firearms, as well as the *katana*. Honor-bound to carry out the oyabun's orders, the Yakuza Soldier is decorated with tattoos commemorating past kills. The Yakuza Soldier knows all too well that to disobey is to accept great dishonor and likely...  death. 
+The Yakuza Soldier serves a powerful Japanese criminal organization and its local *oyabun*, or crime boss. The Yakuza Soldier is skilled in firearms, as well as the *katana*. Honor-bound to carry out the oyabun's orders, the Yakuza Soldier is decorated with tattoos commemorating past kills. The Yakuza Soldier knows all too well that to disobey is to accept great dishonor and likely... death. 
 ### Background Archetype
 
 If you select Yakuza Soldier as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Agility** or **Strength**)
-* Increase the selected ability score by 1
+* Your **Agility** score is increase by 1
 
 **Skill Training:**
-* Agility: Trained in **Firearms**
-* Strength: Trained in **Melee Combat**
+* You are Trained in **Firearms**
+* Choose one additional skill to be Trained in: **Stealth** or **Melee Combat**
 
 **Skill Action Bonus:**
-* Agility: Gain a +1 bonus to **Firearms (Controlled Burst)**
-* Strength: Gain a +1 bonus to **Melee Combat (Slashing Strike)**
+* You gain a +1 bonus to **Firearms (Controlled Burst)**
 
 **Contact Archetype:** 
-* Choose one: (**Gun Tech**, **Street Ganger**, or **Underground Brawler**) 
-* You gain the selected Contact Archetype for free
+* Choose one: **Gun Tech**, **Street Ganger**, or **Underground Brawler**
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Yakuza Soldier as a **Contact Archetype**, they are able to assist with: 

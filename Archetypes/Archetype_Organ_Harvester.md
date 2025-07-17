@@ -8,20 +8,18 @@ The Organ Harvester, sometimes called a ***ghoul***, is a hunter of human prey. 
 If you select Organ Harvester as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Intelligence** or **Strength**)
-* Increase the selected ability score by 1
+* Your **Intelligence** score is increased by 1
 
 **Skill Training:**
-* Intelligence: Trained in **Medicine**
-* Strength: Trained in **Melee Combat**
+* You are Trained in **Medicine**
+* Choose one additional skill to be Trained in: **Melee Combat** or **Drive**
 
 **Skill Action Bonus:**
-* Intelligence: Gain a +1 bonus to **Medicine (Surgery)**
-* Strength: Gain a +1 bonus to **Melee Combat (Fight Dirty)**
+* You gain a +1 bonus to **Medicine (Surgery)**
 
 **Contact Archetype:** 
 * Choose one: (**Body Bagger**, **Chem Pharmer**, or **Street Doc**) 
-* You gain the selected Contact Archetype for free
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Organ Harvester as a **Contact Archetype**, they are able to assist with: 

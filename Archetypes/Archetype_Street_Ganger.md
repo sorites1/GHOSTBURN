@@ -8,20 +8,18 @@ The Street Ganger was born into poverty and grew up around drugs and violence. J
 If you select Street Ganger as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Agility** or **Strength**)
-* Increase the selected ability score by 1
+* Your **Agility** score is increased by 1
 
 **Skill Training:**
-* Agility: Trained in **Firearms**
-* Strength: Trained in **Melee Combat**
+* You are Trained in **Firearms**
+* Choose one additional skill to be Trained in: **Melee Combat** or **Drive**
 
 **Skill Action Bonus:**
-* Agility: Gain a +1 bonus to **Firearms (Single Shot)**
-* Strength: Gain a +1 bonus to **Melee Combat (Punch / Kick)**
+* You gain a +1 bonus to **Firearms (Single Shot)**
 
 **Contact Archetype:** 
 * Choose one: (**Street Rat**, **Tech Mechanic**, or **Vice Merchant**) 
-* You gain the selected Contact Archetype for free
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Street Ganger as a **Contact Archetype**, they are able to assist with: 

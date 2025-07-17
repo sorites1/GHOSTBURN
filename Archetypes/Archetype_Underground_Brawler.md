@@ -8,20 +8,18 @@ The Underground Brawler is a bareknuckle fighter employed by one of the organize
 If you select Underground Brawler as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Strength** or **Awareness**)
-* Increase the selected ability score by 1
+* Your **Strength** score is increased by 1
 
 **Skill Training:**
-* Strength: Trained in **Melee Combat** 
-* Awareness: Trained in **Insight**
+* You are Trained in **Melee Combat** 
+* Choose one additional skill to be trained in: **Athletics** or **Insight**
 
 **Skill Action Bonus:**
-* Strength: Gain a +1 bonus to **Melee Combat (Punch / Kick)**
-* Awareness: Gain a +1 bonus to **Insight (Size Up Opponent)**
+* You gain a +1 bonus to **Melee Combat (Punch / Kick)** 
 
 **Contact Archetype:** 
-* Choose one: (**Mafia Enforcer**, **Yakuza Soldier**, or **Street Doc**) 
-* You gain the selected Contact Archetype for free
+* Choose one: **Mafia Enforcer**, **Yakuza Soldier**, or **Street Doc**
+* You gain the selected Contact Archetype
 
 ### Contact Archetype
 

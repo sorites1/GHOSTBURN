@@ -8,21 +8,20 @@ The Gene Splicer performs unlicensed genetic modifications in an underground lab
 If you select Gene Splicer as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Intelligence** or **Psi**)
+* Choose one: **Intelligence** or **Psi**
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Medicine** or **Telekinesis**)
-	* You are Trained in the selected skill
+* You are Trained in **Medicine**
+* If you selected Intelligence, you are Trained in **Tech**
+* If you selected Psi, you are Trained in **Telekinesis**
 
 **Skill Action Bonus:**
-	* If you selected Medicine, you gain a +1 bonus to **Forensic Exam**
-	* If you selected Telekinesis, you gain a +1 bonus to **Poltergeist**
+* You gain a +1 bonus to **Forensic Exam**
 
 **Contact Archetype:** 
-	* Choose one: (**Body Bagger**, **Chem Pharmer**, or **Corporate Scientist**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: **Body Bagger**, **Chem Pharmer**, or **Corporate Scientist**
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Gene Splicer as a **Contact Archetype**, they are able to assist with: 

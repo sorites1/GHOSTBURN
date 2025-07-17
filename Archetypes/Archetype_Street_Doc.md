@@ -8,20 +8,18 @@ The Street Doc provides medical services to customers who need help, but only to
 If you select Street Doc as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Intelligence** or **Presence**)
-* Increase the selected ability score by 1
+* Your **Intelligence** score is increased by 1
 
 **Skill Training:**
-* Intelligence: Trained in **Medicine** 
-* Presence: Trained in **Influence**
+* You are Trained in **Medicine** 
+* Choose one additional skill to be Trained in: **Influence** or **Perception**
 
 **Skill Action Bonus:**
-* Intelligence: Gain a +1 bonus to **Medicine (Surgery)**
-* Presence: Gain a +1 bonus to **Influence (Haggle)**
+* You gain a +1 bonus to **Medicine (Surgery)**
 
 **Contact Archetype:** 
 * Choose one: (**Gene Splicer**, **Chem Pharmer**, or **Organ Harvester**) 
-* You gain the selected Contact Archetype for free
+* You gain the selected Contact Archetype
 
 ### Contact Archetype
 

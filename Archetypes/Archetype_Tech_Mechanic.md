@@ -8,20 +8,18 @@ The Tech Mechanic knows vehicles, robots, and drones. With the right tools and e
 If you select Tech Mechanic as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Intelligence** or **Agility**)
-* Increase the selected ability score by 1
+* Your **Intelligence** score is increased by 1
 
 **Skill Training:**
-* Intelligence: Trained in **Tech**
-* Agility: Trained in **Drive**
+* You are Trained in Tech
+* Choose one additional skill to be Trained in: **Drive** or **Athletics**
 
 **Skill Action Bonus:**
-* Intelligence: Gain a +1 bonus to **Tech (Repair Device)**
-* Agility: Gain a +1 bonus to **Drive (Evade and Escape)**
+* You gain a +1 bonus to **Tech (Repair Device)**
 
 **Contact Archetype:** 
 * Choose one: (**Driver**, **Gun Tech**, or **Mil-Sec Patroller**) 
-* You gain the selected Contact Archetype for free
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Tech Mechanic as a **Contact Archetype**, they are able to assist with: 
@@ -42,5 +40,5 @@ If you select Tech Mechanic as a **Contact Archetype**, they are able to assist 
 * **Attitude:** Neutral
 * **Wits:** Hard (14)
 * **Fortitude:** Hard (14)
-* **Skill Actions:** Tech (Repair Machine), Tech (Install Upgrade), Tech (Diagnostics)
+* **Skill Actions:** Tech (Repair Device), Tech (Install Enhancement), Tech (Run Diagnostics)
 * **Gear:** Fast car, tools, diagnostic computer

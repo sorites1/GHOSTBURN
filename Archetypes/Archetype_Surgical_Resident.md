@@ -8,20 +8,18 @@ The Surgical Resident spent years in medical school, costing an obscene amount o
 If you select Surgical Resident as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Intelligence** or **Awareness**)
-* Increase the selected ability score by 1
+* Your **Intelligence** score is increased by 1
 
 **Skill Training:**
-* Intelligence: Trained in **Medicine** 
-* Awareness: Trained in **Perception**
+* You are Trained in **Medicine**
+* Choose one additional skill to be Trained in: **Perception** or **Influence**
 
 **Skill Action Bonus:**
-* Intelligence: Gain a +1 bonus to **Medicine (Surgery)**
-* Awareness: Gain a +1 bonus to **Perception (Notice)**
+* You gain a +1 bonus to **Medicine (Surgery)**
 
 **Contact Archetype:** 
 * Choose one: (**Chem Pharmer**, **Organ Harvester**, or **Volatility Trader**) 
-* You gain the selected Contact Archetype for free
+* You gain the selected Contact Archetype
 
 ### Contact Archetype
 
