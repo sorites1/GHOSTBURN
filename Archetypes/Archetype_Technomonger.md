@@ -1,5 +1,7 @@
 ## Technomonger
 
+**Keywords:** \[Unommon\], \[Street\]
+
 The Technomonger is a scavenger who collects discarded, broken devices and fixes them or turns them into something new. Some make a decent living selling refurbished computer parts in the open air markets of the street. Others have their own mysterious reasons for salvaging and trading what others might rightfully view as junk. Indeed, the typical Technomonger dresses like a post-modern shaman and handles their wares with a reverence that borders on religious. Some even deliver sermons on the street that warn against the dangers of corporate control and which describe data as having a life of its own, a desire to be free. They claim information can be imprinted on objects like a digital echo of the past. Perhaps, then, it should come as no surprise that Technomongers regularly engage in street hacking and general mischief for reasons that are unfathomable to most. 
 ### Background Archetype
 
@@ -16,6 +18,8 @@ If you select Technomonger as a **Background Archetype**, you gain the following
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Tech (Repair)**
+* If you selected Intelligence, you gain a +1 bonus to **Hacking (Street Hack)**
+* If you selected Psi, you gain a +1 bonus to **Clairvoyance (Psychometry)**
 
 **Contact Archetype:** 
 * Choose one: (**Brainbox Kid**, **Data Courier**, or **Tech Mechanic**) 

@@ -16,6 +16,8 @@ If you select Yakuza Soldier as a **Background Archetype**, you gain the followi
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Firearms (Controlled Burst)**
+* If you selected Stealth, you gain a +1 bonus to **Stealth (Move Silently)**
+* If you selected Melee Combat, you gain a +1 bonus to **Melee Combat (Slashing Strike)**
 
 **Contact Archetype:** 
 * Choose one: **Gun Tech**, **Street Ganger**, or **Underground Brawler**

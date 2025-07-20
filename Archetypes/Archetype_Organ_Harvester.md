@@ -12,10 +12,12 @@ If you select Organ Harvester as a **Background Archetype**, you gain the follow
 
 **Skill Training:**
 * You are Trained in **Medicine**
-* Choose one additional skill to be Trained in: **Melee Combat** or **Drive**
+* Choose one additional skill to be Trained in: **Melee Combat** or **Driving**
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Medicine (Surgery)**
+* If you selected Melee Combat, you gain a +1 bonus to **Melee Combat (Fight Dirty)**
+* If you selected Driving, you gain a +1 bonus to **Driving (Evade and Escape)**
 
 **Contact Archetype:** 
 * Choose one: (**Body Bagger**, **Chem Pharmer**, or **Street Doc**) 

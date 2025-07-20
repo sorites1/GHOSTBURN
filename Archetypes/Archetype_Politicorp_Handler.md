@@ -12,10 +12,12 @@ If you select Politicorp Handler as a **Background Archetype**, you gain the fol
 
 **Skill Training:**
 * You are Trained in **Deception**
-* Choose one additional skill to be Trained in: **Insight** or **Firearms**
+* Choose one additional skill to be Trained in: **Insight** or **Culture**
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Deception (Bluff)**
+* If you selected Insight, you gain a +1 bonus to **Insight (Detect Lies)**
+* If you selected Culture, you gain a +1 bonus to **Culture (Mil-Sec)**
 
 **Contact Archetype:** 
 * Choose one: (**Mil-Sec Detective**, **Mil-Sec Sniper**, or **Street Doc**) 

@@ -16,6 +16,8 @@ If you select Surgical Resident as a **Background Archetype**, you gain the foll
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Medicine (Surgery)**
+* If you selected Perception, you gain a +1 bonus to **Perception (Alertness)**
+* If you selected Influence, you gain a +1 bonus to **Influence (Command)**
 
 **Contact Archetype:** 
 * Choose one: (**Chem Pharmer**, **Organ Harvester**, or **Volatility Trader**) 

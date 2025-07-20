@@ -16,6 +16,8 @@ If you select Underground Brawler as a **Background Archetype**, you gain the fo
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Melee Combat (Punch / Kick)** 
+* If you selected Athletics, you gain a +1 bonus to **Athletics (Grapple)**
+* If you selected Insight, you gain a +1 bonus to **Insight (Size Up Opponent)**
 
 **Contact Archetype:** 
 * Choose one: **Mafia Enforcer**, **Yakuza Soldier**, or **Street Doc**

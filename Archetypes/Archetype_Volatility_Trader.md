@@ -16,6 +16,8 @@ If you select Volatility Trader as a **Background Archetype**, you gain the foll
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Culture (Corporate)**
+* If you selected Insight, you gain a +1 bonus to **Insight (Discern Intent)**
+* If you selected Influence, you gain a +1 bonus to **Influence (Intimidate Person)**
 
 **Contact Archetype:** 
 * Choose one: **Bartender**, **Mafia Enforcer**, or **Vice Merchant**

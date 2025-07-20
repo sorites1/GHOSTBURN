@@ -17,7 +17,9 @@ If you select Gene Splicer as a **Background Archetype**, you gain the following
 * If you selected Psi, you are Trained in **Telekinesis**
 
 **Skill Action Bonus:**
-* You gain a +1 bonus to **Forensic Exam**
+* You gain a +1 bonus to **Medicine (Forensic Exam)**
+* If you selected Intelligence, you gain a +1 bonus to **Tech (Repair Device)**
+* If you selected Psi, you gain a +1 bonus to **Telekinesis (Poltergeist)**
 
 **Contact Archetype:** 
 * Choose one: **Body Bagger**, **Chem Pharmer**, or **Corporate Scientist**

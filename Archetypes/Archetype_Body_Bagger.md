@@ -8,21 +8,22 @@ The Body Bagger is usually part of a small team of self-starters that goes out e
 If you select Body Bagger as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Agility** or **Strength**)
+* Choose one: **Presence** or **Strength**
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Drive** or **Athletics**)
-	* You are Trained in the selected skill
+* You are Trained in **Driving**
+* If you selected Presence, you are Trained in **Deception**
+* If you selected Strength, you are Trained in **Melee Combat**
 
 **Skill Action Bonus:**
-	* If you selected Drive, you gain a +1 bonus to **Evade and Escape**
-	* If you selected Athletics, you gain a +1 bonus to **Grapple**
+* You gain a +1 bonus to **Driving (Sideswipe)** 
+* If you selected Deception, you gain a +1 bonus to **Deception (Disguise)**
+* If you selected Melee Combat, you gain a +1 bonus to **Melee Combat (Stab, Stab, Stab)**
 
 **Contact Archetype:** 
-	* Choose one: (**Driver**, **Gene Splicer**, **Street Doc**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: **Driver**, **Gene Splicer**, **Street Doc**
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Body Bagger as a **Contact Archetype**, they are able to assist with: 
@@ -39,7 +40,7 @@ If you select Body Bagger as a **Contact Archetype**, they are able to assist wi
 * **Aspects:** \[Psychotic\], \[Not Very Bright\]
 * **Threat:** +2
 * **Attitude:** Neutral
-* **Wits:** Moderate (10)
+* **Wits:** Easy (6)
 * **Fortitude:** Severe (18)
 * **Skill Actions:** Athletics (Grapple), Melee (Stab, Stab, Stab)
 * **Gear:** Knives, baseball bat, mask

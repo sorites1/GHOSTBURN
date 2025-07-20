@@ -16,6 +16,8 @@ If you select Mil-Sec Sniper as a **Background Archetype**, you gain the followi
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Firearms (Called Shot)**
+* If you selected Athletics, you gain a +1 bonus to **Athletics (Climb / Jump)**
+* If you selected Stealth, you gain a +1 bonus to **Stealth (Silent Takedown)**
 
 **Contact Archetype:** 
 * Choose one: (**Politicorp Handler**, **Gun Tech**, or **Street Rat**) 

@@ -16,6 +16,8 @@ If you select Vice Merchant as a **Background Archetype**, you gain the followin
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Influence (Persuade)**
+* If you selected Melee Combat, you gain a +1 bonus to **Melee Combat (Punch / Kick)**
+* If you selected Deception, you gain a +1 bonus to **Deception (Bluff)**
 
 **Contact Archetype:** 
 * Choose one: **Chem Pharmer**, **Street Doc**, or **Mil-Sec Detective**

@@ -12,10 +12,12 @@ If you select Tech Mechanic as a **Background Archetype**, you gain the followin
 
 **Skill Training:**
 * You are Trained in Tech
-* Choose one additional skill to be Trained in: **Drive** or **Athletics**
+* Choose one additional skill to be Trained in: **Driving** or **Firearms**
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Tech (Repair Device)**
+* If you selected Driving, you gain a +1 bonus to **Driving (Evade and Escape)**
+* If you selected Firearms, you gain +1 bonus to **Firearms (Single Shot)**
 
 **Contact Archetype:** 
 * Choose one: (**Driver**, **Gun Tech**, or **Mil-Sec Patroller**) 

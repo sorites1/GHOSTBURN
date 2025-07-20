@@ -16,6 +16,8 @@ If you select Street Rat as a **Background Archetype**, you gain the following b
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Perception (Search)**
+* If you selected Stealth, you gain a +1 bonus to **Stealth (Hide)**
+* If you selected Culture, you gain a +1 bonus to **Culture (Street)**
 
 **Contact Archetype:** 
 * Choose one: (**Food Card Vendor**, **Mil-Sec Patroller**, or **Body Bagger**) 

@@ -8,21 +8,21 @@ The Ex-Con is someone who was convicted of a crime in one of the corporate court
 If you select Ex-Con as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Presence** or **Strength**)
+* Choose one: **Presence** or **Strength**
 * Increase the selected ability score by 1
 
 **Skill Training:**
-	* Choose one: (**Influence** or **Melee Combat**)
-	* You are Trained in the selected skill
+* You are Trained in **Athletics**
+* Choose one additional skill to be Trained in: **Melee Combat** or **Influence**
 
 **Skill Action Bonus:**
-	* If you selected Influence, you gain a +1 bonus to **Intimidate Person**
-	* If you selected Melee Combat, you gain a +1 bonus to **Stab, Stab, Stab**
+* You gain a +1 bonus to **Athletics (Climb / Jump)**
+* If you selected Melee Combat, you gain a +1 bonus to **Melee Combat (Stab, Stab, Stab)**
+* If you selected Influence, you gain a +1 bonus to **Influence (Intimidate Person)**
 
 **Contact Archetype:** 
-	* Choose one: (**Mafia Enforcer**, **Politicorp Handler**, or **Underground Brawler**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: **Mafia Enforcer**, **Politicorp Handler**, or **Underground Brawler**
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Ex-Con  as a **Contact Archetype**, they are able to assist with: 

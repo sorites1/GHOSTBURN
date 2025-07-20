@@ -16,6 +16,8 @@ If you select Mil-Sec Detective as a **Background Archetype**, you gain the foll
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Insight (Connect the Dots)**
+* If you selected Stealth, you gain a +1 bonus to **Stealth (Shadow Target)**
+* If you selected Deception, you gain a +1 bonus to **Deception (Bluff)**
 
 **Contact Archetype:** 
 * Choose one: **Bartender**, **Politicorp Handler**, **Street Ganger**

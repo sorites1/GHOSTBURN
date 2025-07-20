@@ -1,5 +1,11 @@
 ![[Archetype_Arcology_Athlete]]
 
+---
+
+![[Archetype_Arcology_Denizen]]
+
+----
+
 ![[Archetype_Band_Mate]]
 
 ![[Archetype_Bartender]]
@@ -56,7 +62,6 @@
 
 ![[Archetype_Surgical_Resident]]
 
-![[Archetype_Synthetic_Person]]
 
 ![[Archetype_Tech_Mechanic]]
 

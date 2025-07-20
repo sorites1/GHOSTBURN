@@ -16,9 +16,11 @@ If you select Gun Tech as a **Background Archetype**, you gain the following ben
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Tech (Install Enhancement)**
+* If you selected Firearms, you gain a +1 bonus to **Firearms (Single Shot)**
+* If you selected Heavy Weapons, you gain a +1 bonus to **Heavy Weapons (Machine Gun)**
 
 **Contact Archetype:** 
-* Choose one: (**Corporate Scientist**, **Tech Mechanic**, or **Trauma Medic**) 
+* Choose one: **Corporate Scientist**, **Tech Mechanic**, or **Trauma Medic**
 * You gain the selected Contact Archetype 
 ### Contact Archetype
 

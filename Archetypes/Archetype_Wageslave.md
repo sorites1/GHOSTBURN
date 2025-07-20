@@ -16,6 +16,8 @@ If you select Wageslave as a **Background Archetype**, you gain the following be
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Deception (Blend In)**
+* If you selected Culture, you gain a +1 bonus to **Culture (Corporate)**
+* If you selected Perception, you gain a +1 bonus to **Perception (Alertness)**
 
 **Contact Archetype:** 
 * Choose one: **Street Rat**, **Technomonger**, or **Trauma Medic**

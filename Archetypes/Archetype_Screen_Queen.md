@@ -16,6 +16,8 @@ If you select Screen Queen as a **Background Archetype**, you gain the following
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Perform (Entertain)**
+* If you selected Tech, you gain a +1 bonus to **Tech (Install Enhancement)**
+* If you selected Influence, you gain a +1 bonus to **Influence (Improve Attitude)**
 
 **Contact Archetype:** 
 * Choose one: (**Celebrity**, **Ex-Con**, or **Tech Mechanic**) 

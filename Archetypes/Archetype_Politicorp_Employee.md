@@ -12,10 +12,12 @@ If you select Politicorp Employee as a **Background Archetype**, you gain the fo
 
 **Skill Training:**
 * You are Trained in **Culture**
-* Choose one additional skill to be Trained in: **Deception** or **Influence**
+* Choose one additional skill to be Trained in: **Deception** or **Stealth**
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Culture (Politicorp)**
+* If you selected Deception, you gain a +1 bonus to **Deception (Bluff)**
+* If you selected Stealth, you gain a +1 bonus to **Stealth (Eavesdrop)**
 
 **Contact Archetype:** 
 * Choose one: (**Bartender**, **Bandmate**, or **Wageslave**) 

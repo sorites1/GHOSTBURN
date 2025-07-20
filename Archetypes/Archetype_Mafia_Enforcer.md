@@ -8,14 +8,16 @@ The Mafia Enforcer belongs to the family-based crime organization that traces it
 If you select Mafia Enforcer as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Your **Strength** is increased by 1
+* Your **Strength** score is increased by 1
 
 **Skill Training:**
 * You are Trained in **Melee Combat**
-* Choose one additional skill to be Trained in: **Influence** or **Insight**
+* Choose one additional skill to be Trained in: **Influence** or **Culture**
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Melee Combat (Bonebreaker)**
+* If you selected Influence, you gain a +1 bonus to **Influence (Intimidate Person)**
+* If you selected Culture, you gain a +1 bonus to **Culture (Organized Crime)**
 
 **Contact Archetype:** 
 * Choose one: **Ex-Con**, **Underground Brawler**, or **Vice Merchant**

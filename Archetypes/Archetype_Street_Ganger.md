@@ -12,10 +12,12 @@ If you select Street Ganger as a **Background Archetype**, you gain the followin
 
 **Skill Training:**
 * You are Trained in **Firearms**
-* Choose one additional skill to be Trained in: **Melee Combat** or **Drive**
+* Choose one additional skill to be Trained in: **Culture** or **Driving**
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Firearms (Single Shot)**
+* If you selected Culture, you gain a +1 bonus to **Culture (Gangs)**
+* If you selected Driving, you gain a +1 bonus to **Driving (Evade and Escape)**
 
 **Contact Archetype:** 
 * Choose one: (**Street Rat**, **Tech Mechanic**, or **Vice Merchant**) 

@@ -16,6 +16,8 @@ If you select Trauma Medic as a **Background Archetype**, you gain the following
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Medicine (First Aid)**
+* If you selected Driving, you gain a +1 bonus to **Driving (Precision Driving)**
+* If you selected Perception, you gain a +1 bonus to **Perception (Notice)**
 
 **Contact Archetype:** 
 * Choose one: **Surgical Resident**, **Mil-Sec Patroller**, or **Organ Harvester**

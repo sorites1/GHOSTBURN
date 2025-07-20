@@ -18,6 +18,8 @@ If you select Mil-Sec Patroller as a **Background Archetype**, you gain the foll
 
 **Skill Action Bonus:**
 * You gain a +1 bonus to **Drive (Pit Maneuver)**
+* If you selected Agility, you gain a +1 bonus to **Firearms (Single Shot)**
+* If you selected Melee Combat, you gain a +1 to **Melee Combat (Bonebreaker)**
 
 **Contact Archetype:** 
 * Choose one: **Food Cart Vendor**, **Mil-Sec Detective**, or **Tech Mechanic**

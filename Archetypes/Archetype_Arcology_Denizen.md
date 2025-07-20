@@ -8,21 +8,20 @@ The Arcology Denizen, their siblings, parents, grandparents, and everyone they'v
 If you select Arcology Denizen as a **Background Archetype**, you gain the following benefits: 
 
 **Ability Score Boost:**
-* Choose one: (**Presence** or **Awareness**)
-* Increase the selected ability score by 1
+* Your **Presence** score is increased by 1
 
 **Skill Training:**
-	* Choose one: (**Influence** or **Culture**)
-	* You are Trained in the selected skill
+* You are Trained in **Influence**
+* Choose one additional skill to be Trained in: **Culture** or **Insight**
 
 **Skill Action Bonus:**
-	* If you selected Influence, you gain a +1 bonus to **Improve Attitude**
-	* If you selected Culture, you gain a +1 bonus to **Corporate**
+* You gain a +1 bonus to **Influence (Improve Attitude)**
+* If you selected Culture, you gain a +1 bonus to **Culture (Corporate)**
+* If you selected Insight, you gain a +1 bonus to **Insight (Discern Intent)**
 
 **Contact Archetype:** 
-	* Choose one: (**Arcology Athlete**, **Data Courier**, **Politicorp Employee**) 
-	* You gain the selected Contact Archetype for free
-
+* Choose one: **Arcology Athlete**, **Data Courier**, **Politicorp Employee**
+* You gain the selected Contact Archetype
 ### Contact Archetype
 
 If you select Arcology Denizen as a **Contact Archetype**, they are able to assist with: 
