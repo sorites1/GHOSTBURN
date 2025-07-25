@@ -24,7 +24,6 @@ If you select Mil-Sec Patroller as a **Background Archetype**, you gain the foll
 **Contact Archetype:** 
 * Choose one: **Food Cart Vendor**, **Mil-Sec Detective**, or **Tech Mechanic**
 * You gain the selected Contact Archetype
-
 ### Contact Archetype
 
 If you select Mil-Sec Patroller as a **Contact Archetype**, they are able to assist with: 

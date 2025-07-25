@@ -54,7 +54,7 @@
 |                  |                   | First Aid                         |
 |                  |                   | Extended Care                     |
 |                  |                   | Surgery                           |
-|                  |                   | Cybernetic Installation           |
+|                  |                   | Install Cyberware                 |
 |                  | **Tech**          | Run Diagnostics                   |
 |                  |                   | Repair Device                     |
 |                  |                   | Install Enhancement               |
@@ -68,7 +68,7 @@
 |                  |                   | Grapple                           |
 |                  |                   | Climb / Jump                      |
 |                  |                   | Throw / Catch                     |
-|                  | **Melee Combat**  | Punch / Kick                      |
+|                  | **Melee**         | Punch / Kick                      |
 |                  |                   | Bonebreaker                       |
 |                  |                   | Slashing Strike                   |
 |                  |                   | Stab, Stab, Stab                  |
