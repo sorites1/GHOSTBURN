@@ -15,7 +15,7 @@ These are implants used for data storage, processing, transfer, or communication
 
 | Cyberware           | Mesh Cost | Reduces Psi | Description                                                                                                                                                                                                                                                                      |
 | ------------------- | --------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Datajack            | 1         | Yes         | Allows the user to establish a direct neural interface with a device designed for brain-machine interaction, such as a cyber rig, which facilitates brain-machine access to the lower layer of Net for purpose of hacking                                                        |
+| Datajack            | 1         | Yes         | Allows the user to establish a direct neural interface (DNI) with a device designed for brain-machine interaction, such as a cyber rig, which facilitates brain-machine access to the lower layer of Net for purpose of hacking                                                  |
 | Digital Recorder    | 1         | Yes         | A small camera and microphone combo used to take pictures and video recordings, as well as audio recordings                                                                                                                                                                      |
 | Minidisk Drive      | 1         | Yes         | Allows the user to download data to a small, removable disk, which can then be ejected and air-gapped from the user and the Net                                                                                                                                                  |
 | Language Translator | 2         | Yes         | Translates foreign language, both written and verbal, into a language the user can understand in real time                                                                                                                                                                       |
@@ -44,55 +44,99 @@ These are weapon implants.
 
 ### Utility Implants
 
-| Cyberware             | Mesh Cost | Reduces Psi | Description                                                                                                                                                      |
-| --------------------- | --------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Grapple Gun (one arm) | 2         | No          | A small grappling hook can be fired from this arm modification and a strong, metal wire rapidly unspools from inside the forearm; can be automatically retracted |
-| Chem Analyzer         | 4         | Yes         | Internal chemistry lab accepts a chemical sample (orally or as a retractable specimen tray), analyzes its chemical structure and provides a detailed report      |
-| Skill System 1        | 5         | Yes         | Download a skillset to gain a +1 bonus to the associated skill action                                                                                            |
-| Skill System 2        | 7         | Yes         | Download a skillset to gain a +2 bonus to the associated skill action                                                                                            |
-| Skill system 3        | 9         | Yes         | Download a skillset to gain a +3 bonus to the associated skill action                                                                                            |
+| Cyberware                 | Mesh Cost | Reduces Psi | Description                                                                                                                                                                                                                                                                                                         |
+| ------------------------- | --------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Multitool (one hand)      | 1         | No          | A multitool implant in the finger grants a +1 bonus to Tech (Repair Device) and Tech (Disable Device)                                                                                                                                                                                                               |
+| Spider Fingers (one hand) | 1         | Yes         | Allows the user's fingers to split open, revealing an array of long, thin fingerlike digits which enable a hacker to type faster on their cyber rig; grants the user a +1 bonus to all Hacking skill actions; if both hands have the Spider Fingers implant, the user gains a +2 bonus to all Hacking skill actions |
+| Grapple Gun (one arm)     | 2         | No          | A small grappling hook can be fired from this arm modification and a strong, metal wire rapidly unspools from inside the forearm; can be automatically retracted                                                                                                                                                    |
+| Chem Analyzer             | 4         | Yes         | Internal chemistry lab accepts a chemical sample (orally or as a retractable specimen tray), analyzes its chemical structure and provides a detailed report                                                                                                                                                         |
+| Skillset 1                | 5         | Yes         | Download a skillset to gain Trained in a skill and a +1 bonus to each of its skill actions                                                                                                                                                                                                                          |
+| Skillset 2                | 7         | Yes         | Download a skillset to gain Proficient in a skill and a +2 bonus to each of its skill actions                                                                                                                                                                                                                       |
+| Skillset 3                | 9         | Yes         | Download a skillset to gain Expert in a skill and a +3 bonus each of its skill actions                                                                                                                                                                                                                              |
+| Pain Dial 1               | 3         | Yes         | Allows the user to ignore the effects of Wounded for the remainder of the scene                                                                                                                                                                                                                                     |
+| Pain Dial 2               | 4         | Yes         | Allows the user to ignore the effects of Wounded and Severely Wounded for the remainder of the scene                                                                                                                                                                                                                |
+| Pain Dial 3               | 5         | Yes         | Allows the user to ignore the effects of Wounded, Severely Wounded, and Death's Door for the remainder of the scene                                                                                                                                                                                                 |
 ### Enhancement Implants
 
 | Cyberware             | Mesh Cost | Reduces Psi | Description                                                                                                                                                                  |
 | --------------------- | --------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pheromone Pump        | 1         | No          | Presence is increased by 1                                                                                                                                                   |
 | Faceshifter           | 2         | No          | Presence is increased by 1; allows you to shift your facial features, such as bone structure, shape of the nose, chin, etc., which grants a +1 bonus to Deception (Disguise) |
+| Subdermal Weave       | 2         | No          | Woven armor implanted under the skin; light armor; not obvious                                                                                                               |
+| Dermal Armor          | 3         | No          | Obvious armor plating implanted into the flesh; medium armor; very obvious                                                                                                   |
 | Muscle Replacements 1 | 3         | No          | Strength is increased by 1                                                                                                                                                   |
 | Muscle Replacements 2 | 6         | No          | Strength is increased by 2                                                                                                                                                   |
 | Muscle Replacements 3 | 9         | No          | Strength is increased by 3                                                                                                                                                   |
 | Synaptic Booster 1    | 4         | Yes         | Intelligence is increased by 1                                                                                                                                               |
 | Synaptic Booster 2    | 8         | Yes         | Intelligence is increased by 2                                                                                                                                               |
-| Wired Reflexes 1      | 5         | Yes         | Agility is increased by 1; you gain 1 additional AP at the start of your turn                                                                                                |
-| Wired Reflexes 2      | 10        | Yes         | Agility is increased by 2; you gain 2 additional AP at the start of your turn                                                                                                |
-### Body Part Replacements
+| Wired Reflexes 1      | 6         | Yes         | Agility is increased by 1; gain 1 additional AP at the start of your turn                                                                                                    |
+| Wired Reflexes 2      | 10        | Yes         | Agility is increased by 2; gain 2 additional AP at the start of your turn                                                                                                    |
+| Wired Reflexes 3      | 14        | Yes         | Agility is increased by 3; gain 3 additional AP at the start of your turn                                                                                                    |
+### Cybereyes
 
 | Cyberware          | Mesh Cost | Reduces Psi | Description                                              |
 | ------------------ | --------- | ----------- | -------------------------------------------------------- |
 | Cybereyes 1 (pair) | 1         | Yes         | Basic, static color/design, includes 1 Mesh for add-ons  |
 | Cybereyes 2 (pair) | 2         | Yes         | Standard, multicolor/design, includes 2 Mesh for add-ons |
 | Cybereyes 3 (pair) | 3         | Yes         | Advanced, multicolor/design, includes 3 Mesh for add-ons |
-| Cyberarm 1 (one)   | 4         | Yes         | Strength 1                                               |
+#### Cybereye Add-ons
 
+| Cybereye Add-on  | Mesh Cost | Reduces Psi | Description                                                              |
+| ---------------- | --------- | ----------- | ------------------------------------------------------------------------ |
+| Low Light Vision | 1         | -           | Grants ability to see in low light conditions (but not pitch black)      |
+| Thermal Vision   | 1         | -           | Grants ability to see heat sources                                       |
+| Infrared Vision  | 1         | -           | Grants ability to see electromagnetic radiation on the infrared spectrum |
+| Digital Recorder | 1         | -           | See Digital Recorder under Data/Comm Implants                            |
+| Zoom x2          | 1         | -           | Causes targets at medium range to be treated as being at short range     |
+| Zoom x5          | 1         | -           | Causes targets at long range to be treated as being at medium range      |
+| Zoom x10         | 1         | -           | Causes targets at long range to be treated as being at short range       |
+| Zoom x15         | 1         | -           | Causes targets at extreme range to be treated as being at medium range   |
+| Zoom x20         | 1         | -           | Causes targets at extreme range to be treated as being at short range    |
+| Zoom Kit         | 2         | -           | Includes Zoom x2, Zoom x5, and Zoom x10                                  |
+### Cyberarms
 
-| Cyberware                | Mesh Cost |
-| ------------------------ | --------- |
-| Pheromone Pump           | 1         |
-| Dermal Armor Weave       | 1         |
-| Finger Razors (one hand) | 1         |
-| Cyberears (pair)         | 2         |
-| Cybereyes (pair)         | 2         |
-| Cyber Blade (one arm)    | 2         |
-| Cyber Claws (one arm)    | 2         |
-| Subdermal Armor          | 2         |
-| Grapple Gun              | 2         |
-| Tactical Map             | 2         |
-| Muscle Replacements      | 3         |
-| Synaptic Booster         | 3         |
-| Faceshifter              | 3         |
-| Pain Dial                | 3         |
-| Cyberarm (one)           | 4         |
-| Cyberleg (one)           | 4         |
-| Skill System             | 4         |
-| Wired Reflexes           | 6         |
+| Cyberware              | Mesh Cost | Reduces Psi | Description                                             |
+| ---------------------- | --------- | ----------- | ------------------------------------------------------- |
+| Cyberarm (replacement) | 4         | No          | Replacement limb, includes 2 Mesh for add-ons           |
+| Cyberarm 1             | 4         | No          | Strength is increased by 1; includes 2 Mesh for add-ons |
+| Cyberarm 2             | 4         | No          | Strength is increased by 2; includes 2 Mesh for add-ons |
+| Cyberarm 3             | 4         | No          | Strength is increased by 3; includes 2 Mesh for add-ons |
+| Mecha Arm 1            | 5         | No          | Strength is increased by 1; includes 3 Mesh for add-ons |
+| Mecha Arm 2            | 6         | No          | Strength is increased by 2; includes 4 Mesh for add-ons |
+| Mecha Arm 3            | 7         | No          | Strength is increased by 3; includes 5 Mesh for add-ons |
+### Cyberhands
 
+| Cyberware               | Mesh Cost | Reduces Psi | Description                                             |
+| ----------------------- | --------- | ----------- | ------------------------------------------------------- |
+| Cyberhand (replacement) | 2         | No          | Replacement hand, includes 1 Mesh for add-ons           |
+| Mecha Hand 1            | 3         | No          | Includes 2 Mesh for add-ons                             |
+| Mecha Hand 2            | 4         | No          | Includes 3 Mesh for add-ons                             |
+| Mecha Hand 3            | 5         | No          | Strength is increased by 1; Includes 4 Mesh for add-ons |
+#### Cyberhand Add-ons
+
+| Cyberhand Add-on      | Mesh Cost | Reduces Psi | Description                                                                                                                                                                                                                       |
+| --------------------- | --------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fingergun             | 1         | -           | A small pistol that holds two rounds is implanted in the index finger                                                                                                                                                             |
+| Wireless Controller   | 1         | -           | Detach the cyberhand and mentally control its movement (running on all fingers); requires line of sight                                                                                                                           |
+| Fingertip Compartment | 1         | -           | One of the fingers on your cyberhand has a small compartment, perfect for hiding something tiny                                                                                                                                   |
+| Steelsilk             | 1         | -           | The fingertips of your cyberhand are covered in retractable, steel hooks no larger than the width of a human hair; gain a +1 bonus to Athletics (Climb / Jump), but only when you're climbing; allows you to climb sheer surfaces |
+| Multitool             | 1         | -           | See the description under Utility Implants                                                                                                                                                                                        |
+| Spider Fingers        | 1         | -           | See the description under Utility Implants                                                                                                                                                                                        |
+| Smartlink             | 1         | -           | See the description under Weapon Implants                                                                                                                                                                                         |
+### Cyberlegs
+
+| Cyberware              | Mesh Cost | Reduces Psi | Description                                          |
+| ---------------------- | --------- | ----------- | ---------------------------------------------------- |
+| Cyberleg (replacement) | 4         | No          | Replacement limb, includes 2 Mesh for add-ons        |
+| Mecha Leg 1            | 5         | No          | Speed is increased by 2; includes 3 Mesh for add-ons |
+| Mecha Leg 2            | 6         | No          | Speed is increased by 4; includes 4 Mesh for add-ons |
+| Mecha Leg 3            | 7         | No          | Speed is increased by 6; includes 5 Mesh for add-ons |
+#### Cyberleg Add-ons
+
+| Cyberhand Add-on | Mesh Cost | Reduces Psi | Description                                                                                                                                                                                               |
+| ---------------- | --------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Speed Boost      | 2         | -           | Speed is increased by 2                                                                                                                                                                                   |
+| Power Jump       | 1         | -           | Gain a +1 bonus to Athletics (Climb / Jump), but only when you jump                                                                                                                                       |
+| Hip Holster      | 1         | -           | Hidden compartment in the hip of the cyberleg which holds a pistol                                                                                                                                        |
+| Climbing Spike   | 1         | -           | Retractable metal spike is produced from the toe of the foot; gain a +1 bonus to Athletics (Climb / Jump), but only when you're climbing; gain a +1 bonus to Melee (Punch / Kick), but only when you kick |
 
