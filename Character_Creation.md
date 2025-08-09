@@ -4,12 +4,11 @@ In this game, each player creates a character to play. As the player, you make a
 
 To create a character in ***GHOSTBURN 2325***, follow the steps below.
 
-1. Choose a **Background Archetype** - A defining element of your past
-2. Choose a **Ghostburn** - The catalyst, the reason, you left your old life behind
-3. Choose a **Class** - Your new life as a ghost, a deniable asset who works in the shadows
-4. Choose a **Specialization** - The path you have chosen 
-5. cyberware
-6. gear
+1. Choose a **Background** - A defining element of your past
+2. Choose a **Ghostburn** and a **Hook** - The reason you left your old life behind and became a ghost
+3. Choose a **Class** and make note of your **Favored Skills** and starting **Skill Actions** 
+4. cyberware
+5. gear
 
 ## Step 1: Choose a Background Archetype
 

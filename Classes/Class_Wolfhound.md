@@ -1,0 +1,3 @@
+## Wolfhound
+
+The sprawl is a big, bad, dangerous place to live, and for your money, it's better to talk your way out of a situation than resort to violence. You might see yourself as a kind of shapeshifter, taking on new personas to get what you want from the people you meet. As the wolf, you are dangerous, magnetic and commanding; when you need to be manipulative, you take on the guise of a fox; and you think like a coyote when you assume the role of the trickster. To your friends, you are the hound, loyal, steadfast, and ready to defend them with tooth and claw if necessary. 

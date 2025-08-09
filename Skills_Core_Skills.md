@@ -10,6 +10,9 @@ Any character may attempt to use **Core Skills** and their skill actions, as sho
 |               | **Deception**  | Bluff            |
 |               |                | Blend In         |
 |               |                | Misdirect        |
+|               | **Perform**    | Captivate        |
+|               |                | Taunt            |
+|               |                | Call Attention   |
 | **Agility**   | **Firearms**   | Single Shot      |
 |               |                | Controlled Burst |
 |               |                | Point Blank Shot |
@@ -33,31 +36,13 @@ Any character may attempt to use **Core Skills** and their skill actions, as sho
 
 To use a **Learned Skill** if you must be at least Trained in it, and you may only attempt the skill actions you know. Any character can pick up a Learned Skill by purchasing it with XP.
 
-| Ability Score    | Skill             | Skill Action    |
-| ---------------- | ----------------- | --------------- |
-| **Presence**     | **Perform**       | Entertain       |
-|                  |                   | Captivate       |
-|                  |                   | Taunt           |
-| **Agility**      | **Driving**       | Chase           |
-|                  |                   | Evade / Escape  |
-|                  |                   | Sideswipe       |
-| **Intelligence** | **Tech**          | Run Diagnostics |
-|                  |                   | Repair Device   |
-|                  |                   | Disable Device  |
-| **Strength**     | **Heavy Weapons** | Machine Gun     |
-|                  |                   | Rocket Launcher |
-|                  |                   | Explosives      |
-| **Awareness**    | **Culture**       | Megacorp        |
-|                  |                   | Politicorp      |
-|                  |                   | Street          |
-
-## Class Skills
-
-As the name implies, **Class Skills** are only available to specific classes. To use a Class Skill, you must have a rank of Trained or higher, and you can only attempt skill actions you know. Characters can purchase the Class Skills offered by their class. 
-
-### Fixer Class Skills
-
-| Ability Score | Skill         | Skill Action |
-| ------------- | ------------- | ------------ |
-| **Presence**  | **Influence** | Entertain    |
-|               |               | Captivate    |
+| Ability Score    | Skill        | Skill Action   |
+| ---------------- | ------------ | -------------- |
+| **Agility**      | **Drive**    | Chase          |
+|                  |              | Evade / Escape |
+| **Intelligence** | **Medicine** | First Aid      |
+|                  |              | Extended Care  |
+|                  |              |                |
+|                  |              |                |
+| **Awareness**    | **Culture**  | Megacorp       |
+|                  |              | Street         |

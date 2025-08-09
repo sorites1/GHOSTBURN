@@ -36,7 +36,7 @@
 |                  |                   | Shadow Target                     |
 |                  |                   | Slip Past                         |
 |                  |                   | Silent Takedown                   |
-|                  | **Driving**       | Chase                             |
+|                  | **Drive**         | Chase                             |
 |                  |                   | Evade and Escape                  |
 |                  |                   | Pit Maneuver                      |
 |                  |                   | Sideswipe                         |

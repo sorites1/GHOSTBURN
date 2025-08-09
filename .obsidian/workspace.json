@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74eef59ea1a6368c",
+            "id": "36351faff797cfe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skill List.md",
+                "file": "Classes/Class_Samurai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skill List"
-            }
-          },
-          {
-            "id": "2e8815d97ce2e927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archetypes/Archetype_Band_Mate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Archetype_Band_Mate"
-            }
-          },
-          {
-            "id": "448fe3259662cd65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Main_ch1_GHOSTBURN_2325.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00_Main_ch1_GHOSTBURN_2325"
-            }
-          },
-          {
-            "id": "9e26edd768c1b951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character_Creation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character_Creation"
-            }
-          },
-          {
-            "id": "3e77aa04aaa65ac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archetypes/Archetype_Mil_Sec_Detective.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Archetype_Mil_Sec_Detective"
-            }
-          },
-          {
-            "id": "4bb2be5c4b4c18d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skills_Core_Skills.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Skills_Core_Skills"
+              "title": "Class_Samurai"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,15 +171,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "eff959629dd7e91c",
+        "id": "708b66a8f1ec7f08",
         "type": "window",
         "children": [
           {
-            "id": "4d9d8ffafb882f93",
+            "id": "726ea2382c0214bb",
             "type": "tabs",
             "children": [
               {
-                "id": "898d0e02da449108",
+                "id": "863e01a559e0438c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -267,41 +196,41 @@
           }
         ],
         "direction": "vertical",
-        "x": 83,
-        "y": 314,
+        "x": 469,
+        "y": 315,
         "width": 1024,
         "height": 800,
         "maximize": false,
         "zoom": 0
       },
       {
-        "id": "0a8b7eea9e1e4c5e",
+        "id": "9728b80ee8c8e1a2",
         "type": "window",
         "children": [
           {
-            "id": "7e2aa9bddd505daa",
+            "id": "2c139ea6c623d22e",
             "type": "tabs",
             "children": [
               {
-                "id": "e449622aac11262c",
+                "id": "c9becf259bdb1c06",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Classes/Class_Fixer.md",
+                    "file": "Cyberware.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Class_Fixer"
+                  "title": "Cyberware"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 396,
-        "y": 219,
+        "x": 283,
+        "y": 266,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -309,34 +238,33 @@
       }
     ]
   },
-  "active": "4bb2be5c4b4c18d4",
+  "active": "36351faff797cfe2",
   "lastOpenFiles": [
-    "Classes/Class_Fixer.md",
-    "Skills_Core_Skills.md",
+    "Classes/Class_Wolfhound.md",
+    "Classes/Class_War_Driver.md",
+    "Classes/Class_Technoshaman.md",
     "Classes/Class_Samurai.md",
+    "Classes/Class_Psion.md",
+    "Classes/Class_Mother.md",
+    "Classes/Class_Mercenary.md",
+    "Classes/Class_Kinetic_Adept.md",
+    "Classes/Class_Investigator.md",
+    "Classes/Class_Droptripper.md",
+    "Archetypes/Archetype_Quantum_Analyst.md",
+    "GHOSTBURN 2325 IMPORT - original.md",
+    "00_Main_Full_GHOSTBURN_2325.md",
+    "Classes/Class_Face.md",
+    "Cyberware.md",
+    "Classes/Class_Medic.md",
     "Skill List.md",
-    "Skill_Tech.md",
-    "Archetypes/Archetype_Mil_Sec_Detective.md",
-    "Archetypes/Archetype_Driver.md",
-    "Archetypes/Archetype_Bounty_Hunter.md",
-    "Archetypes/Archetype_Body_Bagger.md",
-    "Archetypes/Archetype_Arcology_Athlete.md",
-    "Classes/Class_Operator.md",
-    "Ghostburns/Ghostburn_Swept_Up_by_the_System.md",
-    "Archetypes/Archetype_Street_Ganger.md",
-    "Archetypes/Archetype_Data_Courier.md",
-    "Archetypes/Archetype_Chem_Pharmer.md",
-    "Archetypes/Archetype_Celebrity.md",
-    "Archetypes/Archetype_Brainbox_Kid.md",
-    "Archetypes/Archetype_Bartender.md",
-    "Archetypes/Archetype_Band_Mate.md",
-    "Archetypes/Archetype_Yakuza_Soldier.md",
-    "Archetypes/Archetype_Wageslave.md",
-    "Archetypes/Archetype_Trauma_Medic.md",
-    "Archetypes/Archetype_Underground_Brawler.md",
-    "Archetypes/Archetype_Tech_Mechanic.md",
+    "Droptripper.md",
+    "Chapter_2/ch02_33_Condition_Stabilized.md",
+    "Chapter_2/ch02_02_Condition_Agony.md",
+    "Ghostburns.md",
+    "Classes/Class_Merc.md",
     "Archetypes/Archetype_Technomonger.md",
-    "Archetypes/Archetype_Street_Rat.md",
+    "Classes/1_Class_Wildcard.md",
+    "Character_Creation.md",
     "Classes",
     "Archetypes_Summary.pdf",
     "vice_merchant.png",
