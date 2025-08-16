@@ -21,7 +21,7 @@ Choose one **ghostburn** at character creation. Your ghostburn represents the re
 | **Microscope**    | You were subjected to constant monitoring and correction           | Choose one: Intelligence or Psi       |
 | **Public Enemy**  | You were exposed of a wrongdoing in a very public way              | Choose one: Presence or Awareness     |
 | **Ruined**        | Your professional reputation was destroyed by your enemies         | Choose one: Intelligence or Presence  |
-| **Witness**       | You saw something, a murder, coverup, massive fraud, etc.          | Choose one: Awareness or Agility      |
+| **Witness**       | You saw a bad thing, a murder, coverup, massive fraud, etc.        | Choose one: Awareness or Agility      |
 
 ## Hooks
 

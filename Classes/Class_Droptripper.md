@@ -17,7 +17,7 @@ Choose a background for your character to help define who they used to be. Each 
 **Ghostburn: Ability Score Boost**
 Choose a ghostburn to help explain why your character left their old life. Each ghostburn allows you to pick one of two ability scores to increase by 1.
 
-**Droptripper: Intelligence or Resilience**
+**Droptripper: Ability Score Boost**
 Choose one: Intelligence or Resilience
 The selected ability score is increased by 1.
 
@@ -42,10 +42,10 @@ As a droptripper, you get a +1 bonus to:
 
 Your class also gives you a +1 bonus to two more skill actions. Choose **two** from the following list:
 
-Hacking (Street Hack)
-Hacking (Cyber Hack)
-Tech (Upgrade Device)
-Perception (Scrutinize)
+**Hacking (Street Hack)**
+**Hacking (Cyber Hack)**
+**Tech (Upgrade Device)**
+**Perception (Scrutinize)**
 
 On your character sheet, write "+1" in the parenthesis next to each of the five skill actions: the three you got automatically and the two you picked. 
 

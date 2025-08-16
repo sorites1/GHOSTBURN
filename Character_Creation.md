@@ -1,35 +1,55 @@
 # Character Creation
 
-In this game, each player creates a character to play. As the player, you make all the decisions about your character, including their Background, their natural Abilities, learned Skills, and so on. 
+In this game, each player creates a character to play. As the player, you make all the decisions about your character, including their background, natural abilities, skills, and so on. 
 
 To create a character in ***GHOSTBURN 2325***, follow the steps below.
 
-1. Choose a **Background** - A defining element of your past
-2. Choose a **Ghostburn** and a **Hook** - The reason you left your old life behind and became a ghost
-3. Choose a **Class** and make note of your **Favored Skills** and starting **Skill Actions** 
-4. cyberware
-5. gear
+## 1. Ability Scores
 
-## Step 1: Choose a Background Archetype
+A character's ability scores describe their natural abilities, such as their strength and intelligence. The higher the score, the greater the ability. Scores range from 0 to 5. Ability scores (except Resilience and Psi) can be increased beyond the natural limit of 5 through cybernetic augmentation.
 
-Browse the list of Archetypes and read the **Background** section of each one to understand what it offers. Each Background Archetype grants: 
+| Ability Score | Ability Level | Description                                       |
+| :-----------: | :------------ | :------------------------------------------------ |
+|       0       | Incapable     | Totally non-functional, disabled                  |
+|       1       | Feeble        | Barely capable, like a small child                |
+|       2       | Average       | Human average, sufficient for most things in life |
+|       3       | Impressive    | A step up from most people, competent and capable |
+|       4       | Exceptional   | Better than most, a serious contender             |
+|       5       | Peak Human    | The best of the best                              |
 
-* An ability score increase
-* The rank of Trained in one skill
-* A +1 bonus to one skill action in that skill
-* Access to one Contact Archetype
+Your character has six ability scores (or seven, if you want your character to have psionic powers). 
 
-You may only select one Background Archetype during character creation. 
+| Ability Name | Description                                                      |
+| :----------- | :--------------------------------------------------------------- |
+| Presence     | Force of personality, social awareness, and artistic ability     |
+| Agility      | Quickness, nimbleness, balance, hand-eye coordination            |
+| Strength     | Physical strength, general athleticism                           |
+| Awareness    | Ability to sense surroundings, social insight, abstract thinking |
+| Intelligence | Education, reasoning, logic, general knowledge                   |
+| Resilience   | Bodily fortitude, health, and willpower                          |
+| Psi          | Raw psionic talent                                               |
 
-Once selected, read the **Contact** section of the three Contact Archetypes offered by the Background. The Contact section describes what **Knowledge** the person can provide, the **Resources** they might offer, and what they expect in return (**Quid Pro Quo**). 
+You get **17 points** to distribute between your abilities. Each ability score must be at least 1 (except for Psi, which can remain at 0). Only one ability score can be set to 5. If you want your character to have psionic powers, you must at least have a Psi of 1.
 
-Each entry also includes an **NPC** section, which includes sample stats to allow the GM to drop the NPC Archetype into the story, as needed.
+You will be given the opportunity to raise your ability scores later, once you have played and earned XP. If you start the game with a Psi of 1 or higher, you can raise your Psi score later (up to a maximum of 5), but if you start the game with a Psi of 0, you cannot purchase it. 
 
-## 2. Choose a Burn (or Create Your Own)
+**Example Mundane Character**
+Presence 1
+Agility 5
+Strength 4
+Awareness 2
+Intelligence 1
+Resilience 4
+Psi 0
 
-asfdfasd
+**Example Psionic Character**
+Presence 2
+Agility 2
+Strength 1
+Awareness 2
+Intelligence 2
+Resilience 3
+Psi 5
 
-
-
-
+## 2. Choose a Background
 
