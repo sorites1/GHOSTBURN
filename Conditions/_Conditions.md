@@ -1,4 +1,6 @@
-![[_Conditions]]
+# Conditions
+
+Conditions are statuses that can be applied to characters. Each condition listed below includes its primary cause and often suggests other possible causes, describes the effect the condition has on a person, and explains how the condition is removed.
 
 ![[Condition_Agony]]
 
@@ -22,11 +24,15 @@
 
 ![[Condition_Deafened]]
 
+![[Condition_Deaths_Door]]
+
 ![[Condition_Disfigured_Major]]
 
 ![[Condition_Disfigured_Minor]]
 
 ![[Condition_Distracted]]
+
+![[Condition_Dying]]
 
 ![[Condition_Fine_Motor_Impairment]]
 
@@ -56,9 +62,13 @@
 
 ![[Condition_Prone]]
 
+![[Condition_Severely_Wounded]]
+
+![[Condition_Severely_Wounded]]
+
 ![[Condition_Speech_Impairment]]
 
-![[Condition_Stabilized|Stablized]]
+![[Condition_Stabilized]]
 
 ![[Condition_Stunned]]
 

@@ -1,12 +1,12 @@
 ![[ch01_01_Chapter_1_Intro]]
 
-![[ch01_02_Round_Robin_Flow]]
+![[Round_Robin_the_Flow_of_the_Game]]
 
-![[ch01_03_Turn_Order]]
+![[Turn_Order]]
 
-![[ch01_04_Your_Turn]]
+![[Your_Turn]]
 
-![[ch01_05_Types_of_Turns]]
+![[Types_of_Turns]]
 
 ![[ch01_06_Regular_Turn]]
 
@@ -16,31 +16,31 @@
 
 ![[ch01_09_GM_Turn]]
 
-![[ch01_09.1_Turn_Etiquette]]
+![[Turn_Etiquette]]
 
-![[ch01_10_When_to_Roll]]
+![[When_to_Roll]]
 
 ![[ch01_11_No_Risk_Becomes_Risk]]
 
-![[ch01_11.1_Making_a_Roll]]
+![[Making_a_Roll]]
 
-![[ch01_12_Abilities]]
+![[Abilities_and_Ability_Scores]]
 
 ![[ch01_13_Ability_Scores]]
 
-![[ch01_14_Difficulty_Level]]
+![[Base_Difficulty_Level]]
 
-![[ch01_15_Setting_the_Base_DL]]
+![[Setting_the_Base_DL]]
 
-![[ch01_16_Traits]]
+![[NPC_Traits]]
 
-![[ch01_17_Skill_Action_DL_Chart]]
+![[Skill_Action_DL_Chart]]
 
 ![[ch01_18_Static_DL]]
 
-![[ch01_19_Adjusting_Difficulty_Level]]
+![[Adjusting_Difficulty_Level]]
 
-![[ch01_20_Qualities]]
+![[NPC_Object_and_Environmental_Qualities]]
 
 ![[ch01_21_Conditions]]
 
@@ -52,7 +52,7 @@
 
 ![[ch01_25_Exceeding_Extreme_22]]
 
-![[ch01_26_Outcomes]]
+![[Outcomes_old]]
 
 ![[ch01_27_Success]]
 
@@ -68,7 +68,7 @@
 
 ![[ch01_26.3_Outcome_Upgraded]]
 
-![[ch01_31_Stress_and_Choice]]
+![[Stress_and_Choice]]
 
 ![[ch01_32_Stress_and_Choice_Chart]]
 
