@@ -4,79 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "02c63465ba4413e7",
+        "id": "8d26b99194e05210",
         "type": "tabs",
         "children": [
           {
-            "id": "06253ce25b771f3f",
+            "id": "49637e1930b2cd33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turns/Round_Robin_the_Flow_of_the_Game.md",
+                "file": "Skills and Skill Actions/Keywords.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Round_Robin_the_Flow_of_the_Game"
-            }
-          },
-          {
-            "id": "22793e4f4b5bb5c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Turns/Types_of_Turns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Types_of_Turns"
-            }
-          },
-          {
-            "id": "97ff907acf630f18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Influence_Intimidate_verbose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Influence_Intimidate_verbose"
-            }
-          },
-          {
-            "id": "e22a8036e86ff979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Making_a_Roll/Outcomes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outcomes"
-            }
-          },
-          {
-            "id": "c484d4f13fb7194a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "Keywords"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diamond",
+                "query": "stabilization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,74 +197,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 424,
-        "y": 270,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "89b43028aa70c8de",
-        "type": "window",
-        "children": [
-          {
-            "id": "83a4c060954a689d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6a94a5fc5d40d224",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Skills and Skill Actions/Skill_List.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Skill_List"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1309,
-        "y": 247,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "c8f15ebc88ea893b",
-        "type": "window",
-        "children": [
-          {
-            "id": "d0e92de6c34024c6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3eb142c5af9a6fe6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Skills and Skill Actions/Keywords.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Keywords"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1525,
-        "y": 354,
+        "x": 217,
+        "y": 397,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -327,34 +206,34 @@
       }
     ]
   },
-  "active": "3eb142c5af9a6fe6",
+  "active": "49637e1930b2cd33",
   "lastOpenFiles": [
-    "Skills and Skill Actions/Influence_Persuade.md",
-    "Making_a_Roll/Outcomes.md",
-    "GHOSTBURN 2325 IMPORT - working copy.md",
-    "Conditions/Condition_Break.md",
+    "Skills and Skill Actions/Tech_Street_Hack.md",
+    "Conditions/Condition_Stress.md",
     "Skills and Skill Actions/Keywords.md",
-    "Archive/Outcomes_old.md",
-    "Archive/Influence_Entertain_verbose.md",
+    "GHOSTBURN 2325 IMPORT - working copy.md",
+    "Skills and Skill Actions/Skills_and_Skill_Actions.md",
+    "Skills and Skill Actions/Medicine_First_Aid.md",
+    "Skills and Skill Actions/Influence_Persuade.md",
+    "Skills and Skill Actions/Keywords 1.md",
     "Skills and Skill Actions/Influence_Entertain.md",
     "Skills and Skill Actions/Influence_Intimidate.md",
-    "Conditions/Condition_Shaken.md",
-    "Conditions/Condition_Emotional.md",
-    "Conditions/Condition_Bewildered.md",
-    "Archive/The Burn.md",
-    "Archive/Influence_Intimidate_verbose.md",
-    "Archive/Influence_Persuade_verbose.md",
-    "Conditions/Condition_Reliable.md",
-    "Conditions/Condition_Follower.md",
-    "Conditions/Condition_Compliant.md",
-    "Conditions/Condition_Ally.md",
-    "Conditions/Condition_Traumatized.md",
+    "Health_and_Healing/Stabilization_DL.md",
+    "Health_and_Healing/Hit_Points_and_Conditions.md",
     "Skills and Skill Actions/Skill_List.md",
-    "Archive/Rico.md",
-    "Conditions/Condition_Wounded.md",
-    "Making_a_Roll/Adjusting_the_Difficulty_Level.md",
-    "Skills and Skill Actions/Influence.md",
+    "Making_a_Roll/Difficulty_Level.md",
+    "Making_a_Roll/Outcomes.md",
+    "Conditions/Condition_Break.md",
+    "Conditions/Condition_Blinded.md",
+    "Conditions/Condition_Bleeding.md",
+    "Conditions/Condition_Bewildered.md",
+    "Conditions/Condition_Ally.md",
+    "Conditions/Condition_Agony.md",
+    "Health_and_Healing/Health_Condition_Effects.md",
     "Skills and Skill Actions/_Skills_and_Skill_Actions.md",
+    "Making_a_Roll/Base_Difficulty_Level.md",
+    "Characters/Specializations.md",
+    "Conditions/Condition_Emotional.md",
     "Skill Descriptions",
     "Spending Creds",
     "Skills and Skill Actions",

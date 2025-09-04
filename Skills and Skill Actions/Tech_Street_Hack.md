@@ -1,0 +1,14 @@
+## Street Hack \[Specialization\]
+
+| Difficulty Level (DL) | Skill | Keywords                                                             |
+| --------------------- | ----- | -------------------------------------------------------------------- |
+| \[Security\]          | Tech  | \[Cyber Rig\], \[Physical\], \[Wireless\], \[Two Hands\], \[Visual\] |
+
+When you use Street Hack, your cyber rig creates an AR overlay that allows you select a wireless device in your field of view. The GM should adjust the Difficulty Level based on the relative \[Security\] of the device ranging from retail grade as Easy (6) to military grade as Extreme (22).
+
+| Outcome      | Description                                  |
+| ------------ | -------------------------------------------- |
+| Glitch       | No access and \[Alert\]                      |
+| Fade         | \[Operator\] and \[Stress\] vs. \[Security\] |
+| Success      | \[Operator\]                                 |
+| Cool Success | \[Admin\]                                    |
