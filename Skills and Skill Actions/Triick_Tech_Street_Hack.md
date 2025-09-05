@@ -4,7 +4,7 @@
 | --------------------- | ----- | -------------------------------------------------------------------- |
 | \[Security\]          | Tech  | \[Cyber Rig\], \[Physical\], \[Wireless\], \[Two Hands\], \[Visual\] |
 
-When you use Street Hack, your cyber rig creates an AR overlay that allows you select a wireless device in your field of view. The GM should adjust the Difficulty Level based on the relative \[Security\] of the device ranging from retail grade as Easy (6) to military grade as Extreme (22).
+When you use Street Hack, your cyber rig creates an AR overlay that allows you select a wireless device in your field of view. Selecting a device makes it the subject of your hack.
 
 | Outcome      | Description                                  |
 | ------------ | -------------------------------------------- |

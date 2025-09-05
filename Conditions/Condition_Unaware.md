@@ -1,6 +1,6 @@
 ## Unaware
 
-**Cause:** When you gain \[Unconscious\] or \[Stunned\], you also gain \[Unaware\]. You can also be rendered \[Unaware\] by certain special attacks.
+**Cause:** When you gain \[Unconscious\] or \[Stunned\], you also gain \[Unaware\]. You can also be rendered \[Unaware\] by other circumstances.
 
 **Effect:** You are \[Blinded\], \[Deafened\], and \[Off Guard\]. 
 

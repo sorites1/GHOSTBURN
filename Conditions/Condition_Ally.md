@@ -1,6 +1,6 @@
 ## Ally
 
-**Cause:** When you achieve an Extreme (22) Success on certain skill actions, the target becomes your \[Ally]\. If the target is a \[Group\], one representative individual fills this role.
+**Cause:** When you achieve a Cool Success on certain specializations, the target becomes your \[Ally]\. If the target is a \[Group\], one representative individual fills this role.
 
 **Effect:** The target gains \[Reliable\]. As long as the target is an \[Ally\], they will help you. Beyond just following your instructions or fulfilling your requests, an \[Ally\] will take the initiative to provide assistance. They will try to protect you as best they can, use their skills and knowledge to your benefit, and warn you before you put yourself in danger or miss an opportunity. 
 

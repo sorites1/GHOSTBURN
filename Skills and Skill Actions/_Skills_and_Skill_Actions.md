@@ -1,4 +1,4 @@
-![[Skills_and_Skill_Actions]]
+![[Skills_and_Tricks]]
 
 
 ![[Favored_Skills]]

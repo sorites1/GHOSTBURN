@@ -2,7 +2,7 @@
 
 | Difficulty Level (DL) | Skill    | Keywords                                          |
 | --------------------- | -------- | ------------------------------------------------- |
-| WITS                  | Persuade | \[Attitude\], \[Language\], \[Social\], \[Vocal\] |
+| Wits                  | Persuade | \[Attitude\], \[Language\], \[Social\], \[Vocal\] |
 
 Entertain those around you by with jokes, anecdotes, or a song. Your words can improve the target's \[Attitude\] and prime them for your the next \[Social\] action. 
 

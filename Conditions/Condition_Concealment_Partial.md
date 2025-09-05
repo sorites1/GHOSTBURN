@@ -4,4 +4,4 @@
 
 **Effect:** Attacks made against you by an observer to whom you have \[Concealment, Partial\] have their DL raised by one. Attempts to locate you through sight alone have their DL raised by one.
 
-**Removal:** When you become fully visible to an observer or switch to having \[Concealment, Total\] to them, you no longer have \[Concealment. Partial\] to them.
+**Removal:** When you become fully visible to an observer or gain \[Concealment, Total\] to them, you no longer have \[Concealment. Partial\] to them.
