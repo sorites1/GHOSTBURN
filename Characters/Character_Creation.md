@@ -19,15 +19,15 @@ A character's ability scores describe their natural abilities, such as their str
 
 Your character has six ability scores (or seven, if you want your character to have psionic powers). 
 
-| Ability Name | Description                                                  | Associated Skills       | Additional Impacts                                              |
-| :----------- | :----------------------------------------------------------- | :---------------------- | :-------------------------------------------------------------- |
-| Presence     | Force of personality, social awareness, and artistic ability | Influence and Deception |                                                                 |
-| Agility      | Quickness, nimbleness, balance, and coordination             | Firearms and Stealth    |                                                                 |
-| Strength     | Physical strength and general athleticism                    | Melee and Athletics     | Hit Points                                                      |
-| Awareness    | Physical senses, insight, abstract thinking                  | Perception and Insight  |                                                                 |
-| Intelligence | Education, reasoning, quick thinking, and general knowledge  | Medicine and Tech       | Action Points and extra Luck Points                             |
-| Resilience   | Bodily fortitude, health, and willpower                      | -                       | Mesh Capacity, Hit Points, Stabilization DL, and Wound Recovery |
-| Psi          | Raw psionic talent                                           | -                       | Affects psionic powers                                          |
+| Ability Name | Description                                                  | Associated Skills                 | Additional Impacts                                              |
+| :----------- | :----------------------------------------------------------- | :-------------------------------- | :-------------------------------------------------------------- |
+| Presence     | Force of personality, social awareness, and artistic ability | Bluff, Intimidate, Persuade       |                                                                 |
+| Awareness    | Physical senses, insight, abstract thinking                  | Analyze, Insight, and Perception  |                                                                 |
+| Agility      | Quickness, nimbleness, balance, and coordination             | Drive, Firearms, and Stealth      |                                                                 |
+| Intelligence | Education, reasoning, quick thinking, and general knowledge  | Knowledge, Medicine, and Tech     | Action Points and extra favored skills                          |
+| Strength     | Physical strength and general athleticism                    | Athletics, Brute Force, and Melee | Hit Points                                                      |
+| Resilience   | Bodily fortitude, health, and willpower                      | -                                 | Mesh Capacity, Hit Points, Stabilization DL, and Wound Recovery |
+| Psi          | Raw psionic talent                                           | -                                 | Affects psionic powers                                          |
 
 You get **17 points** to distribute between your abilities. Each ability score must be at least 1 (except for Psi, which can remain at 0). Only one ability score can be set to 5. If you want your character to have psionic powers, you must have a Psi of 1 (or higher).
 
@@ -63,13 +63,9 @@ Each background gives you one culture and a few benefits, which you should note 
 
 Indicate your favored skills by filling in the diamond symbol  (◇) next to the skill name on your character sheet. Later on in the game when you spend XP to improve your character, it costs less to improve the skill actions associated with favored skills than it does to increase skill actions for non-favored skills. 
 
-#### +1 Bonus to a Skill Action
+#### +1 Bonus to a Skill
 
-Write +1 in the parenthesis next to the name of the skill action on your character sheet.
-
-#### +1 Bonus to a Specialization
-
-Write the name of the specialization in the appropriate column on your character. Then write +1 in the parenthesis next to the name. 
+Write +1 in the box next to the skill on your character sheet.
 
 #### Specific Cyberware
 
@@ -153,31 +149,41 @@ You start the game with two contacts.
 
 Choose a favored skill and indicate it on your character sheet by filling in the diamond symbol (◇) next to the skill name on your character sheet. This is in addition to any favored skill(s) you received as part of your background. 
 
-For your reference, the skills are Influence, Deception, Firearms, Stealth, Melee, Athletics, Perception, Insight, Medicine, and Tech.
+For your reference, the skills (and their primary ability scores) are Athletics (Strength), Analyze (Awareness), Bluff (Presence), Brute Force (Strength), Drive (Agility), Firearms (Agility), Insight (Awareness), Intimidate (Presence), Knowledge (Intelligence), Medicine (Intelligence), Melee (Strength), Perception (Awareness), Stealth (Agility), and Tech (Intelligence).
 
-## 5. Distribute Skill Action Bonuses
+### Extra Favored Skills
 
-You get a number of +1 skill action bonuses equal to your Intelligence score. For example, if your character's Intelligence is 2, then you get two +1 skill action bonuses to distribute. This is in addition to any skill action bonuses you received as part of your background.
+If you have a high, natural Intelligence score, you get an extra favored skill or two, as shown below. 
 
-You may put your +1 bonuses in any skill action shown in the Skills section of your character sheet (regardless of whether it is a favored skill or not), but you cannot stack the bonuses during character creation. That is, a +1 bonus is the most you can have for any skill action at the start of the game. 
+| Natural Intelligence Score | Extra Favored Skills     |
+| :------------------------: | ------------------------ |
+|             4              | One extra favored skill  |
+|             5              | Two extra favored skills |
+
+### Luck Points 
+
+For every two favored skills you possess, you get 1 luck point. Indicate your luck points on your character sheet by filling in the correct number of squares. 
+## 5. Distribute Skill Bonuses
+
+You get a number of +1 skill bonuses equal to your Intelligence score. For example, if your character's Intelligence is 2, then you get two +1 skill bonuses to distribute. This is in addition to any skill bonuses you received as part of your background.
+
+You may put your +1 bonuses in any skill on your character sheet (regardless of whether it is a favored skill or not), but you cannot stack the bonuses during character creation. That is, a +1 bonus is the most you can have for any skill at the start of the game. 
 
 ## 6. Finishing Touches
 
 There are a few last things you need to do to finish creating your character.
 
-### Action Points and Luck Points
+### Action Points
 
-Every character gets one **luck point** which can be used once per session to alter the course of the game. Characters with high Intelligence scores get additional luck points.
+You get a number of **action points** to use each time it's your turn in combat. The more action points you have, the more you can do each turn. Your action points are based on your character's Intelligence score. All characters are naturally capped at 3 actions, and the only way to get more is through cyberware or psionics.
 
-You also get a number of **action points** to use each time it's your turn in combat. The more action points you have, the more you can do each turn. Your action points are also based on your character's Intelligence score. 
-
-| Intelligence Score | Benefit                                   |
-| :----------------: | ----------------------------------------- |
-|         1          | 1 action point                            |
-|         2          | 2 action points                           |
-|         3          | 3 action points                           |
-|         4          | 3 action points and one extra luck point  |
-|         5+         | 3 action points and two extra luck points |
+| Natural Intelligence Score | Benefit         |
+| :------------------------: | --------------- |
+|             1              | 1 action point  |
+|             2              | 2 action points |
+|             3              | 3 action points |
+|             4              | 3 action points |
+|             5              | 3 action points |
 
 ### Mesh Capacity
 

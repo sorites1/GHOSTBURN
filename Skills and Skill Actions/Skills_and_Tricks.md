@@ -38,6 +38,6 @@ For example, to go from no bonus (+0) to a +1 bonus costs 5 XP. To go from +1 to
 
 ## Tricks
 
-Tricks are specialized uses of your skills. Your character gets two tricks during character creation. 
+Tricks are specialized uses of your skills.  
 
-Each trick is associated with a skill, and when you use a trick, you roll using that skill's bonus. Like core actions, tricks have their own mechanical outcomes. You should take the time to write your tricks and their details, including their outcomes, on your character sheet in the spaces provided. You can learn new tricks by purchasing them for 5 XP each, but you can only 
+Each trick is associated with a skill, and when you use a trick, you add that skill's bonus to your roll. Like core actions, tricks have their own mechanical outcomes. You should take the time to write your tricks and their details, including their outcomes, on your character sheet in the spaces provided. You can learn new tricks by purchasing them for 5 XP each, but you can only 

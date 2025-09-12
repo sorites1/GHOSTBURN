@@ -1,6 +1,6 @@
 ## Bleeding
 
-**Cause:** When you take damage from an attack that applies this condition, you gain \[Bleeding\].
+**Cause:** When an attack, trick, or effect causes you to lose blood, you gain \[Bleeding\].
 
 **Effect:** At the end of your turn, take 1 damage.
 

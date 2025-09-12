@@ -1,10 +1,10 @@
-## Favored Skills
+## Favored Skills and Luck Points
 
-Favored Skills represent what your character is best at. You get two **favored skills** during character creation, one from your background and one of your choice. Once you play the game and gain Experience Points (XP), you may purchase additional favored skills for 10 XP each. To indicate your character's favored skills, fill in the diamond symbol (◇) next to the skill name on your character sheet. 
+Favored Skills represent what your character is best at. As you play the game and gain Experience Points (XP), you may purchase additional favored skills for 10 XP each. To indicate your character's favored skills, fill in the diamond symbol (◇) next to the skill name on your character sheet. 
 
 ### Luck Points
 
-For every two favored skills your character posses, you gain 1 Luck Point. Since you get two favored skills during character creation, you start the game with 1 Luck Point. (You can also gain Luck Points from having a high Intelligence score.) Once you have purchased two more favored skills, you will gain another Luck Point. 
+For every two favored skills your character posses, you gain 1 Luck Point. 
 
 #### Maximum Luck 
 

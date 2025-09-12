@@ -16,9 +16,9 @@ For example, a character with Strength 2 and Resilience 4 would have:
 
 Calculate your health conditions as shown below. When dividing a score in half results in a fraction, **round up.**
 
-| Health Condition | Hit Points                  | Example with 30 hp Max |
-| :--------------- | :-------------------------- | :--------------------- |
-| Healthy          | Max Hit Points              | 30 hp                  |
-| Wounded          | Half of Healthy             | 15 hp                  |
-| Severely Wounded | Half of Wounded             | 8 hp                   |
-| Death's Door     | Half of Severely<br>Wounded | 4 hp                   |
+| Health Condition | Hit Points               | Example with 30 hp Max |
+| :--------------- | :----------------------- | :--------------------- |
+| Healthy          | Max Hit Points           | 30 hp                  |
+| Wounded          | Half of Healthy          | 15 hp                  |
+| Severely Wounded | Half of Wounded          | 8 hp                   |
+| Death's Door     | Half of Severely Wounded | 4 hp                   |

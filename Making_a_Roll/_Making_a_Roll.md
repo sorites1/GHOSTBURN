@@ -5,9 +5,13 @@
 
 ![[Difficulty_Level]]
 
-![[Base_Difficulty_Level]]
-
 
 ![[Adjusting_the_Difficulty_Level]]
 
-![[Stress_and_Choice]]
+![[Roll 2d10]]
+
+
+![[Outcomes]]
+
+
+![[End_of_the_Action]]

@@ -1,30 +1,33 @@
 ## Making a Roll
 
-When the GM determines that a roll is necessary, they identify the skill (or skill action) and ability score for the player to use, as well as the Difficulty Level of the task. 
+When the GM determines that a roll is necessary, they first identify the **skill** (or **trick**) and **ability score** to use. Then they determine the base **Difficulty Level** for the roll. The Difficulty Level is adjusted up and down, as described in **Adjusting the Difficulty Level** below. Then you roll **2d10**, add your **ability score** along with your **bonuses** (if any) and compare the result to the **outcomes chart** to determine the outcome of the roll.
 
-### Roll a d20
+### Skills and Tricks
 
-The player rolls a **d20** (a twenty-sided die) and adds the **ability score** along with any **bonuses** to get the result. 
+When the GM calls you for you to make a skill roll, you will usually use the skill's **core trick** unless you have a **signature trick** that applies. You can use any skill's core trick without having a bonus in that skill or knowing the trick. If the task requires a signature trick and you do not know it, you cannot even attempt it (though you may be able to attempt something similar). 
 
-| Making a roll...                                               |
-| -------------------------------------------------------------- |
-| d20 + Ability Score + Skill Action Bonus + Luck Bonus = Result |
-### Ability Score
+Note that specific tricks are sometimes denoted in parenthesis after the skill they belong to, such as Persuade (Convince) or Firearms (Single Shot).
 
-All skills (and their skill actions) are associated with a primary ability score, as shown on your character sheet. For example, the Influence skill and its skill actions (Persuade, Intimidate, and Entertain) use Presence. 
+### Ability Scores
 
-The GM might decide to call for another ability score to be used if it's appropriate, such as asking the player to roll Strength with Influence (Intimidate) when they try to literally strongarm someone into compliance.  
+All skills and their tricks are associated with a primary ability score, as shown on your character sheet. For example, the Persuade skill uses Presence as its primary ability score. 
+
+The GM might decide to call for another ability score to be used if it's appropriate, such as asking the player to roll Strength with Intimidate when they try to literally strongarm someone into compliance.  
 
 ### Bonuses
 
-If you have a bonus to the skill action, add it to your roll. 
+If you have a bonus, add it to your roll. There are two types of bonuses in this game: skill bonuses and luck bonuses. 
 
-If the skill you're rolling is a favored skill, you can spend a luck point to get a +1 bonus added to your roll (in addition to your ability score and skill action bonus).
+#### Skill Bonus
 
-### Outcome
+During character creation, and later in the game when you can spend XP, you can put points into skills to give them a bonus. Each skill can have up to a +3 bonus. You can still make a roll to use a skill's core trick, even if you have no bonus in that skill.
 
-Compare the result to the DL to determine success or failure. 
+#### Luck Bonus
 
-If the result equals or exceeds the Difficulty Level, the character succeeds (and may have critically succeeded). If the result is less than the target number, the character fails (and may have critically failed).
+If the skill you're rolling is a favored skill, you can spend a luck point to get a +1 bonus added to your roll (in addition to your ability score and skill bonus).
+
+
+
+
 
 

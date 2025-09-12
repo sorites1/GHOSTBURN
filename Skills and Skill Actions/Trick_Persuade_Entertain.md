@@ -1,14 +1,16 @@
-## Entertain \[Specialization\]
+## Entertain \[Trick\]
 
 | Difficulty Level (DL) | Skill    | Keywords                                          |
 | --------------------- | -------- | ------------------------------------------------- |
 | Wits                  | Persuade | \[Attitude\], \[Language\], \[Social\], \[Vocal\] |
 
-Entertain those around you by with jokes, anecdotes, or a song. Your words can improve the target's \[Attitude\] and prime them for your the next \[Social\] action. 
+*With a few well-timed jokes, anecdotes, or even a song, you entertain those around you.* 
 
-| Outcome      | Description                                      |
-| ------------ | ------------------------------------------------ |
-| Glitch       | Not entertained and \[Attitude\] drops one level |
-| Fade         | \[Entertained\] and \[Stress\] vs. WITS          |
-| Success      | \[Entertained\] and \[Emotional\]                |
-| Cool Success | \[Entertained\], \[Emotional\], and \[Ally\]     |
+Your words can improve the target's \[Attitude\] and prime them for your the next \[Social\] action. 
+
+| Outcome      | Description                                                     |
+| ------------ | --------------------------------------------------------------- |
+| Glitch       | They are not entertained and their \[Attitude\] drops one level |
+| Fade         | They are \[Entertained\] and you have \[Stress\] vs. Wits       |
+| Success      | They are \[Entertained\] and \[Emotional\]                      |
+| Cool Success | They are \[Entertained\], \[Emotional\], and your \[Ally\]      |

@@ -1,6 +1,6 @@
 ## Bewildered
 
-**Cause:** When a skill action, condition, or effect leaves you deeply and utterly confused, you are \[Bewildered\]. This replaces the \[Distracted\] condition.
+**Cause:** When a skill action, condition, or effect leaves you deeply and utterly confused, you are \[Bewildered\]. This counts as and replaces the \[Distracted\] condition.
 
 **Effect:** You are \[Unaware\].
 
