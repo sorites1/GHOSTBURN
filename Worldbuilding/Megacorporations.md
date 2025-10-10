@@ -8,7 +8,7 @@ There are six dominant megacorporations in the world. Collectively, they are kno
 ## Komodo Technologies
 **Primary Domains:** Data, AI, Media
 
-## Yotsuhama-Wolff Mechawerks 
+## Yoshioka-Wolff Mechawerks 
 **Primary Domains:** Automotive, Aerospace, Mil-Sec Armor
 
 ## Leibnizian Industries

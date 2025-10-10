@@ -33,7 +33,7 @@ These are weapon implants.
 | Cyberware                            | Mesh Cost | Reduces Psi | Description                                                                                                                                                                                                         |
 | ------------------------------------ | --------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Cyber Fangs                          | 1         | No          | Retractable or permanent metallic fangs                                                                                                                                                                             |
-| Smartlink                            | 1         | Yes         | Displays distance to target and improves firearms accuracy through vector mapping; when you use a weapon with a smartlink, the DL of Firearms and Heavy Weapons skill actions is lowered by one                     |
+| Smartlink                            | 1         | Yes         | Displays distance to target and improves firearms accuracy through vector mapping; when you use a weapon with a smartlink to make an \[Attack\] with Firearms, the DL is lowered by one.                            |
 | Hand Zapper                          | 1         | No          | Small taser built into the palm                                                                                                                                                                                     |
 | Finger Razors (one hand)             | 1         | No          | Retractable razors slide out from below the fingernails                                                                                                                                                             |
 | Monofilament Whip (one index finger) | 1         | No          | A weighted, razor-sharp monofilament whip (so impossibly thin it is almost invisible) housed in the tip of the user's index finger can be deployed in a split second                                                |
@@ -62,20 +62,20 @@ These are weapon implants.
 | Pain Dial 3               | 5         | Yes         | Allows the user to ignore the effects of Wounded, Severely Wounded, and Death's Door for the remainder of the scene                                                                                                                                                                                                 |
 ### Enhancement Implants
 
-| Cyberware             | Mesh Cost | Reduces Psi | Description                                                                                                                                                                  |
-| --------------------- | --------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pheromone Pump        | 1         | No          | Presence is increased by 1                                                                                                                                                   |
-| Faceshifter           | 2         | No          | Presence is increased by 1; allows you to shift your facial features, such as bone structure, shape of the nose, chin, etc., which grants a +1 bonus to Deception (Disguise) |
-| Subdermal Weave       | 2         | No          | Woven armor implanted under the skin; light armor; not obvious                                                                                                               |
-| Dermal Armor          | 3         | No          | Obvious armor plating implanted into the flesh; medium armor; very obvious                                                                                                   |
-| Muscle Replacements 1 | 3         | No          | Strength is increased by 1                                                                                                                                                   |
-| Muscle Replacements 2 | 6         | No          | Strength is increased by 2                                                                                                                                                   |
-| Muscle Replacements 3 | 9         | No          | Strength is increased by 3                                                                                                                                                   |
-| Synaptic Booster 1    | 4         | Yes         | Intelligence is increased by 1                                                                                                                                               |
-| Synaptic Booster 2    | 8         | Yes         | Intelligence is increased by 2                                                                                                                                               |
-| Wired Reflexes 1      | 6         | Yes         | Agility is increased by 1; gain 1 additional AP at the start of your turn                                                                                                    |
-| Wired Reflexes 2      | 10        | Yes         | Agility is increased by 2; gain 2 additional AP at the start of your turn                                                                                                    |
-| Wired Reflexes 3      | 14        | Yes         | Agility is increased by 3; gain 3 additional AP at the start of your turn                                                                                                    |
+| Cyberware             | Mesh Cost | Reduces Psi | Description                                                                                                                                          |
+| --------------------- | --------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pheromone Pump        | 1         | No          | +1 to Presence                                                                                                                                       |
+| Faceshifter           | 2         | No          | +1 to Presence; allows you to shift your facial features, such as bone structure, shape of the nose, chin, etc., which grants a +1 bonus to Disguise |
+| Subdermal Weave       | 2         | No          | Woven armor implanted under the skin; light armor; not obvious                                                                                       |
+| Dermal Armor          | 3         | No          | Obvious armor plating implanted into the flesh; medium armor; very obvious                                                                           |
+| Muscle Replacements 1 | 3         | No          | +1 to Strength                                                                                                                                       |
+| Muscle Replacements 2 | 6         | No          | +2 to Strength                                                                                                                                       |
+| Muscle Replacements 3 | 9         | No          | +3 to Strength                                                                                                                                       |
+| Synaptic Booster 1    | 4         | Yes         | +1 to Intelligence                                                                                                                                   |
+| Synaptic Booster 2    | 8         | Yes         | +2 to Intelligence                                                                                                                                   |
+| Wired Reflexes 1      | 6         | Yes         | +1 to Agility                                                                                                                                        |
+| Wired Reflexes 2      | 10        | Yes         | +2 to Agility and you can use Dodge if you are hit by a Firearms \[Attack\]                                                                          |
+| Wired Reflexes 3      | 14        | Yes         | +3 to Agility and you can use Dodge if you are hit by a Firearms \[Attack\]                                                                          |
 ### Cybereyes
 
 | Cyberware          | Mesh Cost | Reduces Psi | Description                                              |
@@ -90,7 +90,7 @@ These are weapon implants.
 | Low Light Vision | 1         | -           | Grants ability to see in low light conditions (but not pitch black)      |
 | Thermal Vision   | 1         | -           | Grants ability to see heat sources                                       |
 | Infrared Vision  | 1         | -           | Grants ability to see electromagnetic radiation on the infrared spectrum |
-| Digital Recorder | 1         | -           | See Digital Recorder under Data/Comm Implants                            |
+| Video Recorder   | 1         | -           | See Digital Recorder under Data/Comm Implants                            |
 | Zoom x2          | 1         | -           | Causes targets at medium range to be treated as being at short range     |
 | Zoom x5          | 1         | -           | Causes targets at long range to be treated as being at medium range      |
 | Zoom x10         | 1         | -           | Causes targets at long range to be treated as being at short range       |

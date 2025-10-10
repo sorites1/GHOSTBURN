@@ -4,198 +4,181 @@ In this game, each player creates a character to play. As the player, you make a
 
 To create a character in ***GHOSTBURN 2325***, follow the steps below.
 
-### 1. Ability Scores
+### 1. Background and Burn
 
-A character's ability scores describe their natural abilities, such as their strength and intelligence. The higher the score, the greater the ability. Scores range from 0 to 5. Ability scores (except Resilience and Psi) can be increased beyond the natural limit of 5 through cybernetic augmentation.
+Choose a background and a burn for your character. You can find a list of backgrounds in the next section. Each background includes three burns. Choose one or make up your own. Write the names of your background and burn at the top of your character sheet. 
+
+Your background describes who your character used to be, and your burn is the event or reason you no longer have that life. You got burned and becoming a ghost was the result. 
+
+### 2. Culture
+
+Write a +1 in the skill bonus box for the Culture skill. 
+
+Choose one of the specific subcultures (Corporate, Milsec, Street, or Underworld) offered as signature tricks in the Culture skill. Ideally, your chosen subculture should relate to your background, but you are free to make the choice that is best for your character. Write your subculture in the space labeled Subculture at the top of the character sheet.
+
+### 3. Contacts
+
+A contact is someone you personally know and with whom you are on good terms. You can call on your contacts periodically to see if they can help you. Contacts can provide information, goods or services, or even a place to sleep. You start the game with two contacts.
+
+**Fixer** - Your fixer is the one who "discovered" you after you got burned and put you together with the other ghosts in your crew. The GM will use the fixer offer you jobs, give you access to black market goods and services, and assist with other things you might need. The GM will tell you the fixer's name so you can write it down on your character sheet.
+
+**Choose a Contact** - Choose a contact that has the same subculture as you. This person might be connected to your old life, they may have helped you when you got burned, or perhaps they even introduced you to your fixer. Feel free to come up with a name and a few details about your contact. Write them down on your character sheet and share them with the GM. 
+
+### 4. Ability Scores
+
+A character's ability scores reflect their natural abilities, such as their strength and intelligence. 
+
+| Ability Name | Description                                                  |
+| :----------- | :----------------------------------------------------------- |
+| Presence     | Force of personality, social awareness, and artistic ability |
+| Awareness    | Physical senses, insight, and abstract thinking              |
+| Agility      | Quickness, nimbleness, balance, and coordination             |
+| Intelligence | Education, reasoning, quick thinking, and general knowledge  |
+| Strength     | Physical strength and general athleticism                    |
+| Resilience   | Bodily fortitude, health, and willpower                      |
+| Psi          | Raw psionic talent                                           |
+
+The higher the score, the greater the ability. Natural ability scores range from 1 to 5, as shown below. 
 
 | Ability Score | Ability Level | Description                                       |
 | :-----------: | :------------ | :------------------------------------------------ |
-|       0       | Incapable     | Totally non-functional, disabled                  |
-|       1       | Feeble        | Barely capable, like a small child                |
-|       2       | Average       | Human average, sufficient for most things in life |
-|       3       | Impressive    | A step up from most people, competent and capable |
+|       1       | Weak          | Underdeveloped, marginally capable                |
+|       2       | Below Average | Less capable than most, often struggles           |
+|       3       | Average       | Human average, sufficient for most things in life |
 |       4       | Exceptional   | Better than most, a serious contender             |
 |       5       | Peak Human    | The best of the best                              |
 
-Your character has six ability scores (or seven, if you want your character to have psionic powers). 
+You get **17 points** to distribute between your abilities. Only one ability score can be set to 5 at character creation. The rest must be 4 or less. 
 
-| Ability Name | Description                                                  | Associated Skills                 | Additional Impacts                                              |
-| :----------- | :----------------------------------------------------------- | :-------------------------------- | :-------------------------------------------------------------- |
-| Presence     | Force of personality, social awareness, and artistic ability | Bluff, Intimidate, Persuade       |                                                                 |
-| Awareness    | Physical senses, insight, abstract thinking                  | Analyze, Insight, and Perception  |                                                                 |
-| Agility      | Quickness, nimbleness, balance, and coordination             | Drive, Firearms, and Stealth      |                                                                 |
-| Intelligence | Education, reasoning, quick thinking, and general knowledge  | Knowledge, Medicine, and Tech     | Action Points and extra favored skills                          |
-| Strength     | Physical strength and general athleticism                    | Athletics, Brute Force, and Melee | Hit Points                                                      |
-| Resilience   | Bodily fortitude, health, and willpower                      | -                                 | Mesh Capacity, Hit Points, Stabilization DL, and Wound Recovery |
-| Psi          | Raw psionic talent                                           | -                                 | Affects psionic powers                                          |
+If you want your character to be psionic, you must have a Psi score of 1 (the maximum at character creation). Otherwise, leave Psi at 0. This is the only ability score that can be 0. 
 
-You get **17 points** to distribute between your abilities. Each ability score must be at least 1 (except for Psi, which can remain at 0). Only one ability score can be set to 5. If you want your character to have psionic powers, you must have a Psi of 1 (or higher).
+| Example Character (No Psionics)                                                                 | Example Character (With Psionics)                                                               |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Presence 1<br>Agility 5<br>Strength 4<br>Awareness 2<br>Intelligence 2<br>Resilience 3<br>Psi 0 | Presence 3<br>Agility 3<br>Strength 1<br>Awareness 3<br>Intelligence 2<br>Resilience 4<br>Psi 1 |
+### 5. Favored Skills
 
-You will be given the opportunity to raise your ability scores later, once you have played and earned XP. If you start the game with a Psi of 1 or higher, you can raise your Psi score later (up to a maximum of 5), but if you start the game with a Psi of 0, you cannot purchase it. 
+Choose two skills (other than Culture) as your starting favored skills. Fill in the diamond symbol  (◇) next to the skill name on your character sheet to indicate it as a favored skill, and write +1 in the skill bonus box provided for each. 
 
-**Example Mundane Character**
+Later on in the game when you spend XP to improve your character, it costs fewer XP to improve the skill bonus on  favored skills and to purchase signature tricks associated with your favored skills as compared to non-favored skills. 
 
-Presence 1
-Agility 5
-Strength 4
-Awareness 2
-Intelligence 2
-Resilience 3
-Psi 0
+### 6. Signature Tricks
 
-**Example Psionic Character**
+Choose one signature trick from each of your favored skills (two total). Write the details of each trick in the space labeled Signature Tricks on your character sheet. 
 
-Presence 2
-Agility 2
-Strength 1
-Awareness 2
-Intelligence 2
-Resilience 3
-Psi 5
+As a starting character, it is recommended you take signature tricks with a DL of Moderate (14) or which use an opponent's trait (Wits or Fort) as the DL. Tricks with a DL of Hard (20) and higher are typically reserved for use later in the campaign. 
 
-### 2. Choose a Background
+### 7. Additional Skills
 
-Choose a background for your character. You can find a list of backgrounds and their benefits in the next section. Your background describes who your character used to be before they got burned and became a ghost. 
+Choose three more skills, and write +1 in the skill bonus box for each. No skill may have a skill bonus be higher than +1 at the start of the game.
 
-Each background gives you one culture and a few benefits, which you should note on your character sheet. The types of benefits you can get from a background include: Favored Skill, +1 Bonus to a Skill Action, +1 Bonus to a Specialization, Specific Cyberware, Cyberware Package, and Psionic Powers.
+You do not start the game with signature tricks in these skills, but you can purchase them later in the game once you have earned XP. 
 
-#### Favored Skill
+### 8. Starting Resources
 
-Indicate your favored skills by filling in the diamond symbol  (◇) next to the skill name on your character sheet. Later on in the game when you spend XP to improve your character, it costs less to improve the skill actions associated with favored skills than it does to increase skill actions for non-favored skills. 
+You get **10 points** to spend on the cyberware, gear, and lifestyle. The point cost for each item is shown below. If you do not purchase a lifestyle, your character gets the Street lifestyle at no cost.
 
-#### +1 Bonus to a Skill
+#### Tech Gear
 
-Write +1 in the box next to the skill on your character sheet.
+A \[Cyber Rig\] is a portable device with a keyboard and a \[Datajack\]; required for Hacking.
 
-#### Specific Cyberware
+| Points | Equipment               | Type      | Description              |
+| :----: | ----------------------- | --------- | ------------------------ |
+|   1    | Hand Built Cyber Rig    | Cyber Rig | -                        |
+|   2    | Komodo Ripsaw Cyber Rig | Cyber Rig | +1 gear bonus to Hacking |
+|        |                         |           |                          |
 
-Some backgrounds give you a key piece of cyberware. Write the item down on your character sheet.
+#### Cyberware
 
-#### Cyberware Package ####
+| Points | Cyberware             | Mesh Cost | Reduces Psi | Description                                                                        |
+| :----: | --------------------- | :-------: | ----------- | ---------------------------------------------------------------------------------- |
+|   1    | Datajack              |     1     | Yes         | Used by a \[Cyber Rig\] for Hacking and a \[Control Desk\] for Piloting \[Drones\] |
+|   1    | Smartlink             |     1     | Yes         | +1 aug bonus to Firearms when you use a \[Smartlink\] \[Gun\]                      |
+|   1    | Cybereyes 1           |     1     | Yes         | Thermal                                                                            |
+|   2    | Cybereyes 2           |     2     | Yes         | Low Light, Video Recorder (with sound)                                             |
+|   3    | Muscle Replacements 1 |     3     | No          | +1 to Strength (Aug)                                                               |
+|   3    | Dermal Armor          |     3     | No          | Obvious Armor                                                                      |
+|   4    | Synaptic Booster 1    |     4     | Yes         | +1 to Intelligence (Aug)                                                           |
+|   5    | Skillset 1            |     5     | Yes         | +1 aug bonus to a skill of your choice                                             |
+|   6    | Wired Reflexes 1      |     6     | Yes         | +1 to Agility (Aug), +1 aug bonus to Athletics                                     |
 
-Choose one of the cyberware packages shown below and write each item on your character sheet. Also write the adjusted ability score in the space labeled \[AUG\].
+#### Firearms
 
-**Cyberarm Package**
+Light Pistols are \[Concealable\].
 
-| Mesh Cost | Cyberware                     | Reduces Psi | Description                                                                                                                                                          |
-| --------- | ----------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4         | Cyberarm 1                    | No          | Strength is increased by 1; includes 2 Mesh for add-ons                                                                                                              |
-| (1) Free  | Smartlink (cyberarm)          | Yes         | When using a weapon with a smartlink, the DL for Firearms and Heavy Weapons skill actions is reduced by one                                                          |
-| (1) Free  | Monofilament Whip (cyberaram) | No          | A weighted, razor-sharp monofilament whip (so impossibly thin it is almost invisible) housed in the tip of the user's index finger can be deployed in a split second |
-| 3         | Pain Dial 1                   | Yes         | Allows the user to ignore the effects of Wounded for the remainder of the scene                                                                                      |
-| 1         | Cybereyes 1                   | Yes         | Basic, static color/design, includes 1 Mesh for add-ons                                                                                                              |
-| (1) Free  | Thermal Vision (cybereyes)    | No          | Grants the ability to see heat sources                                                                                                                               |
+| Points | Weapon                 | Type         | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                   |
+| :----: | ---------------------- | ------------ | ------------- | ----------- | ---------- | --------- | ---------------------- |
+|   1    | Beretta 9mm            | Light Pistol | Close         | 5/10/25     | -          | -         | Silencer               |
+|   1    | Ranco Shield Plus .380 | Light Pistol | Close         | 5/10/25     | -          | -         | Underbarrel Flashlight |
+|   1    | EZTech Punisher Lite   | Light Pistol | Close         | 3/5/15      | 4/8/20     | -         | Laser Sight            |
+|   2    | Sterling Elite .45     | Heavy Pistol | Nearby        | 8/16/40     | -          | -         | -                      |
+|   2    | Desert Eagle           | Heavy Pistol | Far           | 10/20/50    | -          | -         | -                      |
+|   2    | Remington Firewalker   | Heavy Pistol | Nearby        | 9/18/45     | -          | -         | -                      |
+|   3    | Uzi                    | SMG          | Nearby        | -           | 10/20/50   | -         | Folding Stock          |
+|   3    | Ingram M21-S           | SMG          | Nearby        | 4/8/20      | 9/18/45    | -         | Silencer               |
+|   4    | AK-97                  | Rifle        | Far           | 10/20/50    | 12/24/60   | 15/30/75  | -                      |
+|   4    | FN-9000                | Rifle        | Far           | 10/20/50    | 11/22/55   | 12/24/60  | Optical Sight          |
 
-**Wired Reflexes Package**
+#### Melee Weapons
 
-| Mesh Cost | Cyberware                    | Reduces Psi | Description                                                                                                 |
-| --------- | ---------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------- |
-| 6         | Wired Reflexes 1             | Yes         | Agility is increased by 1; gain 1 additional AP at the start of your turn                                   |
-| 1         | Smartlink                    | Yes         | When using a weapon with a smartlink, the DL for Firearms and Heavy Weapons skill actions is reduced by one |
-| 1         | Cybereyes 1                  | Yes         | Basic, static color/design, includes 1 Mesh for add-ons                                                     |
-| (1) Free  | Low Light Vision (cybereyes) | No          | Grants ability to see in low light conditions (but not pitch black)                                         |
-#### Psionic Powers
+TBD
 
-Choose three psionic powers from the following list and write them on your character sheet. You may choose three from Psychometry, Danger Sense, Read Aura, Poltergeist, Telekinetic Throw, Pyrokinesis, Push Emotion, Mind Link, and Invisible to the Mind.
 
-## 3. Choose a Ghostburn, Hook, and Contact
+#### Armor
 
-First, choose a **ghostburn** for your character. Your ghostburn describes an event or set of circumstances that explain why you left your old life and became a ghost. 
-### Ghostburn
+When you are wearing armor and are hit by an \[Attack\], the outcome is \[Downgraded\]. If your armor is rated against the weapon type used to make the \[Attack\], the outcome is \[Downgraded\] a second time. 
 
-| Ghostburn         | Description                                                        |
-| ----------------- | ------------------------------------------------------------------ |
-| **Awakened**      | The banality of life almost killed you, and then you woke up       |
-| **Betrayed**      | You were sold out or double-crossed by someone you trusted         |
-| **Compromised**   | Your secret identity was compromised, putting you at risk          |
-| **Dark Secret**   | You learned a dark secret that cannot be ignored                   |
-| **Escaped**       | You were held against your will, but you managed to escape         |
-| **Fake Life**     | You discovered that your life was a carefully fabricated lie       |
-| **Fed Up**        | You finally got fed up with the lies                               |
-| **Framed**        | You were framed for a crime you didn't commit                      |
-| **Glitched**      | Your digital identity was swapped with that of a criminal          |
-| **Left Behind**   | You were abandoned by people you thought you could trust           |
-| **Lost it All**   | You lost everything that was important to you                      |
-| **Left for Dead** | You were part of a terrible accident or atrocity with no survivors |
-| **Made Enemies**  | You have made some powerful enemies through your actions           |
-| **Manslaughter**  | You didn't know your own strength and someone died                 |
-| **Microscope**    | You were subjected to constant monitoring and correction           |
-| **Public Enemy**  | You were exposed of a wrongdoing in a very public way              |
-| **Ruined**        | Your professional reputation was destroyed by your enemies         |
-| **Witness**       | You saw a bad thing, a murder, coverup, massive fraud, etc.        |
+For example, you are wearing a light vest when you are hit by an \[Attack\] made with a light pistol. Because you are wearing armor, the outcome is \[Downgraded\], and since your light vest is rated against light pistols, the damage outcome is \[Downgraded\] again.  
 
-### Hook
+| Points | Armor Type      | Rated Against                                         |
+| :----: | :-------------- | :---------------------------------------------------- |
+|   1    | Light Vest      | Light Pistol                                          |
+|   2    | Heavy Vest      | Light Pistol, Heavy Pistol, SMG                       |
+|   3    | Light Jacket    | Light Pistol                                          |
+|   4    | Heavy Jacket    | Light Pistol, Heavy Pistol, SMG                       |
+|   5    | Body Armor      | Light Pistol, Heavy Pistol, SMG, Rifle, Blades        |
+|   6    | Full Body Armor | Light Pistol, Heavy Pistol, SMG, Rifle, Blades, Clubs |
 
-Choose one **hook** for your ghostburn. The hook you choose frames the lasting consequences of your ghostburn and can be used by the GM to introduce story elements related to your character's background into the game..
+#### Vehicles
 
-| Hook            | Description                                                                                       |
-| --------------- | ------------------------------------------------------------------------------------------------- |
-| **Hunted**      | You are hunted by someone described in your ghostburn, such as the megacorp where you worked      |
-| **Revenge**     | You lust for revenge against someone described in your ghostburn, such as those who hurt you      |
-| **DNE**         | You Do Not Exist in any system and are unable to function in normal society                       |
-| **Broken**      | Your ghostburn left you broken and unable to fit into normal society                              |
-| **Legacy**      | A ghost helped you through your ghostburn, and they showed you the way                            |
-| **Radioactive** | Your old life is over and no one will touch you because they don't want to be associated with you |
+| Points | Vehicle           | Type       | Handling | Stability     | Security      |
+| :----: | ----------------- | ---------- | -------- | ------------- | ------------- |
+|   1    | Fiesta Fortuna    | Sedan      | Poor     | Moderate (14) | Easy (8)      |
+|   2    | Yoshioka Shadow   | Motorcycle | Good     | Easy (8)      | Moderate (14) |
+|   2    | Kangjun Cyclone   | Motorcycle | Average  | Easy (8)      | Hard (20)     |
+|   3    | Wolff Trak        | SUV        | Average  | Moderate (14) | Moderate (14) |
+|   3    | Pellegrini Carino | SUV        | Good     | Easy (8)      | Hard (20)     |
 
-### Contacts
+#### Drones
 
-You start the game with two contacts.
+TBD
 
-**Fixer** - Your first contact is the crew's fixer, an NPC used by the GM to offer you jobs throughout the campaign. Your fixer is the one who "discovered" you and put you together with the other ghosts in your crew. The GM will tell you the fixer's name so you can write it down on your character sheet.
+#### Lifestyle
 
-**Choose a Contact** - Choose another contact from the list of backgrounds that has the same culture you got from your background. This person helped you when you got burned and may have been the one to introduce you to your crew's  fixer. Feel free to come up with a name and a few details about your contact and share them with the GM. 
+You can purchase up to three months of lifestyle during character creation. 
 
-## 4. Choose a Favored Skill
+| Points | Lifestyle | Description                                                                                 |
+| :----: | --------- | ------------------------------------------------------------------------------------------- |
+|   0    | Street    | You live by scavenging and begging for food. You sleep where you can find shelter.          |
+|   2    | Low       | You have a tiny, single room apartment. You share the bathroom with your neighbors.         |
+|   4    | Moderate  | You have a small, single bedroom apartment with its own bathroom.                           |
+|   6    | High      | You have a well-appointment apartment with two bedrooms and a view.                         |
+|   8    | Luxury    | You have a spacious, high-end apartment with multiple bedrooms and a spectacular view.      |
+|   10   | Elite     | You have the multi-level penthouse at the very top of the building with top-end everything. |
 
-Choose a favored skill and indicate it on your character sheet by filling in the diamond symbol (◇) next to the skill name on your character sheet. This is in addition to any favored skill(s) you received as part of your background. 
-
-For your reference, the skills (and their primary ability scores) are Athletics (Strength), Analyze (Awareness), Bluff (Presence), Brute Force (Strength), Drive (Agility), Firearms (Agility), Insight (Awareness), Intimidate (Presence), Knowledge (Intelligence), Medicine (Intelligence), Melee (Strength), Perception (Awareness), Stealth (Agility), and Tech (Intelligence).
-
-### Extra Favored Skills
-
-If you have a high, natural Intelligence score, you get an extra favored skill or two, as shown below. 
-
-| Natural Intelligence Score | Extra Favored Skills     |
-| :------------------------: | ------------------------ |
-|             4              | One extra favored skill  |
-|             5              | Two extra favored skills |
-
-### Luck Points 
-
-For every two favored skills you possess, you get 1 luck point. Indicate your luck points on your character sheet by filling in the correct number of squares. 
-## 5. Distribute Skill Bonuses
-
-You get a number of +1 skill bonuses equal to your Intelligence score. For example, if your character's Intelligence is 2, then you get two +1 skill bonuses to distribute. This is in addition to any skill bonuses you received as part of your background.
-
-You may put your +1 bonuses in any skill on your character sheet (regardless of whether it is a favored skill or not), but you cannot stack the bonuses during character creation. That is, a +1 bonus is the most you can have for any skill at the start of the game. 
-
-## 6. Finishing Touches
+## 9. Finishing Touches
 
 There are a few last things you need to do to finish creating your character.
+### Luck Points 
 
-### Action Points
+For every two favored skills you possess, you get 1 luck point. Since you start the game with two favored skills, you get one luck point. Indicate your luck point on your character sheet by filling in one square in the space labeled Luck Points on your character sheet. 
 
-You get a number of **action points** to use each time it's your turn in combat. The more action points you have, the more you can do each turn. Your action points are based on your character's Intelligence score. All characters are naturally capped at 3 actions, and the only way to get more is through cyberware or psionics.
+### Derived Characteristics
 
-| Natural Intelligence Score | Benefit         |
-| :------------------------: | --------------- |
-|             1              | 1 action point  |
-|             2              | 2 action points |
-|             3              | 3 action points |
-|             4              | 3 action points |
-|             5              | 3 action points |
+Your **Health Levels**, **Mesh Capacity**, and **Stabilization DL** are derived from your other ability scores..
 
-### Mesh Capacity
+#### Health Levels
 
-You have an attribute called **Mesh Capacity** which represents the limit on how much cyberware you can cram in your body.
-
-| Derived Ability Score | Calculation                            |
-| --------------------- | -------------------------------------- |
-| Mesh Capacity         | 10 + Strength score + Resilience score |
-
-### Health Levels
-
-Your hit points are based on your Strength and Resilience scores. Calculate the hit points for your health levels as shown below. When a halving would result in a fraction, round up.
+Your hit points are based on your Strength and Resilience scores. Calculate the hit points for your **Health Levels** as shown below. When a halving would result in a fraction, round up.
 
 | Health Level             | Calculation                 |
 | ------------------------ | --------------------------- |
@@ -204,21 +187,26 @@ Your hit points are based on your Strength and Resilience scores. Calculate the 
 | Severely Wounded         | Half of Wounded             |
 | Death's Door             | Half of Severely Wounded    |
 
-### Cyberware and Gear (or Bonuses)
+#### Mesh Capacity
 
-You get 25,000 cred to spend on your character during character creation. You can use this money to buy equipment, weapons, cyberware, drones, and vehicles. It's important to understand that this is not cash your character possesses, but rather an approximation for the resources they have accumulated over time. 
+You have a derived attribute called **Mesh Capacity** which represents the limit on how much cyberware you can cram in your body.
 
-In addition, you can exchange cred during character creation for skill action bonuses. For every 10,000 cred you spend, you can purchase a +1 bonus to apply to one of the skill actions on your character sheet. You cannot apply this to a skill action that already has a +1 bonus. 
+| Derived Attribute | Calculation                            |
+| ----------------- | -------------------------------------- |
+| Mesh Capacity     | 10 + Strength score + Resilience score |
 
+#### Stabilization DL
 
-| Weapon               | Type     | Mode        | Damage Array   |
-| -------------------- | -------- | ----------- | -------------- |
-| Remington Firewalker | Revolver | Single Shot | 6/8/10/12/14   |
-| AR-99                | Assault  | Single Shot | 6/10/14/18/20  |
-| AR-99                | Assault  | Burst       | 10/16/22/28/34 |
-| Uzi Mark IV          | SMG      | Single Shot | 4/8/12/16/20   |
-| Uzi Mark IV          | SMG      | Burst       | 8/12/16/20/24  |
+When someone uses First Aid on you, they use your \[Stabilization DL\] to make you \[Stabilized\]. Your **\[Stabilization DL]** is based on your Resilience score, as shown below.
 
-### Low Lifestyle
+| Resilience Score | Stabilization DL |
+| :--------------: | :--------------- |
+|        1         | Extreme (32)     |
+|        2         | Severe (26)      |
+|        3         | Hard (20)        |
+|        4         | Moderate (14)    |
+|        5         | Easy (8)         |
 
-Last, write down Low Lifestyle on your character in the designated area. All characters begin the game with Low Lifestyle.
+### Name
+
+Last, don't forget to give your character a name and write it on your character sheet.

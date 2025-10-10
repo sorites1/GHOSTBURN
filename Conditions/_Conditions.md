@@ -54,7 +54,7 @@ Conditions are statuses that can be applied to characters. Each condition listed
 
 ![[Condition_Movement_Restricted]]
 
-![[Condition_Muted]]
+![[Condition_Mute]]
 
 ![[Condition_Off_Balance]]
 

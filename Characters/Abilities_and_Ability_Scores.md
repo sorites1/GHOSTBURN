@@ -1,7 +1,6 @@
 ## Abilities
 
-Each character is composed of the following abilities:
-
+Abilities represent a character's natural, untrained state, their raw potential. Each character is composed of the following **abilities**:
 
 | **Ability**  | **Description**                                                        |
 | ------------ | ---------------------------------------------------------------------- |
@@ -15,14 +14,14 @@ Each character is composed of the following abilities:
 
 ### Ability Scores
 
-Each character has a number, called an ability score, associated with each of their abilities as shown below.
+Each character has an **ability score** associated with each of their abilities. Each ability has a natural range of 1 to 5. Cyberware and psionic mutations can increase your ability bonus (up to +3), for a maximum augmented ability score of 8.
 
-| Ability Score | Ability Level | Description                                          |
+| Ability Bonus | Ability Level | Description                                          |
 | :-----------: | :------------ | :--------------------------------------------------- |
 |       0       | Incapable     | Completely incapable, non-functional                 |
-|       1       | Feeble        | Barely capable, like a small child                   |
-|       2       | Average       | Human average, sufficient for most things in life    |
-|       3       | Impressive    | A step up from most people, competent and capable    |
+|       1       | Weak          | Underdeveloped, marginally capable                   |
+|       2       | Below Average | Less capable than most, often struggles              |
+|       3       | Average       | Human average, sufficient for most things in life    |
 |       4       | Exceptional   | Better than most, a serious contender                |
 |       5       | Peak Human    | The best of the best                                 |
 |       6       | Beyond Human  | Exceeds natural human limits                         |
