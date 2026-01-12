@@ -36,4 +36,4 @@ Occasionally, the rules call for an \[Opposed\] roll, which means both you and t
 
 ### Improvised Tricks
 
-When these rules do not cover the action a player wants their character to perform, the GM can declare it an **improvised trick**. The GM sets the DL using their best judgement. Refer to the DL chart above and use one of the standard five Difficulty Levels: Easy (8), Moderate (14), Hard (20), Severe (26), and Extreme (32). 
+When these rules do not cover the action a player wants their character to perform, the GM can declare it an **improvised trick**. The GM sets the DL using their best judgement. Refer to the DL chart above and use one of the standard five Difficulty Levels: Easy (8), Moderate (14), Hard (20), Severe (26), and Extreme (32).

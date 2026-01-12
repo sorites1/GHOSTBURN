@@ -28,11 +28,11 @@ Your cyberware or psionic mutations can grant **aug bonuses** to specific skills
 
 #### Luck Bonus
 
-If the skill you're rolling is a **favored skill**, you can spend a **luck point** to get a +2 **luck bonus** added to all rolls you make with that skill for the rest of your turn.
+You can spend a **luck point** and choose a skill to get a +2 **luck bonus** to all rolls you make with that skill for the rest of your turn. If the chosen skill is a **favored skill**, you get a +3 luck bonus instead.
 
 ### Stacking Bonuses
 
-For any roll, apply one **ability score**, one **skill bonus**, one **gear bonus**, one **aug bonus**, and one **luck bonus**. You always add one ability score, but you might not have any or all of these bonuses, in which case, you don't apply them. 
+For any roll, apply one **ability score**, one **skill bonus**, one **gear bonus**, one **aug bonus**, and one **luck bonus**. You always add one ability score, but you might not have all (or any) of these bonuses, in which case, you don't apply them. 
 
 Bonuses of the same type that target the same skill do not stack, and only the highest one applies. For example, if you have two pieces of gear that both give a gear bonus to Firearms, only the higher of the two bonuses is applied. 
 

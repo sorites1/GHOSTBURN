@@ -33,5 +33,5 @@ Each character has an **ability score** associated with each of their abilities.
 |      12       | Legendary     | Stories are told of such things, awe-inspiring       |
 |      13       | Unfathomable  | Almost beyond comprehension, unimaginable            |
 |      14       | Supreme       | Nearly breaking the laws of nature, mind-bending     |
-|      15       | Absolute      | Theoretical maximum, godlike capability              |
+|      15       | Absolute      | Theoretical maximum, godlike                         |
 

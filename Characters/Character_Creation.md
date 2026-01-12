@@ -1,28 +1,52 @@
-## Character Creation
+9/## Character Creation
 
 In this game, each player creates a character to play. As the player, you make all the decisions about your character, including their background, natural abilities, skills, and so on. 
 
 To create a character in ***GHOSTBURN 2325***, follow the steps below.
 
-### 1. Background and Burn
+### 1. Background
 
-Choose a background and a burn for your character. You can find a list of backgrounds in the next section. Each background includes three burns. Choose one or make up your own. Write the names of your background and burn at the top of your character sheet. 
+Choose a background for your character. You can find a list of backgrounds in the next section. 
 
-Your background describes who your character used to be, and your burn is the event or reason you no longer have that life. You got burned and becoming a ghost was the result. 
+Your background describes who your character used to be and includes a culture, favored skill, and an additional benefit.
+#### Background Name
 
-### 2. Culture
+Write the name of your background in the space labeled Background on your character sheet.
+#### Culture
 
-Write a +1 in the skill bonus box for the Culture skill. 
+Your background gives you one Culture (Corporate, Milsec, Street, or Underworld). Write your culture in the space labeled Culture at the top of the character sheet.
+#### Favored Skill
 
-Choose one of the specific subcultures (Corporate, Milsec, Street, or Underworld) offered as signature tricks in the Culture skill. Ideally, your chosen subculture should relate to your background, but you are free to make the choice that is best for your character. Write your subculture in the space labeled Subculture at the top of the character sheet.
+Your background gives you one favored skill. Fill in the diamond symbol (◇) next to the skill name on your character sheet to indicate it as a favored skill, and write +1 in its skill bonus box.
+
+Later on in the game when you spend XP to improve your character, it costs fewer XP to improve favored skills and to purchase signature tricks associated with your favored skills as compared to non-favored skills. 
+#### Additional Benefit
+
+Your background also gives you an additional benefit which varies from one background to another. Your background may give you a Contact, Gear, Augment, Signature Trick, or a second Favored Skill. Write the additional benefit on your character sheet in the appropriate area. 
+
+### 2. Burn and Hook
+
+Choose a burn and a hook for your character. You can find a list of burns and hooks after the backgrounds in the next section. 
+
+Your burn is a pivotal event in your life and helps explain why your character is no longer living the life described by their background. Your hook represents the lasting consequences of the burn. 
+
+Your background, burn, and hook should all tie together to show your character's story, like this: 
+
+*I am a **\[Background\]** who was **\[Burned\]**, and now I am **\[Hook\]**.*
+
+For example: 
+
+*I am a **\[Street Vendor\]** who was **\[Witness\]** to a murder and is now being **\[Hunted\]** by the those who want to silence me.*
+
+Write your burn and hook at the top of your character sheet in the spaces labeled Burn and Hook, respectively.
 
 ### 3. Contacts
 
 A contact is someone you personally know and with whom you are on good terms. You can call on your contacts periodically to see if they can help you. Contacts can provide information, goods or services, or even a place to sleep. You start the game with two contacts.
 
-**Fixer** - Your fixer is the one who "discovered" you after you got burned and put you together with the other ghosts in your crew. The GM will use the fixer offer you jobs, give you access to black market goods and services, and assist with other things you might need. The GM will tell you the fixer's name so you can write it down on your character sheet.
+**Medium** - Your medium is the person who "discovered" you after you got burned. They used their power and connections to erase your digital identity on the Net, turning you into a **ghost**, someone who no longer exists in any database. They also put you together with the other ghosts in your crew. The GM will use your medium to offer you jobs, give you access to black market goods and services, and assist with other things you might need. The GM will tell you the medium's name so you can write it down on your character sheet.
 
-**Choose a Contact** - Choose a contact that has the same subculture as you. This person might be connected to your old life, they may have helped you when you got burned, or perhaps they even introduced you to your fixer. Feel free to come up with a name and a few details about your contact. Write them down on your character sheet and share them with the GM. 
+**Choose a Contact** - Choose a contact that has the same culture as you. This person might be connected to your old life, they may have helped you when you got burned, or perhaps they even introduced you to your medium. Feel free to come up with a name and a few details about your contact. Write them down on your character sheet and share them with the GM. 
 
 ### 4. Ability Scores
 
@@ -55,27 +79,16 @@ If you want your character to be psionic, you must have a Psi score of 1 (the ma
 | Example Character (No Psionics)                                                                 | Example Character (With Psionics)                                                               |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Presence 1<br>Agility 5<br>Strength 4<br>Awareness 2<br>Intelligence 2<br>Resilience 3<br>Psi 0 | Presence 3<br>Agility 3<br>Strength 1<br>Awareness 3<br>Intelligence 2<br>Resilience 4<br>Psi 1 |
-### 5. Favored Skills
 
-Choose two skills (other than Culture) as your starting favored skills. Fill in the diamond symbol  (◇) next to the skill name on your character sheet to indicate it as a favored skill, and write +1 in the skill bonus box provided for each. 
+### 5. Additional Skills
 
-Later on in the game when you spend XP to improve your character, it costs fewer XP to improve the skill bonus on  favored skills and to purchase signature tricks associated with your favored skills as compared to non-favored skills. 
-
-### 6. Signature Tricks
-
-Choose one signature trick from each of your favored skills (two total). Write the details of each trick in the space labeled Signature Tricks on your character sheet. 
-
-As a starting character, it is recommended you take signature tricks with a DL of Moderate (14) or which use an opponent's trait (Wits or Fort) as the DL. Tricks with a DL of Hard (20) and higher are typically reserved for use later in the campaign. 
-
-### 7. Additional Skills
-
-Choose three more skills, and write +1 in the skill bonus box for each. No skill may have a skill bonus be higher than +1 at the start of the game.
+Choose three skills, and write +1 in the skill bonus box for each. No skill may have a skill bonus be higher than +1 at the start of the game.
 
 You do not start the game with signature tricks in these skills, but you can purchase them later in the game once you have earned XP. 
 
-### 8. Starting Resources
+### 6. Starting Resources
 
-You get **10 points** to spend on the cyberware, gear, and lifestyle. The point cost for each item is shown below. If you do not purchase a lifestyle, your character gets the Street lifestyle at no cost.
+You get **10 points** to spend on the cybernetic augmentations, gear, and lifestyle. The point cost for each item is shown below. If you do not purchase a lifestyle, your character gets the Street lifestyle at no cost.
 
 #### Tech Gear
 
@@ -87,12 +100,12 @@ A \[Cyber Rig\] is a portable device with a keyboard and a \[Datajack\]; require
 |   2    | Komodo Ripsaw Cyber Rig | Cyber Rig | +1 gear bonus to Hacking |
 |        |                         |           |                          |
 
-#### Cyberware
+#### Cybernetic Augmentations
 
-| Points | Cyberware             | Mesh Cost | Reduces Psi | Description                                                                        |
+| Points | Augmentation          | Mesh Cost | Reduces Psi | Description                                                                        |
 | :----: | --------------------- | :-------: | ----------- | ---------------------------------------------------------------------------------- |
 |   1    | Datajack              |     1     | Yes         | Used by a \[Cyber Rig\] for Hacking and a \[Control Desk\] for Piloting \[Drones\] |
-|   1    | Smartlink             |     1     | Yes         | +1 aug bonus to Firearms when you use a \[Smartlink\] \[Gun\]                      |
+|   1    | Gunlink               |     1     | Yes         | +1 aug bonus to Firearms when you use a \[Gun\] with a \[Gunlink\]                 |
 |   1    | Cybereyes 1           |     1     | Yes         | Thermal                                                                            |
 |   2    | Cybereyes 2           |     2     | Yes         | Low Light, Video Recorder (with sound)                                             |
 |   3    | Muscle Replacements 1 |     3     | No          | +1 to Strength (Aug)                                                               |
@@ -107,16 +120,16 @@ Light Pistols are \[Concealable\].
 
 | Points | Weapon                 | Type         | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                   |
 | :----: | ---------------------- | ------------ | ------------- | ----------- | ---------- | --------- | ---------------------- |
-|   1    | Beretta 9mm            | Light Pistol | Close         | 5/10/25     | -          | -         | Silencer               |
+|   1    | Salvati 9mm            | Light Pistol | Close         | 5/10/25     | -          | -         | Silencer               |
 |   1    | Ranco Shield Plus .380 | Light Pistol | Close         | 5/10/25     | -          | -         | Underbarrel Flashlight |
 |   1    | EZTech Punisher Lite   | Light Pistol | Close         | 3/5/15      | 4/8/20     | -         | Laser Sight            |
-|   2    | Sterling Elite .45     | Heavy Pistol | Nearby        | 8/16/40     | -          | -         | -                      |
-|   2    | Desert Eagle           | Heavy Pistol | Far           | 10/20/50    | -          | -         | -                      |
-|   2    | Remington Firewalker   | Heavy Pistol | Nearby        | 9/18/45     | -          | -         | -                      |
-|   3    | Uzi                    | SMG          | Nearby        | -           | 10/20/50   | -         | Folding Stock          |
-|   3    | Ingram M21-S           | SMG          | Nearby        | 4/8/20      | 9/18/45    | -         | Silencer               |
-|   4    | AK-97                  | Rifle        | Far           | 10/20/50    | 12/24/60   | 15/30/75  | -                      |
-|   4    | FN-9000                | Rifle        | Far           | 10/20/50    | 11/22/55   | 12/24/60  | Optical Sight          |
+|   2    | Sterling Elite .45     | Heavy Pistol | Close         | 8/16/40     | -          | -         | Gunlink                |
+|   2    | Desert Viper           | Heavy Pistol | Far           | 10/20/50    | -          | -         | -                      |
+|   3    | Ranco Firewalker       | Heavy Pistol | Nearby        | 9/18/45     | -          | -         | Gunlink                |
+|   3    | Uzog Mk-9              | SMG          | Nearby        | -           | 10/20/50   | -         | Folding Stock          |
+|   3    | Graham M21-S           | SMG          | Nearby        | 4/8/20      | 9/18/45    | -         | Silencer, Gunlink      |
+|   4    | PX-90                  | Rifle        | Far           | 10/20/50    | 12/24/60   | 15/30/75  | -                      |
+|   4    | Carson Dogleg A1       | Rifle        | Far           | 10/20/50    | 11/22/55   | 12/24/60  | Optical Sight, Gunlink |
 
 #### Melee Weapons
 
@@ -154,7 +167,7 @@ TBD
 
 #### Lifestyle
 
-You can purchase up to three months of lifestyle during character creation. 
+You can purchase one month of lifestyle during character creation. 
 
 | Points | Lifestyle | Description                                                                                 |
 | :----: | --------- | ------------------------------------------------------------------------------------------- |
@@ -165,17 +178,15 @@ You can purchase up to three months of lifestyle during character creation.
 |   8    | Luxury    | You have a spacious, high-end apartment with multiple bedrooms and a spectacular view.      |
 |   10   | Elite     | You have the multi-level penthouse at the very top of the building with top-end everything. |
 
-## 9. Finishing Touches
+## 7. Finishing Touches
 
 There are a few last things you need to do to finish creating your character.
 ### Luck Points 
 
 For every two favored skills you possess, you get 1 luck point. Since you start the game with two favored skills, you get one luck point. Indicate your luck point on your character sheet by filling in one square in the space labeled Luck Points on your character sheet. 
-
 ### Derived Characteristics
 
-Your **Health Levels**, **Mesh Capacity**, and **Stabilization DL** are derived from your other ability scores..
-
+Your **Health Levels**, **Mesh Capacity**, and **Stabilization DL** are derived from your other ability scores.
 #### Health Levels
 
 Your hit points are based on your Strength and Resilience scores. Calculate the hit points for your **Health Levels** as shown below. When a halving would result in a fraction, round up.
@@ -186,15 +197,13 @@ Your hit points are based on your Strength and Resilience scores. Calculate the 
 | Wounded                  | Half of Healthy             |
 | Severely Wounded         | Half of Wounded             |
 | Death's Door             | Half of Severely Wounded    |
+#### Mesh
 
-#### Mesh Capacity
-
-You have a derived attribute called **Mesh Capacity** which represents the limit on how much cyberware you can cram in your body.
+You have a derived attribute called **Mesh** which represents the limit on how much you can cybernetically augment your body.
 
 | Derived Attribute | Calculation                            |
 | ----------------- | -------------------------------------- |
-| Mesh Capacity     | 10 + Strength score + Resilience score |
-
+| Mesh              | 10 + Strength score + Resilience score |
 #### Stabilization DL
 
 When someone uses First Aid on you, they use your \[Stabilization DL\] to make you \[Stabilized\]. Your **\[Stabilization DL]** is based on your Resilience score, as shown below.
@@ -206,7 +215,6 @@ When someone uses First Aid on you, they use your \[Stabilization DL\] to make y
 |        3         | Hard (20)        |
 |        4         | Moderate (14)    |
 |        5         | Easy (8)         |
-
 ### Name
 
 Last, don't forget to give your character a name and write it on your character sheet.

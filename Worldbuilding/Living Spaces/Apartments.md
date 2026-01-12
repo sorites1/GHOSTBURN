@@ -1,0 +1,1 @@
+An **apartment** is a living space of a generous size. In addition to the main living area, it includes at least one bedroom (and may have up to three), as well as a bathroom with sink, shower, and toilet, and a a kitchen capable of cooking a meal from natural ingredients. 

@@ -6,7 +6,7 @@
 
 *You know where to go and what to do to survive on the street.* 
 
-When you use Street Culture, you ask the GM a question related to squatting, homelessness, scavenging, or begging. For example, *What do I know about the Shine Bright Shelter?* or *Where is the nearest homeless camp?* The scope of this trick is limited to information about surviving on the streets.
+When you use Street Culture, you ask the GM a question related to gangs (colors, territory, leadership, factions), squatting, scavenging, stealing, and drugs. For example, *Where is the nearest homeless camp* or *Do I recognize those gang colors? What do I know about the Sick Vultures gang?*
 
 | Outcome      | Description                                         |
 | ------------ | --------------------------------------------------- |

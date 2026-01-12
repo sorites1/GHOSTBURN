@@ -6,7 +6,7 @@
 
 *You are well aware of the equipment, tactics, and methods employed by milsec personnel.* 
 
-When you use Milsec Culture, you ask the GM a question related to milsec (military/security). For example, before infiltrating a corporate compound, you might ask, *What's a typical response for this corp's security guards? Are they going to shoot first and ask questions later?* or *Are these guards well trained or just scrubs with guns?* The scope of this trick is limited to information about milsec, including law enforcement, corporate security, and military assets.
+When you use Milsec Culture, you ask the GM a question related to military and security organizations, weapons, tactics, teamwork, security, crowd control, and black ops. For example, you might ask, *What's a typical response for this corp's security guards? Are they going to shoot first and ask questions later?* *Are these guards well trained or just scrubs with guns?*
 
 | Outcome      | Description                                         |
 | ------------ | --------------------------------------------------- |

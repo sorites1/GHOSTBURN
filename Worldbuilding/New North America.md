@@ -172,7 +172,7 @@ N.O.E. out of spite.
 
 To these French-speaking people, however, N.O.E. was often misheard as
 \"Anneau Oui.\" This linguistic turn took on meaning for those folk, and
-many now refer to the area by that name. To them, it variously means,
+many now refer to the area by that name. To them, it is a double entendre,
 \"The Circle of Those Who Said Yes,\" a reference to the people who made
 this their new home, and \"The Yes Ring,\" meaning, the loop of coastal
 lands and adjoining archipelago, a \"ring\" created by the rising waters

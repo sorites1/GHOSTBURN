@@ -1,8 +1,8 @@
 ## Unarmed Strike \[Core Trick\]
 
-| Difficulty Level (DL) | Skill | Keywords                                                                   |
-| --------------------- | ----- | -------------------------------------------------------------------------- |
-| \[Opposed\]           | Brawl | \[Attack\], \[Physical\], \[Range\], \[Two Hands\], \[Unarmed], \[Visual\] |
+| Difficulty Level (DL) | Skill | Keywords                                                                  |
+| --------------------- | ----- | ------------------------------------------------------------------------- |
+| \[Opposed\]           | Brawl | \[Attack\], \[Physical\], \[Range\], \[One Hand\], \[Unarmed], \[Visual\] |
 
 *You square off against your opponent and hit them with a punch.* 
 

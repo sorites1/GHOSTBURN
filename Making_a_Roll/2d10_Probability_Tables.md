@@ -1,10 +1,10 @@
 ## Probability Tables
 
-| Player Tier | Bonus Range    | Their "Standard" Challenge | Their "Hard" Challenge |
-| ----------- | -------------- | -------------------------- | ---------------------- |
-| **Rookie**  | **+1 to +6**   | Moderate (14)              | Hard (20)              |
-| **Expert**  | **+7 to +12**  | Hard (20)                  | Severe (26)            |
-| **Veteran** | **+13 to +17** | Severe (26)                | Extreme (32)           |
+| Character Tier | Bonus Range    | Their "Standard" Challenge | Their "Hard" Challenge |
+| -------------- | -------------- | -------------------------- | ---------------------- |
+| **Rookie**     | **+1 to +6**   | Moderate (14)              | Hard (20)              |
+| **Expert**     | **+7 to +12**  | Hard (20)                  | Severe (26)            |
+| **Veteran**    | **+13 to +17** | Severe (26)                | Extreme (32)           |
 
 The +2 Luck Bonus is powerful. It can allow a character to succeed at a DL one level higher than normal, and it can significantly reduce the likelihood of a glitch on an otherwise hard roll.
 
