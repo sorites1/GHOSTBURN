@@ -37,30 +37,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Living Spaces/Apartments.md",
+                "file": "Conditions/Condition_Foggy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apartments"
-            }
-          },
-          {
-            "id": "fd65ade417ad08e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment/Damage Array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Damage Array"
+              "title": "Condition_Foggy"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ridgeworld",
+                "query": "wits",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,44 +192,149 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fd65ade417ad08e7",
+  "floating": {
+    "id": "a054a96bdbe19077",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cabf20ddeb9ac20e",
+        "type": "window",
+        "children": [
+          {
+            "id": "c93ad799a90ecd40",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9bc805c939694b29",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Skills and Tricks/Skills_and_Tricks_List.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Skills_and_Tricks_List"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 301,
+        "y": 230,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "6abe89e6eb10a1fc",
+        "type": "window",
+        "children": [
+          {
+            "id": "a863c44b68b526b7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "86f13829f3167507",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Character_Creation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Character_Creation"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1332,
+        "y": 270,
+        "width": 1059,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "67721c73cbef0026",
+        "type": "window",
+        "children": [
+          {
+            "id": "45e5f72a623b6d46",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3cbf4d9c68ca3e54",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Making_a_Roll/Adjusting_the_Difficulty_Level.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Adjusting_the_Difficulty_Level"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 559,
+        "y": 221,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "dc70eb160cd0d1c9",
   "lastOpenFiles": [
-    "Characters/Character_Creation.md",
-    "Equipment/Damage Array.md",
-    "Equipment/Cybernetic Augmentations.md",
-    "Making_a_Roll/Difficulty_Level.md",
+    "Keywords/Keyword_Clearview.md",
+    "Conditions/Condition_Foggy.md",
     "Making_a_Roll/Adjusting_the_Difficulty_Level.md",
-    "Making_a_Roll/Making_a_Roll.md",
-    "Making_a_Roll/Outcomes.md",
-    "Making_a_Roll/Roll 2d10.md",
-    "Skills and Tricks/Trick_Firearms_Core_Single_Shot.md",
-    "Making_a_Roll/End_of_the_Action.md",
-    "Skills and Tricks/Trick_Firearms_Core_Burst_Fire.md",
-    "Skills and Tricks/Trick_Brawl_Core_Unarmed_Strike.md",
-    "Skills and Tricks/Trick_Melee_Leaping_Strike.md",
+    "Conditions/Condition_Raining.md",
+    "Conditions/Condition_Concealment_Partial.md",
+    "Archive/Condition_Dark.md",
+    "Conditions/Condition_Windy.md",
+    "Keywords/Keyword_Range.md",
+    "Keywords/Keyword_Optimal_Range.md",
+    "Keywords/Keyword_Physical.md",
+    "Keywords/Keyword_Thermal_Imaging.md",
+    "Keywords/Keyword_Night_Vision.md",
     "Skills and Tricks/Skills_and_Tricks_List.md",
-    "Skills and Tricks/Trick_Melee_Core_Melee_Strike.md",
-    "Making_a_Roll/_Making_a_Roll.md",
-    "Skills and Tricks/Trick_Athletics_Core_Athletic_Move.md",
-    "Skills and Tricks/Trick_Athletics_Core_Sprint.md",
-    "Making_a_Roll/2d10_Probability_Tables.md",
-    "Equipment/Weapon and Gear Modifiers.md",
-    "Characters/_Character_Creation.md",
-    "Equipment/Lifestyles.md",
+    "Keywords/Keyword_Two_Handed_Grip.md",
+    "Characters/Character_Creation.md",
+    "Gear/Gear_Scope.md",
+    "Gear/Weapon_Types.md",
+    "Gear/Gear_Folding_Stock.md",
     "Characters/Backgrounds.md",
-    "Characters/Burns and Hooks.md",
-    "Untitled.md",
-    "Archive/Ghostburns/Ghostburn_Learned_a_Dark_Secret.md",
-    "Worldbuilding/Living Spaces",
-    "Backgrounds",
-    "Skill Descriptions",
-    "Equipment",
-    "Skills and Tricks",
-    "Worldbuilding",
-    "Characters",
-    "Turns",
-    "Archive/Classes",
-    "Archetypes_Summary.pdf",
+    "Gear/Damage Array.md",
+    "Conditions/Condition_Jammed.md",
+    "Keywords/Keyword_Close.md",
+    "Keywords/Keyword_Move.md",
+    "Keywords/Keyword_Nearby.md",
+    "Conditions/Condition_Movement_Impaired.md",
+    "Conditions/Condition_Suppressed.md",
+    "Cybernetic Augmentations",
+    "link_cleanup_all.py",
+    "link_cleanup_Athletic_Move.py",
+    "debug.py",
+    "link_cleanup.py",
+    "condition_replacer.py",
+    "keyword_fix_pipes.py",
+    "keyword_replacer_All_Keywords.py",
+    "keyword_replacer_Social.py",
+    "keyword_replacer.py",
     "vice_merchant.png",
     "Pasted image 20250630130714.png",
     "Pasted image 20250630123412.png",

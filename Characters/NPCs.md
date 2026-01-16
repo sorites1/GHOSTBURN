@@ -4,23 +4,31 @@ Non-Player Characters, or NPCs, are managed by the GM. They are contacts, enemie
 
 ### NPC Traits
 
-NPCs have three traits: Wits, Fort, and Threat.
+NPCs have three traits: \[[[Keyword_Wits|Wits]]\], \[[[Keyword_Fort|Fort]]\], and \[[[Keyword_Threat|Threat]]\]. 
 
-| Trait    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Attitude | Represents how an NPC feels about a particular person. Attitude can be thought of as a spectrum with three values: Friendly, Neutral, and Hostile. A Friendly NPC is helpful and kind to you. When you use a \[Social\] skill or trick on a Friendly NPC, lower the DL by one. A Neutral NPC is ambivalent towards you, but is willing to do business and will engage in small talk. A Hostile NPC is discourteous and unkind to you and might event \[Attack\] you. When you use a \[Social\] skill or trick on a Hostile NPC, raise the DL by one. |
-| Wits     | This trait represents an NPC's intelligence, knowledge, and social skills. \[Wits\] is expressed as a Difficulty Level.                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Fort     | This trait represents an NPC's fortitude, toughness, and strength. \[Fort\] is expressed as a Difficulty Level.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Threat   | This trait has a natural range from +1 to +5 and represents an NPC's overall combat capability. Cyberware can increase this bonus beyond +5. The GM adds the \[Threat\] bonus to rolls made for an NPC.                                                                                                                                                                                                                                                                                                                                              |
-| Max HP   | An NPC's maximum hit points are equal to their \[Threat\] x 10. For example, an NPC with a Threat of +1 has 10 max hp, whereas an NPC with a Threat of +5 has 50 max hp.                                                                                                                                                                                                                                                                                                                                                                             |
-| Fine     | An NPC who has more hit points than their \[Hurt\] value is \[Fine\].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Hurt     | This trait is equal to the NPC's Max Hit Points divided by 2. For example, an NPC with 10 hp has a \[Hurting\] value of 5 hp.                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Hurting  | An NPC who has hit points equal to or less than their \[Hurt\] value is \[Hurting\]. When an NPC is \[Hurting\], skills and tricks they use have their DL raised by one.                                                                                                                                                                                                                                                                                                                                                                             |
+\[Wits\] and \[Fort\] represent the NPC's smarts and toughness, respectively. They are each expressed as a \[[[Difficulty_Level|Difficulty Level]]\] and come into play when a player uses a trick on the NPC. Want to [[Trick_Stealth_Core_Sneak|Sneak]] past a security guard? That targets the NPC's \[Wits\] to see if they notice you. Want to [[Trick_Insight_Dodge|Dodge]] the guard's punch? That targets their \[Fort\] to see if you can avoid their fist. 
+
+\[Threat\] represents an NPC's overall competence and how much of a threat they pose. \[Threat\] is expressed as a bonus. When the GM rolls for the NPC, they add the NPC's \[Threat\] to get the result. \[Threat\] is used for all NPC rolls. 
+
+### NPC Health Levels
+
+NPCs have four Health Levels, as described below. 
+
+An NPC's maximum hit points (Max HP) is equal to their \[Threat\] x 10. 
+
+For example, an NPC with a Threat of +1 has 10 Max HP, whereas an NPC with a Threat of +5 has 50 Max HP.
+
+| Health Levels | Description                                                                                                       |
+| ------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Uninjured     | An NPC who has taken no damage (and is at full hit points) is \[Uninjured\]. No penalties.                        |
+| Fine          | An NPC who has lost hit points but currently has more than half their Max HP is \[Fine\]. No penalties.           |
+| Hurt          | An NPC who has lost half or more of their Max HP is \[Hurt\]. NPC rolls have their DL raised by one.              |
+| Defeated      | An NPC who has 10% or less of their Max HP is \[Defeated\]. The NPC is dead or nearly so; they cannot make rolls. |
 
 ### NPC Skills
 
-NPCs have access to skills (and can have a bonus up to 3). As the GM, you are free to assign skills and bonuses to an NPC as you see fit. However, remember that, just like players, an NPC does not need a bonus to use a core trick and that a +1 represents Novice, +2 is Expert, and +3 is Professional. 
+NPCs have access to skills (and can have a bonus up to 3). As the GM, you are free to assign skills and bonuses to an NPC as you see fit. However, remember that, just like players, an NPC does not need a bonus to use a core trick and that a +1 represents Novice, +2 is Expert, and +3 is Professional. Some tricks cannot be used on player characters, which is noted in the trick's description if it applies. 
 
 ### NPC Gear
 
-NPCs have access to gear, including armor, cyberware and weapons. However, NPCs benefit from ability boosts granted by cyberware at half the rate and the bonus is added to Threat. For example, a cyberarm (Strength) 2 grants an NPC a +1 bonus to Threat.
+NPCs have access to gear, including armor, cybernetic augments, and weapons. However, NPCs only benefit from ability boosts granted by cyberware at half the rate and the bonus is added to Threat. For example, a cyberarm (Strength) 2 grants an NPC a +1 bonus to Threat.

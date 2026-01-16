@@ -1,27 +1,44 @@
 ## Adjusting the Difficulty Level
 
-Before the roll, the GM should adjust the DL based on relevant **conditions**, the NPC's **\[Attitude\]**, or **environmental effects**. 
+Before the roll, the GM should adjust the DL based on relevant conditions, NPC's attitudes, and environmental effects. 
+
+### Raising and Lowering the DL
+
+When you adjust the DL, you move up or down an entire Difficulty Level tier. That is, if the DL is Moderate (14) and something causes the DL to be raised by one, the DL goes to Hard (20) because that is the next step up in the Difficulty Level chart. If the DL is Moderate (14) and something causes it to be lowered, it goes to Easy (8) because that is the next step down in the chart.
+
+| Difficulty Level | DL Range |
+| :--------------- | :------- |
+| Extreme (32)     | 32 - 37  |
+| Severe (26)      | 26 - 31  |
+| Hard (20)        | 20 - 25  |
+| Moderate (14)    | 14 - 19  |
+| Easy (8)         | 8 - 13   |
+These five Difficulty Levels, Easy (8), Moderate (14), Hard (20), Severe (26), and Extreme (32), are the only DLs you will ever use in this game. You will never apply a +1 to a DL causing it to be 9, for example. When a DL is raised or lowered, it moves a full increment up or down the chart.
+
+#### Easy (8) and Extreme (32)
+
+The level below Easy (8) is considered trivial. If the DL is Easy (8) and a trick or effect lowers it, the GM can rule that no roll is necessary because the action is so trivial, it carries no risk. Otherwise, the DL stays at Easy (8).
+
+The level above Extreme (32) is considered impossible. If the DL is Extreme (32) and a trick or effect raises it, the GM can rule that the action is simply not possible for the character. Otherwise, the DL stays at Extreme (32).
 
 ### Conditions
 
-Conditions like \[Wounded\], \[Distracted\], and \[Inspired\] raise or lower the DL on rolls you make. Conditions are described in their own section later in this book. If a character is under the effects of multiple conditions that alter the DL, they all apply.
+Conditions like \[[[Condition_Wounded|Wounded]]\], \[[[Condition_Distracted|Distracted]]\], and \[[[Condition_Inspired|Inspired]]\] raise or lower the DL on rolls you make. Conditions are described in their own section later in this book. If a character is under the effects of multiple conditions that alter the DL, they all apply.
+
+#### Environmental Effects
+
+When the environment could negatively influence the outcome of a roll, refer to the appropriate conditions in these rules. Some tricks are more difficult to pull off successfully when it is \[[[Condition_Raining|Raining]]\], \[[[Conditions/Condition_Foggy|Foggy]]\], \[[[Conditions/Condition_Windy|Windy]]\] or \[[[Condition_Dark|Dark]]\]. To keep things quick, the GM can eschew these specific conditions and decide to simply raise the DL by one anytime there are one or more environmental effects that make a trick more difficult.
 
 ### Attitude
 
-When you use a \[Social\] trick on an NPC, their \[Attitude\] towards you can raise or lower the DL.
+When you use a \[[[Keyword_Social|Social]]\] trick on an NPC, their \[[[Keyword_Attitude|Attitude]]\] towards you can raise or lower the DL.
 
 | Attitude | Effect                                         |
 | -------- | ---------------------------------------------- |
-| Hostile  | Raises the DL of your \[Social\] tricks by one |
-| Neutral  | No effect                                      |
 | Friendly | Lowers the DL of your \[Social\] tricks by one |
+| Neutral  | No effect                                      |
+| Hostile  | Raises the DL of your \[Social\] tricks by one |
 
-Some tricks cause a target's \[Attitude\] to go up or down. If the target's \[Attitude\] is Hostile and something causes it to go down, the target gains the \[Break\] condition.
 
-### Environmental Effects
 
-When the environment could influence the outcome of a roll, the GM can raise or lower the DL by one, as appropriate. No matter how many environmental effects are at work, they only adjust the DL up or down by one level. For example, if the area is windy, dark, and raining, those environmental effects only raise or lower the DL by one level. 
 
-### Easy (8) and Extreme (32)
-
-You cannot adjust the DL below Easy (8) or beyond Extreme (32). If something were to cause the DL to go lower than Easy (8), it stays at Easy (8). Likewise, if something were to push the DL above Extreme (32), it stays at Extreme (32).

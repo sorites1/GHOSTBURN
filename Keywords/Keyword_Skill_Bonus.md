@@ -1,0 +1,3 @@
+## Skill Bonus
+
+Each of your skills can have a skill bonus (up to +3). Add your skill bonus to your roll when you use a trick governed by that skill. New characters start the game with a +1 bonus to a few skills. Later, once you've played the game and been award some experience points (XP), you can spend those points to pick up a +1 bonus in a new skill or increase an existing bonus (up to +3). This is covered in the Experience Points section of these rules.

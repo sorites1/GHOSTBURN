@@ -2,7 +2,7 @@
 
 | Difficulty Level (DL) | Skill   | Keywords        |
 | --------------------- | ------- | --------------- |
-| Hard (20)             | Culture | \[Concentrate\] |
+| Hard (20)             | Culture | \[[[Keyword_Concentrate\|Concentrate]]\] |
 
 *You know that beneath the glitz and glam of the city lies a thriving and dangerous underworld.* 
 
@@ -10,7 +10,7 @@ When you use Underworld Culture, you ask the GM a question related to organized 
 
 | Outcome      | Description                                         |
 | ------------ | --------------------------------------------------- |
-| Glitch       | You don't know and you are \[Confused\]             |
+| Glitch       | You don't know and you are \[[[Condition_Confused\|Confused]]\]             |
 | Fade         | The GM answers the question and you are \[Confused] |
 | Success      | The GM answers the question                         |
 | Cool Success | The GM answers the question and provides extra info |

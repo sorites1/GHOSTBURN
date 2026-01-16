@@ -2,18 +2,18 @@
 
 | Difficulty Level (DL) | Skill    | Keywords                                                                                                                              |
 | --------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| \[Security\]          | Piloting | \[Concentrate\], \[Control Deck\], \[Datajack\], \[Drone\], \[Fly\], \[Range\], \[Physical\], \[Two Hands\], \[Visual\], \[Wireless\] |
+| \[[[Keyword_Security\|Security]]\]          | Piloting | \[[[Keyword_Concentrate\|Concentrate]]\], \[[[Keyword_Control_Deck\|Control Deck]]\], \[[[Keyword_Datajack\|Datajack]]\], \[[[Keyword_Drone\|Drone]]\], \[[[Keyword_Fly\|Fly]]\], \[[[Keyword_Range\|Range]]\], \[[[Keyword_Physical\|Physical]]\], \[[[Keyword_Two_Hands\|Two Hands]]\], \[[[Keyword_Visual\|Visual]]\], \[[[Keyword_Wireless\|Wireless]]\] |
 
 *Sitting on the side of the road, you remotely pilot a drone and use it to collect intel on your target.*
 
-When you use Drone Recon to scout a location, state the scope of your search, such as *I want to fly up to the 38th floor and see if I can find the room we're looking for*, or *I want to do a flyover of the area and see where the security guards are stationed*. The Difficulty Level is based on the \[Security\] of the airspace you are in. 
+When you use Drone Recon to scout a location, state the scope of your search, such as *I want to fly up to the 38th floor and see if I can find the room we're looking for*, or *I want to do a flyover of the area and see where the security guards are stationed*. The Difficulty Level is based on the \[[[Keyword_Security|Security]]\] of the airspace you are in. 
 
 | Outcome      | Description                                                                                                 |
 | ------------ | ----------------------------------------------------------------------------------------------------------- |
-| Glitch       | You \[Fly\] the \[Drone\] \[Far\], it triggers a \[Security Alert\] and is \[Jammed\]                       |
-| Fade         | You \[Fly\] the \[Drone\] \[Far\], the GM tells you what you find, and you have \[Stress\] vs. \[Security\] |
+| Glitch       | You \[[[Keyword_Fly\|Fly]]\] the \[[[Keyword_Drone\|Drone]]\] \[[[Keyword_Far\|Far]]\], it triggers a \[[[Keyword_Security_Alert\|Security Alert]]\] and is \[[[Condition_Jammed\|Jammed]]\]                       |
+| Fade         | You \[Fly\] the \[Drone\] \[Far\], the GM tells you what you find, and you have \[[[Condition_Stress\|Stress]]\] vs. \[[[Keyword_Security\|Security]]\] |
 | Success      | You \[Fly\] the \[Drone\] \[Far\] and the GM tells you what you find                                        |
-| Cool Success | You \[Fly\] the \[Drone\] \[Far\], the GM tells you what you find, and you learn a \[Secret\]               |
+| Cool Success | You \[Fly\] the \[Drone\] \[Far\], the GM tells you what you find, and you learn a \[[[Keyword_Secret\|Secret]]\]               |
 
 ### Drone Piloting Sidebar
 

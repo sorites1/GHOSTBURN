@@ -21,12 +21,12 @@ Rolling double 10s on 2d10 automatically results in a Cool Success.
 
 When you use a trick included in these rules, you should use the specific outcomes chart included in its description. Each trick has its own outcomes chart but the structure of the four outcomes always follows the universal outcomes shown above. As an example, the outcomes chart for the **Persuade (Haggle)** signature trick is shown below.
 
-| Outcome      | Description                                                     |
-| ------------ | --------------------------------------------------------------- |
-| Glitch       | You get 20% worse price and their \[Attitude\] drops one level  |
-| Fade         | You get 20% better price and their \[Attitude\] drops one level |
-| Success      | You get 20% better price                                        |
-| Cool Success | You get 20% better price and a \[Gift\]                         |
+| Outcome      | Description                                             |
+| ------------ | ------------------------------------------------------- |
+| Glitch       | You get 20% worse price and their \[Attitude\] worsens  |
+| Fade         | You get 20% better price and their \[Attitude\] worsens |
+| Success      | You get 20% better price                                |
+| Cool Success | You get 20% better price and a \[Gift\]                 |
 
 For example, a player rolls Persuade (Haggle) with a DL of Moderate (14). After applying bonuses, their roll results in a 15. This is a Success because the result falls inside the DL range for Moderate (14), which is 14-19.
 ### Opposed Outcomes

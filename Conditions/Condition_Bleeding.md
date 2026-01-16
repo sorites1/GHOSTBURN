@@ -4,4 +4,4 @@
 
 **Effect:** At the end of your turn, take 1 damage.
 
-**Removal:** When you gain the \[Stabilized\] condition, you lose the \[Bleeding\] condition.
+**Removal:** When you gain the \[[[Condition_Stabilized|Stabilized]]\] condition, you lose the \[Bleeding\] condition.

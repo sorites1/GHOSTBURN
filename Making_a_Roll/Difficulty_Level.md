@@ -14,11 +14,11 @@ There are five Difficulty Levels in this game: Easy (8), Moderate (14), Hard (20
 
 | Difficulty Level | DL Range |
 | :--------------- | :------- |
-| Easy (8)         | 8 - 13   |
-| Moderate (14)    | 14 - 19  |
-| Hard (20)        | 20 - 25  |
-| Severe (26)      | 26 - 31  |
 | Extreme (32)     | 32 - 37  |
+| Severe (26)      | 26 - 31  |
+| Hard (20)        | 20 - 25  |
+| Moderate (14)    | 14 - 19  |
+| Easy (8)         | 8 - 13   |
 
 ### Traits as DLs
 
@@ -36,4 +36,4 @@ Occasionally, the rules call for an \[Opposed\] roll, which means both you and t
 
 ### Improvised Tricks
 
-When these rules do not cover the action a player wants their character to perform, the GM can declare it an **improvised trick**. The GM sets the DL using their best judgement. Refer to the DL chart above and use one of the standard five Difficulty Levels: Easy (8), Moderate (14), Hard (20), Severe (26), and Extreme (32).
+When these rules do not cover the action a player wants their character to perform, the GM can declare it an [[Keyword_Improvised_Trick|improvised trick]]. The GM sets the DL using their best judgement. Refer to the DL chart above and use one of the standard five Difficulty Levels: Easy (8), Moderate (14), Hard (20), Severe (26), and Extreme (32).

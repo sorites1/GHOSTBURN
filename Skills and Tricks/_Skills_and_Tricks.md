@@ -1,7 +1,7 @@
 ![[Skills_and_Tricks]]
 
 
-![[Favored_Skills_and_Luck_Points]]
+![[Luck_Points]]
 
 
 ![[Keywords]]

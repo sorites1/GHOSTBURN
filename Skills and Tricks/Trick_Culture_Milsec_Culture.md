@@ -2,7 +2,7 @@
 
 | Difficulty Level (DL) | Skill   | Keywords        |
 | --------------------- | ------- | --------------- |
-| Hard (20)             | Culture | \[Concentrate\] |
+| Hard (20)             | Culture | \[[[Keyword_Concentrate\|Concentrate]]\] |
 
 *You are well aware of the equipment, tactics, and methods employed by milsec personnel.* 
 
@@ -10,7 +10,7 @@ When you use Milsec Culture, you ask the GM a question related to military and s
 
 | Outcome      | Description                                         |
 | ------------ | --------------------------------------------------- |
-| Glitch       | You don't know and you are \[Confused\]             |
+| Glitch       | You don't know and you are \[[[Condition_Confused\|Confused]]\]             |
 | Fade         | The GM answers the question and you are \[Confused] |
 | Success      | The GM answers the question                         |
 | Cool Success | The GM answers the question and provides extra info |

@@ -2,7 +2,7 @@
 
 | Difficulty Level (DL) | Skill   | Keywords        |
 | --------------------- | ------- | --------------- |
-| Moderate (14)         | Culture | \[Concentrate\] |
+| Moderate (14)         | Culture | \[[[Keyword_Concentrate\|Concentrate]]\] |
 
 *You know this city like the back of your hand.* 
 
@@ -10,7 +10,7 @@ When you use City Culture, you ask the GM a question related to the city you're 
 
 | Outcome      | Description                                         |
 | ------------ | --------------------------------------------------- |
-| Glitch       | You don't know and you are \[Confused\]             |
+| Glitch       | You don't know and you are \[[[Condition_Confused\|Confused]]\]             |
 | Fade         | The GM answers the question and you are \[Confused] |
 | Success      | The GM answers the question                         |
 | Cool Success | The GM answers the question and provides extra info |

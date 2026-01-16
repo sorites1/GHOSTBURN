@@ -1,4 +1,4 @@
-9/## Character Creation
+## Character Creation
 
 In this game, each player creates a character to play. As the player, you make all the decisions about your character, including their background, natural abilities, skills, and so on. 
 
@@ -36,7 +36,7 @@ Your background, burn, and hook should all tie together to show your character's
 
 For example: 
 
-*I am a **\[Street Vendor\]** who was **\[Witness\]** to a murder and is now being **\[Hunted\]** by the those who want to silence me.*
+*I am a **\[Street Vendor\]** who was **\[Witness\]** to a murder, and now I'm being **\[Hunted\]** by the megacorp that wants to silence me.*
 
 Write your burn and hook at the top of your character sheet in the spaces labeled Burn and Hook, respectively.
 
@@ -94,11 +94,11 @@ You get **10 points** to spend on the cybernetic augmentations, gear, and lifest
 
 A \[Cyber Rig\] is a portable device with a keyboard and a \[Datajack\]; required for Hacking.
 
-| Points | Equipment               | Type      | Description              |
-| :----: | ----------------------- | --------- | ------------------------ |
-|   1    | Hand Built Cyber Rig    | Cyber Rig | -                        |
-|   2    | Komodo Ripsaw Cyber Rig | Cyber Rig | +1 gear bonus to Hacking |
-|        |                         |           |                          |
+| Points | Equipment               | Type             | Description                                |
+| :----: | ----------------------- | ---------------- | ------------------------------------------ |
+|   1    | Hand Built Cyber Rig    | Cyber Rig        | -                                          |
+|   2    | Komodo Ripsaw Cyber Rig | Cyber Rig        | +1 gear bonus to Hacking                   |
+|        | Ranco Nightrunners      | Tactical Goggles | \[[[Keyword_Night_Vision\|Night Vision]]\] |
 
 #### Cybernetic Augmentations
 
@@ -118,18 +118,22 @@ A \[Cyber Rig\] is a portable device with a keyboard and a \[Datajack\]; require
 
 Light Pistols are \[Concealable\].
 
-| Points | Weapon                 | Type         | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                   |
-| :----: | ---------------------- | ------------ | ------------- | ----------- | ---------- | --------- | ---------------------- |
-|   1    | Salvati 9mm            | Light Pistol | Close         | 5/10/25     | -          | -         | Silencer               |
-|   1    | Ranco Shield Plus .380 | Light Pistol | Close         | 5/10/25     | -          | -         | Underbarrel Flashlight |
-|   1    | EZTech Punisher Lite   | Light Pistol | Close         | 3/5/15      | 4/8/20     | -         | Laser Sight            |
-|   2    | Sterling Elite .45     | Heavy Pistol | Close         | 8/16/40     | -          | -         | Gunlink                |
-|   2    | Desert Viper           | Heavy Pistol | Far           | 10/20/50    | -          | -         | -                      |
-|   3    | Ranco Firewalker       | Heavy Pistol | Nearby        | 9/18/45     | -          | -         | Gunlink                |
-|   3    | Uzog Mk-9              | SMG          | Nearby        | -           | 10/20/50   | -         | Folding Stock          |
-|   3    | Graham M21-S           | SMG          | Nearby        | 4/8/20      | 9/18/45    | -         | Silencer, Gunlink      |
-|   4    | PX-90                  | Rifle        | Far           | 10/20/50    | 12/24/60   | 15/30/75  | -                      |
-|   4    | Carson Dogleg A1       | Rifle        | Far           | 10/20/50    | 11/22/55   | 12/24/60  | Optical Sight, Gunlink |
+| Points | Weapon                | Type         | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                                                                        |
+| :----: | --------------------- | ------------ | ------------- | ----------- | ---------- | --------- | --------------------------------------------------------------------------- |
+|   1    | Ranco Defender .380   | Light Pistol | Close         | 4/8/20      | -          | -         | [[Gear_Underbarrel_Flashlight\|Underbarrel Flashlight]]                     |
+|   1    | EZTech Punisher Lite  | Light Pistol | Close         | 4/8/20      | -          | -         | [[Gear_Laser_Sight\|Laser Sight]]                                           |
+|   2    | Salvati Carino 9mm    | Light Pistol | Close         | 5/10/25     | -          | -         | -                                                                           |
+|   2    | Uzog MP Mk-3          | Light Pistol | Close         | -           | 4/8/20     |           | [[Gear_Silencer\|Silencer]], [[Gear_Gunlink_Grip\|Gunlink Grip]]            |
+|   2    | Sterling Elite .45    | Heavy Pistol | Close         | 8/16/40     | -          | -         | Laser Sight                                                                 |
+|   2    | Argentis Desert Viper | Heavy Pistol | Far           | 10/20/50    | -          | -         |                                                                             |
+|   3    | Ranco .357 Equalizer  | Heavy Pistol | Nearby        | 9/18/45     | -          | -         | Gunlink Grip                                                                |
+|   3    | Graham M21-S          | SMG          | Nearby        | 4/8/20      | 9/18/45    | -         | Silencer, Gunlink Grip                                                      |
+|   3    | Uzog Mini Mk-9        | SMG          | Nearby        | 5/10/25     | 10/20/50   | -         | [[Gear_Folding_Stock\|Folding Stock]], [[Keyword_Concealable\|Concealable]] |
+|   3    | Graham H6             | Shotgun      | Close         | 9/18/45     | -          | -         | Concealable                                                                 |
+|   4    | Ranco 12G Dominator   | Shotgun      | Close         | 10/20/50    | -          | -         | -                                                                           |
+|   4    | Graham PX-90 Carbine  | Rifle        | Nearby        | 9/18/45     | 12/24/60   | 15/30/75  | [[Gear_Gas_Vents\|Gas Vents 1]]                                             |
+|   4    | Salvati Duro Carbine  | Rifle        | Far           | 12/24/60    | -          | -         | [[Gear_Scope\|Scope]]                                                       |
+|   5    | Argentis Falco        | Rifle        | Far           | 15/30/75    | -          | -         | Gas Vents 1, Gunlink Grip, Scope                                            |
 
 #### Melee Weapons
 
@@ -181,12 +185,15 @@ You can purchase one month of lifestyle during character creation.
 ## 7. Finishing Touches
 
 There are a few last things you need to do to finish creating your character.
+
 ### Luck Points 
 
-For every two favored skills you possess, you get 1 luck point. Since you start the game with two favored skills, you get one luck point. Indicate your luck point on your character sheet by filling in one square in the space labeled Luck Points on your character sheet. 
+You start the game with one [[Luck_Points|Luck Point]]. Write a 1 in the space labeled Luck Points on your character sheet. Later in the game, once you've earned XP, you can purchase up to two more Luck Points, for a maximum of three.
+
 ### Derived Characteristics
 
 Your **Health Levels**, **Mesh Capacity**, and **Stabilization DL** are derived from your other ability scores.
+
 #### Health Levels
 
 Your hit points are based on your Strength and Resilience scores. Calculate the hit points for your **Health Levels** as shown below. When a halving would result in a fraction, round up.
@@ -206,7 +213,7 @@ You have a derived attribute called **Mesh** which represents the limit on how m
 | Mesh              | 10 + Strength score + Resilience score |
 #### Stabilization DL
 
-When someone uses First Aid on you, they use your \[Stabilization DL\] to make you \[Stabilized\]. Your **\[Stabilization DL]** is based on your Resilience score, as shown below.
+When someone uses First Aid on you, they use your \[Stabilization DL\] to make you \[Stabilized\]. Your **\[Stabilization DL\]** is based on your Resilience score, as shown below.
 
 | Resilience Score | Stabilization DL |
 | :--------------: | :--------------- |

@@ -2,16 +2,16 @@
 
 | Difficulty Level (DL) | Skill    | Keywords                                                                |
 | --------------------- | -------- | ----------------------------------------------------------------------- |
-| Hard (20)             | Firearms | \[Attack\], \[Gun\], \[Physical\], \[Range\], \[Two Hands\], \[Visual\] |
+| Hard (20)             | Firearms | \[[[Keyword_Attack\|Attack]]\], \[[[Keyword_Gun\|Gun]]\], \[[[Keyword_Physical\|Physical]]\], \[[[Keyword_Range\|Range]]\], \[[[Keyword_Two_Hands\|Two Hands]]\], \[[[Keyword_Visual\|Visual]]\] |
 
 *You blast away with two guns, one in each hand.* 
 
-To use Dual Shot, you must be equipped with two identical pistols or SMGs. When you use Dual Shot, you may target the same opponent with both weapons or two different opponents who are \[Nearby\] to each other. Your opponent(s) must be at the same range as the optimal range listed for your weapon. If they are at a different range, raise the DL by one (only once). Use the Single Shot \[Damage Array\] from one of your weapons. If you use burst mode, use the Burst Fire \[Damage Array\] from one of your weapons and raise the DL by one.
+To use Dual Shot, you must be equipped with two pistols or SMGs. You may target the same opponent or two different opponents who are \[[[Keyword_Nearby|Nearby]]\] to one another. Your opponent(s) must be at your weapons' \[[[Keyword_Optimal_Range|Optimal Range]]\]. If at least one opponent is at a different range, raise the DL by one. When you use \[Dual Shot\], make only one roll and use only one \[Damage Array\]. If your weapons have a Single Shot \[[[Keyword_Damage_Array|Damage Array]]\] you may use it to calculate damage. If your weapons have a Burst Fire \[Damage Array\], you may use it instead, but doing so raise the DL by one, and you must declare your intent to use Burst Fire prior to making your roll. Both weapons must use the same mode, Single Shot or Burst Fire.
 
-| Outcome      | Description                                                                                            |
-| ------------ | ------------------------------------------------------------------------------------------------------ |
-| Glitch       | Weapon jam or out of ammo. You must spend 1 AP to use this weapon again.                               |
-| Fade         | Choose one: One opponent takes \[Normal Damage\] or two opponents take \[Minimum Damage]               |
-| Success      | Choose one: One opponent takes \[Maximum Damage] or two opponents each take \[Normal Damage\]          |
-| Cool Success | Choose one: One opponent takes double \[Maximum Damage\] or two opponents each take \[Maximum Damage\] |
+| Outcome      | Description                                                                                                                                                           |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Glitch       | One weapon jams or out of ammo. You must spend 1 AP to use this weapon again.                                                                                         |
+| Fade         | If you had one target, they take \[[[Keyword_Normal_Damage\|Normal Damage]]\]<br>If you had two targets, they each take \[[[Keyword_Minimum_Damage\|Minimum Damage]]] |
+| Success      | If you had one target, they take \[[[Keyword_Maximum_Damage\|Maximum Damage]]\]<br>If you had two targets they each take \[Normal Damage\]                            |
+| Cool Success | If you had one target, they take double \[Maximum Damage\] <br>If you had two targets, they each take \[Maximum Damage\]                                              |
 

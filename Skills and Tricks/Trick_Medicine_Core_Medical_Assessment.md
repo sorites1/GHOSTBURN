@@ -2,7 +2,7 @@
 
 | Difficulty Level (DL) | Skill    | Keywords                    |
 | --------------------- | -------- | --------------------------- |
-| Hard (20)             | Medicine | \[Concentrate\], \[Visual\] |
+| Hard (20)             | Medicine | \[[[Keyword_Concentrate\|Concentrate]]\], \[[[Keyword_Visual\|Visual]]\] |
 
 *You provide your medical opinion of a patient, a corpse, or a set of medical records.*
 
@@ -10,7 +10,7 @@ When you use Medical Assessment, ask the GM a medical question related to the su
 
 | Outcome      | Description                                           |
 | ------------ | ----------------------------------------------------- |
-| Glitch       | You don't know and you are \[Confused\]               |
+| Glitch       | You don't know and you are \[[[Condition_Confused\|Confused]]\]               |
 | Fade         | The GM answers the question and you are \[Confused]   |
 | Success      | The GM answers the question                           |
-| Cool Success | The GM answers the question and you gain a \[Secret\] |
+| Cool Success | The GM answers the question and you gain a \[[[Keyword_Secret\|Secret]]\] |

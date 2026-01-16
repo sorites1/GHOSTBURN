@@ -6,7 +6,7 @@
 | **Expert**     | **+7 to +12**  | Hard (20)                  | Severe (26)            |
 | **Veteran**    | **+13 to +17** | Severe (26)                | Extreme (32)           |
 
-The +2 Luck Bonus is powerful. It can allow a character to succeed at a DL one level higher than normal, and it can significantly reduce the likelihood of a glitch on an otherwise hard roll.
+The +2 Luck Bonus (+3 if used with a favored skill) is powerful. It can allow a character to succeed at a DL one level higher than normal, and it can significantly reduce the likelihood of a glitch on an otherwise hard roll.
 
 ### Difficulty Level: Easy (8) | Target Range: 8-13
 

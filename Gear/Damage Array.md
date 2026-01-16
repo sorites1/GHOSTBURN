@@ -17,9 +17,9 @@ For example, a weapon with a Base Value of 5 would have a \[Damage Array\] of 5/
 
 #### Firing Modes
 
-Weapons that have multiple firing modes have a damage array for each mode. For example, a light pistol only has a damage array for \[Single Shot\], but a PX-90 rifle has three damage arrays, one for each \[Single Shot\], \[Burst Fire\], and \[Full Auto\]. The damage array for \[Burst Fire\] and \[Full Auto\] use an adjusted Base Value to produce a damage array with higher values because the represent a larger volume of bullets. 
+Weapons that have multiple firing modes have a damage array for each mode. For example, a light pistol only has a damage array for \[Single Shot\], but a PX-90 rifle has three damage arrays, one for each \[Single Shot\], \[Burst Fire\], and \[Full Auto\]. The damage array for \[Burst Fire\] and \[Full Auto\] use an adjusted Base Value to produce a damage array with higher values because the represent a larger volume of rounds. 
 
-### Brawl Damage Array
+### Brawl Damage
 
 When you use a Brawl trick, such as Brawl (Unarmed Strike), to make an attack, such as by punching your opponent, the \[Minimum Damage\] is equal to your Strength score. \[Normal Damage\] is your Strength score times two. \[Maximum Damage\] is your Strength score times five.
 

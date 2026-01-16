@@ -1,8 +1,0 @@
-
-| Quality       | Type               | Effect                                                                                                                                                                                                          |
-| ------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Night Vision  | Equipment, Augment | You can see as well in the darkness as you can in the light. You ignore the effects of \[Dark\].                                                                                                                |
-| Folding Stock | Weapon             | This weapon includes a folding stock, which can be deployed in combat by spending 1 AP. When deployed, the folding stock reduces recoil, causing attacks made with this weapon to have their DL lowered by one. |
-| Gas Vents     | Weapon             | This weapon includes gas vents that help reduce recoil. Attacks made with this weapon have their DL lowered by one.                                                                                             |
-| Scope         | Weapon             | This weapon includes a scope that helps you hit distant targets. Attacks made with this weapon against targets at medium or long range have their DL lowered by one.                                            |
-| Silencer      | Weapon             | This weapon includes a silencer that reduces the muzzle flash and noise caused by firing. Attempts to notice the sound of gunfire or the muzzle flash when this weapon is fired have their DL raised by one.    |
