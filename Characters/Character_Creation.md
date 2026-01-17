@@ -22,7 +22,7 @@ Your background gives you one favored skill. Fill in the diamond symbol (◇) ne
 Later on in the game when you spend XP to improve your character, it costs fewer XP to improve favored skills and to purchase signature tricks associated with your favored skills as compared to non-favored skills. 
 #### Additional Benefit
 
-Your background also gives you an additional benefit which varies from one background to another. Your background may give you a Contact, Gear, Augment, Signature Trick, or a second Favored Skill. Write the additional benefit on your character sheet in the appropriate area. 
+Your background also gives you an additional benefit which varies from one background to another. Your background may give you a piece of Gear, a cybernetic Augment, a Signature Trick, or even a bit of extra Luck. Write the additional benefit on your character sheet in the appropriate area. 
 
 ### 2. Burn and Hook
 
@@ -80,7 +80,7 @@ If you want your character to be psionic, you must have a Psi score of 1 (the ma
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Presence 1<br>Agility 5<br>Strength 4<br>Awareness 2<br>Intelligence 2<br>Resilience 3<br>Psi 0 | Presence 3<br>Agility 3<br>Strength 1<br>Awareness 3<br>Intelligence 2<br>Resilience 4<br>Psi 1 |
 
-### 5. Additional Skills
+### 5. Additional Skill Bonuses
 
 Choose three skills, and write +1 in the skill bonus box for each. No skill may have a skill bonus be higher than +1 at the start of the game.
 
@@ -94,11 +94,11 @@ You get **10 points** to spend on the cybernetic augmentations, gear, and lifest
 
 A \[Cyber Rig\] is a portable device with a keyboard and a \[Datajack\]; required for Hacking.
 
-| Points | Equipment               | Type             | Description                                |
-| :----: | ----------------------- | ---------------- | ------------------------------------------ |
-|   1    | Hand Built Cyber Rig    | Cyber Rig        | -                                          |
-|   2    | Komodo Ripsaw Cyber Rig | Cyber Rig        | +1 gear bonus to Hacking                   |
-|        | Ranco Nightrunners      | Tactical Goggles | \[[[Keyword_Night_Vision\|Night Vision]]\] |
+| Points | Equipment               | Type             | Description                             |
+| :----: | ----------------------- | ---------------- | --------------------------------------- |
+|   1    | Hand Built Cyber Rig    | Cyber Rig        | -                                       |
+|   1    | Ranco Nightrunners      | Tactical Goggles | \[[[Gear_Night_Vision\|Night Vision]]\] |
+|   2    | Komodo Ripsaw Cyber Rig | Cyber Rig        | +1 gear bonus to Hacking                |
 
 #### Cybernetic Augmentations
 
@@ -107,7 +107,7 @@ A \[Cyber Rig\] is a portable device with a keyboard and a \[Datajack\]; require
 |   1    | Datajack              |     1     | Yes         | Used by a \[Cyber Rig\] for Hacking and a \[Control Desk\] for Piloting \[Drones\] |
 |   1    | Gunlink               |     1     | Yes         | +1 aug bonus to Firearms when you use a \[Gun\] with a \[Gunlink\]                 |
 |   1    | Cybereyes 1           |     1     | Yes         | Thermal                                                                            |
-|   2    | Cybereyes 2           |     2     | Yes         | Low Light, Video Recorder (with sound)                                             |
+|   2    | Cybereyes 2           |     2     | Yes         | Night Vision, Video Recorder (with sound)                                          |
 |   3    | Muscle Replacements 1 |     3     | No          | +1 to Strength (Aug)                                                               |
 |   3    | Dermal Armor          |     3     | No          | Obvious Armor                                                                      |
 |   4    | Synaptic Booster 1    |     4     | Yes         | +1 to Intelligence (Aug)                                                           |
@@ -116,23 +116,23 @@ A \[Cyber Rig\] is a portable device with a keyboard and a \[Datajack\]; require
 
 #### Firearms
 
-Light Pistols are \[Concealable\].
+A gun is a necessity on the street. It's useful for self-protection, and in your line of work, it's a tool of the trade.
 
 | Points | Weapon                | Type         | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                                                                        |
 | :----: | --------------------- | ------------ | ------------- | ----------- | ---------- | --------- | --------------------------------------------------------------------------- |
 |   1    | Ranco Defender .380   | Light Pistol | Close         | 4/8/20      | -          | -         | [[Gear_Underbarrel_Flashlight\|Underbarrel Flashlight]]                     |
-|   1    | EZTech Punisher Lite  | Light Pistol | Close         | 4/8/20      | -          | -         | [[Gear_Laser_Sight\|Laser Sight]]                                           |
-|   2    | Salvati Carino 9mm    | Light Pistol | Close         | 5/10/25     | -          | -         | -                                                                           |
-|   2    | Uzog MP Mk-3          | Light Pistol | Close         | -           | 4/8/20     |           | [[Gear_Silencer\|Silencer]], [[Gear_Gunlink_Grip\|Gunlink Grip]]            |
-|   2    | Sterling Elite .45    | Heavy Pistol | Close         | 8/16/40     | -          | -         | Laser Sight                                                                 |
+|   1    | EZTech Punisher Lite  | Light Pistol | Close         | 5/10/25     | -          | -         | -                                                                           |
+|   2    | Uzog MP Mk-3          | Light Pistol | Close         | -           | 6/12/30    | -         | [[Gear_Silencer\|Silencer]]                                              |
+|   2    | Salvati Carino 9mm    | Light Pistol | Close         | 5/10/25     | -          | -         | Gunlink Grip                                                                |
+|   2    | Sterling Elite .45    | Heavy Pistol | Close         | 8/16/40     | -          | -         | [[Gear_Laser_Sight\|Laser Sight]]                                           |
 |   2    | Argentis Desert Viper | Heavy Pistol | Far           | 10/20/50    | -          | -         |                                                                             |
-|   3    | Ranco .357 Equalizer  | Heavy Pistol | Nearby        | 9/18/45     | -          | -         | Gunlink Grip                                                                |
+|   3    | Ranco .357 Equalizer  | Heavy Pistol | Nearby        | 9/18/45     | -          | -         | Laser Sight                                                                 |
 |   3    | Graham M21-S          | SMG          | Nearby        | 4/8/20      | 9/18/45    | -         | Silencer, Gunlink Grip                                                      |
 |   3    | Uzog Mini Mk-9        | SMG          | Nearby        | 5/10/25     | 10/20/50   | -         | [[Gear_Folding_Stock\|Folding Stock]], [[Keyword_Concealable\|Concealable]] |
 |   3    | Graham H6             | Shotgun      | Close         | 9/18/45     | -          | -         | Concealable                                                                 |
 |   4    | Ranco 12G Dominator   | Shotgun      | Close         | 10/20/50    | -          | -         | -                                                                           |
 |   4    | Graham PX-90 Carbine  | Rifle        | Nearby        | 9/18/45     | 12/24/60   | 15/30/75  | [[Gear_Gas_Vents\|Gas Vents 1]]                                             |
-|   4    | Salvati Duro Carbine  | Rifle        | Far           | 12/24/60    | -          | -         | [[Gear_Scope\|Scope]]                                                       |
+|   4    | Salvati Duro Carbine  | Rifle        | Nearby        | 9/18/45     | 12/24/60   | -         | [[Gear_Scope\|Scope]]                                                       |
 |   5    | Argentis Falco        | Rifle        | Far           | 15/30/75    | -          | -         | Gas Vents 1, Gunlink Grip, Scope                                            |
 
 #### Melee Weapons
@@ -142,18 +142,16 @@ TBD
 
 #### Armor
 
-When you are wearing armor and are hit by an \[Attack\], the outcome is \[Downgraded\]. If your armor is rated against the weapon type used to make the \[Attack\], the outcome is \[Downgraded\] a second time. 
+The streets are deadly without some form of body protection. It is recommended that all characters start with \[[[Keyword_Armor|Armor]]\].
 
-For example, you are wearing a light vest when you are hit by an \[Attack\] made with a light pistol. Because you are wearing armor, the outcome is \[Downgraded\], and since your light vest is rated against light pistols, the damage outcome is \[Downgraded\] again.  
+| Points | Armor Type      | Rated Against Weapon Groups                                  |
+| :----: | :-------------- | :----------------------------------------------------------- |
+|   1    | Leather Jacket  | \[[[Keyword_Bladed\|Bladed]]\]                               |
+|   2    | Armor Vest      | \[[[Keyword_Light_Arms\|Light Arms]]\]                       |
+|   3    | Nanoweave Vest  | Light Arms, Bladed, \[[[Keyword_Blunt_Force\|Blunt Force]]\] |
+|   4    | Hard Armor      | Light Arms, \[[[Keyword_Heavy_Arms\|Heavy Arms]]\], Bladed   |
+|   5    | Full Body Armor | Light Arms, Heavy Arms, Bladed, Blunt Force                  |
 
-| Points | Armor Type      | Rated Against                                         |
-| :----: | :-------------- | :---------------------------------------------------- |
-|   1    | Light Vest      | Light Pistol                                          |
-|   2    | Heavy Vest      | Light Pistol, Heavy Pistol, SMG                       |
-|   3    | Light Jacket    | Light Pistol                                          |
-|   4    | Heavy Jacket    | Light Pistol, Heavy Pistol, SMG                       |
-|   5    | Body Armor      | Light Pistol, Heavy Pistol, SMG, Rifle, Blades        |
-|   6    | Full Body Armor | Light Pistol, Heavy Pistol, SMG, Rifle, Blades, Clubs |
 
 #### Vehicles
 

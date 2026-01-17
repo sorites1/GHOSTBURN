@@ -2,9 +2,9 @@
 
 Without this trick, 
 
-| Difficulty Level (DL) | Skill | Keywords                                                  |
-| --------------------- | ----- | --------------------------------------------------------- |
-| \[[[Keyword_Opposed\|Opposed]]\]           | Brawl | \[[[Keyword_Attack\|Attack]]\], \[[[Keyword_Move\|Move]]\], \[[[Keyword_Physical\|Physical]]\], \[[[Keyword_Range\|Range]]\], \[[[Keyword_Visual\|Visual]]\] |
+| Difficulty Level (DL)            | Skill | Keywords                                                                                                                                                     |
+| -------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| \[[[Keyword_Opposed\|Opposed]]\] | Brawl | \[[[Keyword_Attack\|Attack]]\], \[[[Keyword_Move\|Move]]\], \[[[Keyword_Physical\|Physical]]\], \[[[Keyword_Range\|Range]]\], \[[[Keyword_Visual\|Visual]]\] |
 
 *You run after your opponent, grabbing them and tacking them to the ground.* 
 

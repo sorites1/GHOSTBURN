@@ -8,45 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f14783fc2b947127",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ef8099ad658b95c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worldbuilding/Chūnibyō.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chūnibyō"
-            }
-          },
-          {
             "id": "dc70eb160cd0d1c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conditions/Condition_Foggy.md",
+                "file": "Turns/Turn_Length.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Condition_Foggy"
+              "title": "Turn_Length"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wits",
+                "query": "downgraded",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,76 +230,43 @@
           }
         ],
         "direction": "vertical",
-        "x": 1332,
-        "y": 270,
+        "x": 620,
+        "y": 239,
         "width": 1059,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "67721c73cbef0026",
-        "type": "window",
-        "children": [
-          {
-            "id": "45e5f72a623b6d46",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3cbf4d9c68ca3e54",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Making_a_Roll/Adjusting_the_Difficulty_Level.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Adjusting_the_Difficulty_Level"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 559,
-        "y": 221,
-        "width": 1024,
         "height": 800,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "dc70eb160cd0d1c9",
+  "active": "dab7700461c9934b",
   "lastOpenFiles": [
-    "Keywords/Keyword_Clearview.md",
-    "Conditions/Condition_Foggy.md",
-    "Making_a_Roll/Adjusting_the_Difficulty_Level.md",
-    "Conditions/Condition_Raining.md",
-    "Conditions/Condition_Concealment_Partial.md",
-    "Archive/Condition_Dark.md",
-    "Conditions/Condition_Windy.md",
-    "Keywords/Keyword_Range.md",
-    "Keywords/Keyword_Optimal_Range.md",
-    "Keywords/Keyword_Physical.md",
-    "Keywords/Keyword_Thermal_Imaging.md",
-    "Keywords/Keyword_Night_Vision.md",
-    "Skills and Tricks/Skills_and_Tricks_List.md",
-    "Keywords/Keyword_Two_Handed_Grip.md",
+    "Making_a_Roll/_Making_a_Roll.md",
+    "Turns/_Round_Robin_The_Flow_of_the_Game.md",
+    "Turns/Turn_Length.md",
+    "Archive/GHOSTBURN 2325 IMPORT - original.md",
+    "Archive/2d10 Probability Distribution.md",
+    "Archive/2d10 Percentages.md",
     "Characters/Character_Creation.md",
-    "Gear/Gear_Scope.md",
-    "Gear/Weapon_Types.md",
-    "Gear/Gear_Folding_Stock.md",
-    "Characters/Backgrounds.md",
+    "Characters/NPCs.md",
+    "Gear/Gear_Gas_Vents.md",
+    "Characters/_Character_Creation.md",
     "Gear/Damage Array.md",
-    "Conditions/Condition_Jammed.md",
-    "Keywords/Keyword_Close.md",
-    "Keywords/Keyword_Move.md",
-    "Keywords/Keyword_Nearby.md",
-    "Conditions/Condition_Movement_Impaired.md",
-    "Conditions/Condition_Suppressed.md",
+    "Characters/Abilities_and_Ability_Scores.md",
+    "Gear/Gear_Folding_Stock.md",
+    "Gear/Gear_Clearview.md",
+    "Keywords/Keyword_Armor.md",
+    "Keywords/Keyword_Optimal_Range.md",
+    "Keywords/Keyword_Weapon_Types.md",
+    "Keywords/Keyword_Weapon_Group.md",
+    "Keywords/Keyword_Bladed.md",
+    "Keywords/Keyword_Admin.md",
+    "Keywords/Keyword_Light_Arms.md",
+    "Keywords/Keyword_Small_Item.md",
+    "Keywords/Keyword_Blunt_Force.md",
+    "Gear/Gear_Silencer.md",
+    "Keywords/Keyword_Heavy_Arms.md",
+    "Keywords/Keyword_Firearm.md",
     "Cybernetic Augmentations",
     "link_cleanup_all.py",
     "link_cleanup_Athletic_Move.py",
