@@ -1,0 +1,78 @@
+site_name: GHOSTBURN 2325 the Role-Playing Game
+site_description: GHOSTBURN 2325 System Reference Document 1.0
+site_author: Justin Smith
+
+# Point to your Obsidian vault (adjust path as needed)
+docs_dir: .  # If mkdocs.yml is in your vault root
+
+# Theme configuration - Material theme is closest to Nethys style
+theme:
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+# Extensions for Obsidian compatibility
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Plugins
+plugins:
+  - search
+  - roamlinks  # Handles Obsidian [[wiki-links]]
+
+# Exclude folders
+exclude_docs: |
+  Archive/
+  assets/
+  .obsidian/
+  .git/
+
+# Extra CSS for Nethys-like styling (optional)
+extra_css:
+  - stylesheets/custom.css
