@@ -10,4 +10,4 @@ Tricks are categorized as being either [[Keyword_Core_Trick|core tricks]] or [[K
 
 When a player wants to try something not covered by the rules, the GM can allow them to perform an [[Keyword_Improvised_Trick|improvised trick]].
 
-Refer to the [[Skills_and_Tricks_List|Skills and Tricks List]] for a full list of skills and tricks included in this game.
+Refer to the [[Skills_and_Tricks/Skills_and_Tricks_List|Skills and Tricks List]] for a full list of skills and tricks included in this game.

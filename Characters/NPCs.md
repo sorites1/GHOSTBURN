@@ -6,7 +6,7 @@ Non-Player Characters, or NPCs, are managed by the GM. They are contacts, enemie
 
 NPCs have three traits: \[[[Keyword_Wits|Wits]]\], \[[[Keyword_Fort|Fort]]\], and \[[[Keyword_Threat|Threat]]\]. 
 
-\[Wits\] and \[Fort\] represent the NPC's smarts and toughness, respectively. They are each expressed as a \[[[Difficulty_Level|Difficulty Level]]\] and come into play when a player uses a trick on the NPC. Want to [[Trick_Stealth_Core_Sneak|Sneak]] past a security guard? That targets the NPC's \[Wits\] to see if they notice you. Want to [[Trick_Insight_Dodge|Dodge]] the guard's punch? That targets their \[Fort\] to see if you can avoid their fist. 
+\[Wits\] and \[Fort\] represent the NPC's smarts and toughness, respectively. They are each expressed as a \[[[Difficulty_Level|Difficulty Level]]\] and come into play when a player uses a trick on the NPC. Want to [[Skills_and_Tricks/Trick_Stealth_Core_Sneak|Sneak]] past a security guard? That targets the NPC's \[Wits\] to see if they notice you. Want to [[Skills_and_Tricks/Trick_Insight_Dodge|Dodge]] the guard's punch? That targets their \[Fort\] to see if you can avoid their fist. 
 
 \[Threat\] represents an NPC's overall competence and how much of a threat they pose. \[Threat\] is expressed as a bonus. When the GM rolls for the NPC, they add the NPC's \[Threat\] to get the result. \[Threat\] is used for all NPC rolls. 
 

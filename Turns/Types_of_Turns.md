@@ -7,13 +7,13 @@ At the start of your turn, you get 3 Action Points (AP), which you can spend to 
 There are four types of turns in this game: **out-of-combat turns**, **combat turns**, **group turns**, and **GM turns**. This game makes no mechanical distinction between out-of-combat and in-combat turns. However, it may be easier to think of turns that way. 
 ### Out-of-Combat Turns
 
-During an out-of-combat turn, you might tell the GM your character wants to sneak into the warehouse you learned about from your contact.. The GM sets the scene, and you describe what your character is doing. You decide to hop the fence, and the GM calls for an [[Trick_Athletics_Core_Athletic_Move|Athletic Move]] roll (1 AP). As you cautiously approach the warehouse, the GM calls for a [[Trick_Stealth_Core_Sneak|Sneak]] roll (1 AP) to avoid being noticed by the patrolling guards. Last, you use [[Trick_Hacking_Core_Disable_Device|Disable Device]] (1 AP) to override the electronic lock on the door. Those three actions used your 3 AP. If you want to go inside and explore further, you'll have to wait until your next turn. 
+During an out-of-combat turn, you might tell the GM your character wants to sneak into the warehouse you learned about from your contact.. The GM sets the scene, and you describe what your character is doing. You decide to hop the fence, and the GM calls for an [[Skills_and_Tricks/Trick_Athletics_Core_Athletic_Move|Athletic Move]] roll (1 AP). As you cautiously approach the warehouse, the GM calls for a [[Skills_and_Tricks/Trick_Stealth_Core_Sneak|Sneak]] roll (1 AP) to avoid being noticed by the patrolling guards. Last, you use [[Skills_and_Tricks/Trick_Hacking_Core_Disable_Device|Disable Device]] (1 AP) to override the electronic lock on the door. Those three actions used your 3 AP. If you want to go inside and explore further, you'll have to wait until your next turn. 
 
 The GM is not required to call for any rolls during your turn, and it's important to remember [[When_to_Roll|When to Roll]]. Out-of-combat turns can feel less structured than combat turns and rely on both the GM and player to regulate the amount of time spent.
 
 ### Combat Turns
 
-During a combat turn, the types of actions may be different, but the process works the same way. If you \[[[Keyword_Move|Move]]\] to an area \[[[Keyword_Nearby|Nearby]]\] (1 AP), draw your weapon (1 AP), and use [[Trick_Firearms_Core_Burst_Fire|Burst Fire]] to attack an enemy (1 AP), you have spent a total of 3 AP, and your turn ends. At the start of your next turn, your AP will refresh, and you can take three more actions.
+During a combat turn, the types of actions may be different, but the process works the same way. If you \[[[Keyword_Move|Move]]\] to an area \[[[Keyword_Nearby|Nearby]]\] (1 AP), draw your weapon (1 AP), and use [[Skills_and_Tricks/Trick_Firearms_Core_Burst_Fire|Burst Fire]] to attack an enemy (1 AP), you have spent a total of 3 AP, and your turn ends. At the start of your next turn, your AP will refresh, and you can take three more actions.
 
 ### Group Turns
 

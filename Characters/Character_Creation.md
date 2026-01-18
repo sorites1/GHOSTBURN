@@ -6,7 +6,7 @@ To create a character in ***GHOSTBURN 2325***, follow the steps below.
 
 ### 1. Background
 
-Choose a background for your character. You can find a list of backgrounds in the next section. 
+Choose a [[Backgrounds|Background]] for your character. 
 
 Your background describes who your character used to be and includes a culture, favored skill, and an additional benefit.
 #### Background Name
@@ -26,7 +26,7 @@ Your background also gives you an additional benefit which varies from one backg
 
 ### 2. Burn and Hook
 
-Choose a burn and a hook for your character. You can find a list of burns and hooks after the backgrounds in the next section. 
+Choose a [[Burns_and_Hooks|Burn and Hook]] for your character.
 
 Your burn is a pivotal event in your life and helps explain why your character is no longer living the life described by their background. Your hook represents the lasting consequences of the burn. 
 

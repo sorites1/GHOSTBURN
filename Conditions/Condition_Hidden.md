@@ -4,4 +4,4 @@
 
 **Effect:** You are \[[[Condition_Undetected|Undetected]]\] and have \[Concealment, Total\].
 
-**Removal:** When someone finds you, such as by using [[Trick_Perception_Core_Search|Search]] or you reveal your position by attacking, stepping out of cover, or making noise, you lose the \[Hidden\] condition.
+**Removal:** When someone finds you, such as by using [[Skills_and_Tricks/Trick_Perception_Core_Search|Search]] or you reveal your position by attacking, stepping out of cover, or making noise, you lose the \[Hidden\] condition.
