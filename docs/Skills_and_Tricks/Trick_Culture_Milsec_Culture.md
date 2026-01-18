@@ -1,0 +1,16 @@
+## Milsec Culture \[Signature Trick\]
+
+| Difficulty Level (DL) | Skill   | Keywords        |
+| --------------------- | ------- | --------------- |
+| Hard (20)             | Culture | \[[[Keyword_Concentrate\|Concentrate]]\] |
+
+*You are well aware of the equipment, tactics, and methods employed by milsec personnel.* 
+
+When you use Milsec Culture, you ask the GM a question related to military and security organizations, weapons, tactics, teamwork, security, crowd control, and black ops. For example, you might ask, *What's a typical response for this corp's security guards? Are they going to shoot first and ask questions later?* *Are these guards well trained or just scrubs with guns?*
+
+| Outcome      | Description                                         |
+| ------------ | --------------------------------------------------- |
+| Glitch       | You don't know and you are \[[[Condition_Confused\|Confused]]\]             |
+| Fade         | The GM answers the question and you are \[Confused] |
+| Success      | The GM answers the question                         |
+| Cool Success | The GM answers the question and provides extra info |

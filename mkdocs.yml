@@ -1,7 +1,7 @@
 site_name: GHOSTBURN 2325 the Role-Playing Game
 site_description: GHOSTBURN 2325 System Reference Document 1.0
 site_author: Justin Smith
-docs_dir: docs
+docs_dir: docs/
 theme:
   name: material
   palette:
@@ -54,291 +54,290 @@ markdown_extensions:
 - pymdownx.tilde
 plugins:
 - search
-exclude_docs: 'Archive/
-
+- autorefs
+exclude_docs: 
+  'Archive/
   assets/
-
   .obsidian/
-
   .git/
-
   '
 extra_css:
 - stylesheets/custom.css
 nav:
 - Characters:
-  - Abilities_and_Ability_Scores: Characters\Abilities_and_Ability_Scores.md
-  - Backgrounds: Characters\Backgrounds.md
-  - Burns_and_Hooks: Characters\Burns_and_Hooks.md
-  - Character_Creation: Characters\Character_Creation.md
-  - NPCs: Characters\NPCs.md
+  - Abilities and Ability Scores: Characters/Abilities_and_Ability_Scores.md
+  - Backgrounds: Characters/Backgrounds.md
+  - Burns and Hooks: Characters/Burns_and_Hooks.md
+  - Character Creation: Characters/Character_Creation.md
+  - Character Creation test: Characters/Character_Creation_test.md
+  - NPCs: Characters/NPCs.md
 - Conditions:
-  - Condition_Agony: Conditions\Condition_Agony.md
-  - Condition_Ally: Conditions\Condition_Ally.md
-  - Condition_Bewildered: Conditions\Condition_Bewildered.md
-  - Condition_Bleeding: Conditions\Condition_Bleeding.md
-  - Condition_Blinded: Conditions\Condition_Blinded.md
-  - Condition_Break: Conditions\Condition_Break.md
-  - Condition_Cognitive_Impairment: Conditions\Condition_Cognitive_Impairment.md
-  - Condition_Compliant: Conditions\Condition_Compliant.md
-  - Condition_Concealment_Partial: Conditions\Condition_Concealment_Partial.md
-  - Condition_Concealment_Total: Conditions\Condition_Concealment_Total.md
-  - Condition_Confident: Conditions\Condition_Confident.md
-  - Condition_Confused: Conditions\Condition_Confused.md
-  - Condition_Cover_Full: Conditions\Condition_Cover_Full.md
-  - Condition_Cover_Partial: Conditions\Condition_Cover_Partial.md
-  - Condition_Critical_Condition: Conditions\Condition_Critical_Condition.md
-  - Condition_Deafened: Conditions\Condition_Deafened.md
-  - Condition_Deaths_Door: Conditions\Condition_Deaths_Door.md
-  - Condition_Disfigured_Major: Conditions\Condition_Disfigured_Major.md
-  - Condition_Disfigured_Minor: Conditions\Condition_Disfigured_Minor.md
-  - Condition_Distracted: Conditions\Condition_Distracted.md
-  - Condition_Drowning: Conditions\Condition_Drowning.md
-  - Condition_Dying: Conditions\Condition_Dying.md
-  - Condition_Emotional: Conditions\Condition_Emotional.md
-  - Condition_Entertained: Conditions\Condition_Entertained.md
-  - Condition_Fine_Motor_Impairment: Conditions\Condition_Fine_Motor_Impairment.md
-  - Condition_Foggy: Conditions\Condition_Foggy.md
-  - Condition_Healthy: Conditions\Condition_Healthy.md
-  - Condition_Hearing_Impairment: Conditions\Condition_Hearing_Impairment.md
-  - Condition_Hidden: Conditions\Condition_Hidden.md
-  - Condition_Immobilized: Conditions\Condition_Immobilized.md
-  - Condition_Incapable: Conditions\Condition_Incapable.md
-  - Condition_Inspired: Conditions\Condition_Inspired.md
-  - Condition_Jammed: Conditions\Condition_Jammed.md
-  - Condition_Life_Threatening: Conditions\Condition_Life_Threatening.md
-  - Condition_Mouth_Breather: Conditions\Condition_Mouth_Breather.md
-  - Condition_Movement_Impaired: Conditions\Condition_Movement_Impaired.md
-  - Condition_Movement_Restricted: Conditions\Condition_Movement_Restricted.md
-  - Condition_Mute: Conditions\Condition_Mute.md
-  - Condition_Off_Balance: Conditions\Condition_Off_Balance.md
-  - Condition_Off_Guard: Conditions\Condition_Off_Guard.md
-  - Condition_Prone: Conditions\Condition_Prone.md
-  - Condition_Raining: Conditions\Condition_Raining.md
-  - Condition_Recovering: Conditions\Condition_Recovering.md
-  - Condition_Restrained: Conditions\Condition_Restrained.md
-  - Condition_Servile: Conditions\Condition_Servile.md
-  - Condition_Severely_Wounded: Conditions\Condition_Severely_Wounded.md
-  - Condition_Shaken: Conditions\Condition_Shaken.md
-  - Condition_Speech_Impairment: Conditions\Condition_Speech_Impairment.md
-  - Condition_Stabilized: Conditions\Condition_Stabilized.md
-  - Condition_Stress: Conditions\Condition_Stress.md
-  - Condition_Stunned: Conditions\Condition_Stunned.md
-  - Condition_Suffocating: Conditions\Condition_Suffocating.md
-  - Condition_Suppressed: Conditions\Condition_Suppressed.md
-  - Condition_Suspicous: Conditions\Condition_Suspicous.md
-  - Condition_Traumatized: Conditions\Condition_Traumatized.md
-  - Condition_Unaware: Conditions\Condition_Unaware.md
-  - Condition_Unconscious: Conditions\Condition_Unconscious.md
-  - Condition_Undetected: Conditions\Condition_Undetected.md
-  - Condition_Unresponsive: Conditions\Condition_Unresponsive.md
-  - Condition_Vision_Impairment: Conditions\Condition_Vision_Impairment.md
-  - Condition_Windy: Conditions\Condition_Windy.md
-  - Condition_Wounded: Conditions\Condition_Wounded.md
-- Cybernetic_Augmentations:
-  - Cybernetic Augmentations: Cybernetic_Augmentations\Cybernetic_Augmentations.md
+  - Condition Agony: Conditions/Condition_Agony.md
+  - Condition Ally: Conditions/Condition_Ally.md
+  - Condition Bewildered: Conditions/Condition_Bewildered.md
+  - Condition Bleeding: Conditions/Condition_Bleeding.md
+  - Condition Blinded: Conditions/Condition_Blinded.md
+  - Condition Break: Conditions/Condition_Break.md
+  - Condition Cognitive Impairment: Conditions/Condition_Cognitive_Impairment.md
+  - Condition Compliant: Conditions/Condition_Compliant.md
+  - Condition Concealment Partial: Conditions/Condition_Concealment_Partial.md
+  - Condition Concealment Total: Conditions/Condition_Concealment_Total.md
+  - Condition Confident: Conditions/Condition_Confident.md
+  - Condition Confused: Conditions/Condition_Confused.md
+  - Condition Cover Full: Conditions/Condition_Cover_Full.md
+  - Condition Cover Partial: Conditions/Condition_Cover_Partial.md
+  - Condition Critical Condition: Conditions/Condition_Critical_Condition.md
+  - Condition Deafened: Conditions/Condition_Deafened.md
+  - Condition Deaths Door: Conditions/Condition_Deaths_Door.md
+  - Condition Disfigured Major: Conditions/Condition_Disfigured_Major.md
+  - Condition Disfigured Minor: Conditions/Condition_Disfigured_Minor.md
+  - Condition Distracted: Conditions/Condition_Distracted.md
+  - Condition Drowning: Conditions/Condition_Drowning.md
+  - Condition Dying: Conditions/Condition_Dying.md
+  - Condition Emotional: Conditions/Condition_Emotional.md
+  - Condition Entertained: Conditions/Condition_Entertained.md
+  - Condition Fine Motor Impairment: Conditions/Condition_Fine_Motor_Impairment.md
+  - Condition Foggy: Conditions/Condition_Foggy.md
+  - Condition Healthy: Conditions/Condition_Healthy.md
+  - Condition Hearing Impairment: Conditions/Condition_Hearing_Impairment.md
+  - Condition Hidden: Conditions/Condition_Hidden.md
+  - Condition Immobilized: Conditions/Condition_Immobilized.md
+  - Condition Incapable: Conditions/Condition_Incapable.md
+  - Condition Inspired: Conditions/Condition_Inspired.md
+  - Condition Jammed: Conditions/Condition_Jammed.md
+  - Condition Life Threatening: Conditions/Condition_Life_Threatening.md
+  - Condition Mouth Breather: Conditions/Condition_Mouth_Breather.md
+  - Condition Movement Impaired: Conditions/Condition_Movement_Impaired.md
+  - Condition Movement Restricted: Conditions/Condition_Movement_Restricted.md
+  - Condition Mute: Conditions/Condition_Mute.md
+  - Condition Off Balance: Conditions/Condition_Off_Balance.md
+  - Condition Off Guard: Conditions/Condition_Off_Guard.md
+  - Condition Prone: Conditions/Condition_Prone.md
+  - Condition Raining: Conditions/Condition_Raining.md
+  - Condition Recovering: Conditions/Condition_Recovering.md
+  - Condition Restrained: Conditions/Condition_Restrained.md
+  - Condition Servile: Conditions/Condition_Servile.md
+  - Condition Severely Wounded: Conditions/Condition_Severely_Wounded.md
+  - Condition Shaken: Conditions/Condition_Shaken.md
+  - Condition Speech Impairment: Conditions/Condition_Speech_Impairment.md
+  - Condition Stabilized: Conditions/Condition_Stabilized.md
+  - Condition Stress: Conditions/Condition_Stress.md
+  - Condition Stunned: Conditions/Condition_Stunned.md
+  - Condition Suffocating: Conditions/Condition_Suffocating.md
+  - Condition Suppressed: Conditions/Condition_Suppressed.md
+  - Condition Suspicous: Conditions/Condition_Suspicous.md
+  - Condition Traumatized: Conditions/Condition_Traumatized.md
+  - Condition Unaware: Conditions/Condition_Unaware.md
+  - Condition Unconscious: Conditions/Condition_Unconscious.md
+  - Condition Undetected: Conditions/Condition_Undetected.md
+  - Condition Unresponsive: Conditions/Condition_Unresponsive.md
+  - Condition Vision Impairment: Conditions/Condition_Vision_Impairment.md
+  - Condition Windy: Conditions/Condition_Windy.md
+  - Condition Wounded: Conditions/Condition_Wounded.md
+- Cybernetic Augmentations:
+  - Cybernetic Augmentations: Cybernetic_Augmentations/Cybernetic_Augmentations.md
 - Gear:
-  - Damage_Array: Gear\Damage_Array.md
-  - Gear_Clearview: Gear\Gear_Clearview.md
-  - Gear_Folding_Stock: Gear\Gear_Folding_Stock.md
-  - Gear_Gas_Vents: Gear\Gear_Gas_Vents.md
-  - Gear_Gunlink_Grip: Gear\Gear_Gunlink_Grip.md
-  - Gear_Laser_Sight: Gear\Gear_Laser_Sight.md
-  - Gear_Night_Vision: Gear\Gear_Night_Vision.md
-  - Gear_Scope: Gear\Gear_Scope.md
-  - Gear_Silencer: Gear\Gear_Silencer.md
-  - Gear_Thermal_Imaging: Gear\Gear_Thermal_Imaging.md
-  - Gear_Underbarrel_Flashlight: Gear\Gear_Underbarrel_Flashlight.md
-- Health_and_Healing:
-  - Health_Condition_Effects: Health_and_Healing\Health_Condition_Effects.md
-  - Hit_Points_and_Conditions: Health_and_Healing\Hit_Points_and_Conditions.md
-  - Stabilization_DL: Health_and_Healing\Stabilization_DL.md
-  - Sustaining_an_Injury: Health_and_Healing\Sustaining_an_Injury.md
+  - Damage Array: Gear/Damage_Array.md
+  - Gear Clearview: Gear/Gear_Clearview.md
+  - Gear Folding Stock: Gear/Gear_Folding_Stock.md
+  - Gear Gas Vents: Gear/Gear_Gas_Vents.md
+  - Gear Gunlink Grip: Gear/Gear_Gunlink_Grip.md
+  - Gear Laser Sight: Gear/Gear_Laser_Sight.md
+  - Gear Night Vision: Gear/Gear_Night_Vision.md
+  - Gear Scope: Gear/Gear_Scope.md
+  - Gear Silencer: Gear/Gear_Silencer.md
+  - Gear Thermal Imaging: Gear/Gear_Thermal_Imaging.md
+  - Gear Underbarrel Flashlight: Gear/Gear_Underbarrel_Flashlight.md
+- Health and Healing:
+  - Health Condition Effects: Health_and_Healing/Health_Condition_Effects.md
+  - Hit Points and Conditions: Health_and_Healing/Hit_Points_and_Conditions.md
+  - Stabilization DL: Health_and_Healing/Stabilization_DL.md
+  - Sustaining an Injury: Health_and_Healing/Sustaining_an_Injury.md
 - Keywords:
-  - Keyword_Absolute_Damage: Keywords\Keyword_Absolute_Damage.md
-  - Keyword_Admin: Keywords\Keyword_Admin.md
-  - Keyword_Advanced_Supplies: Keywords\Keyword_Advanced_Supplies.md
-  - Keyword_Armor: Keywords\Keyword_Armor.md
-  - Keyword_Attack: Keywords\Keyword_Attack.md
-  - Keyword_Attitude: Keywords\Keyword_Attitude.md
-  - Keyword_Auditory: Keywords\Keyword_Auditory.md
-  - Keyword_Aug_Bonus: Keywords\Keyword_Aug_Bonus.md
-  - Keyword_Basic: Keywords\Keyword_Basic.md
-  - Keyword_Bladed: Keywords\Keyword_Bladed.md
-  - Keyword_Blunt_Force: Keywords\Keyword_Blunt_Force.md
-  - Keyword_Close: Keywords\Keyword_Close.md
-  - Keyword_Concealable: Keywords\Keyword_Concealable.md
-  - Keyword_Concentrate: Keywords\Keyword_Concentrate.md
-  - Keyword_Condition: Keywords\Keyword_Condition.md
-  - Keyword_Contact: Keywords\Keyword_Contact.md
-  - Keyword_Control_Deck: Keywords\Keyword_Control_Deck.md
-  - Keyword_Core_Trick: Keywords\Keyword_Core_Trick.md
-  - Keyword_Counterattack: Keywords\Keyword_Counterattack.md
-  - Keyword_Crashes: Keywords\Keyword_Crashes.md
-  - Keyword_Cyber_Rig: Keywords\Keyword_Cyber_Rig.md
-  - Keyword_Damage_Array: Keywords\Keyword_Damage_Array.md
-  - Keyword_Datajack: Keywords\Keyword_Datajack.md
-  - Keyword_Disabled: Keywords\Keyword_Disabled.md
-  - Keyword_Downgraded: Keywords\Keyword_Downgraded.md
-  - Keyword_Drone: Keywords\Keyword_Drone.md
-  - Keyword_Enabled: Keywords\Keyword_Enabled.md
-  - Keyword_Far: Keywords\Keyword_Far.md
-  - Keyword_Fine_Control: Keywords\Keyword_Fine_Control.md
-  - Keyword_Firearm: Keywords\Keyword_Firearm.md
-  - Keyword_Fly: Keywords\Keyword_Fly.md
-  - Keyword_Fort: Keywords\Keyword_Fort.md
-  - Keyword_Friendly: Keywords\Keyword_Friendly.md
-  - Keyword_Gear_Bonus: Keywords\Keyword_Gear_Bonus.md
-  - Keyword_Gift: Keywords\Keyword_Gift.md
-  - Keyword_Group: Keywords\Keyword_Group.md
-  - Keyword_Gun: Keywords\Keyword_Gun.md
-  - Keyword_Handling: Keywords\Keyword_Handling.md
-  - Keyword_Heavy_Arms: Keywords\Keyword_Heavy_Arms.md
-  - Keyword_High_Speed: Keywords\Keyword_High_Speed.md
-  - Keyword_Hostile: Keywords\Keyword_Hostile.md
-  - Keyword_Improvised_Trick: Keywords\Keyword_Improvised_Trick.md
-  - Keyword_Language: Keywords\Keyword_Language.md
-  - Keyword_Light_Arms: Keywords\Keyword_Light_Arms.md
-  - Keyword_Location: Keywords\Keyword_Location.md
-  - Keyword_Low_Speed: Keywords\Keyword_Low_Speed.md
-  - Keyword_Luck_Bonus: Keywords\Keyword_Luck_Bonus.md
-  - Keyword_Lucky: Keywords\Keyword_Lucky.md
-  - Keyword_Manipulator_Arm: Keywords\Keyword_Manipulator_Arm.md
-  - Keyword_Maximum_Damage: Keywords\Keyword_Maximum_Damage.md
-  - Keyword_Melee: Keywords\Keyword_Melee.md
-  - Keyword_Minimum_Damage: Keywords\Keyword_Minimum_Damage.md
-  - Keyword_Moderate_Speed: Keywords\Keyword_Moderate_Speed.md
-  - Keyword_Move: Keywords\Keyword_Move.md
-  - Keyword_Nearby: Keywords\Keyword_Nearby.md
-  - Keyword_Neutral: Keywords\Keyword_Neutral.md
-  - Keyword_Normal_Damage: Keywords\Keyword_Normal_Damage.md
-  - Keyword_One_Hand: Keywords\Keyword_One_Hand.md
-  - Keyword_Operator: Keywords\Keyword_Operator.md
-  - Keyword_Opposed: Keywords\Keyword_Opposed.md
-  - Keyword_Optimal_Range: Keywords\Keyword_Optimal_Range.md
-  - Keyword_Physical: Keywords\Keyword_Physical.md
-  - Keyword_Range: Keywords\Keyword_Range.md
-  - Keyword_Reaction: Keywords\Keyword_Reaction.md
-  - Keyword_Recoil: Keywords\Keyword_Recoil.md
-  - Keyword_Reduced: Keywords\Keyword_Reduced.md
-  - Keyword_Secret: Keywords\Keyword_Secret.md
-  - Keyword_Security: Keywords\Keyword_Security.md
-  - Keyword_Security_Alert: Keywords\Keyword_Security_Alert.md
-  - Keyword_Signature_Trick: Keywords\Keyword_Signature_Trick.md
-  - Keyword_Skill_Bonus: Keywords\Keyword_Skill_Bonus.md
-  - Keyword_Small_Item: Keywords\Keyword_Small_Item.md
-  - Keyword_Social: Keywords\Keyword_Social.md
-  - Keyword_Spray: Keywords\Keyword_Spray.md
-  - Keyword_Spread: Keywords\Keyword_Spread.md
-  - Keyword_Stability: Keywords\Keyword_Stability.md
-  - Keyword_Stabilization_DL: Keywords\Keyword_Stabilization_DL.md
-  - Keyword_Supplies: Keywords\Keyword_Supplies.md
-  - Keyword_Surgical_Procedure: Keywords\Keyword_Surgical_Procedure.md
-  - Keyword_Temporary: Keywords\Keyword_Temporary.md
-  - Keyword_Threat: Keywords\Keyword_Threat.md
-  - Keyword_Tools: Keywords\Keyword_Tools.md
-  - Keyword_Trick: Keywords\Keyword_Trick.md
-  - Keyword_Two_Handed_Grip: Keywords\Keyword_Two_Handed_Grip.md
-  - Keyword_Two_Hands: Keywords\Keyword_Two_Hands.md
-  - Keyword_Unarmed_Strike: Keywords\Keyword_Unarmed_Strike.md
-  - Keyword_Upgraded: Keywords\Keyword_Upgraded.md
-  - Keyword_Vehicle: Keywords\Keyword_Vehicle.md
-  - Keyword_Vicinity: Keywords\Keyword_Vicinity.md
-  - Keyword_Visible: Keywords\Keyword_Visible.md
-  - Keyword_Visual: Keywords\Keyword_Visual.md
-  - Keyword_Vocal: Keywords\Keyword_Vocal.md
-  - Keyword_Weapon_Group: Keywords\Keyword_Weapon_Group.md
-  - Keyword_Weapon_Types: Keywords\Keyword_Weapon_Types.md
-  - Keyword_Wireless: Keywords\Keyword_Wireless.md
-  - Keyword_Wits: Keywords\Keyword_Wits.md
-- Making_a_Roll:
-  - 2d10_Probability_Tables: Making_a_Roll\2d10_Probability_Tables.md
-  - Adjusting_the_Difficulty_Level: Making_a_Roll\Adjusting_the_Difficulty_Level.md
-  - Difficulty_Level: Making_a_Roll\Difficulty_Level.md
-  - End_of_the_Action: Making_a_Roll\End_of_the_Action.md
-  - Luck_Points: Making_a_Roll\Luck_Points.md
-  - Making_a_Roll: Making_a_Roll\Making_a_Roll.md
-  - Outcomes: Making_a_Roll\Outcomes.md
-  - Roll_2d10: Making_a_Roll\Roll_2d10.md
-  - When_to_Roll: Making_a_Roll\When_to_Roll.md
-- Skills_and_Tricks:
-  - Skill_Presence_Intimidate: Skills_and_Tricks\Skill_Presence_Intimidate.md
-  - Skill_Presence_Persuade: Skills_and_Tricks\Skill_Presence_Persuade.md
-  - Skills_and_Tricks: Skills_and_Tricks\Skills_and_Tricks.md
-  - Skills_and_Tricks_List: Skills_and_Tricks\Skills_and_Tricks_List.md
-  - Trick_Athletics_Acrobatic_Stunt: Skills_and_Tricks\Trick_Athletics_Acrobatic_Stunt.md
-  - Trick_Athletics_Core_Athletic_Move: Skills_and_Tricks\Trick_Athletics_Core_Athletic_Move.md
-  - Trick_Athletics_Core_Catch: Skills_and_Tricks\Trick_Athletics_Core_Catch.md
-  - Trick_Athletics_Core_Sprint: Skills_and_Tricks\Trick_Athletics_Core_Sprint.md
-  - Trick_Athletics_Core_Throw: Skills_and_Tricks\Trick_Athletics_Core_Throw.md
-  - Trick_Brawl_Core_Forced_Move: Skills_and_Tricks\Trick_Brawl_Core_Forced_Move.md
-  - Trick_Brawl_Core_Grapple: Skills_and_Tricks\Trick_Brawl_Core_Grapple.md
-  - Trick_Brawl_Core_Unarmed_Strike: Skills_and_Tricks\Trick_Brawl_Core_Unarmed_Strike.md
-  - Trick_Brawl_Silent_Takedown: Skills_and_Tricks\Trick_Brawl_Silent_Takedown.md
-  - Trick_Culture_Core_City_Culture: Skills_and_Tricks\Trick_Culture_Core_City_Culture.md
-  - Trick_Culture_Corporate_Culture: Skills_and_Tricks\Trick_Culture_Corporate_Culture.md
-  - Trick_Culture_Milsec_Culture: Skills_and_Tricks\Trick_Culture_Milsec_Culture.md
-  - Trick_Culture_Street_Culture: Skills_and_Tricks\Trick_Culture_Street_Culture.md
-  - Trick_Culture_Underworld_Culture: Skills_and_Tricks\Trick_Culture_Underworld_Culture.md
-  - Trick_Deception_Core_Bluff: Skills_and_Tricks\Trick_Deception_Core_Bluff.md
-  - Trick_Deception_Core_Misdirect: Skills_and_Tricks\Trick_Deception_Core_Misdirect.md
-  - Trick_Deception_Disguise: Skills_and_Tricks\Trick_Deception_Disguise.md
-  - Trick_Deception_Forgery: Skills_and_Tricks\Trick_Deception_Forgery.md
-  - Trick_Deception_Impersonate: Skills_and_Tricks\Trick_Deception_Impersonate.md
-  - Trick_Drive_Core_Avoid_Crash: Skills_and_Tricks\Trick_Drive_Core_Avoid_Crash.md
-  - Trick_Drive_Core_Chase: Skills_and_Tricks\Trick_Drive_Core_Chase.md
-  - Trick_Drive_Core_Escape: Skills_and_Tricks\Trick_Drive_Core_Escape.md
-  - Trick_Drive_Core_Sideswipe: Skills_and_Tricks\Trick_Drive_Core_Sideswipe.md
-  - Trick_Drive_Driving_Stunt: Skills_and_Tricks\Trick_Drive_Driving_Stunt.md
-  - Trick_Drive_Pit_Maneuver: Skills_and_Tricks\Trick_Drive_Pit_Maneuver.md
-  - Trick_Firearms_Core_Burst_Fire: Skills_and_Tricks\Trick_Firearms_Core_Burst_Fire.md
-  - Trick_Firearms_Core_Full_Auto: Skills_and_Tricks\Trick_Firearms_Core_Full_Auto.md
-  - Trick_Firearms_Core_Single_Shot: Skills_and_Tricks\Trick_Firearms_Core_Single_Shot.md
-  - Trick_Firearms_Crippling_Shot: Skills_and_Tricks\Trick_Firearms_Crippling_Shot.md
-  - Trick_Firearms_Dual_Shot: Skills_and_Tricks\Trick_Firearms_Dual_Shot.md
-  - Trick_Hacking_Core_Disable_Device: Skills_and_Tricks\Trick_Hacking_Core_Disable_Device.md
-  - Trick_Hacking_Cybernetic_Hack: Skills_and_Tricks\Trick_Hacking_Cybernetic_Hack.md
-  - Trick_Hacking_Droptrip: Skills_and_Tricks\Trick_Hacking_Droptrip.md
-  - Trick_Hacking_Street_Hack: Skills_and_Tricks\Trick_Hacking_Street_Hack.md
-  - Trick_Insight_Core_Read_Person: Skills_and_Tricks\Trick_Insight_Core_Read_Person.md
-  - Trick_Insight_Core_Sense_Lies: Skills_and_Tricks\Trick_Insight_Core_Sense_Lies.md
-  - Trick_Insight_Core_Size_Up_Opponent: Skills_and_Tricks\Trick_Insight_Core_Size_Up_Opponent.md
-  - Trick_Insight_Dodge: Skills_and_Tricks\Trick_Insight_Dodge.md
-  - Trick_Intimidate_Core_Coerce: Skills_and_Tricks\Trick_Intimidate_Core_Coerce.md
-  - Trick_Intimidate_Core_Mock: Skills_and_Tricks\Trick_Intimidate_Core_Mock.md
-  - Trick_Intimidate_Frighten: Skills_and_Tricks\Trick_Intimidate_Frighten.md
-  - Trick_Intimidate_Shakedown: Skills_and_Tricks\Trick_Intimidate_Shakedown.md
-  - Trick_Intimidate_Shred: Skills_and_Tricks\Trick_Intimidate_Shred.md
-  - Trick_Medicine_Core_First_Aid: Skills_and_Tricks\Trick_Medicine_Core_First_Aid.md
-  - Trick_Medicine_Core_Medical_Assessment: Skills_and_Tricks\Trick_Medicine_Core_Medical_Assessment.md
-  - Trick_Medicine_Cybernetic_Installation: Skills_and_Tricks\Trick_Medicine_Cybernetic_Installation.md
-  - Trick_Medicine_Surgery: Skills_and_Tricks\Trick_Medicine_Surgery.md
-  - Trick_Melee_Core_Melee_Strike: Skills_and_Tricks\Trick_Melee_Core_Melee_Strike.md
-  - Trick_Melee_Dazzling_Strike: Skills_and_Tricks\Trick_Melee_Dazzling_Strike.md
-  - Trick_Melee_Finishing_Move: Skills_and_Tricks\Trick_Melee_Finishing_Move.md
-  - Trick_Melee_Leaping_Strike: Skills_and_Tricks\Trick_Melee_Leaping_Strike.md
-  - Trick_Perception_Core_Search: Skills_and_Tricks\Trick_Perception_Core_Search.md
-  - Trick_Perception_Dead_Eye: Skills_and_Tricks\Trick_Perception_Dead_Eye.md
-  - Trick_Perception_Overwatch: Skills_and_Tricks\Trick_Perception_Overwatch.md
-  - Trick_Perception_Read_Lips: Skills_and_Tricks\Trick_Perception_Read_Lips.md
-  - Trick_Persuade_Captivate: Skills_and_Tricks\Trick_Persuade_Captivate.md
-  - Trick_Persuade_Core_Convince: Skills_and_Tricks\Trick_Persuade_Core_Convince.md
-  - Trick_Persuade_Core_Haggle: Skills_and_Tricks\Trick_Persuade_Core_Haggle.md
-  - Trick_Persuade_Entertain: Skills_and_Tricks\Trick_Persuade_Entertain.md
-  - Trick_Piloting_Core_Deploy_Payload: Skills_and_Tricks\Trick_Piloting_Core_Deploy_Payload.md
-  - Trick_Piloting_Core_Drone_Recon: Skills_and_Tricks\Trick_Piloting_Core_Drone_Recon.md
-  - Trick_Piloting_Initiate_Countermeasures: Skills_and_Tricks\Trick_Piloting_Initiate_Countermeasures.md
-  - Trick_Piloting_Manipulate_Object: Skills_and_Tricks\Trick_Piloting_Manipulate_Object.md
-  - Trick_Piloting_Strafing_Run: Skills_and_Tricks\Trick_Piloting_Strafing_Run.md
-  - Trick_Stealth_Close_Up_Magic: Skills_and_Tricks\Trick_Stealth_Close_Up_Magic.md
-  - Trick_Stealth_Core_Sneak: Skills_and_Tricks\Trick_Stealth_Core_Sneak.md
-  - Trick_Stealth_Disappear: Skills_and_Tricks\Trick_Stealth_Disappear.md
-  - Trick_Stealth_Pickpocket: Skills_and_Tricks\Trick_Stealth_Pickpocket.md
-  - Trick_Stealth_Shadow_Target: Skills_and_Tricks\Trick_Stealth_Shadow_Target.md
+  - Keyword Absolute Damage: Keywords/Keyword_Absolute_Damage.md
+  - Keyword Admin: Keywords/Keyword_Admin.md
+  - Keyword Advanced Supplies: Keywords/Keyword_Advanced_Supplies.md
+  - Keyword Armor: Keywords/Keyword_Armor.md
+  - Keyword Attack: Keywords/Keyword_Attack.md
+  - Keyword Attitude: Keywords/Keyword_Attitude.md
+  - Keyword Auditory: Keywords/Keyword_Auditory.md
+  - Keyword Aug Bonus: Keywords/Keyword_Aug_Bonus.md
+  - Keyword Basic: Keywords/Keyword_Basic.md
+  - Keyword Bladed: Keywords/Keyword_Bladed.md
+  - Keyword Blunt Force: Keywords/Keyword_Blunt_Force.md
+  - Keyword Close: Keywords/Keyword_Close.md
+  - Keyword Concealable: Keywords/Keyword_Concealable.md
+  - Keyword Concentrate: Keywords/Keyword_Concentrate.md
+  - Keyword Condition: Keywords/Keyword_Condition.md
+  - Keyword Contact: Keywords/Keyword_Contact.md
+  - Keyword Control Deck: Keywords/Keyword_Control_Deck.md
+  - Keyword Core Trick: Keywords/Keyword_Core_Trick.md
+  - Keyword Counterattack: Keywords/Keyword_Counterattack.md
+  - Keyword Crashes: Keywords/Keyword_Crashes.md
+  - Keyword Cyber Rig: Keywords/Keyword_Cyber_Rig.md
+  - Keyword Damage Array: Keywords/Keyword_Damage_Array.md
+  - Keyword Datajack: Keywords/Keyword_Datajack.md
+  - Keyword Disabled: Keywords/Keyword_Disabled.md
+  - Keyword Downgraded: Keywords/Keyword_Downgraded.md
+  - Keyword Drone: Keywords/Keyword_Drone.md
+  - Keyword Enabled: Keywords/Keyword_Enabled.md
+  - Keyword Far: Keywords/Keyword_Far.md
+  - Keyword Fine Control: Keywords/Keyword_Fine_Control.md
+  - Keyword Firearm: Keywords/Keyword_Firearm.md
+  - Keyword Fly: Keywords/Keyword_Fly.md
+  - Keyword Fort: Keywords/Keyword_Fort.md
+  - Keyword Friendly: Keywords/Keyword_Friendly.md
+  - Keyword Gear Bonus: Keywords/Keyword_Gear_Bonus.md
+  - Keyword Gift: Keywords/Keyword_Gift.md
+  - Keyword Group: Keywords/Keyword_Group.md
+  - Keyword Gun: Keywords/Keyword_Gun.md
+  - Keyword Handling: Keywords/Keyword_Handling.md
+  - Keyword Heavy Arms: Keywords/Keyword_Heavy_Arms.md
+  - Keyword High Speed: Keywords/Keyword_High_Speed.md
+  - Keyword Hostile: Keywords/Keyword_Hostile.md
+  - Keyword Improvised Trick: Keywords/Keyword_Improvised_Trick.md
+  - Keyword Language: Keywords/Keyword_Language.md
+  - Keyword Light Arms: Keywords/Keyword_Light_Arms.md
+  - Keyword Location: Keywords/Keyword_Location.md
+  - Keyword Low Speed: Keywords/Keyword_Low_Speed.md
+  - Keyword Luck Bonus: Keywords/Keyword_Luck_Bonus.md
+  - Keyword Lucky: Keywords/Keyword_Lucky.md
+  - Keyword Manipulator Arm: Keywords/Keyword_Manipulator_Arm.md
+  - Keyword Maximum Damage: Keywords/Keyword_Maximum_Damage.md
+  - Keyword Melee: Keywords/Keyword_Melee.md
+  - Keyword Minimum Damage: Keywords/Keyword_Minimum_Damage.md
+  - Keyword Moderate Speed: Keywords/Keyword_Moderate_Speed.md
+  - Keyword Move: Keywords/Keyword_Move.md
+  - Keyword Nearby: Keywords/Keyword_Nearby.md
+  - Keyword Neutral: Keywords/Keyword_Neutral.md
+  - Keyword Normal Damage: Keywords/Keyword_Normal_Damage.md
+  - Keyword One Hand: Keywords/Keyword_One_Hand.md
+  - Keyword Operator: Keywords/Keyword_Operator.md
+  - Keyword Opposed: Keywords/Keyword_Opposed.md
+  - Keyword Optimal Range: Keywords/Keyword_Optimal_Range.md
+  - Keyword Physical: Keywords/Keyword_Physical.md
+  - Keyword Range: Keywords/Keyword_Range.md
+  - Keyword Reaction: Keywords/Keyword_Reaction.md
+  - Keyword Recoil: Keywords/Keyword_Recoil.md
+  - Keyword Reduced: Keywords/Keyword_Reduced.md
+  - Keyword Secret: Keywords/Keyword_Secret.md
+  - Keyword Security: Keywords/Keyword_Security.md
+  - Keyword Security Alert: Keywords/Keyword_Security_Alert.md
+  - Keyword Signature Trick: Keywords/Keyword_Signature_Trick.md
+  - Keyword Skill Bonus: Keywords/Keyword_Skill_Bonus.md
+  - Keyword Small Item: Keywords/Keyword_Small_Item.md
+  - Keyword Social: Keywords/Keyword_Social.md
+  - Keyword Spray: Keywords/Keyword_Spray.md
+  - Keyword Spread: Keywords/Keyword_Spread.md
+  - Keyword Stability: Keywords/Keyword_Stability.md
+  - Keyword Stabilization DL: Keywords/Keyword_Stabilization_DL.md
+  - Keyword Supplies: Keywords/Keyword_Supplies.md
+  - Keyword Surgical Procedure: Keywords/Keyword_Surgical_Procedure.md
+  - Keyword Temporary: Keywords/Keyword_Temporary.md
+  - Keyword Threat: Keywords/Keyword_Threat.md
+  - Keyword Tools: Keywords/Keyword_Tools.md
+  - Keyword Trick: Keywords/Keyword_Trick.md
+  - Keyword Two Handed Grip: Keywords/Keyword_Two_Handed_Grip.md
+  - Keyword Two Hands: Keywords/Keyword_Two_Hands.md
+  - Keyword Unarmed Strike: Keywords/Keyword_Unarmed_Strike.md
+  - Keyword Upgraded: Keywords/Keyword_Upgraded.md
+  - Keyword Vehicle: Keywords/Keyword_Vehicle.md
+  - Keyword Vicinity: Keywords/Keyword_Vicinity.md
+  - Keyword Visible: Keywords/Keyword_Visible.md
+  - Keyword Visual: Keywords/Keyword_Visual.md
+  - Keyword Vocal: Keywords/Keyword_Vocal.md
+  - Keyword Weapon Group: Keywords/Keyword_Weapon_Group.md
+  - Keyword Weapon Types: Keywords/Keyword_Weapon_Types.md
+  - Keyword Wireless: Keywords/Keyword_Wireless.md
+  - Keyword Wits: Keywords/Keyword_Wits.md
+- Making a Roll:
+  - 2d10 Probability Tables: Making_a_Roll/2d10_Probability_Tables.md
+  - Adjusting the Difficulty Level: Making_a_Roll/Adjusting_the_Difficulty_Level.md
+  - Difficulty Level: Making_a_Roll/Difficulty_Level.md
+  - End of the Action: Making_a_Roll/End_of_the_Action.md
+  - Luck Points: Making_a_Roll/Luck_Points.md
+  - Making a Roll: Making_a_Roll/Making_a_Roll.md
+  - Outcomes: Making_a_Roll/Outcomes.md
+  - Roll 2d10: Making_a_Roll/Roll_2d10.md
+  - When to Roll: Making_a_Roll/When_to_Roll.md
+- Skills and Tricks:
+  - Skill Presence Intimidate: Skills_and_Tricks/Skill_Presence_Intimidate.md
+  - Skill Presence Persuade: Skills_and_Tricks/Skill_Presence_Persuade.md
+  - Skills and Tricks: Skills_and_Tricks/Skills_and_Tricks.md
+  - Skills and Tricks List: Skills_and_Tricks/Skills_and_Tricks_List.md
+  - Trick Athletics Acrobatic Stunt: Skills_and_Tricks/Trick_Athletics_Acrobatic_Stunt.md
+  - Trick Athletics Core Athletic Move: Skills_and_Tricks/Trick_Athletics_Core_Athletic_Move.md
+  - Trick Athletics Core Catch: Skills_and_Tricks/Trick_Athletics_Core_Catch.md
+  - Trick Athletics Core Sprint: Skills_and_Tricks/Trick_Athletics_Core_Sprint.md
+  - Trick Athletics Core Throw: Skills_and_Tricks/Trick_Athletics_Core_Throw.md
+  - Trick Brawl Core Forced Move: Skills_and_Tricks/Trick_Brawl_Core_Forced_Move.md
+  - Trick Brawl Core Grapple: Skills_and_Tricks/Trick_Brawl_Core_Grapple.md
+  - Trick Brawl Core Unarmed Strike: Skills_and_Tricks/Trick_Brawl_Core_Unarmed_Strike.md
+  - Trick Brawl Silent Takedown: Skills_and_Tricks/Trick_Brawl_Silent_Takedown.md
+  - Trick Culture Core City Culture: Skills_and_Tricks/Trick_Culture_Core_City_Culture.md
+  - Trick Culture Corporate Culture: Skills_and_Tricks/Trick_Culture_Corporate_Culture.md
+  - Trick Culture Milsec Culture: Skills_and_Tricks/Trick_Culture_Milsec_Culture.md
+  - Trick Culture Street Culture: Skills_and_Tricks/Trick_Culture_Street_Culture.md
+  - Trick Culture Underworld Culture: Skills_and_Tricks/Trick_Culture_Underworld_Culture.md
+  - Trick Deception Core Bluff: Skills_and_Tricks/Trick_Deception_Core_Bluff.md
+  - Trick Deception Core Misdirect: Skills_and_Tricks/Trick_Deception_Core_Misdirect.md
+  - Trick Deception Disguise: Skills_and_Tricks/Trick_Deception_Disguise.md
+  - Trick Deception Forgery: Skills_and_Tricks/Trick_Deception_Forgery.md
+  - Trick Deception Impersonate: Skills_and_Tricks/Trick_Deception_Impersonate.md
+  - Trick Drive Core Avoid Crash: Skills_and_Tricks/Trick_Drive_Core_Avoid_Crash.md
+  - Trick Drive Core Chase: Skills_and_Tricks/Trick_Drive_Core_Chase.md
+  - Trick Drive Core Escape: Skills_and_Tricks/Trick_Drive_Core_Escape.md
+  - Trick Drive Core Sideswipe: Skills_and_Tricks/Trick_Drive_Core_Sideswipe.md
+  - Trick Drive Driving Stunt: Skills_and_Tricks/Trick_Drive_Driving_Stunt.md
+  - Trick Drive Pit Maneuver: Skills_and_Tricks/Trick_Drive_Pit_Maneuver.md
+  - Trick Firearms Core Burst Fire: Skills_and_Tricks/Trick_Firearms_Core_Burst_Fire.md
+  - Trick Firearms Core Full Auto: Skills_and_Tricks/Trick_Firearms_Core_Full_Auto.md
+  - Trick Firearms Core Single Shot: Skills_and_Tricks/Trick_Firearms_Core_Single_Shot.md
+  - Trick Firearms Crippling Shot: Skills_and_Tricks/Trick_Firearms_Crippling_Shot.md
+  - Trick Firearms Dual Shot: Skills_and_Tricks/Trick_Firearms_Dual_Shot.md
+  - Trick Hacking Core Disable Device: Skills_and_Tricks/Trick_Hacking_Core_Disable_Device.md
+  - Trick Hacking Cybernetic Hack: Skills_and_Tricks/Trick_Hacking_Cybernetic_Hack.md
+  - Trick Hacking Droptrip: Skills_and_Tricks/Trick_Hacking_Droptrip.md
+  - Trick Hacking Street Hack: Skills_and_Tricks/Trick_Hacking_Street_Hack.md
+  - Trick Insight Core Read Person: Skills_and_Tricks/Trick_Insight_Core_Read_Person.md
+  - Trick Insight Core Sense Lies: Skills_and_Tricks/Trick_Insight_Core_Sense_Lies.md
+  - Trick Insight Core Size Up Opponent: Skills_and_Tricks/Trick_Insight_Core_Size_Up_Opponent.md
+  - Trick Insight Dodge: Skills_and_Tricks/Trick_Insight_Dodge.md
+  - Trick Intimidate Core Coerce: Skills_and_Tricks/Trick_Intimidate_Core_Coerce.md
+  - Trick Intimidate Core Mock: Skills_and_Tricks/Trick_Intimidate_Core_Mock.md
+  - Trick Intimidate Frighten: Skills_and_Tricks/Trick_Intimidate_Frighten.md
+  - Trick Intimidate Shakedown: Skills_and_Tricks/Trick_Intimidate_Shakedown.md
+  - Trick Intimidate Shred: Skills_and_Tricks/Trick_Intimidate_Shred.md
+  - Trick Medicine Core First Aid: Skills_and_Tricks/Trick_Medicine_Core_First_Aid.md
+  - Trick Medicine Core Medical Assessment: Skills_and_Tricks/Trick_Medicine_Core_Medical_Assessment.md
+  - Trick Medicine Cybernetic Installation: Skills_and_Tricks/Trick_Medicine_Cybernetic_Installation.md
+  - Trick Medicine Surgery: Skills_and_Tricks/Trick_Medicine_Surgery.md
+  - Trick Melee Core Melee Strike: Skills_and_Tricks/Trick_Melee_Core_Melee_Strike.md
+  - Trick Melee Dazzling Strike: Skills_and_Tricks/Trick_Melee_Dazzling_Strike.md
+  - Trick Melee Finishing Move: Skills_and_Tricks/Trick_Melee_Finishing_Move.md
+  - Trick Melee Leaping Strike: Skills_and_Tricks/Trick_Melee_Leaping_Strike.md
+  - Trick Perception Core Search: Skills_and_Tricks/Trick_Perception_Core_Search.md
+  - Trick Perception Dead Eye: Skills_and_Tricks/Trick_Perception_Dead_Eye.md
+  - Trick Perception Overwatch: Skills_and_Tricks/Trick_Perception_Overwatch.md
+  - Trick Perception Read Lips: Skills_and_Tricks/Trick_Perception_Read_Lips.md
+  - Trick Persuade Captivate: Skills_and_Tricks/Trick_Persuade_Captivate.md
+  - Trick Persuade Core Convince: Skills_and_Tricks/Trick_Persuade_Core_Convince.md
+  - Trick Persuade Core Haggle: Skills_and_Tricks/Trick_Persuade_Core_Haggle.md
+  - Trick Persuade Entertain: Skills_and_Tricks/Trick_Persuade_Entertain.md
+  - Trick Piloting Core Deploy Payload: Skills_and_Tricks/Trick_Piloting_Core_Deploy_Payload.md
+  - Trick Piloting Core Drone Recon: Skills_and_Tricks/Trick_Piloting_Core_Drone_Recon.md
+  - Trick Piloting Initiate Countermeasures: Skills_and_Tricks/Trick_Piloting_Initiate_Countermeasures.md
+  - Trick Piloting Manipulate Object: Skills_and_Tricks/Trick_Piloting_Manipulate_Object.md
+  - Trick Piloting Strafing Run: Skills_and_Tricks/Trick_Piloting_Strafing_Run.md
+  - Trick Stealth Close Up Magic: Skills_and_Tricks/Trick_Stealth_Close_Up_Magic.md
+  - Trick Stealth Core Sneak: Skills_and_Tricks/Trick_Stealth_Core_Sneak.md
+  - Trick Stealth Disappear: Skills_and_Tricks/Trick_Stealth_Disappear.md
+  - Trick Stealth Pickpocket: Skills_and_Tricks/Trick_Stealth_Pickpocket.md
+  - Trick Stealth Shadow Target: Skills_and_Tricks/Trick_Stealth_Shadow_Target.md
 - Turns:
-  - Round_Robin_the_Flow_of_the_Game: Turns\Round_Robin_the_Flow_of_the_Game.md
-  - Turn_Etiquette: Turns\Turn_Etiquette.md
-  - Turn_Length: Turns\Turn_Length.md
-  - Turn_Order: Turns\Turn_Order.md
-  - Types_of_Turns: Turns\Types_of_Turns.md
-  - Your_Turn: Turns\Your_Turn.md
+  - Round Robin the Flow of the Game: Turns/Round_Robin_the_Flow_of_the_Game.md
+  - Turn Etiquette: Turns/Turn_Etiquette.md
+  - Turn Length: Turns/Turn_Length.md
+  - Turn Order: Turns/Turn_Order.md
+  - Types of Turns: Turns/Types_of_Turns.md
+  - Your Turn: Turns/Your_Turn.md

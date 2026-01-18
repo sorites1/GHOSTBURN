@@ -1,6 +1,6 @@
 ## Traumatized
 
-**Cause:** When you sustain an injury by rolling on the [[Sustaining_an_Injury|Injury Level Chart]], you gain the \[Traumatized\] condition.
+**Cause:** When you sustain an injury by rolling on the [[HaH_Sustaining_an_Injury|Injury Level Chart]], you gain the \[Traumatized\] condition.
 
 **Effect:** All tricks have their DL is raised by one. 
 
