@@ -1,3 +1,0 @@
-## Core Trick
-
-Each skill has one or more core tricks. For example, First Aid is a core trick of the Medicine skill. A core trick includes its own outcomes chart that tells you exactly how to interpret the results. This is done to provide a consistent and efficient play experience for common in-game situations, such as needing to to stabilize a friend who has just suffered a grievous injury in combat. You may use any core trick, even if you have no skill bonus in the associated skill. For example, if you have no skill bonus for Firearms, you can still use the Single Shot trick by rolling Agility. 

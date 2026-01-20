@@ -1,4 +1,4 @@
-## Shaken
+# Shaken
 
 **Cause:** When a trick, condition, or effect leaves you momentarily shocked by what you saw or heard, you are \[Shaken\].
 

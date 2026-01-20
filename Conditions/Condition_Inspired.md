@@ -1,4 +1,4 @@
-## Inspired
+# Inspired
 
 **Cause:** When a trick or condition leaves you feeling like you're at the top of your game, you are \[Inspired\]. 
 

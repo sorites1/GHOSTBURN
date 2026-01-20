@@ -1,4 +1,4 @@
-## Cybernetic Augmentations
+# Cybernetic Augmentations
 
 Characters in **GHOSTBURN 2325** can get cybernetic augmentations installed in their body. 
 

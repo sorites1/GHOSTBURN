@@ -1,3 +1,0 @@
-## Turn Length
-
-Whether you are working with regular turns or combat turns, the players and GM should strive to keep the game moving. Players should expect each turn to last no more than five minutes. The only real exception to this is group turns, which can last considerably longer if the entire crew is together. However, if one or two characters are off doing their own thing individually while the rest have a group turn together, the general rule of five minutes per turn stands. The GM should always be cognizant of all players at the table and try to make sure everyone gets the opportunity to act. 

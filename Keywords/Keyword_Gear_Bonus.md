@@ -1,4 +1,4 @@
-## Gear Bonus
+# Gear Bonus
 
 Your weapons and equipment can grant gear bonuses to specific skills (up to +3). For example, a laser sight gives a +1 gear bonus to Firearms. 
 

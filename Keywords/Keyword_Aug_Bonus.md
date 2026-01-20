@@ -1,4 +1,4 @@
-## Aug Bonus
+# Aug Bonus
 
 Your cybernetic augments or psionic mutations can grant aug bonuses to specific skills (up to +3). For example, a pheromone pump grants a +1 aug bonus to Persuade.
 

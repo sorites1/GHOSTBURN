@@ -1,4 +1,4 @@
-## Outcomes
+# Outcomes
 
 When you roll for a skill or trick, there are four possible outcomes: Glitch, Fade, Success, and Cool Success. 
 

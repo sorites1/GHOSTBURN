@@ -1,4 +1,4 @@
-## Probability Tables
+# Probability Tables
 
 | Character Tier | Bonus Range    | Their "Standard" Challenge | Their "Hard" Challenge |
 | -------------- | -------------- | -------------------------- | ---------------------- |

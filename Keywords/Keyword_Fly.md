@@ -1,3 +1,3 @@
-## Fly
+# Fly
 
-\[Fly\] works just like \[[[Keyword_Move|Move]]\] except you can move \[[[Keyword_Far|Far]]\] away with 1 AP.
+\[Fly\] works just like \[[[Keywords/Keyword_Move|Move]]\] except you can move \[[[Keywords/Keyword_Far|Far]]\] away with 1 AP.

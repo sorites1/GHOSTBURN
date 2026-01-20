@@ -1,3 +1,3 @@
-## Weapon Group
+# Weapon Group
 
-A \[Weapon Group\] is a collection of [[Keyword_Weapon_Types|Weapon Types]]. There are four \[Weapon Groups\]: \[[[Keyword_Bladed|Bladed]]\], \[[[Keyword_Blunt_Force|Blunt Force]]\], \[[[Keyword_Light_Arms|Light Arms]]\], and \[[[Keyword_Heavy_Arms|Heavy Arms]]\]. Weapon Groups are used by Armor.
+A \[Weapon Group\] is a collection of [[Keywords/Keyword_Weapon_Types|Weapon Types]]. There are four \[Weapon Groups\]: \[[[Keywords/Keyword_Bladed|Bladed]]\], \[[[Keywords/Keyword_Blunt_Force|Blunt Force]]\], \[[[Keywords/Keyword_Light_Arms|Light Arms]]\], and \[[[Keywords/Keyword_Heavy_Arms|Heavy Arms]]\]. Weapon Groups are used by Armor.

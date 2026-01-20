@@ -1,3 +1,3 @@
-## Manipulator Arm
+# Manipulator Arm
 
-A \[[[Keyword_Drone|Drone]]\] can be outfitted with a \[Manipulator Arm\] and accompanying hand. The \[Manipulator Arm\] is capable of \[[[Keyword_Fine_Control|Fine Control]]\].
+A \[[[Keywords/Keyword_Drone|Drone]]\] can be outfitted with a \[Manipulator Arm\] and accompanying hand. The \[Manipulator Arm\] is capable of \[[[Keywords/Keyword_Fine_Control|Fine Control]]\].

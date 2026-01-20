@@ -1,4 +1,4 @@
-## Stabilization DL
+# Stabilization DL
 
 When your character is \[Dying\] or suffering from one of several other conditions, they need to be \[Stabilized\] by someone who can make a Medicine (First Aid) roll. Your \[Stabilization DL\] is the Difficulty Level used for those rolls.
 

@@ -1,4 +1,4 @@
-# When to Roll
+ When to Roll
 
 When a player describes what their character is doing, the GM first determines if a roll is necessary. If the task is trivial, impossible, or carries no risk, such that a character could keep trying until they were successful, then it is not necessary to roll.
 

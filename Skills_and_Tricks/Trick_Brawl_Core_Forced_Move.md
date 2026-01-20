@@ -1,16 +1,16 @@
-## Forced Move \[Core Trick\]
+# Forced Move \[Core Trick\]
 
 | Difficulty Level (DL) | Skill | Keywords                                                  |
 | --------------------- | ----- | --------------------------------------------------------- |
-| \[[[Keyword_Opposed\|Opposed]]\]           | Brawl | \[[[Keyword_Attack\|Attack]]\], \[[[Keyword_Move\|Move]]\], \[[[Keyword_Physical\|Physical]]\], \[[[Keyword_Range\|Range]]\], \[[[Keyword_Visual\|Visual]]\] |
+| \[[[Keywords/Keyword_Opposed\|Opposed]]\]           | Brawl | \[[[Keywords/Keyword_Attack\|Attack]]\], \[[[Keywords/Keyword_Move\|Move]]\], \[[[Keywords/Keyword_Physical\|Physical]]\], \[[[Keywords/Keyword_Range\|Range]]\], \[[[Keywords/Keyword_Visual\|Visual]]\] |
 
 *You grab your opponent and force them to move with your superior ability.* 
 
-To use Forced Move, your opponent must be \[[[Keyword_Close|Close]]\]. If they are \[[[Condition_Restrained|Restrained]]\], your Forced Move outcome is \[[[Keyword_Upgraded|Upgraded]]\].
+To use Forced Move, your opponent must be \[[[Keywords/Keyword_Close|Close]]\]. If they are \[[[Conditions/Condition_Restrained|Restrained]]\], your Forced Move outcome is \[[[Keywords/Keyword_Upgraded|Upgraded]]\].
 
-| Outcome      | Description                                                     |
-| ------------ | --------------------------------------------------------------- |
-| Glitch       | You fail and are \[[[Condition_Off_Balance\|Off Balance]]\]                                |
-| Fade         | You force them to \[[[Keyword_Move\|Move]]\] and you are \[Off Balance\]          |
-| Success      | You force them to \[Move\]                                      |
-| Cool Success | You force them to \[Move\] and put them in \[[[Condition_Agony\|Agony]]\] if desired |
+| Outcome      | Description                                                                                     |
+| ------------ | ----------------------------------------------------------------------------------------------- |
+| Cool Success | You force them to \[Move\] and put them in \[[[Conditions/Condition_Agony\|Agony]]\] if desired |
+| Success      | You force them to \[Move\]                                                                      |
+| Fade         | You force them to \[[[Keywords/Keyword_Move\|Move]]\] and you are \[Off Balance\]               |
+| Glitch       | You fail and are \[[[Conditions/Condition_Off_Balance\|Off Balance]]\]                          |

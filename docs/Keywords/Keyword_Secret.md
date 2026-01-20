@@ -1,3 +1,0 @@
-## Secret
-
-Some tricks give you a \[Secret\] when you roll a Cool Success. A \[Secret\] has a few uses. First, it can be used to obtain a piece of important information related to your roll. If the GM has information to share that would satisfy the \[Secret\], they can offer it to you immediately. However, you can choose to bank the \[Secret\] instead and spend it later. A \[Secret\] may be spent at any time to ask the GM one Yes/No question related to the topic or context of your original roll. The GM must answer truthfully, though they may ask you to rephrase the question. Last, you may spend a \[Secret\] to lower the DL of any roll regardless of whether it is related to your original roll or not.

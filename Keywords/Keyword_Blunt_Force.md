@@ -1,3 +1,3 @@
-## Blunt Force
+# Blunt Force
 
-The \[Blunt Force\] weapon group contains the following [[Keyword_Weapon_Types|Weapon Types]]: Club, Unarmed.
+The \[Blunt Force\] weapon group contains the following [[Keywords/Keyword_Weapon_Types|Weapon Types]]: Club, Unarmed.

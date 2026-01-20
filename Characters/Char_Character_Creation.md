@@ -1,15 +1,15 @@
-## Character Creation
+# Character Creation
 
 In this game, each player creates a character to play. As the player, you make all the decisions about your character, including their background, natural abilities, skills, and so on. 
 
 To create a character in ***GHOSTBURN 2325***, follow the steps below.
 
-### 1. Background
+## 1. Background
 
-Choose a [[Char_Backgrounds|Background]] for your character. 
+Choose a [[Characters/Char_Backgrounds|Background]] for your character. 
 
 Your background describes who your character used to be and includes a culture, favored skill, and an additional benefit.
-#### Background Name
+### Background Name
 
 Write the name of your background in the space labeled Background on your character sheet.
 #### Culture
@@ -24,9 +24,9 @@ Later on in the game when you spend XP to improve your character, it costs fewer
 
 Your background also gives you an additional benefit which varies from one background to another. Your background may give you a piece of Gear, a cybernetic Augment, a Signature Trick, or even a bit of extra Luck. Write the additional benefit on your character sheet in the appropriate area. 
 
-### 2. Burn and Hook
+## 2. Burn and Hook
 
-Choose a [[Char_Burns_and_Hooks|Burn and Hook]] for your character.
+Choose a [[Characters/Char_Burns_and_Hooks|Burn and Hook]] for your character.
 
 Your burn is a pivotal event in your life and helps explain why your character is no longer living the life described by their background. Your hook represents the lasting consequences of the burn. 
 
@@ -40,7 +40,7 @@ For example:
 
 Write your burn and hook at the top of your character sheet in the spaces labeled Burn and Hook, respectively.
 
-### 3. Contacts
+## 3. Contacts
 
 A contact is someone you personally know and with whom you are on good terms. You can call on your contacts periodically to see if they can help you. Contacts can provide information, goods or services, or even a place to sleep. You start the game with two contacts.
 
@@ -48,7 +48,7 @@ A contact is someone you personally know and with whom you are on good terms. Yo
 
 **Choose a Contact** - Choose a contact that has the same culture as you. This person might be connected to your old life, they may have helped you when you got burned, or perhaps they even introduced you to your medium. Feel free to come up with a name and a few details about your contact. Write them down on your character sheet and share them with the GM. 
 
-### 4. Ability Scores
+## 4. Ability Scores
 
 A character's ability scores reflect their natural abilities, such as their strength and intelligence. 
 
@@ -80,27 +80,27 @@ If you want your character to be psionic, you must have a Psi score of 1 (the ma
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Presence 1<br>Agility 5<br>Strength 4<br>Awareness 2<br>Intelligence 2<br>Resilience 3<br>Psi 0 | Presence 3<br>Agility 3<br>Strength 1<br>Awareness 3<br>Intelligence 2<br>Resilience 4<br>Psi 1 |
 
-### 5. Additional Skill Bonuses
+## 5. Additional Skill Bonuses
 
 Choose three skills, and write +1 in the skill bonus box for each. No skill may have a skill bonus be higher than +1 at the start of the game.
 
 You do not start the game with signature tricks in these skills, but you can purchase them later in the game once you have earned XP. 
 
-### 6. Starting Resources
+## 6. Starting Resources
 
 You get **10 points** to spend on the cybernetic augmentations, gear, and lifestyle. The point cost for each item is shown below. If you do not purchase a lifestyle, your character gets the Street lifestyle at no cost.
 
-#### Tech Gear
+### Tech Gear
 
 A \[Cyber Rig\] is a portable device with a keyboard and a \[Datajack\]; required for Hacking.
 
 | Points | Equipment               | Type             | Description                             |
 | :----: | ----------------------- | ---------------- | --------------------------------------- |
 |   1    | Hand Built Cyber Rig    | Cyber Rig        | -                                       |
-|   1    | Ranco Nightrunners      | Tactical Goggles | \[[[Gear_Night_Vision\|Night Vision]]\] |
+|   1    | Ranco Nightrunners      | Tactical Goggles | \[[[Gear/Gear_Night_Vision\|Night Vision]]\] |
 |   2    | Komodo Ripsaw Cyber Rig | Cyber Rig        | +1 gear bonus to Hacking                |
 
-#### Cybernetic Augmentations
+### Cybernetic Augmentations
 
 | Points | Augmentation          | Mesh Cost | Reduces Psi | Description                                                                        |
 | :----: | --------------------- | :-------: | ----------- | ---------------------------------------------------------------------------------- |
@@ -114,46 +114,46 @@ A \[Cyber Rig\] is a portable device with a keyboard and a \[Datajack\]; require
 |   5    | Skillset 1            |     5     | Yes         | +1 aug bonus to a skill of your choice                                             |
 |   6    | Wired Reflexes 1      |     6     | Yes         | +1 to Agility (Aug), +1 aug bonus to Athletics                                     |
 
-#### Firearms
+### Firearms
 
 A gun is a necessity on the street. It's useful for self-protection, and in your line of work, it's a tool of the trade.
 
 | Points | Weapon                | Type         | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                                                                        |
 | :----: | --------------------- | ------------ | ------------- | ----------- | ---------- | --------- | --------------------------------------------------------------------------- |
-|   1    | Ranco Defender .380   | Light Pistol | Close         | 4/8/20      | -          | -         | [[Gear_Underbarrel_Flashlight\|Underbarrel Flashlight]]                     |
+|   1    | Ranco Defender .380   | Light Pistol | Close         | 4/8/20      | -          | -         | [[Gear/Gear_Underbarrel_Flashlight\|Underbarrel Flashlight]]                     |
 |   1    | EZTech Punisher Lite  | Light Pistol | Close         | 5/10/25     | -          | -         | -                                                                           |
-|   2    | Uzog MP Mk-3          | Light Pistol | Close         | -           | 6/12/30    | -         | [[Gear_Silencer\|Silencer]]                                                 |
+|   2    | Uzog MP Mk-3          | Light Pistol | Close         | -           | 6/12/30    | -         | [[Gear/Gear_Silencer\|Silencer]]                                                 |
 |   2    | Salvati Carino 9mm    | Light Pistol | Close         | 5/10/25     | -          | -         | Gunlink Grip                                                                |
-|   2    | Sterling Elite .45    | Heavy Pistol | Close         | 8/16/40     | -          | -         | [[Gear_Laser_Sight\|Laser Sight]]                                           |
+|   2    | Sterling Elite .45    | Heavy Pistol | Close         | 8/16/40     | -          | -         | [[Gear/Gear_Laser_Sight\|Laser Sight]]                                           |
 |   2    | Argentis Desert Viper | Heavy Pistol | Far           | 10/20/50    | -          | -         |                                                                             |
 |   3    | Ranco .357 Equalizer  | Heavy Pistol | Nearby        | 9/18/45     | -          | -         | Laser Sight                                                                 |
 |   3    | Graham M21-S          | SMG          | Nearby        | 4/8/20      | 9/18/45    | -         | Silencer, Gunlink Grip                                                      |
-|   3    | Uzog Mini Mk-9        | SMG          | Nearby        | 5/10/25     | 10/20/50   | -         | [[Gear_Folding_Stock\|Folding Stock]], [[Keyword_Concealable\|Concealable]] |
+|   3    | Uzog Mini Mk-9        | SMG          | Nearby        | 5/10/25     | 10/20/50   | -         | [[Gear/Gear_Folding_Stock\|Folding Stock]], [[Keywords/Keyword_Concealable\|Concealable]] |
 |   3    | Graham H6             | Shotgun      | Close         | 9/18/45     | -          | -         | Concealable                                                                 |
 |   4    | Ranco 12G Dominator   | Shotgun      | Close         | 10/20/50    | -          | -         | -                                                                           |
-|   4    | Graham PX-90 Carbine  | Rifle        | Nearby        | 9/18/45     | 12/24/60   | 15/30/75  | [[Gear_Gas_Vents\|Gas Vents 1]]                                             |
-|   4    | Salvati Duro Carbine  | Rifle        | Nearby        | 9/18/45     | 12/24/60   | -         | [[Gear_Scope\|Scope]]                                                       |
+|   4    | Graham PX-90 Carbine  | Rifle        | Nearby        | 9/18/45     | 12/24/60   | 15/30/75  | [[Gear/Gear_Gas_Vents\|Gas Vents 1]]                                             |
+|   4    | Salvati Duro Carbine  | Rifle        | Nearby        | 9/18/45     | 12/24/60   | -         | [[Gear/Gear_Scope\|Scope]]                                                       |
 |   5    | Argentis Falco        | Rifle        | Far           | 15/30/75    | -          | -         | Gas Vents 1, Gunlink Grip, Scope                                            |
 
-#### Melee Weapons
+### Melee Weapons
 
 TBD
 
 
-#### Armor
+### Armor
 
-The streets are deadly without some form of body protection. It is recommended that all characters start with \[[[Keyword_Armor|Armor]]\].
+The streets are deadly without some form of body protection. It is recommended that all characters start with \[[[Keywords/Keyword_Armor|Armor]]\].
 
 | Points | Armor Type      | Rated Against Weapon Groups                                  |
 | :----: | :-------------- | :----------------------------------------------------------- |
-|   1    | Leather Jacket  | \[[[Keyword_Bladed\|Bladed]]\]                               |
-|   2    | Armor Vest      | \[[[Keyword_Light_Arms\|Light Arms]]\]                       |
-|   3    | Nanoweave Vest  | Light Arms, Bladed, \[[[Keyword_Blunt_Force\|Blunt Force]]\] |
-|   4    | Hard Armor      | Light Arms, \[[[Keyword_Heavy_Arms\|Heavy Arms]]\], Bladed   |
+|   1    | Leather Jacket  | \[[[Keywords/Keyword_Bladed\|Bladed]]\]                               |
+|   2    | Armor Vest      | \[[[Keywords/Keyword_Light_Arms\|Light Arms]]\]                       |
+|   3    | Nanoweave Vest  | Light Arms, Bladed, \[[[Keywords/Keyword_Blunt_Force\|Blunt Force]]\] |
+|   4    | Hard Armor      | Light Arms, \[[[Keywords/Keyword_Heavy_Arms\|Heavy Arms]]\], Bladed   |
 |   5    | Full Body Armor | Light Arms, Heavy Arms, Bladed, Blunt Force                  |
 
 
-#### Vehicles
+### Vehicles
 
 | Points | Vehicle           | Type       | Handling | Stability     | Security      |
 | :----: | ----------------- | ---------- | -------- | ------------- | ------------- |
@@ -163,11 +163,11 @@ The streets are deadly without some form of body protection. It is recommended t
 |   3    | Wolff Trak        | SUV        | Average  | Moderate (14) | Moderate (14) |
 |   3    | Pellegrini Carino | SUV        | Good     | Easy (8)      | Hard (20)     |
 
-#### Drones
+### Drones
 
 TBD
 
-#### Lifestyle
+### Lifestyle
 
 You can purchase one month of lifestyle during character creation. 
 
@@ -186,7 +186,7 @@ There are a few last things you need to do to finish creating your character.
 
 ### Luck Points 
 
-You start the game with one [[MaR_Luck_Points|Luck Point]]. Write a 1 in the space labeled Luck Points on your character sheet. Later in the game, once you've earned XP, you can purchase up to two more Luck Points, for a maximum of three.
+You start the game with one [[Making_a_Roll/MaR_Luck_Points|Luck Point]]. Write a 1 in the space labeled Luck Points on your character sheet. Later in the game, once you've earned XP, you can purchase up to two more Luck Points, for a maximum of three.
 
 ### Derived Characteristics
 

@@ -1,4 +1,4 @@
-## Luck Points
+# Luck Points
 
 Luck Points can give you bonuses to your rolls and help you avoid terrible failures, as described below. You start the game with one Luck Point. 
 
@@ -16,13 +16,13 @@ For example, *"I'm going to spend a Luck Point to get a bonus on my Firearms rol
 
 #### Luck Bonus
 
-Before you [[MaR_Making_a_Roll|make a roll]], you can spend a Luck Point to get a +2 Luck Bonus to your roll result. If the roll uses one of your Favored Skills, you get a +3 Luck Bonus instead.
+Before you [[Making_a_Roll/MaR_Making_a_Roll|make a roll]], you can spend a Luck Point to get a +2 Luck Bonus to your roll result. If the roll uses one of your Favored Skills, you get a +3 Luck Bonus instead.
 
 #### Avoid a Glitch
 
-If you roll a Glitch, you can spend a Luck Point to \[[[Keyword_Upgraded|Upgrade]]\] the outcome to a Fade.
+If you roll a Glitch, you can spend a Luck Point to \[[[Keywords/Keyword_Upgraded|Upgrade]]\] the outcome to a Fade.
 
 #### Recovering Luck Points
 
-At the start of each game session, your character recovers all of the Luck Points they previously spent. Some tricks and other effects can make you \[[[Keyword_Lucky|Lucky]]\], which causes you to recover a Luck Point mid-session. 
+At the start of each game session, your character recovers all of the Luck Points they previously spent. Some tricks and other effects can make you \[[[Keywords/Keyword_Lucky|Lucky]]\], which causes you to recover a Luck Point mid-session. 
 

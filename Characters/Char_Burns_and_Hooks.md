@@ -1,4 +1,4 @@
-### Burn
+# Burn
 
 Choose a **burn** for your character. Your burn represents a major event with such a negative impact that it made your old life untenable.
 
@@ -18,7 +18,7 @@ Choose a **burn** for your character. Your burn represents a major event with su
 | **Reputation Loss**  | Your professional reputation was destroyed by your enemies, leaving you with nothing.            |
 | **Witness**          | You have evidence of a major crime like murder, coverup, or massive fraud.                       |
 
-### Hook
+# Hook
 
 Choose one **hook** for your character. The hook you choose frames the lasting consequences of your burn and can be used by the GM to introduce story elements into the game that are related to your character.
 

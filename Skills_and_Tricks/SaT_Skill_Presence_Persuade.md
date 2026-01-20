@@ -1,8 +1,8 @@
-## Persuade \[Skill\]
+# Persuade \[Skill\]
 
 | Difficulty Level (DL) | Ability  | Keywords                                                              |
 | --------------------- | -------- | --------------------------------------------------------------------- |
-| Wits                  | Presence | \[Attitude\], \[[[Keyword_Language\|Language]]\], \[[[Keyword_Social\|Social]]\], \[[[Keyword_Vocal\|Vocal]]\] |
+| Wits                  | Presence | \[Attitude\], \[[[Keywords/Keyword_Language\|Language]]\], \[[[Keywords/Keyword_Social\|Social]]\], \[[[Keywords/Keyword_Vocal\|Vocal]]\] |
 
 *Using charm and a bit of psychology, you convince the target to help you, typically without offering anything in return.* 
 

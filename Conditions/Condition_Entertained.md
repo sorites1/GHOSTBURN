@@ -1,4 +1,4 @@
-## Entertained
+# Entertained
 
 **Cause:** When you witness something funny or enjoyable as the result of a trick, you are \[Entertained\]. This condition cannot be applied to player characters.
 

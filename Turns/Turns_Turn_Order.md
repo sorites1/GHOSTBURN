@@ -1,4 +1,4 @@
-## Turn Order
+# Turn Order
 
 Each time your group assembles, whether online or in person, to play the game, the GM will start by setting the stage, reminding everyone of the events of last session, and so on. 
 

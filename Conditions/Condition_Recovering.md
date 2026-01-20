@@ -1,4 +1,4 @@
-## Recovering
+# Recovering
 
 **Cause:** When you are still healing from an injury, you are \[Recovering\].
 

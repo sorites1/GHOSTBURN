@@ -1,4 +1,4 @@
-## Abilities
+# Abilities
 
 Abilities represent a character's natural, untrained state, their raw potential. Each character is composed of the following abilities:
 
@@ -12,9 +12,9 @@ Abilities represent a character's natural, untrained state, their raw potential.
 | Resilience   | Mental and physical fortitude; resist injury and psychic burn          |
 | Psi          | Represents a character's raw psionic ability                           |
 
-### Ability Scores
+# Ability Scores
 
-Each of your abilities have a number associated with it called an ability score, which has a natural range of 1 to 5. Cybernetic augmentations and psionic mutations can increase your ability score (up to +3), for a maximum augmented ability score of 8. Each of your ability scores must be at least 1, except for Psi, which is 0 if you are not playing a psionic character.
+Each of your abilities has a number associated with it called an ability score. An ability score has a natural range of 1 to 5. Cybernetic augmentations and psionic mutations can increase your ability score (up to +3), for a maximum augmented ability score of 8. Each of your ability scores must be at least 1, except for Psi, which is 0 if you are not playing a psionic character.
 
 | Ability Score | Ability Level | Description                                         |
 | :-----------: | :------------ | :-------------------------------------------------- |
@@ -23,7 +23,7 @@ Each of your abilities have a number associated with it called an ability score,
 |       2       | Below Average | Less capable than most, often struggles             |
 |       3       | Average       | Human average, sufficient for most things in life   |
 |       4       | Exceptional   | Better than most, a serious contender               |
-|       5       | Peak Human    | The best of the best                                |
+|       5       | Peak Human    | The best of the best humankind has to offer         |
 |       6       | Beyond Human  | Exceeds natural human limits                        |
 |       7       | Superhuman    | Awe inspiring, breathtaking                         |
 |       8       | Extraordinary | Nearing limits of the animal kingdom, apex predator |

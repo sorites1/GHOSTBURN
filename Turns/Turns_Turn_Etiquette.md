@@ -1,4 +1,4 @@
-## Turn Etiquette
+# Turn Etiquette
 
 Players should generally avoid interrupting other players on their turns. However, if one player narrates an action that would directly impact another player, the GM may allow the second player to react directly before returning to the first player. Any reaction by a second player should be minimal to preserve the first player's turn.
 

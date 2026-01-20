@@ -1,19 +1,19 @@
-## Pit Maneuver \[Signature Trick\]
+# Pit Maneuver \[Signature Trick\]
 
 | Difficulty Level (DL) | Skill | Keywords                                                                    |
 | --------------------- | ----- | --------------------------------------------------------------------------- |
-| \[[[Keyword_Stability\|Stability]]\]         | Drive | \[[[Keyword_Attack\|Attack]]\], \[[[Keyword_Physical\|Physical]]\], \[[[Keyword_Range\|Range]]\], \[[[Keyword_Two_Hands\|Two Hands]]\], \[[[Keyword_Vehicle\|Vehicle]]\], \[[[Keyword_Visual\|Visual]]\] |
+| \[[[Keywords/Keyword_Stability\|Stability]]\]         | Drive | \[[[Keywords/Keyword_Attack\|Attack]]\], \[[[Keywords/Keyword_Physical\|Physical]]\], \[[[Keywords/Keyword_Range\|Range]]\], \[[[Keywords/Keyword_Two_Hands\|Two Hands]]\], \[[[Keywords/Keyword_Vehicle\|Vehicle]]\], \[[[Keywords/Keyword_Visual\|Visual]]\] |
 
 *Pit Maneuver is an aggressive driving move designed to disable your opponent's vehicle and bring it to a stop.* 
 
-To use Pit Maneuver, your \[[[Keyword_Vehicle|Vehicle]]\] must be \[[[Keyword_Close|Close]]\] to the other \[Vehicle\]. The \[[[Keyword_Handling|Handling]]\] of your \[Vehicle\] applies to the DL of your Pit Maneuver roll. If you use only \[[[Keyword_One_Hand|One Hand]]\], raise the DL by one.
+To use Pit Maneuver, your \[[[Keywords/Keyword_Vehicle|Vehicle]]\] must be \[[[Keywords/Keyword_Close|Close]]\] to the other \[Vehicle\]. The \[[[Keywords/Keyword_Handling|Handling]]\] of your \[Vehicle\] applies to the DL of your Pit Maneuver roll. If you use only \[[[Keywords/Keyword_One_Hand|One Hand]]\], raise the DL by one.
 
-| Outcome      | Description                                                        |
-| ------------ | ------------------------------------------------------------------ |
-| Glitch       | You miss and they \[[[Keyword_Move\|Move]]\] \[[[Keyword_Far\|Far]]\] away                            |
-| Fade         | Both your and their \[[[Keyword_Vehicle\|Vehicle]]\] take 10 damage, spin out, and stop |
-| Success      | Their \[Vehicle\] takes 10 damage, spins out, and stops            |
-| Cool Success | Their \[Vehicle\] \[[[Keyword_Crashes\|Crashes]]\]                                      |
+| Outcome      | Description                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------------------ |
+| Cool Success | Their \[Vehicle\] \[[[Keywords/Keyword_Crashes\|Crashes]]\]                                      |
+| Success      | Their \[Vehicle\] takes 10 damage, spins out, and stops                                          |
+| Fade         | Both your and their \[[[Keywords/Keyword_Vehicle\|Vehicle]]\] take 10 damage, spin out, and stop |
+| Glitch       | You miss and they \[[[Keywords/Keyword_Move\|Move]]\] \[[[Keywords/Keyword_Far\|Far]]\] away     |
 
 ### Pit Maneuver Sidebar
 

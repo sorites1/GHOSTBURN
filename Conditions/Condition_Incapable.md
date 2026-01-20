@@ -1,4 +1,4 @@
-## Incapable
+# Incapable
 
 **Cause:** When a condition, effect, or injury renders you unable to act, you are \[Incapable\].
 

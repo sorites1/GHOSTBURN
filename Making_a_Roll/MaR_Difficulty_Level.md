@@ -1,4 +1,4 @@
-## Setting the Difficulty Level
+# Setting the Difficulty Level
 
 Each trick includes an entry for Difficulty Level (DL), which determines how difficult it is to execute. The DL for a trick is usually a **static DL** or based on an opponent's **traits**. Occasionally, a trick eschews the typical DL framework by calling for an **\[Opposed\] roll**. 
 
@@ -36,4 +36,4 @@ Occasionally, the rules call for an \[Opposed\] roll, which means both you and t
 
 ### Improvised Tricks
 
-When these rules do not cover the action a player wants their character to perform, the GM can declare it an [[Keyword_Improvised_Trick|improvised trick]]. The GM sets the DL using their best judgement. Refer to the DL chart above and use one of the standard five Difficulty Levels: Easy (8), Moderate (14), Hard (20), Severe (26), and Extreme (32).
+When these rules do not cover the action a player wants their character to perform, the GM can declare it an [[Keywords/Keyword_Improvised_Trick|improvised trick]]. The GM sets the DL using their best judgement. Refer to the DL chart above and use one of the standard five Difficulty Levels: Easy (8), Moderate (14), Hard (20), Severe (26), and Extreme (32).

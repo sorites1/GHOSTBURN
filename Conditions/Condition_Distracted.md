@@ -1,4 +1,4 @@
-## Distracted
+# Distracted
 
 **Cause:** When a skill action, condition, or effect causes you to become unfocused and momentarily lose track of what you were doing, you are \[Distracted\].
 

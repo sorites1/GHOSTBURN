@@ -1,4 +1,4 @@
-## Healthy
+# Healthy
 
 **Cause:** When you have more than half your maximum hit points, you are \[Healthy\].
 

@@ -13,6 +13,7 @@ When you use a Firearms trick, such as Firearms (Single Shot), use the damage ar
 | Minimum Damage | Normal Damage  | Maximum Damage |
 | -------------- | -------------- | -------------- |
 | Base Value     | Base Value x 2 | Base Value x 5 |
+
 For example, a weapon with a Base Value of 5 would have a \[Damage Array\] of 5/10/25.
 
 #### Firing Modes
@@ -26,6 +27,7 @@ When you use a Brawl trick, such as Brawl (Unarmed Strike), to make an attack, s
 | Minimum Damage | Normal Damage | Maximum Damage |
 | -------------- | ------------- | -------------- |
 | Strength       | Strength x 2  | Strength x 5   |
+
 For example, a character with a Strength score of 3 would have an \[Unarmed\] \[Damage Array\] of 3/6/15.
 
 ### Melee Damage
@@ -35,6 +37,7 @@ When you use a Melee trick, such as Melee (Melee Strike), to attack with a melee
 | Minimum Damage        | Normal Damage               | Maximum Damage              |
 | --------------------- | --------------------------- | --------------------------- |
 | Strength + Base Value | (Strength + Base Value) x 2 | (Strength + Base Value) x 5 |
+
 For example, a character with a Strength score of 3 is wielding a knife with a Base Value of 1. So, \[Minimum\] damage is 4, \[Normal Damage\] is 8, and \[Maximum Damage\] is 20. The \[Damage Array\] for this character is 4/8/20.
 
 

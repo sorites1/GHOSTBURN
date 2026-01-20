@@ -1,3 +1,3 @@
-## Heavy Arms
+# Heavy Arms
 
-The \[Heavy Arms\] weapon group contains the following [[Keyword_Weapon_Types|Weapon Types]]: Heavy Pistol and Rifle.
+The \[Heavy Arms\] weapon group contains the following [[Keywords/Keyword_Weapon_Types|Weapon Types]]: Heavy Pistol and Rifle.

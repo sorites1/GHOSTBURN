@@ -1,4 +1,4 @@
-## Cognitive Impairment
+# Cognitive Impairment
 
 **Cause:** When a condition or effect makes it harder for you to think, you have a \[Cognitive Impairment\].
 

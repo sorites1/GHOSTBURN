@@ -1,3 +1,3 @@
-## Bladed
+# Bladed
 
-The \[Bladed\] weapon group contains the following [[Keyword_Weapon_Types|Weapon Types]]: Blade.
+The \[Bladed\] weapon group contains the following [[Keywords/Keyword_Weapon_Types|Weapon Types]]: Blade.

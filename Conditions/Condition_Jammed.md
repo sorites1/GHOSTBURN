@@ -1,4 +1,4 @@
-## Jammed
+# Jammed
 
 **Cause:** When a trick or condition uses electronic interference to temporarily prevent a device from functioning properly, it is \[Jammed\]. 
 

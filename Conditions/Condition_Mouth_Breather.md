@@ -1,4 +1,4 @@
-## Mouth Breather
+# Mouth Breather
 
 **Cause:** When a condition, effect, or injury prevents you from breathing through your nose, you gain \[Mouth Breather\].
 
