@@ -1,0 +1,7 @@
+# Traumatized
+
+**Cause:** When you sustain an injury by rolling on the [Injury Level Chart](/../Health_and_Healing/HaH_Sustaining_an_Injury), you gain the \[Traumatized\] condition.
+
+**Effect:** All tricks have their DL is raised by one. 
+
+**Removal:** When you are [[Stabilized](/../Conditions/Condition_Stabilized)], you lose the \[Traumatized\] condition. If you are still \[Traumatized\] at the end of the current scene, you lose the \[Traumatized\] condition.

@@ -1,0 +1,5 @@
+# Spray
+
+When you make an [[Attack](/../Keywords/Keyword_Attack)] using [Burst Fire](/../Skills_and_Tricks/Trick_Firearms_Core_Burst_Fire) or [Full Auto](/../Skills_and_Tricks/Trick_Firearms_Core_Full_Auto), you can use \[Spray\] to hit multiple targets that are [[Close](/../Keywords/Keyword_Close)] to one another. Burst Fire can be used to hit one additional target (two total), and Full Auto can be used to hit up to four additional targets (five total). When you use \[Spray\], divide the damage equally between the targets. If the damage cannot be divided equally, any remainder is lost.
+
+For example, you use Burst Fire to make an \[Attack\] with your [Uzog Mini Mk-9](/../Firearms/Firearms_SMG_Uzog_Mini_Mk9) SMG. You opt to use \[Spray\] because there are two targets standing \[Close\] to one another. You make your Firearms roll to use Burst Fire and score a Fade, which deals [[Minimum Damage](/../Keywords/Keyword_Minimum_Damage)]. The Uzog's [[Damage Array](/../Gear_and_Augments/GaA_Damage_Array)] for Burst Fire is 10/20/50, so the \[Minimum Damage\] is 10. This number is divided evenly between the two targets, so they each take 5 damage. 

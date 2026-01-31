@@ -6,9 +6,9 @@
 
 *With a straight face, you tell a lie, obscure the truth, or omit key details to deceive the person you're talking to.*
 
-| Outcome      | Description                                                                  |
-| ------------ | ---------------------------------------------------------------------------- |
-| Cool Success | They believe you and you are \[[[Conditions/Condition_Inspired\|Inspired]]\] |
-| Success      | They believe you                                                             |
-| Fade         | They believe you (but are unsure) and gain \[Suspicious\]                    |
-| Glitch       | They become \[Suspicious\]                                                   |
+| Outcome      | Description                                                                                   |
+| ------------ | --------------------------------------------------------------------------------------------- |
+| Cool Success | They believe you and you are \[[[Conditions/Condition_Inspired\|Inspired]]\]                  |
+| Success      | They believe you                                                                              |
+| Fade         | They believe you (but are unsure) and gain \[[[Conditions/Condition_Suspicous\|Suspicious]]\] |
+| Glitch       | They become \[Suspicious\]                                                                    |

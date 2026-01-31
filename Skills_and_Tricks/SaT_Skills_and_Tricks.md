@@ -2,7 +2,7 @@
 
 There are fifteen skills in this game, three for each of the core five [[Characters/Char_Abilities_and_Ability_Scores|abilities]] (Presence, Awareness, Agility, Intelligence, and Strength). For example, the three skills associated with Agility are Drive, Firearms, and Stealth.
 
-If your character knows a skill, it will have a [[Keywords/Keyword_Skill_Bonus|skill bonus]] ranging from +1 to +3. When you [[Making_a_Roll/MaR_Making_a_Roll|make a roll]] with a skill, you add your skill bonus and the skill's primary ability score to the roll. 
+If your character knows a skill, it will have a [[Keywords/Keyword_Skill_Bonus|skill bonus]] ranging from +1 to +3. When you [[PtG_Making_a_Roll|make a roll]] with a skill, you add your skill bonus and the skill's primary ability score to the roll. 
 
 The skills in this game include rules for [[Keywords/Keyword_Trick|tricks]], which are specific uses of a skill. For example, the Medicine skill includes a trick called First Aid and another called Surgery.
 

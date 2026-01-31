@@ -1,6 +1,39 @@
 import os
 import re
 
+def convert_obsidian_callouts(text):
+    """Convert Obsidian callouts to MkDocs admonitions format."""
+    
+    # Pattern to match Obsidian callouts
+    # > [!TYPE] Title
+    # > Content line 1
+    # > Content line 2
+    
+    def replace_callout(match):
+        callout_type = match.group(1).lower()  # NOTE, TIP, WARNING, etc.
+        title = match.group(2).strip() if match.group(2) else callout_type.capitalize()
+        content_lines = match.group(3).strip()
+        
+        # Remove leading > from content lines and preserve indentation
+        content = []
+        for line in content_lines.split('\n'):
+            line = line.lstrip('> ').rstrip()
+            if line:
+                content.append('    ' + line)
+        
+        # Build the MkDocs admonition
+        result = f'!!! {callout_type} "{title}"\n'
+        result += '\n'.join(content)
+        
+        return result
+    
+    # Match callout blocks
+    # Pattern: > [!TYPE] Title followed by lines starting with >
+    pattern = r'^> \[!([A-Z]+)\](?: (.+?))?\n((?:^>.*\n?)+)'
+    text = re.sub(pattern, replace_callout, text, flags=re.MULTILINE)
+    
+    return text
+
 def convert_obsidian_links(text):
     """Convert Obsidian links to MkDocs format."""
     
@@ -15,6 +48,10 @@ def convert_obsidian_links(text):
         else:
             path = inner_link
             display = path.split('/')[-1]  # Use filename as display
+        
+        # Remove '/index' from the end of the path if present
+        if path.endswith('/index'):
+            path = path[:-6]  # Remove '/index' (6 characters)
         
         # Convert to MkDocs format and wrap in brackets
         mkdocs_link = f"[{display}](/../{path})"
@@ -38,6 +75,10 @@ def convert_obsidian_links(text):
             path = content
             display = path.split('/')[-1]  # Use filename as display
         
+        # Remove '/index' from the end of the path if present
+        if path.endswith('/index'):
+            path = path[:-6]  # Remove '/index' (6 characters)
+        
         return f"[{display}](/../{path})"
     
     # Only match [[ ]] that are NOT followed by markdown link syntax
@@ -52,8 +93,9 @@ def process_markdown_file(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
         
-        # Convert links
-        converted_content = convert_obsidian_links(content)
+        # Convert callouts first, then links
+        converted_content = convert_obsidian_callouts(content)
+        converted_content = convert_obsidian_links(converted_content)
         
         # Write back to file
         with open(file_path, 'w', encoding='utf-8') as f:
@@ -105,12 +147,19 @@ def main():
         'Characters',
         'Conditions',
         'Cybernetic_Augmentations',
-        'Gear',
+        'Game_Master',
+        'Gear_Mods',
+        'Gear_and_Augments',
+        'Firearms',
         'Health_and_Healing',
-        'Keywords',
         'Making_a_Roll',
+        'Mods',
+        'Keywords',
+        'Lexicon',
+        'Playing_the_Game',
         'Skills_and_Tricks',
-        'Turns'
+        'Weapon_Mods',
+        'Vision_Mods'
     ]
     
     # Process each folder

@@ -1,5 +1,0 @@
-# Thermal Imaging
-
-\[Thermal Imaging\] is a quality that can be applied to handheld devices, goggles, helmets (with visor), video cameras, and cybernetic eyes. When \[Thermal Imaging\] is active, the world around you is \[[[Conditions/Condition_Dark|Dark]]\], but you can see patterns of heat visualized as bands of color (red, orange, yellow, green, and blue). People and animals, as well as machines that produce heat, like vehicles, produce heat signatures that can be easily detected with \[Thermal Imaging\]. Note that \[Thermal Imaging\] can detect heat through a standard wall, but the farther away and the thicker the wall, the weaker the signal. 
-
-When you are exposed to a bright light while using \[Thermal Imaging], you are immediately \[[[Conditions/Condition_Blinded|Blinded]]\]. If you disable \[Thermal Imaging\], you lose \[Blinded\] at the end of your turn.

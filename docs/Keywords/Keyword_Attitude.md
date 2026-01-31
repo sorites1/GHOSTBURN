@@ -1,0 +1,4 @@
+# Attitude
+
+\[Attitude\] is an NPC trait. It represents how an NPC feels about a particular person. \[Attitude\] can be thought of as a spectrum with three values: [[Friendly](/../Keywords/Keyword_Friendly)], [[Neutral](/../Keywords/Keyword_Neutral)], and [[Hostile](/../Keywords/Keyword_Hostile)]. Some tricks cause a target's \[Attitude\] to go improve or worsen. 
+

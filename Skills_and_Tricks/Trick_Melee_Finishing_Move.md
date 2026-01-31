@@ -11,6 +11,6 @@ When an opponent who is \[[[Keywords/Keyword_Close|Close]]\] or \[[[Keywords/Key
 | Outcome      | Description                                                            |
 | ------------ | ---------------------------------------------------------------------- |
 | Cool Success | They are dead                                                          |
-| Success      | You deal \[[[Keywords/Keyword_Normal_Damage\|Normal Damage]]\]         |
-| Fade         | You deal \[[[Keywords/Keyword_Minimum_Damage\|Minimum Damage]]\]       |
+| Success      | You deal \[[[Keywords/Keyword_Maximum_Damage\|Maximum Damage]]\]       |
+| Fade         | You deal \[[[Keywords/Keyword_Normal_Damage\|Normal Damage]]\]         |
 | Glitch       | You miss and are \[[[Conditions/Condition_Off_Balance\|Off Balance]]\] |

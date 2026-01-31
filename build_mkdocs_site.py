@@ -35,9 +35,10 @@ def run_script(script_name):
 def main():
     """Run all build scripts in sequence."""
     print("Starting GHOSTBURN 2325 build process...")
-    
+
     # List of scripts to run in order
     scripts = [
+        '0_delete_folders.py',
         '1_obsidian_copy_to_docs.py',
         '2_obsidian_mkdocs_converter_nocopy_v5.py',
         '3_obsidian_fix_table_links.py',

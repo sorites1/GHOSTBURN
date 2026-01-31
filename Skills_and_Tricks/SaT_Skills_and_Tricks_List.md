@@ -45,7 +45,7 @@ This chart shows the skills and tricks available to player characters in this ga
 |                  | Firearms       | [[Skills_and_Tricks/Trick_Firearms_Dual_Shot\|Dual Shot]]                               | Signature Trick |
 | **Agility**      | **Stealth**    | [[Skills_and_Tricks/Trick_Stealth_Core_Sneak\|Sneak]]                                   | **Core Trick**  |
 |                  | Stealth        | [[Skills_and_Tricks/Trick_Stealth_Disappear\|Disappear]]                                | Signature Trick |
-|                  | Stealth        | [[Skills_and_Tricks/Trick_Stealth_Shadow_Target\|Shadow Target]]                        | Signature Trick |
+|                  | Stealth        | [[Trick_Stealth_Core_Shadow_Target\|Shadow Target]]                        | Signature Trick |
 |                  | Stealth        | [[Skills_and_Tricks/Trick_Stealth_Pickpocket\|Pickpocket]]                              | Signature Trick |
 |                  | Stealth        | [[Skills_and_Tricks/Trick_Stealth_Close_Up_Magic\|Close Up Magic]]                      | Signature Trick |
 | **Intelligence** | **Hacking**    | **[[Skills_and_Tricks/Trick_Hacking_Core_Disable_Device\|Disable Device]]**             | **Core Trick**  |

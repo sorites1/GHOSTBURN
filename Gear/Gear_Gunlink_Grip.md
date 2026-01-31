@@ -1,3 +1,0 @@
-# Gunlink Grip
-
-A \[Gunlink Grip\] is built into or attached to the grip of a firearm. A \[Gunlink Grip\] provides an interface between the weapon and the user's \[Gunlink\] cybernetic augmentation. Without the \[Gunlink\] augment, the \[Gunlink\] provides no benefit to the person wielding the firearm. Further, a \[Gunlink Grip\] can be configured so the firearm is locked and unusable by anyone except for those with authorized biometrics.
