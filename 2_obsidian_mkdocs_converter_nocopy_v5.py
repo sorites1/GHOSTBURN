@@ -156,6 +156,7 @@ def main():
         'Mods',
         'Keywords',
         'Lexicon',
+        'Melee_Weapons',
         'Playing_the_Game',
         'Skills_and_Tricks',
         'Weapon_Mods',

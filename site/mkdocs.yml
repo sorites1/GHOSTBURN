@@ -177,10 +177,17 @@ nav:
     - Augments: Cybernetic_Augmentations/index.md
     - ⚏ Body Augs:
       - Cybernetic Arm: Cybernetic_Augmentations/Aug_Cybernetic_Arm.md
-      - Cybernetic Ears: Cybernetic_Augmentations/Aug_Cybernetic_Ears.md
+      - Cybernetic Ear: Cybernetic_Augmentations/Aug_Cybernetic_Ear.md
       - Cybernetic Eyes: Cybernetic_Augmentations/Aug_Cybernetic_Eyes.md
+      - Cybernetic Foot: Cybernetic_Augmentations/Aug_Cybernetic_Foot.md
+      - Cybernetic Jaw: Cybernetic_Augmentations/Aug_Cybernetic_Jaw.md
       - Cybernetic Hand: Cybernetic_Augmentations/Aug_Cybernetic_Hand.md
+      - Cybernetic_Heart: Cybernetic_Augmentations/Aug_Cybernetic_Heart.md
+      - Cybernetic Larynx: Cybernetic_Augmentations/Aug_Cybernetic_Larynx.md
       - Cybernetic Leg: Cybernetic_Augmentations/Aug_Cybernetic_Leg.md
+      - Cybernetic Lip: Cybernetic_Augmentations/Aug_Cybernetic_Lip.md
+      - Cybernetic Lung: Cybernetic_Augmentations/Aug_Cybernetic_Lung.md
+      - Cybernetic Spine: Cybernetic_Augmentations/Aug_Cybernetic_Spine.md
     - ⚏ Combat Augs:
       - Arm Blade: Cybernetic_Augmentations/Aug_Arm_Blade.md
       - ATK Module: Cybernetic_Augmentations/Aug_ATK_Module.md
@@ -195,7 +202,7 @@ nav:
     - ⚏ Enhancement Augs:
       - CAT Reflexes: Cybernetic_Augmentations/Aug_CAT_Reflexes.md
       - Faceshifter: Cybernetic_Augmentations/Aug_Faceshifter.md
-      - Muscle Rack: Cybernetic_Augmentations/Aug_Muscle_Rack.md
+      - Meat Rack: Cybernetic_Augmentations/Aug_Meat_Rack.md
       - Neuromatrix: Cybernetic_Augmentations/Aug_Neuromatrix.md
       - Pheromonic Synthesizer: Cybernetic_Augmentations/Aug_Pheromonic_Synthesizer.md
     - ⚏ Utility Augs:
@@ -228,7 +235,22 @@ nav:
       - Graham PX-90 Carbine: Firearms/Firearms_Rifle_Graham_PX90_Carbine.md
       - Salvati Duro Carbine: Firearms/Firearms_Rifle_Salvati_Duro_Carbine.md
     - ⚏ Sniper Rifles:
-      - Argentis Faclo: Firearms/Firearms_Rifle_Argentis_Falco.md      
+      - Argentis Faclo: Firearms/Firearms_Rifle_Argentis_Falco.md
+  - ⚏ Melee Weapons:
+    - Melee Weapons: Melee_Weapons/index.md
+    - ⚏ Blunt:
+      - Sledgehammer: Melee_Weapons/Melee_Sledge_Hammer.md
+      - Stun Baton: Melee_Weapons/Melee_Stun_Baton.md    
+    - ⚏ Short Blades:
+      - Butterfly Knife: Melee_Weapons/Melee_Butterfly_Knife.md
+      - Combat Knife: Melee_Weapons/Melee_Combat_Knife.md
+      - Monofilament Whip: Melee_Weapons/Melee_Monofilament_Whip.md
+      - Survival Knife: Melee_Weapons/Melee_Survival_Knife.md
+      - Switchblade: Melee_Weapons/Melee_Switchblade.md
+    - ⚏ Long Blades:
+      - Combat Axe: Melee_Weapons/Melee_Combat_Axe.md
+      - Katana: Melee_Weapons/Melee_Katana.md
+      - Plasma Sword: Melee_Weapons/Melee_Plasma_Sword.md
   - ⚏ Mods:
     - Mods: Mods/index.md
     - ⚏ Vision Mods:
@@ -255,6 +277,7 @@ nav:
       - Bleeding: Conditions/Condition_Bleeding.md
       - Blinded: Conditions/Condition_Blinded.md
       - Break: Conditions/Condition_Break.md
+      - Burning: Conditions/Condition_Burning.md
       - Cognitive Impairment: Conditions/Condition_Cognitive_Impairment.md
       - Compliant: Conditions/Condition_Compliant.md
       - Concealment, Partial: Conditions/Condition_Concealment_Partial.md
@@ -325,6 +348,7 @@ nav:
       - Bladed: Keywords/Keyword_Bladed.md
       - Blunt Force: Keywords/Keyword_Blunt_Force.md
       - Close: Keywords/Keyword_Close.md
+      - Club: Keywords/Keyword_Club.md
       - Concealable: Keywords/Keyword_Concealable.md
       - Concentrate: Keywords/Keyword_Concentrate.md
       - Condition: Keywords/Keyword_Condition.md
@@ -340,7 +364,9 @@ nav:
       - Downgraded: Keywords/Keyword_Downgraded.md
       - Drone: Keywords/Keyword_Drone.md
       - Enabled: Keywords/Keyword_Enabled.md
+      - Encrypted Packages: Keywords/Keyword_Encrypted_Package.md
       - Far: Keywords/Keyword_Far.md
+      - Fast: Keywords/Keyword_Fast.md
       - Fine Control: Keywords/Keyword_Fine_Control.md
       - Firearm: Keywords/Keyword_Firearm.md
       - Fly: Keywords/Keyword_Fly.md
@@ -360,6 +386,7 @@ nav:
       - Light Arms: Keywords/Keyword_Light_Arms.md
       - Light Pistol: Keywords/Keyword_Light_Pistol.md
       - Location: Keywords/Keyword_Location.md
+      - Long Blade: Keywords/Keyword_Long_Blade.md
       - Low Speed: Keywords/Keyword_Low_Speed.md
       - Luck Bonus: Keywords/Keyword_Luck_Bonus.md
       - Lucky: Keywords/Keyword_Lucky.md
@@ -385,6 +412,7 @@ nav:
       - Secret: Keywords/Keyword_Secret.md
       - Security: Keywords/Keyword_Security.md
       - Security Alert: Keywords/Keyword_Security_Alert.md
+      - Short Blade: Keywords/Keyword_Short_Blade.md
       - Shotgun: Keywords/Keyword_Shotgun.md
       - Signature Trick: Keywords/Keyword_Signature_Trick.md
       - Skill Bonus: Keywords/Keyword_Skill_Bonus.md
@@ -403,6 +431,7 @@ nav:
       - Trick: Keywords/Keyword_Trick.md
       - Two Handed Grip: Keywords/Keyword_Two_Handed_Grip.md
       - Two Hands: Keywords/Keyword_Two_Hands.md
+      - Unarmed: Keywords/Keyword_Unarmed.md
       - Unarmed Strike: Keywords/Keyword_Unarmed_Strike.md
       - Upgraded: Keywords/Keyword_Upgraded.md
       - Vehicle: Keywords/Keyword_Vehicle.md

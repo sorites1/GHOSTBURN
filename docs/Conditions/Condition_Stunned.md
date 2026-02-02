@@ -1,6 +1,6 @@
 # Stunned
 
-**Cause:** When a skill action, condition or effect causes you to have a momentary mental shutdown, you are \[Stunned\]. 
+**Cause:** When a skill action, condition or effect causes you to have a momentary mental or physical shutdown, you are \[Stunned\]. 
 
 **Effect:** You are [[Immobilized](/../Conditions/Condition_Immobilized)] and [[Incapable](/../Conditions/Condition_Incapable)]. 
 

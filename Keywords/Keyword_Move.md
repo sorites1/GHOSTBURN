@@ -1,3 +1,5 @@
 # Move
 
-When you use \[Move\], you spend 1 AP per range increment you want to go. For example, to go from the kitchen to the living room is \[[[Keywords/Keyword_Close|Close]]\] to \[[[Keywords/Keyword_Nearby|Nearby]]\] so that is 1 AP. To go from the kitchen to the outside and across the street is \[Close\] to \[Nearby\] (1 AP) and then \[Nearby\] to \[[[Keywords/Keyword_Far|far]]\] (1 AP), so that is 2 AP.
+When you use \[Move\], you spend 1 AP to go somewhere \[[[Keywords/Keyword_Nearby|Nearby]]\]. If you keep going and immediately spend another 1 AP to use \[Move\] again, you somewhere that was \[[[Keywords/Keyword_Far|Far]]\] from your original position.
+
+For example, say you are in the living room. The font yard is \[[[Keywords/Keyword_Nearby|Nearby]]\]. To \[Move\] from the living room to the front yard costs 1 AP. If you want to keep going, you can spend 1 AP again to \[Move\] somewhere \[Far\] away, like three blocks away.
