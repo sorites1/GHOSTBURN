@@ -1,7 +1,10 @@
-# Gunwires
+# Gunwires \[Augment\]
 
-The \[Gunwires\] augment requires an inductive pad be installed in the your palm and wired up the arm to the brainstem. \[Gunwires\] only provides a benefit when you pair it with a \[[[Weapon_Mods/Mods_Gunwire_Grip|Gunwire Grip]]\] installed on a \[[[Keywords/Keyword_Firearm|Firearm]]\]. Together, \[Gunwires\] and the \[Gunwire Grip\] collect data from your weapon and vision to provide effective aim assistance.
+*Gunwires run from an induction pad installed in the palm of your hand, up the arm, to your brainstem. When paired with a compatible firearm, Gunwires use data from your weapon to provide aim assistance.*
 
-| Points | Augmentation | Mesh Cost | Reduces Psi | Description                                                                          |
-| :----: | ------------ | :-------: | ----------- | ------------------------------------------------------------------------------------ |
-|   1    | Gunwires     |     1     | Yes         | Allows you to get a bonus from a \[[[Weapon_Mods/Mods_Gunwire_Grip\|Gunwire Grip]]\] |
+|   Cost   | Augment  | Mesh Cost | Mod Slots | Keywords                                                                                 |
+| :------: | -------- | :-------: | :-------: | :--------------------------------------------------------------------------------------- |
+| 20,000 ⌆ | Gunwires |     2     |     0     | \[[[Keywords/Keyword_One_Hand\|One Hand]]\], \[[[Keywords/Keyword_Physical\|Physical]]\] |
+Gunwires allows you to get the +2 \[[[Keywords/Keyword_Gear_Bonus|Gear Bonus]]\] to Firearms granted by a weapon's \[[[Weapon_Mods/Mods_Gunwire_Grip|Gunwire Grip]]\]. 
+
+If you have [[Cybernetic_Augmentations/Aug_Cybernetic_Eye|Cybernetic Eyes]] installed, Gunwires also grants +1 \[[[Keywords/Keyword_Aug_Bonus|Aug Bonus]]\] to Firearms.

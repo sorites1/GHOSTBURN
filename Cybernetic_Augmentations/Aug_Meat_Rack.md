@@ -1,8 +1,13 @@
-# Meat Rack
+# Meat Rack \[Augment\]
 
-The \[Meat Rack\] augment strengthens muscles in your arms, legs, neck, back, and abdomen, providing an increase to your natural Strength. \[Meat Rack\] comes in two levels: \[Meat Rack 1\] and \[Meat Rack 2\]. These levels represent an upgrade path; they do not stack.
+*Meat Rack by Ranco strengthens the muscles in your arms, legs, neck, back, and abdomen, providing you with an overall increase in physicality.* 
 
-| Points | Augmentation | Mesh Cost | Reduces Psi | Description          |
-| :----: | ------------ | :-------: | ----------- | -------------------- |
-|   4    | Meat Rack 1  |     4     | Yes         | +1 to Strength (Aug) |
-|   6    | Meat Rack 2  |     6     | Yes         | +2 to Strength (Aug) |
+|   Cost    | Augment             | Mesh Cost | Mod Slots | Keywords                                            |
+| :-------: | ------------------- | :-------: | :-------: | :-------------------------------------------------- |
+| 80,000 ⌆  | Meat Rack (Level 1) |     6     |     0     | \[[[Keywords/Keyword_Aug_Increase\|Aug Increase]]\] |
+| 200,000 ⌆ | Meat Rack (Level 2) |     7     |     0     | \[Aug Increase\]                                    |
+| 500,000 ⌆ | Meat Rack (Level 3) |     9     |     0     | \[Aug Increase\]                                    |
+
+Meat Rack grants its level as an \[Aug Increase\] to your Strength score. That is, Meat Rack (Level 1) gives you an \[Aug Increase\] of 1 to your Strength score, Meat Rack (Level 2) gives you an \[Aug Increase\] of 2, and Meat Rack (Level 3) gives you an \[Aug Increase\] of 3. 
+
+Recalculate your [[Health_and_Healing/HaH_Hit_Points_and_Conditions|Hit Points and Health Conditions]] using your increased Strength score and make the necessary adjustments to your character sheet. 

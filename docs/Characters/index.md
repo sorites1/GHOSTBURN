@@ -6,7 +6,7 @@
 
  In **GHOSTBURN**, you are a **Ghost**, someone whose digital identity has been erased. You live outside the system, doing work for your **Medium**, the one who reached out and helped you when your life was in shambles.
 
-You didn't start out as a ghost. You had a life once. A career. A **Background**. But that old life went up in smoke when you got **Burned**. The street waits. It knows you, and it waits until you are at your most vulnerable. But before the street could take you, your medium found you and offered you a deal.
+You didn't start out as a ghost. You had a life once. A career. A **Background**. But that old life went up in smoke when you got **Burned**. The street waits. It knows you, and it waits until you are at your most vulnerable. But before the street could take you, your medium found you and offered a deal.
 
 You took it. 
 

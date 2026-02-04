@@ -1,9 +1,18 @@
-# Pain Dial
+# Pain Dial \[Augment\]
 
-The \[Pain Dial\] augment puts a literal, physical knob on your waistline, atop one of your pelvic bones. On your turn, spend 1 AP to set the \[Pain Dial\] to any of its three levels or to turn it off. At Level 1, you ignore the effects of being \[[[Conditions/Condition_Wounded|Wounded]]\]. At Level 2, you ignore the effects of \[[[Conditions/Condition_Severely_Wounded|Severely Wounded]]\]. At Level 3, you ignore the effects of \[[[Conditions/Condition_Deaths_Door|Death's Door]]\], except you must still roll to see if you sustain an injury. If you do sustain an injury and the \[[[Conditions/Condition_Agony|Agony]]\] condition would be applied, you ignore it. 
+*The Pain Dial is a literal, physical knob on your waistline, set atop one of your pelvic bones. Turn the dial higher to ignore greater levels of pain.*
 
-At the end of your turn, if \[Pain Dial\] is active, make a \[[[Keywords/Keyword_Basic|Basic]]\] Resilience roll with a DL based on the level it's set to: Easy (8) for Level 1, Moderate (14) for Level 2, and Hard (20) for Level 3. Failure means you suffer a pain overload, causing the \[Pain Dial\] to shutdown and any effects from \[Wounded\], \[Severely Wounded\], \[Death's Door\], and specific injuries immediately take effect.
+|   Cost    | Augment   | Mesh Cost | Mod Slots | Keywords                                                                                 |
+| :-------: | --------- | :-------: | :-------: | :--------------------------------------------------------------------------------------- |
+| 800,000 ⌆ | Pain Dial |     8     |     0     | \[[[Keywords/Keyword_One_Hand\|One Hand]]\], \[[[Keywords/Keyword_Physical\|Physical]]\] |
 
-| Points | Augmentation  | Mesh Cost | Reduces Psi | Description                                                                                                                                                                                                                                                                              |
-| :----: | ------------- | :-------: | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   8    | Pain Dial     |     8     | No          | Spend 1 AP to ignore the effects of \[Wounded\], \[Severely Wounded\], and \[Death's Door\] (except for injuries); at the end of your turn, make a \[Basic\] Resilience roll with a DL of Easy (8), Moderate (14), or Hard (20), respectively, to avoid the \[Pain Dial\] shutting down. |
+Pain Dial has four positions: Off, 1, 2, and 3. Spend 1 AP to turn Pain Dial up or down by one position. For example, if Pain Dial is set to Off, spend 1 AP to turn Pain Dial to 1, spend another AP to turn Pain Dial to 2, and so on. The effects of each position is shown below.
+
+| Position | Effect                                                                                                                                                                                                     |
+| :------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   Off    | -                                                                                                                                                                                                          |
+|    1     | You ignore the effects of being \[[[Conditions/Condition_Wounded\|Wounded]]\].                                                                                                                             |
+|    2     | You ignore the effects of being \[[[Conditions/Condition_Severely_Wounded\|Severely Wounded]]\].                                                                                                           |
+|    3     | You ignore the effects of being at \[[[Conditions/Condition_Deaths_Door\|Death's Door]]\] except you still roll for injury. If you gain \[[[Conditions/Condition_Agony\|Agony]]\], you ignore its effects. |
+
+At the start of your turn, if Pain Dial is active, make a \[[[Keywords/Keyword_Basic|Basic]]\] Resilience roll with a DL based on its current position: Easy (8) for Position 1, Moderate (14) for Position 2, and Hard (20) for Position 3. Failure means you suffer a pain overload, causing Pain Dial to shut down. Effects you were ignoring immediately take effect.

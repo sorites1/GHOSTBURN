@@ -6,7 +6,7 @@
 
 *You engage in a physical activity like climbing, jumping, or swimming.* 
 
-Athletic Move is used to [[Move](/../Keywords/Keyword_Move)] by climbing, jumping, or swimming, When you use Physical Activity, state the desired outcome of your \[Move\], such as *I want to climb over the fence or I want jump from this rooftop to the next one.* If the desired outcome is unlikely, raise the DL by one, and if it is highly unlikely, raise the DL by two.
+Athletic Move is used to [[Move](/../Keywords/Keyword_Move)] by climbing, jumping, or swimming, When you use Physical Activity, state the desired outcome of your \[Move\], such as, "I want to climb over the fence or I want jump from this rooftop to the next one." If the desired outcome is unlikely, raise the DL by one, and if it is highly unlikely, raise the DL by two.
 
 | Outcome      | Description                                                                                    |
 | ------------ | ---------------------------------------------------------------------------------------------- |

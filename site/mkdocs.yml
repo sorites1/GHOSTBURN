@@ -178,27 +178,27 @@ nav:
     - ⚏ Body Augs:
       - Cybernetic Arm: Cybernetic_Augmentations/Aug_Cybernetic_Arm.md
       - Cybernetic Ear: Cybernetic_Augmentations/Aug_Cybernetic_Ear.md
-      - Cybernetic Eyes: Cybernetic_Augmentations/Aug_Cybernetic_Eyes.md
+      - Cybernetic Eye: Cybernetic_Augmentations/Aug_Cybernetic_Eye.md
       - Cybernetic Foot: Cybernetic_Augmentations/Aug_Cybernetic_Foot.md
       - Cybernetic Jaw: Cybernetic_Augmentations/Aug_Cybernetic_Jaw.md
       - Cybernetic Hand: Cybernetic_Augmentations/Aug_Cybernetic_Hand.md
-      - Cybernetic_Heart: Cybernetic_Augmentations/Aug_Cybernetic_Heart.md
+      - Cybernetic Heart: Cybernetic_Augmentations/Aug_Cybernetic_Heart.md
       - Cybernetic Larynx: Cybernetic_Augmentations/Aug_Cybernetic_Larynx.md
       - Cybernetic Leg: Cybernetic_Augmentations/Aug_Cybernetic_Leg.md
       - Cybernetic Lip: Cybernetic_Augmentations/Aug_Cybernetic_Lip.md
       - Cybernetic Lung: Cybernetic_Augmentations/Aug_Cybernetic_Lung.md
       - Cybernetic Spine: Cybernetic_Augmentations/Aug_Cybernetic_Spine.md
     - ⚏ Combat Augs:
-      - Arm Blade: Cybernetic_Augmentations/Aug_Arm_Blade.md
       - ATK Module: Cybernetic_Augmentations/Aug_ATK_Module.md
-      - Cyber Fangs: Cybernetic_Augmentations/Aug_Cyber_Fangs.md
+      - CBR Fangs: Cybernetic_Augmentations/Aug_CBR_Fangs.md
       - Dermal Armor: Cybernetic_Augmentations/Aug_Dermal_Armor.md
-      - Finger Razors: Cybernetic_Augmentations/Aug_Finger_Razors.md
+      - Flex Blade: Cybernetic_Augmentations/Aug_Flex_Blade.md
+      - FNG Razors: Cybernetic_Augmentations/Aug_FNG_Razors.md
       - Gunwires: Cybernetic_Augmentations/Aug_Gunwires.md
       - Pain Dial: Cybernetic_Augmentations/Aug_Pain_Dial.md
-      - Spring-Loaded Pistol: Cybernetic_Augmentations/Aug_Spring_Loaded_Pistol.md
+      - SLAP Gunl: Cybernetic_Augmentations/Aug_SLAP_Gun.md
       - Subdermal NanoWeave: Cybernetic_Augmentations/Aug_Subdermal_Nanoweave.md
-      - Retractable Claws: Cybernetic_Augmentations/Aug_Retractable_Claws.md
+      - TGR Claws: Cybernetic_Augmentations/Aug_TGR_Claws.md
     - ⚏ Enhancement Augs:
       - CAT Reflexes: Cybernetic_Augmentations/Aug_CAT_Reflexes.md
       - Faceshifter: Cybernetic_Augmentations/Aug_Faceshifter.md
@@ -219,6 +219,7 @@ nav:
     - ⚏ Light Pistols:
       - EZTech Punisher Lite: Firearms/Firearms_LP_EZTech_Punisher_Lite.md
       - Ranco Defender .380: Firearms/Firearms_LP_Ranco_Defender_380.md
+      - Ranco Ripper AP9: Firearms/Firearms_LP_Ranco_Ripper_AP8.md
       - Salvati Carino 9mm: Firearms/Firearms_LP_Salvati_Carino_9mm.md
       - Uzog MP Mk-3: Firearms/Firearms_LP_Uzog_MP_Mk3.md
     - ⚏ Heavy Pistols:
@@ -344,6 +345,7 @@ nav:
       - Attitude: Keywords/Keyword_Attitude.md
       - Auditory: Keywords/Keyword_Auditory.md
       - Aug Bonus: Keywords/Keyword_Aug_Bonus.md
+      - Aug_Increase: Keywords/Keyword_Aug_Increase.md
       - Basic: Keywords/Keyword_Basic.md
       - Bladed: Keywords/Keyword_Bladed.md
       - Blunt Force: Keywords/Keyword_Blunt_Force.md

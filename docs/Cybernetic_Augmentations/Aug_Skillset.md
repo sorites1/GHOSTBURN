@@ -1,13 +1,15 @@
-# Skillset
+# Skillset \[Augment\]
 
-The \[Skillset\] augment is attached to the spinal column and maps to several regions of the brain, including the Basal Ganglia and Hippocampus. You can interact with the \[Skillset\] augment by issuing voice commands, or if you have \[Cybernetic Eyes\], you can access a retinal user interface operated through eye movements. 
+*Skillset firmly attaches to your spinal column and maps directly to your brain, so that when you download a new skill, the knowledge and ability can be directly infused into your body and mind.*
 
-To use a \[Skillset\] augment, spend 1 AP and state the skill you want to download. In an millisecond, the skill rushes into your brain, filling you with knowledge and ability and granting you a bonus, as shown below. \[Skillset\] comes in three levels: \[Skillset 1\], \[Skillset 2\], and \[Skillset 3\]. These levels represent an upgrade path; they do not stack.
+|    Cost     | Augment            | Mesh Cost | Mod Slots | Keywords                                    |
+| :---------: | ------------------ | :-------: | :-------: | :------------------------------------------ |
+|  600,000 ⌆  | Skillset (Level 1) |     6     |     0     | [[Wireless](/../Keywords/Keyword_Wireless)] |
+| 1,000,000 ⌆ | Skillset (Level 2) |    10     |     0     | \[Wireless\]                                |
+| 1,400,000 ⌆ | Skillset (Level 3) |    14     |     0     | \[Wireless\]                                |
 
-| Points | Augmentation | Mesh Cost | Reduces Psi | Description                                                                                |
-| :----: | ------------ | :-------: | ----------- | ------------------------------------------------------------------------------------------ |
-|   4    | Skillset 1   |     4     | Yes         | Spend 1 AP to download a skill with a +1 [[Skill Bonus](/../Keywords/Keyword_Skill_Bonus)] |
-|   8    | Skillset 2   |     8     | Yes         | Spend 1 AP to download a skill with a +2 \[Skill Bonus\]                                   |
-|   12   | Skillset 3   |    12     | Yes         | Spend 1 AP to download a skill with a +3 \[Skill Bonus\]                                   |
+Spend 1 AP to activate Skillset and name the [Skill](/../Skills_and_Tricks/SaT_Skills_and_Tricks_List) you want to download. You gain an [[Aug Bonus](/../Keywords/Keyword_Aug_Bonus)] for the downloaded skill equal to the level of Skillset. Skillset (Level 1) grants a +1 \[Aug Bonus\]. Skillset (Level 2) grants a +2 \[Aug Bonus\]. Skillset (Level 3) grants a +3 \[Aug Bonus\].
 
-Once downloaded, a skill remains available until a new downloaded skill replaces it. A \[Skillset\] can only hold one skill at a time. This augment allows you to use the skill's [Core Tricks](/../Keywords/Keyword_Core_Trick) but not its [Signature Tricks](/../Keywords/Keyword_Signature_Trick).
+Once downloaded, a skill and its \[Aug Bonus\] remain available until you download another one (which replaces the first). A \[Skillset\] can only hold one skill at a time. This augment does not grant access to a skill's [Signature Tricks](/../Keywords/Keyword_Signature_Trick).
+
+Skillset wirelessly downloads Skill Paks from a licensed, megacorp Skills Management Service (SMS). If you have a [Darkline Node](/../Cybernetic_Augmentations/Aug__Darkline_Node) installed, you can download skills from a pirate SMS, such as one set up by a medium for their ghosts to use.

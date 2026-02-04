@@ -1,7 +1,9 @@
-# Multitool
+# Multitool \[Augment\]
 
-The \[Multitool\] augment is installed in the first two digits on one of your hands. With a gesture (0 AP), you can produce an array of small tools, which protrude from underneath the fingernails on those two fingers. Using the gesture a second time (0 AP) stows the \[Multitool\] into your fingers again.
+*Multitool is installed in the first two digits on one of your hands. With a gesture, an array of small tools protrude from underneath the fingernails on those two fingers.*
 
-| Points | Augmentation | Mesh Cost | Reduces Psi | Description                                                                                                                                                           |
-| :----: | ------------ | :-------: | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1    | Multitool    |     1     | No          | Grants a +1 [[Aug Bonus](/../Keywords/Keyword_Aug_Bonus)] to Hacking when used to perform [[Disable Device](/../Skills_and_Tricks/Trick_Hacking_Core_Disable_Device)] |
+|   Cost   | Augment   | Mesh Cost | Mod Slots | Keywords                                                                                 |
+| :------: | --------- | :-------: | :-------: | :--------------------------------------------------------------------------------------- |
+| 10,000 ⌆ | Multitool |     1     |     0     | [[One Hand](/../Keywords/Keyword_One_Hand)], [[Physical](/../Keywords/Keyword_Physical)] |
+
+When you use the [[Disable Device](/../Skills_and_Tricks/Trick_Hacking_Core_Disable_Device)] trick, lower the DL by one. You can deploy and stow Multitool for free (0 AP).

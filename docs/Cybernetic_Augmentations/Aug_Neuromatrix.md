@@ -1,8 +1,11 @@
-# Neuromatrix
+# Neuromatrix \[Augment\]
 
-The \[Neuromatrix\] augment, implanted in the brain, stimulates the prefrontal cortex and boosts neurotransmitters, improving cognitive focus and executive function. \[Neuromatrix\] comes in two levels: \[Neuromatrix 1\] and \[Neuromatrix 2\]. These levels represent an upgrade path; they do not stack.
+*The Neuromatrix augment, implanted in the brain, stimulates the prefrontal cortex and boosts neurotransmitters, improving cognitive focus and executive function.* 
 
-| Points | Augmentation  | Mesh Cost | Reduces Psi | Description              |
-| :----: | ------------- | :-------: | ----------- | ------------------------ |
-|   4    | Neuromatrix 1 |     4     | Yes         | +1 to Intelligence (Aug) |
-|   6    | Neuromatrix 2 |     6     | Yes         | +2 to Intelligence (Aug) |
+|    Cost     | Augment               | Mesh Cost | Mod Slots | Keywords                                            |
+| :---------: | --------------------- | :-------: | :-------: | :-------------------------------------------------- |
+|  800,000 ⌆  | Neuromatrix (Level 1) |     4     |     0     | [[Aug Increase](/../Keywords/Keyword_Aug_Increase)] |
+| 1,600,000 ⌆ | Neuromatrix (Level 2) |     6     |     0     | \[Aug Increase\]                                    |
+| 3,200,000 ⌆ | Neuromatrix (Level 3) |     8     |     0     | \[Aug Increase\]                                    |
+
+Neuromatrix grants it level as an \[Aug Increase\] to your Intelligence score. That is, Neuromatrix (Level 1) gives you an \[Aug Increase\] of 1 to your Intelligence score, Neuromatrix (Level 2) gives you an \[Aug Increase\] of 2, and Neuromatrix (Level 3) gives you an \[Aug Increase\] of 3.

@@ -1,7 +1,11 @@
-# Subdermal Nanoweave
+# Subdermal Nanoweave \[Augment\]
 
-\[Subdermal Nanoweave\] is a fabric-like material comprised of tiny filaments that is implanted under the skin. This augmentation is unnoticeable except when a close-up inspection of the skin is performed, in which case a faint geometric pattern is visible, \[Subdermal Nanoweave\] counts as Nanoweave Armor. \[Subdermal Nanoweave\] and [[Dermal Armor](/../Cybernetic_Augmentations/Aug_Dermal_Armor)] are [[Incompatible](/../Keywords/Keyword_Incompatible)].
+*Subdermal Nanoweave is a fabric-like material comprised of tiny filaments. Implanted under the skin, it creates a faint geometric pattern that is noticeable only under close-up inspection.* 
 
-| Points | Augmentation        | Mesh Cost | Reduces Psi | Description               |
-| :----: | ------------------- | :-------: | ----------- | ------------------------- |
-|   3    | Subdermal Nanoweave |     3     | No          | Counts as Nanoweave Armor |
+|   Cost   | Augment             | Mesh Cost | Mod Slots | Keywords                              |
+| :------: | ------------------- | :-------: | :-------: | ------------------------------------- |
+| 30,000 ⌆ | Subdermal Nanoweave |     3     |     0     | [[Armor](/../Keywords/Keyword_Armor)] |
+
+Subdermal Nanoweave counts as having Nanoweave Armor on all the time. 
+
+Subdermal Nanoweave is [[Incompatible](/../Keywords/Keyword_Incompatible)] with [Dermal Armor](/../Cybernetic_Augmentations/Aug_Dermal_Armor).
