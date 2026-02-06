@@ -2,12 +2,14 @@
 
 *Trigger-Gut-Retract. TGR Claws by Ranco activate in a heartbeat, extending three, deadly-sharp blades from the top of your hand.* 
 
-|   Cost   | Augment   | Mesh Cost | Mod Slots | Keywords                                                                             |
-| :------: | --------- | :-------: | :-------: | ------------------------------------------------------------------------------------ |
-| 40,000 ⌆ | TGR Claws |     4     |     0     | [[Mod](/../Keywords/Keyword_Mod)], [[Short Blade](/../Keywords/Keyword_Short_Blade)] |
+|   Cost   | Augment   | Mesh Cost | Mod Slots | Keywords                                                                         |
+| :------: | --------- | :-------: | :-------: | -------------------------------------------------------------------------------- |
+| 40,000 ⌆ | TGR Claws |     4     |     0     | [[Aug Blade](/../Keywords/Keyword_Aug_Blade)], [[Mod](/../Keywords/Keyword_Mod)] |
 
-TGR Claws count as a \[Short Blade\] with a Base Value of 4, but use Brawl instead of Melee. You can extend and retract them for free (0 AP).
+TGR Claws have a Base Value of 4 for its Melee [Damage Array](/../Gear_and_Augments/GaA_Damage_Array). 
 
-TGR Claws are [[Incompatible](/../Keywords/Keyword_Incompatible)] with [Flex Blade](/../Cybernetic_Augmentations/Aug_Flex_Blade) and [FNG Razors](/../Cybernetic_Augmentations/Aug_FNG_Razors) in the same arm. 
+You can extend and retract TGR Claws for free (0 AP).
+
+TGR Claws are [[Incompatible](/../Keywords/Keyword_Incompatible)] with [VPR Blade](/../Cybernetic_Augmentations/Aug_VPR_Blade) and [FNGR Razors](/../Aug_FNGR_Razors) in the same arm. 
 
 TGR Claws can be installed as a [[Mod](/../Keywords/Keyword_Mod)] in the [Cybernetic Arm](/../Cybernetic_Augmentations/Aug_Cybernetic_Arm) augment.

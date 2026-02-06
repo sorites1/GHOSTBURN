@@ -8,8 +8,6 @@ The \[Cybernetic Lung\] augment replaces your existing, natural lung. \[Cybernet
 |   6    | Cybernetic Lung 1 |     4     | No          | Can accept one Mod  |
 |   8    | Cybernetic Lung 2 |     4     | No          | Can accept two Mods |
 
-## Mods
-
 The following \[Mods\] are available for Cybernetic Lung.
 
 | Mod                | Description                                                                                     |

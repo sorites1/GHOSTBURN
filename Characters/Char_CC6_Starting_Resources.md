@@ -9,7 +9,7 @@ A \[Cyber Rig\] is a portable device with a keyboard and a \[Datajack\]; require
 | Points | Equipment               | Type             | Description                             |
 | :----: | ----------------------- | ---------------- | --------------------------------------- |
 |   1    | Hand Built Cyber Rig    | Cyber Rig        | -                                       |
-|   1    | Ranco Nightrunners      | Tactical Goggles | \[[[Mods_Night_Vision\|Night Vision]]\] |
+|   1    | Ranco Nightrunners      | Tactical Goggles | \[[[Mod_Night_Vision\|Night Vision]]\] |
 |   2    | Komodo Ripsaw Cyber Rig | Cyber Rig        | +1 gear bonus to Hacking                |
 
 
@@ -24,8 +24,8 @@ The streets are deadly without some form of body protection. It is recommended t
 
 | Points | Armor Type      | Rated Against Weapon Groups                                  |
 | :----: | :-------------- | :----------------------------------------------------------- |
-|   1    | Leather Jacket  | \[[[Keywords/Keyword_Bladed\|Bladed]]\]                               |
-|   2    | Armor Vest      | \[[[Keywords/Keyword_Light_Arms\|Light Arms]]\]                       |
+|   1    | Leather Jacket  | \[[[Keyword_Blades\|Bladed]]\]                               |
+|   2    | Armor Vest      | \[[[Keyword_Small_Arms\|Light Arms]]\]                       |
 |   3    | Nanoweave Vest  | Light Arms, Bladed, \[[[Keywords/Keyword_Blunt_Force\|Blunt Force]]\] |
 |   4    | Hard Armor      | Light Arms, \[[[Keywords/Keyword_Heavy_Arms\|Heavy Arms]]\], Bladed   |
 |   5    | Full Body Armor | Light Arms, Heavy Arms, Bladed, Blunt Force                  |

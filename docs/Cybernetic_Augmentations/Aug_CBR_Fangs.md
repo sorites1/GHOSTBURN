@@ -1,4 +1,6 @@
-# CBR Fangs
+# KBR Fangs
+
+Kiss-Bleed-Retract Fangs
 
 \[Cyber Fangs\] are implanted in the mouth. You may choose to have them replace your eye teeth or implant them behind your existing eye teeth, in which case they are retractable. CBR stands for Cut-Bleed-Retract When retractable \[Cyber Fangs\] are activated, two sharp, metal teeth extend down from your upper gums. Together, these teeth act as a [[Switchblade](/../[Melee_Weapons/Melee_Switchblade)]. You can extend and retract the \[Cyber Fangs\] for free (0 AP). 
 

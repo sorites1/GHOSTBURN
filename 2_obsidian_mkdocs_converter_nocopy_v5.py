@@ -148,19 +148,20 @@ def main():
         'Conditions',
         'Cybernetic_Augmentations',
         'Game_Master',
+        'Gear',
         'Gear_Mods',
         'Gear_and_Augments',
         'Firearms',
         'Health_and_Healing',
         'Making_a_Roll',
         'Mods',
+        'Mods_Augment',
+        'Mods_Weapon',
         'Keywords',
         'Lexicon',
         'Melee_Weapons',
         'Playing_the_Game',
-        'Skills_and_Tricks',
-        'Weapon_Mods',
-        'Vision_Mods'
+        'Skills_and_Tricks'
     ]
     
     # Process each folder

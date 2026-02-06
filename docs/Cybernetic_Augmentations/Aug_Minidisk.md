@@ -1,18 +1,16 @@
-# Minidisk \[Augment\]
+# Minidisk Port \[Augment\]
 
-The \[Minidisk\] augment works in conjunction with other augments capable of accessing data, like [[Comms](/../Cybernetic_Augmentations/Aug_Comms)], [[Video Recorder](/../Vision_Mods/Mods_Video_Recoder)], and [[Datajack](/../Cybernetic_Augmentations/Aug_Datajack)]. Data from any source you have access to can be downloaded onto your \[Minidisk\] and then ejected from the port (which can be located anywhere on your body, according to your preference). A \[Minidisk\] port is very small, but it is recognizable to those who know what it is. Once ejected, the data on your \[Minidisk\] is encrypted and air-gapped from the Net and your augments. You cannot use \[Minidisk\] again until you reinsert it or purchase a new one.
+*A Minidisk Port, widely considered a mark of espionage, can be installed discretely anywhere on the body. This augment allows you to transfer data to and from an ejectable cartridge inserted into the port.*
 
-| Points | Augmentation | Mesh Cost | Reduces Psi | Description                                               |
-| :----: | ------------ | :-------: | ----------- | --------------------------------------------------------- |
-|   1    | Minidisk     |     1     | Yes         | Allows you to store data and eject it so it is air-gapped |
+|  Cost   | Augment  | Mesh Cost | Mod Slots | Keywords                                                                                 |
+| :-----: | -------- | :-------: | :-------: | :--------------------------------------------------------------------------------------- |
+| 5,000 ⌆ | Minidisk |     1     |     0     | [[One Hand](/../Keywords/Keyword_One_Hand)], [[Physical](/../Keywords/Keyword_Physical)] |
+
+It costs 1 AP to interact with a data cartridge, such as to insert or remove it from Minidisk Port, and it costs 1 AP to transfer data to or from a cartridge inserted into Minidisk Port.
+
+Minidisk Port has no extra capabilities on its own, and it is designed to use the other augments you have installed that can act as sources of data. For example, the [Comms](/../Cybernetic_Augmentations/Aug_Comms). [Cybernetic Eyes](/../Cybernetic_Augmentations/Aug_Cybernetic_Eye) and [Datajack](/../Cybernetic_Augmentations/Aug_Datajack) augments could each serve as a source of data to be transferred to a cartridge with Minidisk Port. 
+
+By default, data transferred onto a cartridge using Minidisk Port is converted into an \[Encrypted Package\] and is readable only by you. However, you may grant others access to the data on the cartridge by assigning a password or creating another key, as described in [[Encrypted Package](/../Keyword_Encrypted_Package)].
 
 
-# Multitool \[Augment\]
-
-*Multitool is installed in the first two digits on one of your hands. With a gesture, an array of small tools protrude from underneath the fingernails on those two fingers.*
-
-|   Cost   | Augment   | Mesh Cost | Mod Slots | Keywords                                                                                 |
-| :------: | --------- | :-------: | :-------: | :--------------------------------------------------------------------------------------- |
-| 10,000 ⌆ | Multitool |     1     |     0     | [[One Hand](/../Keywords/Keyword_One_Hand)], [[Physical](/../Keywords/Keyword_Physical)] |
-
-When you use the [[Disable Device](/../Skills_and_Tricks/Trick_Hacking_Core_Disable_Device)] trick, lower the DL by one. You can deploy and stow Multitool for free (0 AP).
+Marketing: *In a wireless world fraught with danger, Minidisk puts the panic button in your hand. Eject. *

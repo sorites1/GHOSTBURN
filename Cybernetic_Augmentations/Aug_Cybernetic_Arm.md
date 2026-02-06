@@ -20,7 +20,7 @@ The following mods can be installed in a \[Cybernetic Arm\]:
 | 20,000 ⌆ | +1 Strength (Aug)                                                           |      1      | Permanently raise Strength by 1 (Augmented)                      |
 | 40,000 ⌆ | +2 Strength (Aug)                                                           |      2      | Permanently raise Strength by 2 (Augmented)                      |
 | 60,000 ⌆ | +3 Strength (Aug)                                                           |      3      | Permanently raise Strength by 3 (Augmented)                      |
-| 30,000 ⌆ | [[Aug_Flex_Blade\|Flex Blade]]                      |      1      | Retractable long blade                                           |
+| 30,000 ⌆ | [[Aug_VPR_Blade\|Flex Blade]]                      |      1      | Retractable long blade                                           |
 |          |                                                                             |             |                                                                  |
 | 10,000 ⌆ | [[Cybernetic_Augmentations/Aug_Spider_Fingers\|Spider Fingers]]             |      1      | Gain +1 \[[[Keywords/Keyword_Aug_Bonus\|Aug Bonus]]\] to Hacking |
 | 20,000 ⌆ | [[Aug_SLAP_Gun\|Spring-Loaded Pistol]] |      1      | Light Pistol stored in hidden compartment                        |

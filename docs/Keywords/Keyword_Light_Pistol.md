@@ -1,3 +1,3 @@
 # Light Pistol
 
-\[Light Pistol\] is a [[Weapon Type](/../Keywords/Keyword_Weapon_Types)]. It belongs to the [[Light Arms](/../Keywords/Keyword_Light_Arms)] weapon group. The \[Light Pistol\] weapon type includes the following keywords: [[Concealable](/../Keywords/Keyword_Concealable)], [[Firearm](/../Keywords/Keyword_Firearm)], [[One Hand](/../Keywords/Keyword_One_Hand)], and [[Two-Handed Grip](/../Keywords/Keyword_Two_Handed_Grip)].
+\[Light Pistol\] is a [[Weapon Type](/../Keywords/Keyword_Weapon_Types)]. It belongs to the [[Light Arms](/../Keyword_Small_Arms)] weapon group. The \[Light Pistol\] weapon type includes the following keywords: [[Concealable](/../Keywords/Keyword_Concealable)], [[Firearm](/../Keywords/Keyword_Firearm)], [[One Hand](/../Keywords/Keyword_One_Hand)], and [[Two-Handed Grip](/../Keywords/Keyword_Two_Handed_Grip)].

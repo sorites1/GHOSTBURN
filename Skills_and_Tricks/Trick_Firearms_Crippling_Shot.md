@@ -12,5 +12,5 @@ When you use Crippling Shot, if the target is at a \[Range\] other than the weap
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Cool Success | You deal \[[[Keywords/Keyword_Maximum_Damage\|Maximum Damage]]\] and they gain \[[[Conditions/Condition_Movement_Impaired\|Movement Impaired]]\] and \[[[Conditions/Condition_Prone\|Prone]]\] |
 | Success      | You deal \[[[Keywords/Keyword_Normal_Damage\|Normal Damage]]\] and they gain \[[[Conditions/Condition_Movement_Restricted\|Movement Restricted]]\]                                             |
-| Fade         | You deal \[[[Keywords/Keyword_Minimum_Damage\|Minimum Damage]]\]                                                                                                                               |
-| Glitch       | Weapon jam or out of ammo. You must spend 1 AP to use this weapon again.                                                                                                                       |
+| Fade         | You deal \[[[Keywords/Keyword_Minimum_Damage\|Minimum Damage]]\] and they gain a  \[[[Keywords/Keyword_Combat_Opportunity\|Combat Opportunity]]\]                                              |
+| Glitch       | You miss the shot and they gain a \[Combat Opportunity\]                                                                                                                                       |

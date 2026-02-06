@@ -47,7 +47,8 @@ markdown_extensions:
     custom_checkbox: true
 - pymdownx.tilde
 plugins:
-- search
+- search:
+    separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 - autorefs
 - include-markdown
 exclude_docs: 
@@ -173,6 +174,14 @@ nav:
 - ⚏ Gear and Augments:
   - Gear and Augments: Gear_and_Augments/index.md
   - Damage Array: Gear_and_Augments/GaA_Damage_Array.md
+  - ⚏ Gear:
+    - Gear: Gear/index.md
+    - ⚏ Armor:
+      - Hard Armor: Gear/Armor_Hard_Armor.md
+      - Leather Jacket: Gear/Armor_Leather_Jacket.md
+      - NanoWeave Armor: Gear/Armor_NanoWeave_Armor.md
+      - Reinforced Leather: Gear/Armor_Reinforced_Leather.md
+      - Soft Armor: Gear/Armor_Soft_Armor.md
   - ⚏ Augments:
     - Augments: Cybernetic_Augmentations/index.md
     - ⚏ Body Augs:
@@ -192,19 +201,19 @@ nav:
       - ATK Module: Cybernetic_Augmentations/Aug_ATK_Module.md
       - CBR Fangs: Cybernetic_Augmentations/Aug_CBR_Fangs.md
       - Dermal Armor: Cybernetic_Augmentations/Aug_Dermal_Armor.md
-      - Flex Blade: Cybernetic_Augmentations/Aug_Flex_Blade.md
-      - FNG Razors: Cybernetic_Augmentations/Aug_FNG_Razors.md
+      - FNGR Razors: Cybernetic_Augmentations/Aug_FNGR_Razors.md
       - Gunwires: Cybernetic_Augmentations/Aug_Gunwires.md
       - Pain Dial: Cybernetic_Augmentations/Aug_Pain_Dial.md
-      - SLAP Gunl: Cybernetic_Augmentations/Aug_SLAP_Gun.md
+      - SLAP Gun: Cybernetic_Augmentations/Aug_SLAP_Gun.md
       - Subdermal NanoWeave: Cybernetic_Augmentations/Aug_Subdermal_Nanoweave.md
       - TGR Claws: Cybernetic_Augmentations/Aug_TGR_Claws.md
+      - VPR Blade: Cybernetic_Augmentations/Aug_VPR_Blade.md      
     - ⚏ Enhancement Augs:
       - CAT Reflexes: Cybernetic_Augmentations/Aug_CAT_Reflexes.md
       - Faceshifter: Cybernetic_Augmentations/Aug_Faceshifter.md
       - Meat Rack: Cybernetic_Augmentations/Aug_Meat_Rack.md
       - Neuromatrix: Cybernetic_Augmentations/Aug_Neuromatrix.md
-      - Pheromonic Synthesizer: Cybernetic_Augmentations/Aug_Pheromonic_Synthesizer.md
+      - PheroSynth: Cybernetic_Augmentations/Aug_PheroSynth.md
     - ⚏ Utility Augs:
       - Comms: Cybernetic_Augmentations/Aug_Comms.md
       - Datajack: Cybernetic_Augmentations/Aug_Datajack.md
@@ -219,7 +228,7 @@ nav:
     - ⚏ Light Pistols:
       - EZTech Punisher Lite: Firearms/Firearms_LP_EZTech_Punisher_Lite.md
       - Ranco Defender .380: Firearms/Firearms_LP_Ranco_Defender_380.md
-      - Ranco Ripper AP9: Firearms/Firearms_LP_Ranco_Ripper_AP8.md
+      - Ranco Ripper AP9: Firearms/Firearms_LP_Ranco_Ripper_AP9.md
       - Salvati Carino 9mm: Firearms/Firearms_LP_Salvati_Carino_9mm.md
       - Uzog MP Mk-3: Firearms/Firearms_LP_Uzog_MP_Mk3.md
     - ⚏ Heavy Pistols:
@@ -232,10 +241,9 @@ nav:
     - ⚏ SMGs:
       - Graham M21-S: Firearms/Firearms_SMG_Graham_M21S.md
       - Uzog Mini Mk-9: Firearms/Firearms_SMG_Uzog_Mini_Mk9.md
-    - ⚏ Carbine Rifles:        
+    - ⚏ Rifles:        
       - Graham PX-90 Carbine: Firearms/Firearms_Rifle_Graham_PX90_Carbine.md
       - Salvati Duro Carbine: Firearms/Firearms_Rifle_Salvati_Duro_Carbine.md
-    - ⚏ Sniper Rifles:
       - Argentis Faclo: Firearms/Firearms_Rifle_Argentis_Falco.md
   - ⚏ Melee Weapons:
     - Melee Weapons: Melee_Weapons/index.md
@@ -254,20 +262,21 @@ nav:
       - Plasma Sword: Melee_Weapons/Melee_Plasma_Sword.md
   - ⚏ Mods:
     - Mods: Mods/index.md
-    - ⚏ Vision Mods:
-      - Clearview: Vision_Mods/Mods_Clearview.md
-      - Magnification: Vision_Mods/Mods_Magnification.md
-      - Night Vision: Vision_Mods/Mods_Night_Vision.md
-      - Thermal Imaging: Vision_Mods/Mods_Thermal_Imaging.md
-      - Video Recorder: Vision_Mods/Mods_Video_Recorder.md
+    - ⚏ Augment Mods:
+      - Clearview: Mods_Augment/Mod_Clearview.md
+      - Grapple Gun: Mods_Augment/Mod_Grapple_Gun.md
+      - Magnification: Mods_Augment/Mod_Magnification.md
+      - Night Vision: Mods_Augment/Mod_Night_Vision.md
+      - Thermal Imaging: Mods_Augment/Mod_Thermal_Imaging.md
+      - Video Recorder: Mods_Augment/Mod_Video_Recorder.md
     - ⚏ Weapon Mods:
-      - Folding Stock: Weapon_Mods/Mods_Folding_Stock.md
-      - Gas Vents: Weapon_Mods/Mods_Gas_Vents.md
-      - Gunwire Grip: Weapon_Mods/Mods_Gunwire_Grip.md
-      - Laser Sight: Weapon_Mods/Mods_Laser_Sight.md
-      - Scope: Weapon_Mods/Mods_Scope.md
-      - Silencer: Weapon_Mods/Mods_Silencer.md
-      - Underbarrel Flashlight: Weapon_Mods/Mods_Underbarrel_Flashlight.md
+      - Folding Stock: Mods_Weapon/Mod_Folding_Stock.md
+      - Gas Vents: Mods_Weapon/Mod_Gas_Vents.md
+      - Gunwire Grip: Mods_Weapon/Mod_Gunwire_Grip.md
+      - Laser Sight: Mods_Weapon/Mod_Laser_Sight.md
+      - Scope: Mods_Weapon/Mod_Scope.md
+      - Silencer: Mods_Weapon/Mod_Silencer.md
+      - Underbarrel Flashlight: Mods_Weapon/Mod_Underbarrel_Flashlight.md
 - ⚏ Lexicon:
   - Lexicon: Lexicon/index.md
   - ⚏ Game Terms:
@@ -314,6 +323,7 @@ nav:
       - Mute: Conditions/Condition_Mute.md
       - Off Balance: Conditions/Condition_Off_Balance.md
       - Off Guard: Conditions/Condition_Off_Guard.md
+      - Preoccupied: Conditions/Condition_Preoccupied.md
       - Prone: Conditions/Condition_Prone.md
       - Raining: Conditions/Condition_Raining.md
       - Recovering: Conditions/Condition_Recovering.md
@@ -344,13 +354,17 @@ nav:
       - Attack: Keywords/Keyword_Attack.md
       - Attitude: Keywords/Keyword_Attitude.md
       - Auditory: Keywords/Keyword_Auditory.md
+      - Aug Blade: Keywords/Keyword_Aug_Blade.md
       - Aug Bonus: Keywords/Keyword_Aug_Bonus.md
-      - Aug_Increase: Keywords/Keyword_Aug_Increase.md
+      - Aug Increase: Keywords/Keyword_Aug_Increase.md
+      - Bad Memory: Keywords/Keyword_Bad_Memory.md
       - Basic: Keywords/Keyword_Basic.md
-      - Bladed: Keywords/Keyword_Bladed.md
+      - Blades: Keywords/Keyword_Blades.md
       - Blunt Force: Keywords/Keyword_Blunt_Force.md
+      - Brawl: Keywords/Keyword_Brawl.md
       - Close: Keywords/Keyword_Close.md
       - Club: Keywords/Keyword_Club.md
+      - Combat Opportunity: Keywords/Keyword_Combat_Opportunity.md
       - Concealable: Keywords/Keyword_Concealable.md
       - Concentrate: Keywords/Keyword_Concentrate.md
       - Condition: Keywords/Keyword_Condition.md
@@ -379,7 +393,6 @@ nav:
       - Group: Keywords/Keyword_Group.md
       - Gun: Keywords/Keyword_Gun.md
       - Handling: Keywords/Keyword_Handling.md
-      - Heavy Arms: Keywords/Keyword_Heavy_Arms.md
       - Heavy Pistol: Keywords/Keyword_Heavy_Pistol.md
       - High Speed: Keywords/Keyword_High_Speed.md
       - Hostile: Keywords/Keyword_Hostile.md
@@ -411,6 +424,7 @@ nav:
       - Recoil: Keywords/Keyword_Recoil.md
       - Reduced: Keywords/Keyword_Reduced.md
       - Rifle: Keywords/Keyword_Rifle.md
+      - Rifles: Keywords/Keyword_Rifles.md
       - Secret: Keywords/Keyword_Secret.md
       - Security: Keywords/Keyword_Security.md
       - Security Alert: Keywords/Keyword_Security_Alert.md
@@ -418,6 +432,7 @@ nav:
       - Shotgun: Keywords/Keyword_Shotgun.md
       - Signature Trick: Keywords/Keyword_Signature_Trick.md
       - Skill Bonus: Keywords/Keyword_Skill_Bonus.md
+      - Small Arms: Keywords/Keyword_Small_Arms.md
       - Small Item: Keywords/Keyword_Small_Item.md
       - SMG: Keywords/Keyword_SMG.md
       - Social: Keywords/Keyword_Social.md

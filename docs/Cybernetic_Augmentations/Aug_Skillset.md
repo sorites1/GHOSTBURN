@@ -12,4 +12,4 @@ Spend 1 AP to activate Skillset and name the [Skill](/../Skills_and_Tricks/SaT_S
 
 Once downloaded, a skill and its \[Aug Bonus\] remain available until you download another one (which replaces the first). A \[Skillset\] can only hold one skill at a time. This augment does not grant access to a skill's [Signature Tricks](/../Keywords/Keyword_Signature_Trick).
 
-Skillset wirelessly downloads Skill Paks from a licensed, megacorp Skills Management Service (SMS). If you have a [Darkline Node](/../Cybernetic_Augmentations/Aug__Darkline_Node) installed, you can download skills from a pirate SMS, such as one set up by a medium for their ghosts to use.
+Skillset wirelessly downloads Skill Paks from a licensed, megacorp Skills Management Service (SMS). If you have a [Darkline Node](/../Cybernetic_Augmentations/Aug__Darkline_Node) installed, you can download skills from a pirate SMS, such as one set up by a medium for their ghosts.

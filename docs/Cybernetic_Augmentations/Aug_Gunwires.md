@@ -1,7 +1,13 @@
-# Gunwires
+# Gunwires \[Augment\]
 
-The \[Gunwires\] augment requires an inductive pad be installed in the your palm and wired up the arm to the brainstem. \[Gunwires\] only provides a benefit when you pair it with a [[Gunwire Grip](/../Weapon_Mods/Mods_Gunwire_Grip)] installed on a [[Firearm](/../Keywords/Keyword_Firearm)]. Together, \[Gunwires\] and the \[Gunwire Grip\] collect data from your weapon and vision to provide effective aim assistance.
+*Gunwires run from a contact pad installed in the palm of your hand, up the arm, to your brainstem. When paired with a compatible firearm, Gunwires use data from your weapon to provide aim assistance.*
 
-| Points | Augmentation | Mesh Cost | Reduces Psi | Description                                                                          |
-| :----: | ------------ | :-------: | ----------- | ------------------------------------------------------------------------------------ |
-|   1    | Gunwires     |     1     | Yes         | Allows you to get a bonus from a [[Gunwire Grip](/../Weapon_Mods/Mods_Gunwire_Grip)] |
+|   Cost   | Augment  | Mesh Cost | Mod Slots | Keywords                                                                                                                    |
+| :------: | -------- | :-------: | :-------: | :-------------------------------------------------------------------------------------------------------------------------- |
+| 20,000 ⌆ | Gunwires |     2     |     0     | [[Mod](/../Keywords/Keyword_Mod)], [[One Hand](/../Keywords/Keyword_One_Hand)], [[Physical](/../Keywords/Keyword_Physical)] |
+
+Gunwires allows you to get the +2 [[Gear Bonus](/../Keywords/Keyword_Gear_Bonus)] to Firearms granted by a weapon's [[Gunwire Grip](/../Mod_Gunwire_Grip)]. 
+
+If you have [Cybernetic Eyes](/../Cybernetic_Augmentations/Aug_Cybernetic_Eye) installed, Gunwires grant a +1 [[Aug Bonus](/../Keywords/Keyword_Aug_Bonus)] to Firearms. This bonus is not dependent upon the weapon having a \[Gunwire Grip\].
+
+Gunwires can be installed as a [[Mod](/../Keywords/Keyword_Mod)] in the [Cybernetic Arm](/../Cybernetic_Augmentations/Aug_Cybernetic_Arm) augment.

@@ -1,3 +1,0 @@
-# Magnification
-
-\[Magnification\] is a quality that can be applied to goggles, helmets (with visor), video cameras, and cybernetic eyes. When \[Magnification\] is active, you can zoom in so you can see [[Far](/../Keywords/Keyword_Far)] away more easily. When used with the Firearms skill, \[Magnification\] acts as a [[Scope](/../Weapon_Mods/Mods_Scope)] except it is not restricted to only Heavy Pistols and Rifles.

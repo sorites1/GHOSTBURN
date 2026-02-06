@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc70eb160cd0d1c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skills_and_Tricks/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "10b2e811b1f5b37c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybernetic_Augmentations/Aug_Grapple_Gun.md",
-                "mode": "source",
+                "file": "Cybernetic_Augmentations/Aug_Datavault.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aug_Grapple_Gun"
+              "title": "Aug_Datavault"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pistol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,66 +172,66 @@
     "type": "floating",
     "children": [
       {
-        "id": "caf578ad58bb6fe2",
+        "id": "af52445747376eb9",
         "type": "window",
         "children": [
           {
-            "id": "b7a3184fe9a4efcf",
+            "id": "101ab91b89d24a1d",
             "type": "tabs",
             "children": [
               {
-                "id": "126fc3e4e2f2b936",
+                "id": "611c2a2b71980a83",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "docs/Characters/Aug_Cybernetic_Augmentations.md",
+                    "file": "Playing_the_Game/PtG_2d10_Probability_Tables.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Aug_Cybernetic_Augmentations"
+                  "title": "PtG_2d10_Probability_Tables"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 229,
-        "y": 268,
+        "x": 1372,
+        "y": 304,
         "width": 1024,
         "height": 800,
         "maximize": false,
         "zoom": 0
       },
       {
-        "id": "93a98fca79f9ba7b",
+        "id": "9a597ca9eacf8708",
         "type": "window",
         "children": [
           {
-            "id": "5e068794d8351e12",
+            "id": "14a93262e12a4728",
             "type": "tabs",
             "children": [
               {
-                "id": "4a628c432cc175d6",
+                "id": "b1e3c8bac9902bcf",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Cybernetic_Augmentations/Aug_CAT_Reflexes.md",
+                    "file": "Keywords/Keyword_Heavy_Pistol.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Aug_CAT_Reflexes"
+                  "title": "Keyword_Heavy_Pistol"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 499,
-        "y": 173,
+        "x": 1169,
+        "y": 314,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -256,30 +241,31 @@
   },
   "active": "10b2e811b1f5b37c",
   "lastOpenFiles": [
-    "Cybernetic_Augmentations/Aug_Gunwires.md",
-    "Cybernetic_Augmentations/Aug_Grapple_Gun.md",
-    "Cybernetic_Augmentations/Aug_Meat_Rack.md",
     "Cybernetic_Augmentations/Aug_Minidisk.md",
-    "Weapon_Mods/Mods_Gunwire_Grip.md",
-    "Cybernetic_Augmentations/Aug_ATK_Module.md",
-    "Cybernetic_Augmentations/Aug_Multitool.md",
-    "Cybernetic_Augmentations/Aug_Neuromatrix.md",
     "Keywords/Keyword_Encrypted_Package.md",
-    "Cybernetic_Augmentations/Aug_Datavault.md",
-    "Cybernetic_Augmentations/Aug_Subdermal_Nanoweave.md",
-    "Cybernetic_Augmentations/Aug_Skillset.md",
-    "Cybernetic_Augmentations/Aug_PheroSynth.md",
     "Cybernetic_Augmentations/Aug_Pain_Dial.md",
+    "Cybernetic_Augmentations/Aug_PheroSynth.md",
+    "Cybernetic_Augmentations/Aug_Spider_Fingers.md",
+    "Cybernetic_Augmentations/Aug_SLAP_Gun.md",
+    "Cybernetic_Augmentations/Aug_Neuromatrix.md",
+    "Cybernetic_Augmentations/Aug_Meat_Rack.md",
+    "Cybernetic_Augmentations/Aug_Cybernetic_Spine.md",
+    "Cybernetic_Augmentations/Aug_Datajack.md",
+    "Cybernetic_Augmentations/Aug_Datavault.md",
+    "Cybernetic_Augmentations/Aug_TGR_Claws.md",
+    "Cybernetic_Augmentations/Aug_VPR_Blade.md",
+    "Skills_and_Tricks/Trick_Melee_Finishing_Move.md",
+    "Cybernetic_Augmentations/Aug_FNGR_Razors.md",
     "site/search/search_index.json",
     "site/search",
     "site/assets/Reference/index.html",
     "site/assets/Reference",
-    "site/Weapon_Mods/Mods_Underbarrel_Flashlight/index.html",
-    "site/Weapon_Mods/Mods_Underbarrel_Flashlight",
-    "site/Weapon_Mods/Mods_Silencer/index.html",
-    "site/Weapon_Mods/Mods_Silencer",
-    "site/Weapon_Mods/Mods_Scope/index.html",
-    "site/Weapon_Mods/Mods_Scope",
+    "site/Skills_and_Tricks/Trick_Stealth_Pickpocket/index.html",
+    "site/Skills_and_Tricks/Trick_Stealth_Pickpocket",
+    "site/Skills_and_Tricks/Trick_Stealth_Disappear/index.html",
+    "site/Skills_and_Tricks/Trick_Stealth_Disappear",
+    "site/Skills_and_Tricks/Trick_Stealth_Core_Sneak/index.html",
+    "site/Skills_and_Tricks/Trick_Stealth_Core_Sneak",
     "site/assets/images/favicon.png",
     "site/assets/weapon_withlines.png",
     "site/assets/skills_withlines.png",
@@ -287,18 +273,17 @@
     "site/assets/cyberpunk1_by_Sheam_Bo_CreativeCommons4.jpg",
     "site/assets/cityscape_withlines.png",
     "site/assets/character_bashv2_withlines.png",
-    "docs/Keywords/Keyword_Aug_Increase.md",
-    "Cybernetic_Augmentations/Aug_SLAP_Gun.md",
-    "Keywords/Keyword_One_Hand.md",
+    "docs/Gear/Armor_Reinforced_Leather.md",
+    "docs/Keywords/Keyword_Rifles.md",
     "Cybernetic_Augmentations/Aug_Dermal_Armor.md",
-    "Cybernetic_Augmentations/Aug_Spider_Fingers.md",
-    "Cybernetic_Augmentations/Aug_TGR_Claws.md",
-    "Keywords/Keyword_Aug_Increase.md",
-    "Keywords/Keyword_Aug_Bonus.md",
-    "docs/Weapon_Mods/Mods_Underbarrel_Flashlight.md",
-    "docs/Weapon_Mods/Mods_Silencer.md",
-    "docs/Weapon_Mods/Mods_Scope.md",
-    "docs/Weapon_Mods/Mods_Laser_Sight.md",
+    "Cybernetic_Augmentations/Aug_Faceshifter.md",
+    "Keywords/Keyword_Weapon_Types.md",
+    "Keywords/Keyword_Rifles.md",
+    "Keywords/Keyword_Blades.md",
+    "Keywords/Keyword_Armor.md",
+    "Gear/Armor_Soft_Armor.md",
+    "Gear/Armor_NanoWeave_Armor.md",
+    "Cybernetic_Augmentations/Aug_Subdermal_Nanoweave.md",
     "docs/assets/weapon_withlines.png",
     "assets/weapon_withlines.png",
     "site/assets/zino-_Q1loXXcteA-unsplash-modified_by_sorites_af-d_withlines.png",
