@@ -1,10 +1,22 @@
-# Cybernetic Heart
+# Cybernetic Heart \[Augment\]
 
-The \[Cybernetic Heart\] augment replaces your natural heart. \[Cybernetic Heart\] comes in four levels: \[Cybernetic Heart 0\], \[Cybernetic Heart 1\], \[Cybernetic Heart 2\], and \[Cybernetic Heart 3\]. These levels represent an upgrade path; they do not stack.
+*A Cybernetic Heart replaces your natural heart.*
 
-| Points | Augmentation       | Mesh Cost | Reduces Psi | Description             |
-| :----: | ------------------ | :-------: | ----------- | ----------------------- |
-|   4    | Cybernetic Heart 0 |     4     | Yes         | No change to Resilience |
-|   6    | Cybernetic Heart 1 |     4     | Yes         | +1 to Resilience (Aug)  |
-|   8    | Cybernetic Heart 2 |     4     | Yes         | +2 to Resilience (Aug)  |
-|   10   | Cybernetic Heart 3 |     4     | Yes         | +3 to Resilience (Aug)  |
+|   Cost    | Augment                    | Mesh Cost | Mod Slots | Keywords |
+| :-------: | -------------------------- | :-------: | :-------: | :------- |
+| 70,000 ⌆  | Cybernetic Heart (Base)    |     3     |     0     | -        |
+| 200,000 ⌆ | Cybernetic Heart (Level 1) |     4     |     1     | -        |
+| 600,000 ⌆ | Cybernetic Heart (Level 2) |     5     |     2     | -        |
+| 900,000 ⌆ | Cybernetic Heart (Level 3) |     6     |     3     | -        |
+
+Cybernetic Heart (Base) is a replacement only. It performs all the functions of a natural heart. 
+
+## Resilience Mod
+
+You may install this \[Mod\] multiple times, and its effects are cumulative. Each time you install a Resilience Mod, it uses one Mod Slot. 
+
+|   Cost    | Mod                 | Keywords                                                                               |
+| :-------: | ------------------- | -------------------------------------------------------------------------------------- |
+| 100,000 ⌆ | +1 Resilience (Aug) | \[[[Keywords/Keyword_Aug_Increase\|Aug Increase]]\], \[[[Keywords/Keyword_Mod\|Mod]]\] |
+
+Recalculate your [[Health_and_Healing/HaH_Hit_Points_and_Conditions|Hit Points and Health Conditions]] using your increased Resilience score and make the necessary adjustments to your character sheet. If your old Resilience score was less than 5, you should also update your [[Keywords/Keyword_Stabilization_DL|Stabilization DL]].

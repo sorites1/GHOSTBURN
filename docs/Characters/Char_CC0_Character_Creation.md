@@ -16,14 +16,3 @@ To create a character in ***GHOSTBURN***, follow the steps below.
 
 
 <div class="next-step-container"> <a href="../Char_CC1_Background/" class="button"> <span class="button-label">Next:</span> <span class="button-title">1. Choose a Background ❯</span> </a> </div>
-
-
-
-
-
-
-
-
-
-
-

@@ -13,4 +13,4 @@ When your drone is \[[[Conditions/Condition_Jammed|Jammed]]\], you may use a \[[
 | Cool Success | The \[Jammed\] condition is removed and you are \[[[Keywords/Keyword_Lucky\|Lucky]]\]                                                        |
 | Success      | The \[Jammed\] condition is removed                                                                                                          |
 | Fade         | The \[Jammed\] condition is removed and you have \[[[Conditions/Condition_Stress\|Stress]]\] vs. \[[[Keywords/Keyword_Security\|Security]]\] |
-| Glitch       | Your drone is \[[[Conditions/Condition_Jammed\|Jammed]]\] and you are \[[[Conditions/Condition_Confused\|Confused]]\]                        |
+| Glitch       | Your drone is \[[[Conditions/Condition_Jammed\|Jammed]]\] and you gain a \[[[Keywords/Keyword_Bad_Memory\|Bad Memory]]\]                     |

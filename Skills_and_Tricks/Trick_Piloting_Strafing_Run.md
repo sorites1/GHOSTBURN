@@ -8,9 +8,9 @@
 
 To use Strafing Run, your \[[[Keywords/Keyword_Drone|Drone]]\] must be outfitted with an automatic weapon. You may target up to three opponents with Strafing Run, all of which must be \[[[Keywords/Keyword_Nearby|Nearby]]\] your \[Drone\] and each other. Use the weapon's Full Auto \[[[Keywords/Keyword_Damage_Array|Damage Array]]\] with this trick.
 
-| Outcome      | Description                                                                                                                                          |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cool Success | They take \[Normal Damage\] and are \[[[Conditions/Condition_Suppressed\|Suppressed]]\], and you \[Fly\] the \[Drone\] \[Far\] away                  |
-| Success      | They take \[Normal Damage\] and you \[Fly\] the \[Drone\] \[[[Keywords/Keyword_Far\|Far]]\] away                                                     |
-| Fade         | They take \[[[Keywords/Keyword_Normal_Damage\|Normal Damage]]\] and you \[Fly\] the \[Drone\] \[Nearby\]                                             |
-| Glitch       | You miss, \[[[Keywords/Keyword_Fly\|Fly]]\] the \[[[Keywords/Keyword_Drone\|Drone]]\] \[[[Keywords/Keyword_Nearby\|Nearby]]\], and are \[Distracted] |
+| Outcome      | Description                                                                                                                                                                                                                 |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cool Success | They take \[[[Keywords/Keyword_Normal_Damage\|Normal Damage]]\] and are \[[[Conditions/Condition_Suppressed\|Suppressed]]\], and you \[[[Keywords/Keyword_Fly\|Fly]]\] the \[Drone\] \[[[Keywords/Keyword_Far\|Far]]\] away |
+| Success      | They take \[Normal Damage\] and you \[Fly\] the \[Drone\] \[[[Keywords/Keyword_Far\|Far]]\] away                                                                                                                            |
+| Fade         | They take \[Normal Damage\] and you \[Fly\] the \[Drone\] \[Nearby\]                                                                                                                                                        |
+| Glitch       | You miss, \[Fly\] the \[Drone\] \[[[Keywords/Keyword_Nearby\|Nearby]]\], and are \[[[Keywords/Keyword_Out_of_Ammo\|Out of Ammo]]\]                                                                                          |

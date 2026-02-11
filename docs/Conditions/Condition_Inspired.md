@@ -4,4 +4,4 @@
 
 **Effect:** Skills and tricks you use have their DL lowered by one.
 
-**Removal:** At the start of your turn, you lose the \[Inspired\] condition.
+**Removal:** At the end of your next turn, you lose the \[Inspired\] condition.

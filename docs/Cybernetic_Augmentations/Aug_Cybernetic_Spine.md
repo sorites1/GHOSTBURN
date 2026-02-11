@@ -1,10 +1,24 @@
-# Cybernetic Spine
+# Cybernetic Spine \[Augment\]
 
-The \[Cybernetic Spine\] is a full replacement of your existing spine. \[Cybernetic Spine\] comes in four levels: \[Cybernetic Spine 0\], \[Cybernetic Spine 1\], \[Cybernetic Spine 2\], and \[Cybernetic Spine 3\]. These levels represent an upgrade path; they do not stack.
+*A Cybernetic Spine is a full replacement of your existing spine.*
 
-| Points | Augmentation       | Mesh Cost | Reduces Psi | Description                                                                                                                                                                                                                                                    |
-| :----: | ------------------ | :-------: | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   4    | Cybernetic Spine 0 |     5     | Yes         | No change                                                                                                                                                                                                                                                      |
-|   6    | Cybernetic Spine 1 |     5     | Yes         | You cannot gain [[Off Balance](/../Conditions/Condition_Off_Balance)]                                                                                                                                                                                          |
-|   8    | Cybernetic Spine 2 |     5     | Yes         | As \[Cybernetic Spine 1\]; plus you gain +1 [[Aug Bonus](/../Keywords/Keyword_Aug_Bonus)] to Athletics                                                                                                                                                         |
-|   10   | Cybernetic Spine 3 |     5     | Yes         | As \[Cybernetic Spine 2\]; plus if you have [[CAT Reflexes](/../Cybernetic_Augmentations/Aug_CAT_Reflexes)], it grants an additional Agility (Aug) increase at each level (i.e., CAT 1 grants +1 Agility, CAT 2 grants +2 Agility and CAT 3 grants +3 Agility) |
+|   Cost    | Augment                    | Mesh Cost | Mod Slots | Keywords |
+| :-------: | -------------------------- | :-------: | :-------: | -------- |
+| 100,000 ⌆ | Cybernetic Spine (Base)    |     4     |     0     | -        |
+| 200,000 ⌆ | Cybernetic Spine (Level 1) |     5     |     1     | -        |
+| 500,000 ⌆ | Cybernetic Spine (Level 2) |     6     |     2     | -        |
+| 800,000 ⌆ | Cybernetic Spine (Level 3) |     7     |     3     | -        |
+
+Cybernetic Spine (Base) is a replacement only. It performs all the functions of a natural spine. 
+
+## Augment Mods
+
+The following augments have the [[Mod](/../Keywords/Keyword_Mod)] keyword and can be installed in a Cybernetic Spine with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [Glide-By-Wire Reflexes](/../Cybernetic_Augmentations/Aug_Glide_By_Wire_Reflexes) and [Skillset](/../Cybernetic_Augmentations/Aug_Skillset)
+
+## Balance Mod
+
+You can also install a Balance Mod in a free Mod Slot in a Cybernetic Spine to gain [[Perfect Balance](/../Keywords/Keyword_Perfect_Balance)], as shown below. You may only install this \[Mod\] once. 
+
+|   Cost   | Mod         | Keywords                                                                                     |
+| :------: | ----------- | -------------------------------------------------------------------------------------------- |
+| 25,000 ⌆ | Balance Mod | [[Mod](/../Keywords/Keyword_Mod)], [[Perfect Balance](/../Keywords/Keyword_Perfect_Balance)] |

@@ -2,48 +2,29 @@
 
 You get **10 points** to spend on the cybernetic augmentations, gear, and lifestyle. The point cost for each item is shown below. If you do not purchase a lifestyle, your character gets the Street lifestyle at no cost.
 
-## Tech Gear
-
-A \[Cyber Rig\] is a portable device with a keyboard and a \[Datajack\]; required for Hacking.
-
-| Points | Equipment               | Type             | Description                             |
-| :----: | ----------------------- | ---------------- | --------------------------------------- |
-|   1    | Hand Built Cyber Rig    | Cyber Rig        | -                                       |
-|   1    | Ranco Nightrunners      | Tactical Goggles | \[[[Mod_Night_Vision\|Night Vision]]\] |
-|   2    | Komodo Ripsaw Cyber Rig | Cyber Rig        | +1 gear bonus to Hacking                |
-
-
-## Melee Weapons
-
-TBD
-
-
-## Armor
-
-The streets are deadly without some form of body protection. It is recommended that all characters start with \[[[Keywords/Keyword_Armor|Armor]]\].
-
-| Points | Armor Type      | Rated Against Weapon Groups                                  |
-| :----: | :-------------- | :----------------------------------------------------------- |
-|   1    | Leather Jacket  | \[[[Keyword_Blades\|Bladed]]\]                               |
-|   2    | Armor Vest      | \[[[Keyword_Small_Arms\|Light Arms]]\]                       |
-|   3    | Nanoweave Vest  | Light Arms, Bladed, \[[[Keywords/Keyword_Blunt_Force\|Blunt Force]]\] |
-|   4    | Hard Armor      | Light Arms, \[[[Keywords/Keyword_Heavy_Arms\|Heavy Arms]]\], Bladed   |
-|   5    | Full Body Armor | Light Arms, Heavy Arms, Bladed, Blunt Force                  |
+| Points | Type         | Gear                                                                  |
+| :----: | ------------ | --------------------------------------------------------------------- |
+|   1    | Light Pistol | [[Firearms/Firearms_LP_EZTech_Punisher_Lite\|EZTech Punisher Lite]]   |
+|   1    | Melee Weapon | [[Melee_Weapons/Melee_Switchblade\|Switchblade]]                      |
+|   1    | Armor        | [[Gear/Armor_Leather_Jacket\|Leather Jacket]]                         |
+|   1    | Augment      | [[Cybernetic_Augmentations/Aug_Comms\|Comms (Level 1)]]               |
+|   2    | Cyber Rig    | [[Gear/Gear_Cyber_Rig_Hand_Built\|Hand-Built Cyber Rig]]              |
+|   2    | Heavy Pistol | [[Firearms/Firearms_HP_Sterling_Elite_45\|Sterling Elite .45]]        |
+|   2    | Shotgun      | [[Firearms/Firearms_Shotgun_Graham_H6\|Graham H6]]                    |
+|   2    | Armor        | [[Gear/Armor_Reinforced_Leather\|Reinforced Leather]]                 |
+|   2    | Augment      | [[Cybernetic_Augmentations/Aug_FNGR_Razors\|FNGR Razors]]             |
+|   3    | Melee Weapon | [[Melee_Weapons/Melee_Katana\|Katana]]                                |
+|   3    | SMG          | [[Firearms/Firearms_SMG_Uzog_Mini_Mk9\|Uzog Mini Mk-9]]               |
+|   3    | Rifle        | [[Firearms/Firearms_Rifle_Graham_PX90_Carbine\|Graham PX-90 Carbine]] |
+|   3    | Armor        | [[Gear/Armor_Soft_Armor\|Soft Armor]]                                 |
+|   3    | Augment      | [[Cybernetic_Augmentations/Aug_Datajack\|Datajack]]                   |
+|   4    | Rifle        | [[Firearms/Firearms_Rifle_Argentis_Falco\|Argentis Falco]]            |
+|   4    | Armor        | [[Gear/Armor_NanoWeave_Armor\|NanoWeave Armor]]                       |
+|   5    | Augment      | [[Cybernetic_Augmentations/Aug_Speed_Boost\|Speed Boost]]             |
+|   5    | Augment      | [[Cybernetic_Augmentations/Aug_Dermal_Armor\|Dermal Armor]]           |
+|   5    | Augment      | [[Cybernetic_Augmentations/Aug_TGR_Claws\|TGR Claws]]                 |
 
 
-## Vehicles
-
-| Points | Vehicle           | Type       | Handling | Stability     | Security      |
-| :----: | ----------------- | ---------- | -------- | ------------- | ------------- |
-|   1    | Fiesta Fortuna    | Sedan      | Poor     | Moderate (14) | Easy (8)      |
-|   2    | Yoshioka Shadow   | Motorcycle | Good     | Easy (8)      | Moderate (14) |
-|   2    | Kangjun Cyclone   | Motorcycle | Average  | Easy (8)      | Hard (20)     |
-|   3    | Wolff Trak        | SUV        | Average  | Moderate (14) | Moderate (14) |
-|   3    | Pellegrini Carino | SUV        | Good     | Easy (8)      | Hard (20)     |
-
-## Drones
-
-TBD
 
 ## Lifestyle
 

@@ -1,5 +1,5 @@
-# Graham PX-90 Carbine
+# Graham PX-90 Carbine \[Rifle\]
 
-| Points | Weapon               | Type  | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                                        |
-| :----: | -------------------- | ----- | ------------- | ----------- | ---------- | --------- | ------------------------------------------- |
-|   4    | Graham PX-90 Carbine | Rifle | Nearby        | 9/18/45     | 12/24/60   | 15/30/75  | [[Mod_Gas_Vents\|Gas Vents 1]] |
+|  Cost   | Weapon               | Weapon Type                           | Optimal Range                           | Single Shot | Burst Fire | Full Auto | Mods/Keywords                              |
+| :-----: | -------------------- | ------------------------------------- | --------------------------------------- | ----------- | ---------- | --------- | ------------------------------------------ |
+| 7,500 ⌆ | Graham PX-90 Carbine | \[[[Keywords/Keyword_Rifle\|Rifle]]\] | \[[[Keywords/Keyword_Nearby\|Nearby]]\] | 9/18/45     | 12/24/60   | 15/30/75  | [[Mods_Weapon/Mod_Gas_Vents\|Gas Vents 1]] |

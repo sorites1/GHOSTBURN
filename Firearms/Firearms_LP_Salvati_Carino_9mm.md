@@ -1,5 +1,5 @@
-# Salvati Carino 9mm
+# Salvati Carino 9mm \[Light Pistol\]
 
-| Points | Weapon             | Type         | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                               |
-| :----: | ------------------ | ------------ | ------------- | ----------- | ---------- | --------- | ---------------------------------- |
-|   2    | Salvati Carino 9mm | Light Pistol | Close         | 5/10/25     | -          | -         | [[Mod_Gunwire_Grip\|Gunwire Grip]] |
+|  Cost   | Weapon             | Weapon Type                                         | Optimal Range                         | Single Shot | Burst Fire | Full Auto | Mods/Keywords                                  |
+| :-----: | ------------------ | --------------------------------------------------- | ------------------------------------- | ----------- | ---------- | --------- | ---------------------------------------------- |
+| 2,500 ⌆ | Salvati Carino 9mm | \[[[Keywords/Keyword_Light_Pistol\|Light Pistol]]\] | \[[[Keywords/Keyword_Close\|Close]]\] | 5/10/25     | -          | -         | [[Mods_Weapon/Mod_Gunwire_Grip\|Gunwire Grip]] |

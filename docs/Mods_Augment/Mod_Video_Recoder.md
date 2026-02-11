@@ -1,3 +1,0 @@
-# Video Recorder
-
-\[Video Recorder\] is a quality that can be applied to goggles, helmets (with visor), video cameras, and [[Cybernetic Eyes](/../Aug_Cybernetic_Eye)]. When \[Video Recorder\] is active, you actively record what you see and hear. A standard \[Video Recorder\] mod automatically streams video to the data storage on the Net. Hacked versions of the \[Video Recorder\] are designed to store the data stream locally, either in a data storage augment or an external data storage device. 

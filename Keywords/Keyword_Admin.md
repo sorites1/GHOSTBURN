@@ -1,3 +1,3 @@
 # Admin
 
-You have \[Admin\] access to a device or system. You can perform all the same functions as an \[[[Keywords/Keyword_Operator|Operator]]\], but you also have full control and can make changes, such as performing a shutdown, locking out users, disabling alerts, modifying configurations, and so on.
+You have \[Admin\] access to a device or system. You can perform all the same functions as an \[[[Keywords/Keyword_Operator|Operator]]\], but you also have full control and can make changes, such as performing a shutdown, locking out users, granting access to anyone you like, disabling alerts, modifying configurations, and so on.

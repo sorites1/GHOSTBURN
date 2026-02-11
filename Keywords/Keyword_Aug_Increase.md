@@ -1,5 +1,5 @@
 # Aug Increase
 
-Some cybernetic augmentations permanently improve ability scores. This is known as an \[Aug Increase\]. Unlike bonuses, when you get an \[Aug Increase\] to the same ability score from two or more sources, you combine them, up to a maximum \[Aug Increase\] of 3. Write the \[Aug Increase\] on your character sheet and writ the adjusted ability score in parenthesis behind the natural ability score. 
+Some cybernetic augmentations permanently improve ability scores. This is known as an \[Aug Increase\]. Unlike bonuses, when you get an \[Aug Increase\] to the same ability score from two or more sources, you combine them, up to a maximum \[Aug Increase\] of +3. Write the \[Aug Increase\] on your character sheet and writ the adjusted ability score in parenthesis behind the natural ability score. 
 
 For example, a character with an Intelligence score of 3 gets a Neuromatrix (Level 2) installed. This grants the character an \[Aug Increase\] of 2 to their Intelligence score. The player notes the \[Aug Increase\] of 2 on their character sheet. For their Intelligence score, they write it like this: 3 (5). This indicates the character has a natural Intelligence score of 3 but it has been increased to 5 through cybernetic augmentation.

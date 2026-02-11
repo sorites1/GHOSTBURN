@@ -1,5 +1,5 @@
-# Ranco Ripper AP9
+# Ranco Ripper AP9 \[Light Pistol\]
 
-| Points | Weapon           | Type         | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods |
-| :----: | ---------------- | ------------ | ------------- | ----------- | ---------- | --------- | ---- |
-|   2    | Ranco Ripper AP9 | Light Pistol | Nearby        | -           | 5/11/25    | -         | -    |
+|  Cost   | Weapon           | Weapon Type                                         | Optimal Range                           | Single Shot | Burst Fire | Full Auto | Mods/Keywords |
+| :-----: | ---------------- | --------------------------------------------------- | --------------------------------------- | ----------- | ---------- | --------- | ------------- |
+| 1,500 ⌆ | Ranco Ripper AP9 | [[Light Pistol](/../Keywords/Keyword_Light_Pistol)] | [[Nearby](/../Keywords/Keyword_Nearby)] | -           | 5/11/25    | -         | -             |

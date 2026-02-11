@@ -1,8 +1,8 @@
 # Droptrip \[Signature Trick\]
 
-| Difficulty Level (DL) | Skill | Keywords                                                              |
-| --------------------- | ----- | --------------------------------------------------------------------- |
-| \[[[Keywords/Keyword_Security\|Security]]\]          | Tech  | \[[[Keywords/Keyword_Cyber_Rig\|Cyber Rig]]\], \[[[Keywords/Keyword_Datajack\|Datajack]]\], \[[[Keywords/Keyword_Physical\|Physical]]\], \[[[Keywords/Keyword_Two_Hands\|Two Hands]]\], \[[[Conditions/Condition_Unaware\|Unaware]]\] |
+| Difficulty Level (DL)                       | Skill   | Keywords                                                                                                                                                                                                                              |
+| ------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \[[[Keywords/Keyword_Security\|Security]]\] | Hacking | \[[[Keywords/Keyword_Cyber_Rig\|Cyber Rig]]\], \[[[Keywords/Keyword_Datajack\|Datajack]]\], \[[[Keywords/Keyword_Physical\|Physical]]\], \[[[Keywords/Keyword_Two_Hands\|Two Hands]]\], \[[[Conditions/Condition_Unaware\|Unaware]]\] |
 
 *When you enter an address and jack in, your cyber rig overrides your senses and drops you into the network foam, the lowest layer of the Net. By navigating a digital hallucination, you can gain unauthorized access to the remote system.* 
 

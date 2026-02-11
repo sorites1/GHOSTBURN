@@ -2,41 +2,21 @@
 
 A gun is a necessity on the street. It's useful for self-protection, and in your line of work, it's a tool of the trade.
 
-## Light Pistols
 
-| Points | Weapon                | Type         | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                                                                                                     |
-| :----: | --------------------- | ------------ | ------------- | ----------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------- |
-|   1    | Ranco Defender .380   | Light Pistol | Close         | 4/8/20      | -          | -         | \[[[Mod_Underbarrel_Flashlight\|Underbarrel Flashlight]]\]                                  |
-|   1    | EZTech Punisher Lite  | Light Pistol | Close         | 5/10/25     | -          | -         | -                                                                                                        |
-|   2    | Uzog MP Mk-3          | Light Pistol | Close         | -           | 6/12/30    | -         | \[[[Mod_Silencer\|Silencer]]\]                                                              |
-|   2    | Salvati Carino 9mm    | Light Pistol | Close         | 5/10/25     | -          | -         | \[[[Mod_Gunwire_Grip\|Gunwire Grip]]\]                                                      |
-
-## Heavy Pistols
-
-| Points | Weapon                | Type         | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                                                                                                     |
-| :----: | --------------------- | ------------ | ------------- | ----------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------- |
-|   2    | Sterling Elite .45    | Heavy Pistol | Close         | 8/16/40     | -          | -         | \[[[Mod_Laser_Sight\|Laser Sight]]\]                                                        |
-|   2    | Argentis Desert Viper | Heavy Pistol | Far           | 10/20/50    | -          | -         |                                                                                                          |
-|   3    | Ranco .357 Equalizer  | Heavy Pistol | Nearby        | 9/18/45     | -          | -         | Laser Sight                                                                                              |
-
-## SMGs
-
-| Points | Weapon               | Type    | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                                                                                                     |
-| :----: | -------------------- | ------- | ------------- | ----------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------- |
-|   3    | Graham M21-S         | SMG     | Nearby        | 4/8/20      | 9/18/45    | -         | Silencer, Gunwire Grip                                                                                   |
-|   3    | Uzog Mini Mk-9       | SMG     | Nearby        | 5/10/25     | 10/20/50   | -         | \[[[Mod_Folding_Stock\|Folding Stock]]\], \[[[Keywords/Keyword_Concealable\|Concealable]]\] |
-
-## Shotguns
-
-| Points | Weapon               | Type    | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                                            |
-| :----: | -------------------- | ------- | ------------- | ----------- | ---------- | --------- | ----------------------------------------------- |
-|   3    | Graham H6            | Shotgun | Close         | 9/18/45     | -          | -         | Concealable                                     |
-|   4    | Ranco 12G Dominator  | Shotgun | Close         | 10/20/50    | -          | -         | -                                               |
-
-## Rifles
-
-| Points | Weapon               | Type  | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                                            |
-| :----: | -------------------- | ----- | ------------- | ----------- | ---------- | --------- | ----------------------------------------------- |
-|   4    | Graham PX-90 Carbine | Rifle | Nearby        | 9/18/45     | 12/24/60   | 15/30/75  | \[[[Mod_Gas_Vents\|Gas Vents 1]]\] |
-|   4    | Salvati Duro Carbine | Rifle | Nearby        | 9/18/45     | 12/24/60   | -         | \[[[Mod_Scope\|Scope]]\]           |
-|   5    | Argentis Falco       | Rifle | Far           | 15/30/75    | -          | -         | Gas Vents 1, Gunwire Grip, Scope                |
+|  Cost   | Weapon                | Weapon Type                                         | Optimal Range                           | Single Shot | Burst Fire | Full Auto | Mods/Keywords                                                                                                                |
+| :-----: | --------------------- | --------------------------------------------------- | --------------------------------------- | ----------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1,000 ⌆ | EZTech Punisher Lite  | \[[[Keywords/Keyword_Light_Pistol\|Light Pistol]]\] | \[[[Keywords/Keyword_Close\|Close]]\]   | 5/10/25     | -          | -         | -                                                                                                                            |
+| 1,200 ⌆ | Ranco Defender .380   | \[[[Keywords/Keyword_Light_Pistol\|Light Pistol]]\] | \[[[Keywords/Keyword_Close\|Close]]\]   | 4/8/20      | -          | -         | [[Mods_Weapon/Mod_Underbarrel_Flashlight\|Underbarrel Flashlight]]                                                           |
+| 1,500 ⌆ | Ranco Ripper AP9      | \[[[Keywords/Keyword_Light_Pistol\|Light Pistol]]\] | \[[[Keywords/Keyword_Nearby\|Nearby]]\] | -           | 5/11/25    | -         | -                                                                                                                            |
+| 2,500 ⌆ | Salvati Carino 9mm    | \[[[Keywords/Keyword_Light_Pistol\|Light Pistol]]\] | \[[[Keywords/Keyword_Close\|Close]]\]   | 5/10/25     | -          | -         | [[Mods_Weapon/Mod_Gunwire_Grip\|Gunwire Grip]]                                                                               |
+| 3,000 ⌆ | Uzog MP Mk-3          | \[[[Keywords/Keyword_Light_Pistol\|Light Pistol]]\] | \[[[Keywords/Keyword_Nearby\|Nearby]]\] | -           | 6/12/30    | -         | [[Mods_Weapon/Mod_Silencer\|Silencer]]                                                                                       |
+| 3,000 ⌆ | Sterling Elite .45    | \[[[Keywords/Keyword_Heavy_Pistol\|Heavy Pistol]]\] | \[[[Keywords/Keyword_Close\|Close]]\]   | 8/16/40     | -          | -         | [[Mods_Weapon/Mod_Laser_Sight\|Laser Sight]]                                                                                 |
+| 4,000 ⌆ | Ranco .357 Equalizer  | \[[[Keywords/Keyword_Heavy_Pistol\|Heavy Pistol]]\] | \[[[Keywords/Keyword_Nearby\|Nearby]]\] | 9/18/45     | -          | -         | [[Mods_Weapon/Mod_Laser_Sight\|Laser Sight]]                                                                                 |
+| 5,000 ⌆ | Argentis Desert Viper | \[[[Keywords/Keyword_Heavy_Pistol\|Heavy Pistol]]\] | \[[[Keywords/Keyword_Far\|Far]]\]       | 10/20/50    | -          | -         | -                                                                                                                            |
+| 5,500 ⌆ | Uzog Mini Mk-9        | \[[[Keywords/Keyword_SMG\|SMG]]\]                   | \[[[Keywords/Keyword_Nearby\|Nearby]]\] | 5/10/25     | 10/20/50   | -         | [[Mods_Weapon/Mod_Folding_Stock\|Folding Stock]] \[[[Keywords/Keyword_Concealable\|Concealable]]\]                           |
+| 5,900 ⌆ | Graham M21-S          | \[[[Keywords/Keyword_SMG\|SMG]]\]                   | \[[[Keywords/Keyword_Nearby\|Nearby]]\] | 4/8/20      | 9/18/45    | -         | [[Mods_Weapon/Mod_Gunwire_Grip\|Gunwire Grip]], [[Mods_Weapon/Mod_Silencer\|Silencer]]                                       |
+| 6,000 ⌆ | Ranco 12G Dominator   | \[[[Keywords/Keyword_Shotgun\|Shotgun]]\]           | \[[[Keywords/Keyword_Close\|Close]]\]   | 10/20/50    | -          | -         | -                                                                                                                            |
+| 6,600 ⌆ | Graham H6             | \[[[Keywords/Keyword_Shotgun\|Shotgun]]\]           | \[[[Keywords/Keyword_Close\|Close]]\]   | 9/18/45     | -          | -         | \[[[Keywords/Keyword_Concealable\|Concealable]]\]                                                                            |
+| 6,900 ⌆ | Salvati Duro Carbine  | \[[[Keywords/Keyword_Rifle\|Rifle]]\]               | \[[[Keywords/Keyword_Nearby\|Nearby]]\] | 9/18/45     | 12/24/60   | -         | [[Mods_Weapon/Mod_Scope\|Scope]]                                                                                             |
+| 7,500 ⌆ | Graham PX-90 Carbine  | \[[[Keywords/Keyword_Rifle\|Rifle]]\]               | \[[[Keywords/Keyword_Nearby\|Nearby]]\] | 9/18/45     | 12/24/60   | 15/30/75  | [[Mods_Weapon/Mod_Gas_Vents\|Gas Vents 1]]                                                                                   |
+| 9,500 ⌆ | Argentis Falco        | \[[[Keywords/Keyword_Rifle\|Rifle]]\]               | \[[[Keywords/Keyword_Far\|Far]]\]       | 15/30/75    | -          | -         | [[Mods_Weapon/Mod_Gas_Vents\|Gas Vents 1]], [[Mods_Weapon/Mod_Gunwire_Grip\|Gunwire Grip]], [[Mods_Weapon/Mod_Scope\|Scope]] |

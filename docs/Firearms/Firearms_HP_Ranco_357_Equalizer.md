@@ -1,5 +1,5 @@
-# Ranco .357 Equalizer
+# Ranco .357 Equalizer \[Heavy Pistol\]
 
-| Points | Weapon               | Type         | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                                          |
-| :----: | -------------------- | ------------ | ------------- | ----------- | ---------- | --------- | --------------------------------------------- |
-|   3    | Ranco .357 Equalizer | Heavy Pistol | Nearby        | 9/18/45     | -          | -         | [Laser Sight](/../Mod_Laser_Sight) |
+|  Cost   | Weapon               | Weapon Type                                         | Optimal Range                           | Single Shot | Burst Fire | Full Auto | Mods/Keywords                                |
+| :-----: | -------------------- | --------------------------------------------------- | --------------------------------------- | ----------- | ---------- | --------- | -------------------------------------------- |
+| 4,000 ⌆ | Ranco .357 Equalizer | [[Heavy Pistol](/../Keywords/Keyword_Heavy_Pistol)] | [[Nearby](/../Keywords/Keyword_Nearby)] | 9/18/45     | -          | -         | [Laser Sight](/../Mods_Weapon/Mod_Laser_Sight) |

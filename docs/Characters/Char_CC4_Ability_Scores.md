@@ -11,8 +11,6 @@ A character's ability scores reflect their natural, human qualities, such as str
 | Strength     | Physical strength and general athleticism                    |
 | Resilience   | Bodily fortitude, health, and willpower                      |
 
-
-
 ## Distribute 17 Points
 
 You get **17 points** to distribute between your abilities. Only one ability score can be set to 5 at character creation. The rest must be 4 or less. 

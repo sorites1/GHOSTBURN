@@ -2,9 +2,9 @@
 
 *Flick-Nick-Gouge-Retract. FNGR Razors by Ranco are implanted under the fingernails on one hand. They can be extended or retracted with a flick of the fingers.*
 
-|  Cost   | Augment     | Mesh Cost | Mod Slots | Keywords                                                                         |
-| :-----: | ----------- | :-------: | :-------: | :------------------------------------------------------------------------------- |
-| 5,000 ⌆ | FNGR Razors |     1     |     0     | \[[[Keywords/Keyword_Aug_Blade\|Aug Blade]]\], \[[[Keywords/Keyword_Mod\|Mod]]\] |
+|  Cost   | Augment     | Mesh Cost | Keywords                                                                                                                      |
+| :-----: | ----------- | :-------: | :---------------------------------------------------------------------------------------------------------------------------- |
+| 5,000 ⌆ | FNGR Razors |     1     | \[[[Keywords/Keyword_Aug_Blade\|Aug Blade]]\], \[[[Keywords/Keyword_Mod\|Mod]]\], \[[[Keywords/Keyword_One_Hand\|One Hand]]\] |
 
 FNGR Razors have a Base Value of 2 for its Melee [[Gear_and_Augments/GaA_Damage_Array|Damage Array]]. FNGR Razors cannot be used to perform [[Skills_and_Tricks/Trick_Melee_Finishing_Move|Finishing Move]].
 

@@ -1,3 +1,3 @@
 # Cyber Rig
 
-A portable device with a keyboard and a \[[[Keywords/Keyword_Datajack|Datajack]]\] used for illegal hacking.
+A portable device with a keyboard, \[[[Keywords/Keyword_Datajack|Datajack]]\], and an AR Display. A \[Cyber Rig\] is required to use Hacking tricks.

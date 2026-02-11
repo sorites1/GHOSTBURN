@@ -1,6 +1,6 @@
 ## Droptripper
 
-The modern Net has three layers. The top layer is what everyday citizens use for shopping, work, playing games, and watching vidstreams. The middle layer is the realm of the corporate admins, where engineers maintain systems and develop the next wave of profitable services. The lowest layer is the foam network. Not unlike a coral reef, the foam is a self-organizing substrate where data routes itself and network protocols adapt without human oversight.
+The modern Net has three layers. The top layer is what everyday citizens use for shopping, work, playing games, and watching vidstreams. The middle layer is the realm of the corporate admins, where engineers maintain systems and develop the next wave of profitable services. The lowest layer is the foam network. Not unlike a coral reef, the foam is a self-organizing system where data routes itself and network protocols adapt without human oversight.
 
 As a droptripper, you bypass the first two layers and dive straight into the foam network. You key in a system address on your cyber rig, jack in, and your senses go dark. At first, you appear in a black void, empty except for a tiny pinpoint of white light, which grows in size, imperceptibly at first, and then rapidly, until it consumes you. Then comes the sudden, gut-wrenching drop and the uncanny sensation of falling. When you land, you find yourself in a *dream state*, an emergent hallucination, a product of your mind colliding directly with the foam.
 

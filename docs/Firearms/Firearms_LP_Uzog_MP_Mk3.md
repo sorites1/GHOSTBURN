@@ -1,5 +1,5 @@
-# Uzog MP Mk-3
+# Uzog MP Mk-3 \[Light Pistol\]
 
-| Points | Weapon       | Type         | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                       |
-| :----: | ------------ | ------------ | ------------- | ----------- | ---------- | --------- | -------------------------- |
-|   2    | Uzog MP Mk-3 | Light Pistol | Nearby        | -           | 6/12/30    | -         | [Silencer](/../Mod_Silencer) |
+|  Cost   | Weapon       | Weapon Type                                         | Optimal Range                           | Single Shot | Burst Fire | Full Auto | Mods/Keywords                          |
+| :-----: | ------------ | --------------------------------------------------- | --------------------------------------- | ----------- | ---------- | --------- | -------------------------------------- |
+| 3,000 ⌆ | Uzog MP Mk-3 | [[Light Pistol](/../Keywords/Keyword_Light_Pistol)] | [[Nearby](/../Keywords/Keyword_Nearby)] | -           | 6/12/30    | -         | [Silencer](/../Mods_Weapon/Mod_Silencer) |

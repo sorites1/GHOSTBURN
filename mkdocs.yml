@@ -125,9 +125,9 @@ nav:
       - Dual Shot [Signature]: Skills_and_Tricks/Trick_Firearms_Dual_Shot.md
     - Hacking: 
       - Disable Device [Core]: Skills_and_Tricks/Trick_Hacking_Core_Disable_Device.md
-      - Cybernetic Hack [Core]: Skills_and_Tricks/Trick_Hacking_Cybernetic_Hack.md
+      - Cybernetic Hack [Signature]: Skills_and_Tricks/Trick_Hacking_Cybernetic_Hack.md
       - Droptrip [Signature]: Skills_and_Tricks/Trick_Hacking_Droptrip.md
-      - Street Hack [Signature]: Skills_and_Tricks/Trick_Hacking_Street_Hack.md
+      - Street Hack [Core]: Skills_and_Tricks/Trick_Hacking_Core_Street_Hack.md
     - Insight:
       - Read Person [Core]: Skills_and_Tricks/Trick_Insight_Core_Read_Person.md
       - Sense Lies [Core]: Skills_and_Tricks/Trick_Insight_Core_Sense_Lies.md
@@ -182,47 +182,72 @@ nav:
       - NanoWeave Armor: Gear/Armor_NanoWeave_Armor.md
       - Reinforced Leather: Gear/Armor_Reinforced_Leather.md
       - Soft Armor: Gear/Armor_Soft_Armor.md
+    - ⚏ Cyber Rigs:
+      - Hand-Built Cyber Rig: Gear/Gear_Cyber_Rig_Hand_Built.md
+      - Komodo Ripsaw: Gear/Gear_Cyber_Rig_Komodo_Ripsaw.md 
+    - ⚏ Control Decks:
+      - Hand-Built Control Deck: Gear/Gear_Control_Deck_Hand_Built.md
+      - Yoshioka Mach-7: Gear/Gear_Control_Deck_Yoshioka_Mach_7.md
+      - Yoshioka Mach-9: Gear/Gear_Control_Deck_Yoshioka_Mach_9.md
+      - Yoshkoka Night Runner: Gear/Gear_Control_Deck_Yoshioka_Night_Runner.md
+    - ⚏ Lifestyle:
+      - Doc-in-a-Box: Gear/Gear_Doc_in_a_Box.md
+      - Wardrobe, Basic: Gear/Gear_Wardrobe_Basic.md
+      - Wardrobe, High End: Gear/Gear_Wardrobe_High_End.md
+    - ⚏ Vehicles:
+      - Fiesta Fortuna: Gear/Vehicle_Fiesta_Fortuna.md
+      - Fiesta Lento: Gear/Vehicle_Fiesta_Lento.md
+      - Fiesta Lobo: Gear/Vehicle_Fiesta_Lobo.md
+      - Kangjun Cyclone: Gear/Vehicle_Kangjun_Cyclone.md
+      - Pellegrini Baleno: Gear/Vehicle_Pellegrini_Baleno.md
+      - Pellegrini Carino: Gear/Vehicle_Pellegrini_Carino.md
+      - Wolff Trak: Gear/Vehicle_Wolff_Trak.md
+      - Yoshioka Shadow: Gear/Vehicle_Yoshioka_Shadow.md
   - ⚏ Augments:
     - Augments: Cybernetic_Augmentations/index.md
     - ⚏ Body Augs:
       - Cybernetic Arm: Cybernetic_Augmentations/Aug_Cybernetic_Arm.md
+      - Cybernetic Digit: Cybernetic_Augmentations/Aug_Cybernetic_Digit.md
       - Cybernetic Ear: Cybernetic_Augmentations/Aug_Cybernetic_Ear.md
       - Cybernetic Eye: Cybernetic_Augmentations/Aug_Cybernetic_Eye.md
+      - Cybernetic Face: Cybernetic_Augmentations/Aug_Cybernetic_Face.md
       - Cybernetic Foot: Cybernetic_Augmentations/Aug_Cybernetic_Foot.md
-      - Cybernetic Jaw: Cybernetic_Augmentations/Aug_Cybernetic_Jaw.md
       - Cybernetic Hand: Cybernetic_Augmentations/Aug_Cybernetic_Hand.md
       - Cybernetic Heart: Cybernetic_Augmentations/Aug_Cybernetic_Heart.md
+      - Cybernetic Jaw: Cybernetic_Augmentations/Aug_Cybernetic_Jaw.md
       - Cybernetic Larynx: Cybernetic_Augmentations/Aug_Cybernetic_Larynx.md
       - Cybernetic Leg: Cybernetic_Augmentations/Aug_Cybernetic_Leg.md
-      - Cybernetic Lip: Cybernetic_Augmentations/Aug_Cybernetic_Lip.md
-      - Cybernetic Lung: Cybernetic_Augmentations/Aug_Cybernetic_Lung.md
+      - Cybernetic Lips: Cybernetic_Augmentations/Aug_Cybernetic_Lips.md
+      - Cybernetic Lungs: Cybernetic_Augmentations/Aug_Cybernetic_Lungs.md
       - Cybernetic Spine: Cybernetic_Augmentations/Aug_Cybernetic_Spine.md
     - ⚏ Combat Augs:
       - ATK Module: Cybernetic_Augmentations/Aug_ATK_Module.md
-      - CBR Fangs: Cybernetic_Augmentations/Aug_CBR_Fangs.md
       - Dermal Armor: Cybernetic_Augmentations/Aug_Dermal_Armor.md
       - FNGR Razors: Cybernetic_Augmentations/Aug_FNGR_Razors.md
       - Gunwires: Cybernetic_Augmentations/Aug_Gunwires.md
+      - KBR Fangs: Cybernetic_Augmentations/Aug_KBR_Fangs.md
       - Pain Dial: Cybernetic_Augmentations/Aug_Pain_Dial.md
       - SLAP Gun: Cybernetic_Augmentations/Aug_SLAP_Gun.md
       - Subdermal NanoWeave: Cybernetic_Augmentations/Aug_Subdermal_Nanoweave.md
       - TGR Claws: Cybernetic_Augmentations/Aug_TGR_Claws.md
       - VPR Blade: Cybernetic_Augmentations/Aug_VPR_Blade.md      
-    - ⚏ Enhancement Augs:
-      - CAT Reflexes: Cybernetic_Augmentations/Aug_CAT_Reflexes.md
-      - Faceshifter: Cybernetic_Augmentations/Aug_Faceshifter.md
-      - Meat Rack: Cybernetic_Augmentations/Aug_Meat_Rack.md
-      - Neuromatrix: Cybernetic_Augmentations/Aug_Neuromatrix.md
-      - PheroSynth: Cybernetic_Augmentations/Aug_PheroSynth.md
     - ⚏ Utility Augs:
       - Comms: Cybernetic_Augmentations/Aug_Comms.md
+      - Darkline Node: Cybernetic_Augmentations/Aug_Darkline_Node.md
       - Datajack: Cybernetic_Augmentations/Aug_Datajack.md
       - Datavault: Cybernetic_Augmentations/Aug_Datavault.md
-      - Grapple Gun: Cybernetic_Augmentations/Aug_Grapple_Gun.md
-      - Minidisk: Cybernetic_Augmentations/Aug_Minidisk.md
+      - Faceshifter: Cybernetic_Augmentations/Aug_Faceshifter.md
+      - Glide-By-Wire Reflexes: Cybernetic_Augmentations/Aug_Glide_By_Wire_Reflexes.md
+      - Meat Rack: Cybernetic_Augmentations/Aug_Meat_Rack.md
+      - Minidisk Port: Cybernetic_Augmentations/Aug_Minidisk_Port.md
       - Multitool: Cybernetic_Augmentations/Aug_Multitool.md
+      - Neuromatrix: Cybernetic_Augmentations/Aug_Neuromatrix.md
+      - PheroSynth: Cybernetic_Augmentations/Aug_PheroSynth.md
+      - Poison Reservoir: Cybernetic_Augmentations/Aug_Poison_Reservoir.md
       - Skillset: Cybernetic_Augmentations/Aug_Skillset.md
       - Spider Fingers: Cybernetic_Augmentations/Aug_Spider_Fingers.md
+      - Speed Boost: Cybernetic_Augmentations/Aug_Speed_Boost.md
+      - Voice Box: Cybernetic_Augmentations/Aug_Voice_Box.md
   - ⚏ Firearms:
     - Firearms: Firearms/index.md
     - ⚏ Light Pistols:
@@ -245,6 +270,14 @@ nav:
       - Graham PX-90 Carbine: Firearms/Firearms_Rifle_Graham_PX90_Carbine.md
       - Salvati Duro Carbine: Firearms/Firearms_Rifle_Salvati_Duro_Carbine.md
       - Argentis Faclo: Firearms/Firearms_Rifle_Argentis_Falco.md
+    - ⚏ Firearms Mods:        
+      - Folding Stock: Mods_Weapon/Mod_Folding_Stock.md
+      - Gas Vents: Mods_Weapon/Mod_Gas_Vents.md
+      - Gunwire Grip: Mods_Weapon/Mod_Gunwire_Grip.md
+      - Laser Sight: Mods_Weapon/Mod_Laser_Sight.md
+      - Scope: Mods_Weapon/Mod_Scope.md
+      - Silencer: Mods_Weapon/Mod_Silencer.md
+      - Underbarrel Flashlight: Mods_Weapon/Mod_Underbarrel_Flashlight.md
   - ⚏ Melee Weapons:
     - Melee Weapons: Melee_Weapons/index.md
     - ⚏ Blunt:
@@ -259,24 +292,7 @@ nav:
     - ⚏ Long Blades:
       - Combat Axe: Melee_Weapons/Melee_Combat_Axe.md
       - Katana: Melee_Weapons/Melee_Katana.md
-      - Plasma Sword: Melee_Weapons/Melee_Plasma_Sword.md
-  - ⚏ Mods:
-    - Mods: Mods/index.md
-    - ⚏ Augment Mods:
-      - Clearview: Mods_Augment/Mod_Clearview.md
-      - Grapple Gun: Mods_Augment/Mod_Grapple_Gun.md
-      - Magnification: Mods_Augment/Mod_Magnification.md
-      - Night Vision: Mods_Augment/Mod_Night_Vision.md
-      - Thermal Imaging: Mods_Augment/Mod_Thermal_Imaging.md
-      - Video Recorder: Mods_Augment/Mod_Video_Recorder.md
-    - ⚏ Weapon Mods:
-      - Folding Stock: Mods_Weapon/Mod_Folding_Stock.md
-      - Gas Vents: Mods_Weapon/Mod_Gas_Vents.md
-      - Gunwire Grip: Mods_Weapon/Mod_Gunwire_Grip.md
-      - Laser Sight: Mods_Weapon/Mod_Laser_Sight.md
-      - Scope: Mods_Weapon/Mod_Scope.md
-      - Silencer: Mods_Weapon/Mod_Silencer.md
-      - Underbarrel Flashlight: Mods_Weapon/Mod_Underbarrel_Flashlight.md
+      - Plasma Sword: Melee_Weapons/Melee_Plasma_Sword.md 
 - ⚏ Lexicon:
   - Lexicon: Lexicon/index.md
   - ⚏ Game Terms:
@@ -383,6 +399,7 @@ nav:
       - Encrypted Packages: Keywords/Keyword_Encrypted_Package.md
       - Far: Keywords/Keyword_Far.md
       - Fast: Keywords/Keyword_Fast.md
+      - Fierce Look: Keywords/Keyword_Fierce_Look.md
       - Fine Control: Keywords/Keyword_Fine_Control.md
       - Firearm: Keywords/Keyword_Firearm.md
       - Fly: Keywords/Keyword_Fly.md
@@ -418,6 +435,7 @@ nav:
       - Operator: Keywords/Keyword_Operator.md
       - Opposed: Keywords/Keyword_Opposed.md
       - Optimal Range: Keywords/Keyword_Optimal_Range.md
+      - Perfect Balance: Keywords/Keyword_Perfect_Balance.md
       - Physical: Keywords/Keyword_Physical.md
       - Range: Keywords/Keyword_Range.md
       - Reaction: Keywords/Keyword_Reaction.md
@@ -440,6 +458,7 @@ nav:
       - Spread: Keywords/Keyword_Spread.md
       - Stability: Keywords/Keyword_Stability.md
       - Stabilization DL: Keywords/Keyword_Stabilization_DL.md
+      - Stunning Look: Keywords/Keyword_Stunning_Look.md
       - Supplies: Keywords/Keyword_Supplies.md
       - Surgical Procedure: Keywords/Keyword_Surgical_Procedure.md
       - Temporary: Keywords/Keyword_Temporary.md

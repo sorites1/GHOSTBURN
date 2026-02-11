@@ -1,5 +1,5 @@
-# Ranco Defender .380
+# Ranco Defender .380 \[Light Pistol\]
 
-| Points | Weapon              | Type         | Optimal Range | Single Shot | Burst Fire | Full Auto | Mods                                                                |
-| :----: | ------------------- | ------------ | ------------- | ----------- | ---------- | --------- | ------------------------------------------------------------------- |
-|   1    | Ranco Defender .380 | Light Pistol | Close         | 4/8/20      | -          | -         | [[Mod_Underbarrel_Flashlight\|Underbarrel Flashlight]] |
+|  Cost   | Weapon              | Weapon Type                                         | Optimal Range                         | Single Shot | Burst Fire | Full Auto | Mods/Keywords                                                      |
+| :-----: | ------------------- | --------------------------------------------------- | ------------------------------------- | ----------- | ---------- | --------- | ------------------------------------------------------------------ |
+| 1,200 ⌆ | Ranco Defender .380 | \[[[Keywords/Keyword_Light_Pistol\|Light Pistol]]\] | \[[[Keywords/Keyword_Close\|Close]]\] | 4/8/20      | -          | -         | [[Mods_Weapon/Mod_Underbarrel_Flashlight\|Underbarrel Flashlight]] |

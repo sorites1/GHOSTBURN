@@ -1,10 +1,10 @@
-# Dermal Armor
+# Dermal Armor \[Augment\]
 
 *Dermal Armor is metal plating inserted under your skin, typically over the rib cage and abdomen. This augmentation is obvious to anyone who observes you shirtless.* 
 
-|   Cost   | Augment      | Mesh Cost | Mod Slots | Keywords                              |
-| :------: | ------------ | :-------: | :-------: | :------------------------------------ |
-| 20,000 ⌆ | Dermal Armor |     3     |     0     | \[[[Keywords/Keyword_Armor\|Armor]]\] |
+|   Cost   | Augment      | Mesh Cost | Keywords                              |
+| :------: | ------------ | :-------: | :------------------------------------ |
+| 20,000 ⌆ | Dermal Armor |     3     | \[[[Keywords/Keyword_Armor\|Armor]]\] |
 
 Dermal Armor counts as wearing [[Gear/Armor_Soft_Armor|Soft Armor]] all the time.
 

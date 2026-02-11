@@ -1,8 +1,8 @@
 # Pit Maneuver \[Signature Trick\]
 
-| Difficulty Level (DL) | Skill | Keywords                                                                    |
-| --------------------- | ----- | --------------------------------------------------------------------------- |
-| [[Stability](/../Keywords/Keyword_Stability)]         | Drive | [[Attack](/../Keywords/Keyword_Attack)], [[Physical](/../Keywords/Keyword_Physical)], [[Range](/../Keywords/Keyword_Range)], [[Two Hands](/../Keywords/Keyword_Two_Hands)], [[Vehicle](/../Keywords/Keyword_Vehicle)], [[Visual](/../Keywords/Keyword_Visual)] |
+| Difficulty Level (DL)                                          | Skill | Keywords                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Target Vehicle's [[Stability](/../Keywords/Keyword_Stability)] | Drive | [[Attack](/../Keywords/Keyword_Attack)], [[Physical](/../Keywords/Keyword_Physical)], [[Range](/../Keywords/Keyword_Range)], [[Two Hands](/../Keywords/Keyword_Two_Hands)], [[Vehicle](/../Keywords/Keyword_Vehicle)], [[Visual](/../Keywords/Keyword_Visual)] |
 
 *Pit Maneuver is an aggressive driving move designed to disable your opponent's vehicle and bring it to a stop.* 
 

@@ -51,7 +51,7 @@ This chart shows the skills and tricks available to player characters in this ga
 | **Intelligence** | **Hacking**    | **[Disable Device](/../Skills_and_Tricks/Trick_Hacking_Core_Disable_Device)**             | **Core Trick**  |
 |                  | Hacking        | [Cybernetic Hack](/../Skills_and_Tricks/Trick_Hacking_Cybernetic_Hack)                    | Signature Trick |
 |                  | Hacking        | [Droptrip](/../Skills_and_Tricks/Trick_Hacking_Droptrip)                                  | Signature Trick |
-|                  | Hacking        | [Street Hack](/../Skills_and_Tricks/Trick_Hacking_Street_Hack)                            | Signature Trick |
+|                  | Hacking        | [Street Hack](/../Trick_Hacking_Core_Street_Hack)                            | Signature Trick |
 | **Intelligence** | **Culture**    | **[City Culture](/../Skills_and_Tricks/Trick_Culture_Core_City_Culture)**                 | **Core Trick**  |
 |                  | Culture        | [Corporate Culture](/../Skills_and_Tricks/Trick_Culture_Corporate_Culture)                | Signature Trick |
 |                  | Culture        | [Milsec Culture](/../Skills_and_Tricks/Trick_Culture_Milsec_Culture)                      | Signature Trick |

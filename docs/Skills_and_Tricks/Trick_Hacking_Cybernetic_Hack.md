@@ -1,8 +1,8 @@
 # Cybernetic Hack \[Signature Trick\]
 
-| Difficulty Level (DL) | Skill | Keywords                                                                        |
-| --------------------- | ----- | ------------------------------------------------------------------------------- |
-| [[Security](/../Keywords/Keyword_Security)]          | Tech  | [[Cyber Rig](/../Keywords/Keyword_Cyber_Rig)], [[Physical](/../Keywords/Keyword_Physical)], [[Range](/../Keywords/Keyword_Range)], [[Wireless](/../Keywords/Keyword_Wireless)], [[Two Hands](/../Keywords/Keyword_Two_Hands)], [[Visual](/../Keywords/Keyword_Visual)] |
+| Difficulty Level (DL)                       | Skill   | Keywords                                                                                                                                                                                                                                                               |
+| ------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Security](/../Keywords/Keyword_Security)] | Hacking | [[Cyber Rig](/../Keywords/Keyword_Cyber_Rig)], [[Physical](/../Keywords/Keyword_Physical)], [[Range](/../Keywords/Keyword_Range)], [[Wireless](/../Keywords/Keyword_Wireless)], [[Two Hands](/../Keywords/Keyword_Two_Hands)], [[Visual](/../Keywords/Keyword_Visual)] |
 
 *With the right module installed, peoples' cyberware can be added to your cyber rig's AR overlay. Selecting one of the cybernetic implants in your field of view runs the module and attempts to disable the target.* 
 

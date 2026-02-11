@@ -1,0 +1,7 @@
+# Drugged
+
+**Cause:** When a chemical interferes with your ability to move, speak, and think, you are \[Drugged\].
+
+**Effect:** You gain [[Cognitive Impairment](/../Conditions/Condition_Cognitive_Impairment)], [[Movement Impaired](/../Conditions/Condition_Movement_Impaired)], [[Off Balance](/../Conditions/Condition_Off_Balance)], [[Off Guard](/../Conditions/Condition_Off_Guard)], [[Speech Impairment](/../Conditions/Condition_Speech_Impairment)], and [[Vision Impairment](/../Conditions/Condition_Vision_Impairment)].
+
+**Removal:** At the start of your turn, make a [[Basic](/../Keywords/Keyword_Basic)] Resilience roll with a DL of Moderate (14). Success means you lose the \[Drugged\] condition. If you are still \[Drugged\] at the end of the scene, you lose \[Drugged\]. If you are given an antidote for the chemical affecting you, you lose \[Drugged\] immediately.

@@ -2,9 +2,9 @@
 
 *The Pain Dial is a literal, physical knob on your waistline, set atop one of your pelvic bones. Turn the dial higher to ignore greater levels of pain.*
 
-|   Cost    | Augment   | Mesh Cost | Mod Slots | Keywords                                                                                 |
-| :-------: | --------- | :-------: | :-------: | :--------------------------------------------------------------------------------------- |
-| 800,000 ⌆ | Pain Dial |     8     |     0     | \[[[Keywords/Keyword_One_Hand\|One Hand]]\], \[[[Keywords/Keyword_Physical\|Physical]]\] |
+|   Cost    | Augment   | Mesh Cost | Keywords                                                                                 |
+| :-------: | --------- | :-------: | :--------------------------------------------------------------------------------------- |
+| 800,000 ⌆ | Pain Dial |     8     | \[[[Keywords/Keyword_One_Hand\|One Hand]]\], \[[[Keywords/Keyword_Physical\|Physical]]\] |
 
 Pain Dial has four positions: Off, 1, 2, and 3. Spend 1 AP to turn Pain Dial up or down by one position. For example, if Pain Dial is set to Off, spend 1 AP to turn Pain Dial to 1, spend another AP to turn Pain Dial to 2, and so on. The effects of each position is shown below.
 

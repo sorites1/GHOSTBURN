@@ -2,9 +2,9 @@
 
 *Trigger-Gut-Retract. TGR Claws by Ranco activate in a heartbeat, extending three, deadly-sharp blades from the top of your hand.* 
 
-|   Cost   | Augment   | Mesh Cost | Mod Slots | Keywords                                                                         |
-| :------: | --------- | :-------: | :-------: | -------------------------------------------------------------------------------- |
-| 40,000 ⌆ | TGR Claws |     4     |     0     | \[[[Keywords/Keyword_Aug_Blade\|Aug Blade]]\], \[[[Keywords/Keyword_Mod\|Mod]]\] |
+|   Cost   | Augment   | Mesh Cost | Keywords                                                                                                                      |
+| :------: | --------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------- |
+| 40,000 ⌆ | TGR Claws |     4     | \[[[Keywords/Keyword_Aug_Blade\|Aug Blade]]\], \[[[Keywords/Keyword_Mod\|Mod]]\], \[[[Keywords/Keyword_One_Hand\|One Hand]]\] |
 
 TGR Claws have a Base Value of 4 for its Melee [[Gear_and_Augments/GaA_Damage_Array|Damage Array]]. 
 

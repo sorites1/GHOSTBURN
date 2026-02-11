@@ -1,3 +1,3 @@
 # Control Deck
 
-A piece of hardware used to wireless control a device, such as a [[Drone](/../Keywords/Keyword_Drone)]. Often used in conjunction with a headset or [[Datajack](/../Datajack)].
+A piece of hardware used to control drones and vehicles over [[Wireless](/../Keywords/Keyword_Wireless)]. To connect a \[Control Deck\] to a [[Drone](/../Keywords/Keyword_Drone)] or [[Vehicle](/../Keywords/Keyword_Vehicle)], you must have [[Admin](/../Keywords/Keyword_Admin)] access to it. You automatically have this access on any drone or vehicle you own. You may a \[Control Deck\] to the [Control Port](/../Cybernetic_Augmentations/Aug_Control_Port) augment, though this is not required. A \[Control Deck\] contains a built-in display capable of producing a 3D Tactical Hologram (3DTH) that is used by those without a Control Port.

@@ -2,9 +2,9 @@
 
 *Vibrate-Punch-Retract. VPR Blade by Ranco is implanted in your forearm. With a gesture, it extends from a slot above your wrist and produces a slight hum as it vibrates with energy.*
 
-|   Cost   | Augment   | Mesh Cost | Mod Slots | Keywords                                                                         |
-| :------: | --------- | :-------: | :-------: | :------------------------------------------------------------------------------- |
-| 70,000 ⌆ | VPR Blade |     7     |     0     | \[[[Keywords/Keyword_Aug_Blade\|Aug Blade]]\], \[[[Keywords/Keyword_Mod\|Mod]]\] |
+|   Cost   | Augment   | Mesh Cost | Keywords                                                                         |
+| :------: | --------- | :-------: | :------------------------------------------------------------------------------- |
+| 70,000 ⌆ | VPR Blade |     7     | \[[[Keywords/Keyword_Aug_Blade\|Aug Blade]]\], \[[[Keywords/Keyword_Mod\|Mod]]\] |
 
 VPR Blade has a Base Value of 7 for its Melee [[Gear_and_Augments/GaA_Damage_Array|Damage Array]]. 
 

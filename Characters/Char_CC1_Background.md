@@ -16,7 +16,7 @@ Your background gives you one Culture (Corporate, Milsec, Street, or Underworld)
 
 Your background gives you one favored skill. Fill in the diamond symbol (◇) next to the skill name on your character sheet to indicate it as a favored skill, and write +1 in its skill bonus box.
 
-> [!NOTE] \>\>\[GET INFO\]<< //Favored Skills
+> [!NOTE] [INFO\] //Favored Skills
 > It costs fewer XP to improve favored skills and to purchase signature tricks for your favored skills than it does for non-favored skills. 
 
 

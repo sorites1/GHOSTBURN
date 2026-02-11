@@ -1,13 +1,16 @@
-# Datavault
+# Datavault \[Augment\]
 
-The \[Datavault\] augment works in conjunction with other augments capable of accessing data, like [[Comms](/../Cybernetic_Augmentations/Aug_Comms)], [[Video Recorder](/../Mod_Video_Recoder)], [[Datajack](/../Cybernetic_Augmentations/Aug_Datajack)], and [[Minidisk](/../Cybernetic_Augmentations/Aug_Minidisk)]. Spend 1 AP to transfer data into your \[Datavault\]. When special data bundles known as \[Encrypted Packages\] are transferred into your \[Datavault\], they are automatically placed in hidden partitions. No one can access these \[Encrypted Packages\] without the proper key, not even you. 
+*Datavault, used almost exclusively by data couriers, is a data storage augment that puts Encrypted Packages in hidden partitions so they are not accessible to anyone, even you.*
 
-When you transfer data bundles into your \[Datavault\], you can choose to convert them into \[Encrypted Packages\]. When you do this, you must set a different kind of key, such as time key (where the data becomes accessible after a particular data and time), a visual key (where the data unlocks when you see a particular face, for example), or a location key (where the data unlocks only when you travel to a particular place).
+|   Cost    | Augment             | Mesh Cost | Keywords |
+| :-------: | ------------------- | :-------: | :------- |
+|  5,000 ⌆  | Datavault (Level 1) |     1     | -        |
+| 10,000 ⌆  | Datavault (Level 2) |     2     | -        |
+| 25,000 ⌆  | Datavault (Level 3) |     3     | -        |
+| 100,000 ⌆ | Datavault (Level 4) |     4     | -        |
 
-All data stored in your \[Datavault\] is protected by \[Security\], as shown below. \[Datavault\] comes in three levels: \[Datavault 1\], \[Datavault 2\], and \[Datavault 3\]. These levels represent an upgrade path; they do not stack.
+Transferring an [[Encrypted Package](/../Keywords/Keyword_Encrypted_Package)] into your \[Datavault\] relies upon another one of your augments to act as a source of the data. For example, to download an \[Encrypted Package\] from the Net and put it on your \[Datavault\], you could use your [Datajack](/../Cybernetic_Augmentations/Aug_Datajack). You could also transfer an \[Encrypted Package\] to your \[Datavault\] from a cartridge in your [Minidisk Port](/../Aug_Minidisk_Port). You cannot transfer a regular Data Bundle into a Datavault; it must be converted into an \[Encrypted Package\] first. Augments like Datajack, Darkline Node, and Minidisk Port, are capable of performing this conversion. 
 
-| Points | Augmentation | Mesh Cost | Reduces Psi | Description                                                                     |
-| :----: | ------------ | :-------: | ----------- | ------------------------------------------------------------------------------- |
-|   2    | Datavault 1  |     2     | Yes         | Protects data with [[Security](/../Keywords/Keyword_Security)] of Moderate (14) |
-|   4    | Datavault 2  |     4     | Yes         | Protects data with \[Security\] of Hard (20)                                    |
-|   6    | Datavault 3  |     6     | Yes         | Protects data with \[Security\] of Severe (26)                                  |
+Transferring an \[Encrypted Package\] into a Datavault requires something called a Claim Check. A Claim Check is a digital code with two parts. The party who will claim delivery of the \[Encrypted Package\] in question generates the code. One part is given to the courier, and the other part is retained. When the courier transfers the \[Encrypted Package\] into their Datavault, they use the first part of the Claim Check to initiate a process known as *tornado fragging*, in which the \[Encrypted Package\] is intentionally fragmented and strewn across a series of hidden partitions. Later, when the courier delivers the \[Encrypted Package\], the other party provides the second part of the Claim Check code, which the courier uses to recover the \[Encrypted Package\] from the Datavault. Transferring an \[Encrypted Package\] out of a Datavault automatically deletes any local copies. 
+
+A Datavault's tornado fragging process provides [[Security](/../Keywords/Keyword_Security)] to any \[Encrypted Package\] stored within (in addition to the \[Security\] of the \[Encrypted Package\] itself). The \[Security\] of a Datavault is based on its level. Datavault (Level 1): Easy (8), Datavault (Level 2): Moderate (14), Datavault (Level 3): Hard (20), Datavault (Level 4): Severe (26).

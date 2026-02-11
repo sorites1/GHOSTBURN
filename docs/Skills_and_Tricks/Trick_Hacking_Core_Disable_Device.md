@@ -1,8 +1,8 @@
 # Disable Device \[Core Trick\]
 
-| Difficulty Level (DL) | Skill | Keywords                                                             |
-| --------------------- | ----- | -------------------------------------------------------------------- |
-| [[Security](/../Keywords/Keyword_Security)]          | Tech  | [[Fine Control](/../Keywords/Keyword_Fine_Control)], [[Physical](/../Keywords/Keyword_Physical)], [[Tools](/../Keywords/Keyword_Tools)], [[Two Hands](/../Keywords/Keyword_Two_Hands)], [[Visual](/../Keywords/Keyword_Visual)] |
+| Difficulty Level (DL)                       | Skill   | Keywords                                                                                                                                                                                                                        |
+| ------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Security](/../Keywords/Keyword_Security)] | Hacking | [[Fine Control](/../Keywords/Keyword_Fine_Control)], [[Physical](/../Keywords/Keyword_Physical)], [[Tools](/../Keywords/Keyword_Tools)], [[Two Hands](/../Keywords/Keyword_Two_Hands)], [[Visual](/../Keywords/Keyword_Visual)] |
 
 *You inspect the device's electronic guts and make a calculated choice to snip one of the wires. A second later, the maglock disengages, and the door opens with a hiss.* 
 

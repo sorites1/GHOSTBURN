@@ -2,9 +2,9 @@
 
 *The SLAP (Spring-Loaded Auto-Pistol) Gun by Ranco is a hidden firearm compartment. With a gesture, a hatch in your forearm pops open, and a Ripper AP9 light pistol springs out and pushes into your open hand, ready to fire.* 
 
-|   Cost   | Augment  | Mesh Cost | Mod Slots | Keywords                                                                             |
-| :------: | -------- | :-------: | :-------: | :----------------------------------------------------------------------------------- |
-| 20,000 ⌆ | SLAP Gun |     2     |     0     | [[Concealable](/../Keywords/Keyword_Concealable)], [[Mod](/../Keywords/Keyword_Mod)] |
+|   Cost   | Augment  | Mesh Cost | Keywords                                                                             |
+| :------: | -------- | :-------: | :----------------------------------------------------------------------------------- |
+| 20,000 ⌆ | SLAP Gun |     2     | [[Concealable](/../Keywords/Keyword_Concealable)], [[Mod](/../Keywords/Keyword_Mod)] |
 
 Activating SLAP Gun is free (0 AP). Activation causes you to equip the [[Light Pistol](/../Keywords/Keyword_Light_Pistol)] hidden in your arm, and you may immediately use [Single Shot](/../Skills_and_Tricks/Trick_Firearms_Core_Single_Shot) or [Burst Fire](/../Skills_and_Tricks/Trick_Firearms_Core_Burst_Fire) at no additional AP cost. Stowing the weapon in its compartment costs 1 AP. 
 

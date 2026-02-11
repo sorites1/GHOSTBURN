@@ -1,7 +1,11 @@
-# ATK Module
+# ATK Module \[Augment\]
 
-The \[ATK Module\] is an augment that works in conjunction with \[[[Cybernetic_Augmentations/Aug_CAT_Reflexes|CAT Reflexes]]\] and \[[[Cybernetic_Augmentations/Aug_Gunwires|Gunwires]]\]. Both of these augments (at any level) must already be installed before the \[ATK Module\] can be implanted in the brain. ATK stands for Auto-Target-Kill. The \[ATK Module\] works by rapidly acquiring targets and queues up attacks against them so that when you \[[[Keywords/Keyword_Attack|Attack]]\] with a firearm that has a \[[[Mod_Gunwire_Grip|Gunwire Grip]]\], it is much easier to hit your target. 
+*Auto-Target-Kill. The ATK Module by Ranco is a cranial implant that works by analyzing data from Cybernetic Eyes, Gunwires, and Glide-By-Wire Reflexes to provide computer-aided adjustments that improve combat outcomes.*
 
-| Points | Augmentation | Mesh Cost | Reduces Psi | Description                                                                                                            |
-| :----: | ------------ | :-------: | ----------- | ---------------------------------------------------------------------------------------------------------------------- |
-|   4    | ATK Module   |     4     | Yes         | \[Gunwire Grip\] grants a +3 \[[[Keywords/Keyword_Gear_Bonus\|Gear Bonus]]\] instead of the standard +2 \[Gear Bonus\] |
+|    Cost     | Augment    | Mesh Cost | Keywords |
+| :---------: | ---------- | :-------: | :------- |
+| 1,000,000 ⌆ | ATK Module |     4     | -        |
+
+You must have at least one [[Cybernetic_Augmentations/Aug_Cybernetic_Eye|Cybernetic Eye]] (any level) installed, as well as [[Cybernetic_Augmentations/Aug_Glide_By_Wire_Reflexes|Glide-By-Wire Reflexes]] (any level) and [[Cybernetic_Augmentations/Aug_Gunwires|Gunwires]].
+
+The ATK Module has the following effects: [[Mods_Weapon/Mod_Gunwire_Grip|Gunwire Grip]] grants a +3 \[[[Keywords/Keyword_Gear_Bonus|Gear Bonus]]\] (instead of a +2) and [[Cybernetic_Augmentations/Aug_Gunwires|Gunwires]] grant a +2 \[[[Keywords/Keyword_Aug_Bonus|Aug Bonus]]\] to Firearms (instead of a +1). If you have Cybernetic Eye (Level 3) installed, [[Cybernetic_Augmentations/Aug_Gunwires|Gunwires]]  grant a +3 \[[[Keywords/Keyword_Aug_Bonus|Aug Bonus]]\] to Firearms (instead of a +2).
