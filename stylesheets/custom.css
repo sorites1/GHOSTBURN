@@ -1,0 +1,476 @@
+/* Custom stylesheet for MkDocs site */
+
+/* Root variables for easy theming */
+:root {
+  --custom-accent: #d9fdff;
+  --custom-text: #333333;
+  --custom-background: #ffffff;
+}
+
+/* Top Nav Link Color */
+.md-tabs__item > .md-tabs__link {
+    color: #d9fdff !important;
+    font-weight: bold;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.8rem;
+    opacity: 1;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+}
+
+/* Hover State for Top Nav Links */
+.md-tabs__link:hover {
+    color: #00f0ff !important; /* Cyan */
+    text-shadow: 0 0 10px rgba(0, 240, 255, 0.8);
+    opacity: 1;
+}
+
+/* Active State for Top Nav Links */
+.md-tabs__item--active .md-tabs__link {
+    color: #ff0077 !important; /* Active page is Pink */
+    border-bottom: 2px solid #ff0077;
+}
+
+/* The Search Input Container */
+.md-search__input {
+    background-color: rgba(0, 0, 0, 0.3) !important; /* Darker than the nav */
+    border: 1px solid rgba(0, 240, 255, 0.2) !important;
+    color: #00f0ff !important;
+    border-radius: 4px;
+}
+
+/* The Search Icon color */
+.md-search__icon {
+    color: #F1F1F1 !important;
+}
+
+/* Placeholder text (the "Search" hint) */
+.md-search__input::placeholder {
+    color: #F1F1F1;
+}
+
+.md-search__inner {
+    background-color: #1B1B1B !important;
+}
+
+/* Side Nav - Section Title Styling */
+.md-nav__item--section > .md-nav__link {
+    color: #d9fdff; 
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Side Nav - Current Page */
+.md-nav__link--active {
+    color: #ff0077 !important;
+    font-weight: bold;
+}
+
+/* Side Nav hover state */
+.md-nav__link:hover {
+    color: #00f0ff !important;
+}
+
+
+/* Set body and main containers to match the street in the home page image */
+body, .md-container, .md-main {
+    background-color: #1B1B1B !important; /* Dirty Brown */
+}
+
+/* Set sidebars to black */
+.md-sidebar, .md-nav {
+    background-color: #1B1B1B !important; /* Dirty Brown */
+}
+
+/* Set search bar to black */
+.md-search__input {
+    background-color: rgba(27, 27, 27, 0.05) !important; /* Dirty Brown */
+}
+
+/* Style regular links */
+.md-content a {
+    color: rgba(0, 240, 255, 0.8);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0, 240, 255, 0.2);
+    transition: all 0.2s ease;
+}
+
+/* Style hover on links */
+.md-content a:hover {
+    color: #00f0ff;
+    border-bottom-color: #00f0ff;
+    text-shadow: 0 0 8px rgba(0, 240, 255, 0.5);
+}
+
+/* Improve readability */
+.md-typeset {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+/* Header tags styling */
+.md-typeset h1, h2, h3, h4 {
+  color: var(--custom-accent);
+  border-bottom: 2px solid var(--custom-accent);
+  padding-bottom: 0.3rem;
+  font-family: 'Roboto Mono', 'Courier New', monospace;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: #d9fdff;
+  background: rgba(0, 240, 255, 0.05); /* Subtle background tint */
+  display: inline-block;
+  font-weight: bold;
+  /* Soft glow for the cyan text */
+  text-shadow: 0 0 8px rgba(0, 240, 255, 0.3);
+}
+
+.md-typeset h1 {
+  padding: 0.4rem 1.2rem 0.4rem 0.3rem;
+  margin-top: -0.2rem;
+  font-size: 1.1rem;
+  background: none;
+}
+
+.md-typeset h2 {
+  padding: 0.36rem 1.2rem 0.36rem 0.3rem;
+  margin-top: 1.3rem;
+  font-size: 0.9rem;
+}
+
+.md-typeset h3 {
+  padding: 0.34rem 1.2rem 0.34rem 0.3rem;
+  margin-top: 1.2rem;
+  font-size: 0.8rem;
+}
+
+.md-typeset h4 {
+  padding: 0.32rem 1.2rem 0.32rem 0.3rem;
+  margin-top: 1.2rem;
+  font-size: 0.7rem;
+}
+
+
+/* Header styling */
+.md-header {
+    background-color: #1B1B1B !important;
+    border-bottom: 1px solid rgba(0, 240, 255, 0.1); /* Very faint cyan line */
+}
+
+/* Code block improvements */
+.md-typeset code {
+  background-color: #f5f5f5;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+}
+
+/* Link styling */
+.md-typeset a {
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+}
+
+.md-typeset a:hover {
+  border-bottom-style: solid;
+}
+
+/* Table improvements */
+.md-typeset table:not([class]) {
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  font-size: .8rem;
+}
+
+/* Admonition (callout) styling */
+.md-typeset .admonition {
+  border-left: 4px solid var(--custom-accent);
+}
+
+/* This targets the Hero section on the index page */
+.md-hero {
+    background-color: #000;
+    /* Use the linear gradient to make text pop, then the image */
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.4), #1a1a1a), 
+                      url('../assets/cyberpunk1_by_Sheam_Bo_CreativeCommons4.jpg');
+    background-position: center 40%; /* Adjusts vertical focus of the art */
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 80vh; /* This tells the browser to show 80% of the screen height */
+    
+    /* Full Width */
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    
+    /* Space inside the hero */
+    padding: 8rem 0; 
+    color: white;
+    text-align: center;
+    margin-top: -1.5rem; /* Removes gap at the top */ 
+    margin-bottom: 2rem;
+}
+
+/* Ensure the title inside the hero looks like a cover */
+.md-hero h1 {
+  font-size: 3rem;
+  letter-spacing: 6px;
+}
+
+.md-hero h2 {
+  border-bottom: none;
+}
+
+/* style the subtitle h2 */
+.md-hero__subtitle {
+    font-size: 2rem;
+    opacity: 0.8;
+    letter-spacing: 1px;
+}
+
+.md-content {
+    max-width: 100%;
+    margin-right: 0;
+}
+  
+.md-content__inner {
+    margin-right: 0;
+}
+
+/* Neon Font */
+@font-face {
+    font-family: "Liberty";
+    src: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/907368/liberty.otf');
+}
+
+/* Target the H1 container inside your hero */
+.md-hero .text {
+    font-family: 'Liberty', sans-serif;
+    font-weight: 100;
+    font-size: 5rem;
+    letter-spacing: -0.15em;
+    margin: 0;
+    color: #d9fdff; 
+    text-shadow: 0 0 2rem #00f0ff;
+    display: inline-block;
+    animation: ambient-glow 10s ease-in-out infinite;
+    border-bottom: 1px solid;
+    border-image: linear-gradient(to right, transparent, rgba(217, 253, 255, 0.5), transparent) 1;
+}
+
+/* GHOST animation */
+.md-hero .letter-1, .md-hero .letter-2, .md-hero .letter-3, .md-hero .letter-4, .md-hero .letter-5 {
+    animation: neon-flicker 10s ease-in-out infinite; 
+}
+
+@keyframes neon-flicker {
+    /* 1. Stay "ON" for 5 seconds (50% of the time) */
+    0%, 50% { 
+        opacity: 1; 
+        text-shadow: 0 0 2rem #00f0ff; 
+    }
+
+    /* 2. The Slow Fade (5s to 7s) */
+    70% { 
+        opacity: 0.3; 
+        text-shadow: 0 0 0.5rem #00f0ff; 
+    }
+
+    /* 3. Flicker a couple of times (7.1s to 7.5s) */
+    71%, 73% { opacity: 0.1; text-shadow: none; }
+    72%, 74% { opacity: 0.4; text-shadow: 0 0 1rem #00f0ff; }
+
+    /* 4. Turn OFF (7.5s to 8.5s) */
+    75%, 85% { 
+        opacity: 0.1; 
+        text-shadow: none; 
+    }
+
+    /* 5. Kick back ON (8.7s) */
+    87% { 
+        opacity: 1; 
+        text-shadow: 0 0 5rem #00eeff; 
+    }
+
+    /* 6. Back to normal for the loop restart */
+    95%, 100% { 
+        opacity: 1; 
+        text-shadow: 0 0 2rem #00f0ff; 
+    }
+}
+
+@keyframes ambient-glow {
+    0%, 70% { filter: drop-shadow(0 0 1.5rem rgba(0, 240, 255, 0.4)); }
+    
+    /* Dims slightly when GHOST is off */
+    75%, 86% { filter: drop-shadow(0 0 0.5rem rgba(0, 240, 255, 0.2)); }
+
+    /* 87%: SURGE GLOW */
+    87% { filter: drop-shadow(0 0 6rem rgb(0, 247, 255)); }
+
+    100% { filter: drop-shadow(0 0 1.5rem rgba(0, 240, 255, 0.4)); }
+}
+
+/* Styling the H2 Subtitle in the Hero */
+.md-hero h2 {
+    font-family: 'Roboto Mono', 'Courier New', monospace;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #d9fdff;
+    background: rgba(0, 240, 255, 0.05); /* Subtle background tint */
+    display: inline-block;
+    padding: 0.4rem 1.2rem;
+    margin-top: 1.5rem;
+    font-weight: bold;
+    /* This creates the pink border */
+    border-left: 3px solid #ff0077;
+    /* Soft glow for the cyan text */
+    text-shadow: 0 0 8px rgba(0, 240, 255, 0.3);
+}
+
+/* This container holds the image at the top of the page */
+.index-hero-char, .index-hero-gear, .index-hero-skills, .index-hero-keywords, .index-hero-play {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    position: relative;
+    overflow: hidden;
+    background-color: #1B1B1B; /* Dirty Brown */
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 92% 100%, 0 100%); /* 45-degree bottom-right */
+    margin-bottom: 2rem;
+}
+
+.index-hero-gear img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Stretches small images to fill without distortion */
+    object-position: 50% 71%;
+    mask-image: linear-gradient(to bottom, #1B1B1B 60%, transparent 100%); /* Dirty Brown Gradient */
+}
+
+.index-hero-char img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Stretches small images to fill without distortion */
+    object-position: 50% 65%;
+    mask-image: linear-gradient(to bottom, #1B1B1B 60%, transparent 100%); /* Dirty Brown Gradient */
+}
+
+.index-hero-skills img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Stretches small images to fill without distortion */
+    object-position: top;
+    mask-image: linear-gradient(to bottom, #1B1B1B 60%, transparent 100%); /* Dirty Brown Gradient */
+}
+
+.index-hero-keywords img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Stretches small images to fill without distortion */
+    object-position: top;
+    mask-image: linear-gradient(to bottom, #1B1B1B 60%, transparent 100%); /* Dirty Brown Gradient */
+}
+
+.index-hero-play img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Stretches small images to fill without distortion */
+    object-position: top;
+    mask-image: linear-gradient(to bottom, #1B1B1B 60%, transparent 100%); /* Dirty Brown Gradient */
+}
+
+.index-hero-char > .index-hero-title, .index-hero-gear > .index-hero-title, .index-hero-skills > .index-hero-title, .index-hero-keywords > .index-hero-title, .index-hero-play > .index-hero-title   {
+    position: absolute; /* Floating over the image */
+    bottom: 5%;        /* Position it near the bottom */
+    left: 2rem;         /* Align to the left */
+    margin: 0;
+    color: #d9fdff !important;
+    font-family: 'Roboto Mono', 'Courier New', monospace;
+    font-size: 2.5rem !important;
+    text-transform: uppercase;
+    text-shadow: 0 0 15px rgba(0, 240, 255, 0.8), 2px 2px 2px #000;
+    z-index: 10;        /* Ensure it's on the very top layer */
+    border: none !important; /* Removes the default Material theme underline */
+}
+
+/* Container to push button to the bottom right */
+.next-step-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+
+/* Button Styling */
+.gbutton {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 0.8rem 2rem;
+    background: rgba(0, 240, 255, 0.05);
+    border-right: 4px solid #ff0077; 
+    color: #d9fdff !important;
+    text-decoration: none !important;
+    transition: all 0.3s ease;
+    /* Angular cut on the top-left corner */
+    clip-path: polygon(15% 0, 100% 0, 100% 100%, 0 100%, 0 45%);
+}
+
+.button:hover {
+    background: rgba(0, 240, 255, 0.15);
+    transform: translateX(5px); /* Moves slightly right on hover */
+    box-shadow: -10px 0 20px rgba(0, 240, 255, 0.1);
+}
+
+.button-label {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    opacity: 0.6;
+    margin-bottom: 4px;
+}
+
+.button-title {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 0 0 10px rgba(0, 240, 255, 0.5);
+}
+
+/* Style Callout Box */
+.md-typeset .admonition.note, 
+.md-typeset details.note {
+    border-left: 4px solid #00f0ff; /* Cyan */
+    border-right: 1px solid #00f0ff;
+    border-top: 1px solid #00f0ff;
+    border-bottom: 1px solid #00f0ff;
+    background-color: rgba(0, 240, 255, 0.05); /* Cyan tint */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Style the Callout Title */
+.admonition-title {
+    background-color: rgba(0, 240, 255, 0.1) !important;
+    color: #d9fdff !important;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* Style the Callout Icon */
+.admonition-title::before {
+    background-color: #d9fdff !important;
+}
+
+/* Stylethe Callout text */
+.admonition.note p {
+    font-size: 0.60rem;
+    font-family: 'Roboto Mono', monospace;
+    color: #d9fdff;
+}
