@@ -11,7 +11,7 @@ To create a character in ***GHOSTBURN***, follow the steps below.
 | [[Characters/Char_CC3_Contacts\|3. Choose a Contact]]                  | Who do you still know from your old life?            |
 | [[Characters/Char_CC4_Ability_Scores\|4. Buy Ability Scores]]          | What are your natural abilities?                     |
 | [[Characters/Char_CC5_Additional_Skills\|5. Distribute Skill Bonuses]] | What are your skills?                                |
-| [[Characters/Char_CC6_Starting_Resources\|6. Starting Resources]]      | What gear and augments do you have?                  |
+| [[Characters/Char_CC6_Starting_Package\|6. Starting Package]]          | What gear and augments do you have?                  |
 | [[Characters/Char_CC7_Finishing_Touches\|7. Finishing Touches]]        | What is your name?                                   |
 
 

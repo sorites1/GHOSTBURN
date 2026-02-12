@@ -182,25 +182,41 @@ nav:
       - NanoWeave Armor: Gear/Armor_NanoWeave_Armor.md
       - Reinforced Leather: Gear/Armor_Reinforced_Leather.md
       - Soft Armor: Gear/Armor_Soft_Armor.md
-    - ⚏ Cyber Rigs:
-      - Hand-Built Cyber Rig: Gear/Gear_Cyber_Rig_Hand_Built.md
-      - Komodo Ripsaw: Gear/Gear_Cyber_Rig_Komodo_Ripsaw.md 
     - ⚏ Control Decks:
       - Hand-Built Control Deck: Gear/Gear_Control_Deck_Hand_Built.md
       - Yoshioka Mach-7: Gear/Gear_Control_Deck_Yoshioka_Mach_7.md
       - Yoshioka Mach-9: Gear/Gear_Control_Deck_Yoshioka_Mach_9.md
       - Yoshkoka Night Runner: Gear/Gear_Control_Deck_Yoshioka_Night_Runner.md
-    - ⚏ Lifestyle:
+    - ⚏ Cyber Rigs:
+      - Hand-Built Cyber Rig: Gear/Gear_Cyber_Rig_Hand_Built.md
+      - Komodo Ripsaw: Gear/Gear_Cyber_Rig_Komodo_Ripsaw.md 
+    - ⚏ Drones:
+      - Gauss Firefly: Gear/Drone_Gauss_Firefly.md
+      - Gauss Hornet: Gear/Drone_Gauss_Hornet.md
+    - ⚏ Equipment:
       - Doc-in-a-Box: Gear/Gear_Doc_in_a_Box.md
       - Wardrobe, Basic: Gear/Gear_Wardrobe_Basic.md
       - Wardrobe, High End: Gear/Gear_Wardrobe_High_End.md
+    - ⚏ Lifestyles:
+      - Lifestyles Overview: Gear/Lifestyles.md
+      - Parking Space: Gear/Lifestyle_Parking_Space.md
+      - Street Lifestyle: Gear/Lifestyle_Street.md
+      - Low Lifestyle: Gear/Lifestyle_Low.md
+      - Middle Lifestyle: Gear/Lifestyle_Middle.md
+      - High Lifestyle: Gear/Lifestyle_High.md
+      - Luxury Lifestyle: Gear/Lifestyle_Luxury.md
+      - Elite Lifestyle: Gear/Lifestyle_Elite.md
     - ⚏ Vehicles:
       - Fiesta Fortuna: Gear/Vehicle_Fiesta_Fortuna.md
       - Fiesta Lento: Gear/Vehicle_Fiesta_Lento.md
       - Fiesta Lobo: Gear/Vehicle_Fiesta_Lobo.md
       - Kangjun Cyclone: Gear/Vehicle_Kangjun_Cyclone.md
+      - Pellegrini Andare: Gear/Vehicle_Pellegrini_Andare.md
       - Pellegrini Baleno: Gear/Vehicle_Pellegrini_Baleno.md
       - Pellegrini Carino: Gear/Vehicle_Pellegrini_Carino.md
+      - Wolff Horizon: Gear/Vehicle_Wolff_Horizon.md
+      - Wolff Runner: Gear/Vehicle_Wolff_Runner.md
+      - Wolff Sabaton: Gear/Vehicle_Wolff_Sabaton.md
       - Wolff Trak: Gear/Vehicle_Wolff_Trak.md
       - Yoshioka Shadow: Gear/Vehicle_Yoshioka_Shadow.md
   - ⚏ Augments:
@@ -233,6 +249,7 @@ nav:
       - VPR Blade: Cybernetic_Augmentations/Aug_VPR_Blade.md      
     - ⚏ Utility Augs:
       - Comms: Cybernetic_Augmentations/Aug_Comms.md
+      - Control Port: Cybernetic_Augmentations/Aug_Control_Port.md
       - Darkline Node: Cybernetic_Augmentations/Aug_Darkline_Node.md
       - Datajack: Cybernetic_Augmentations/Aug_Datajack.md
       - Datavault: Cybernetic_Augmentations/Aug_Datavault.md
@@ -281,7 +298,7 @@ nav:
   - ⚏ Melee Weapons:
     - Melee Weapons: Melee_Weapons/index.md
     - ⚏ Blunt:
-      - Sledgehammer: Melee_Weapons/Melee_Sledge_Hammer.md
+      - Sledgehammer: Melee_Weapons/Melee_Sledgehammer.md
       - Stun Baton: Melee_Weapons/Melee_Stun_Baton.md    
     - ⚏ Short Blades:
       - Butterfly Knife: Melee_Weapons/Melee_Butterfly_Knife.md
@@ -386,6 +403,7 @@ nav:
       - Condition: Keywords/Keyword_Condition.md
       - Contact: Keywords/Keyword_Contact.md
       - Control Deck: Keywords/Keyword_Control_Deck.md
+      - Control Helmet: Keywords/Keyword_Control_Helmet.md
       - Core Trick: Keywords/Keyword_Core_Trick.md
       - Counterattack: Keywords/Keyword_Counterattack.md
       - Crashes: Keywords/Keyword_Crashes.md

@@ -21,4 +21,4 @@ The chart below includes a list of skills, along with each skill's associated ab
 | Persuade   | Presence     | You know how to persuade others          |
 | Stealth    | Agility      | You know how to be sneaky                |
 
-<div class="next-step-container"> <a href="../Char_CC6_Starting_Resources/" class="button"> <span class="button-label">Next:</span> <span class="button-title">6. Starting Resources ❯</span> </a> </div>
+<div class="next-step-container"> <a href="../Char_CC6_Starting_Package/" class="button"> <span class="button-label">Next:</span> <span class="button-title">6. Starting Package ❯</span> </a> </div>
