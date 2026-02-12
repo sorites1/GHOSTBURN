@@ -523,7 +523,7 @@ body, .md-container, .md-main {
 /* Even Smaller screens */
 @media screen and (max-width: 375px) {
     .md-hero .text {
-        font-size: 1.7rem; 
+        font-size: 1.6rem; 
         letter-spacing: -0.05em;
     }
     
