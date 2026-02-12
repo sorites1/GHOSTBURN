@@ -527,6 +527,25 @@ body, .md-container, .md-main {
     }
 }
 
+/* Smallest phones */
+@media screen and (max-width: 360px) {
+    .md-hero .text {
+        font-size: 1.6rem; /* Further reduction */
+        letter-spacing: -0.08em;
+    }
+    
+    .md-hero h1 {
+        font-size: 1.25rem;
+        letter-spacing: 1.5px;
+    }
+    
+    .md-hero h2 {
+        font-size: 0.7rem;
+        letter-spacing: 0.8px;
+        padding: 0.2rem 0.6rem;
+    }
+}
+
 /* ==========================================
    FIX 2: Responsive Tables
    ========================================== */
