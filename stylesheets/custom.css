@@ -475,43 +475,55 @@ body, .md-container, .md-main {
     color: #d9fdff;
 }
 
-/* ========================================
-   MOBILE RESPONSIVE FIXES FOR GHOSTBURN
-   ======================================== */
 
-/* ==========================================
-   FIX 1: Responsive Hero Title (GHOSTBURN)
-   ========================================== */
-
-/* Use media queries to scale down the neon title on smaller screens */
+/* Big Mobile screens */
 @media screen and (max-width: 768px) {
     .md-hero .text {
-        font-size: 2.5rem; /* Down from 5rem */
-        letter-spacing: -0.1em; /* Slightly tighter */
+        font-size: 2.5rem;
+        letter-spacing: -0.1em; 
     }
     
     .md-hero h1 {
-        font-size: 2rem; /* Down from 3rem */
-        letter-spacing: 3px; /* Down from 6px */
+        font-size: 2rem; 
+        letter-spacing: 3px; 
     }
     
     .md-hero {
-        min-height: 60vh; /* Down from 80vh */
-        padding: 4rem 1rem; /* Add horizontal padding, reduce vertical */
+        min-height: 60vh; 
+        padding: 4rem 1rem; 
     }
     
     .md-hero h2 {
-        font-size: 0.9rem; /* Down from 1.1rem */
-        letter-spacing: 2px; /* Down from 4px */
-        padding: 0.3rem 0.8rem; /* Smaller padding */
+        font-size: 0.9rem;
+        letter-spacing: 2px; 
+        padding: 0.3rem 0.8rem; 
         margin-top: 1rem;
     }
 }
 
-/* Even smaller phones */
+/* Smaller screens */
 @media screen and (max-width: 480px) {
     .md-hero .text {
-        font-size: 1.8rem; /* Further reduction */
+        font-size: 1.8rem; 
+        letter-spacing: -0.05em;
+    }
+    
+    .md-hero h1 {
+        font-size: 1.5rem;
+        letter-spacing: 2px;
+    }
+    
+    .md-hero h2 {
+        font-size: 0.75rem;
+        letter-spacing: 1px;
+        padding: 0.2rem 0.6rem;
+    }
+}
+
+/* Even Smaller screens */
+@media screen and (max-width: 375px) {
+    .md-hero .text {
+        font-size: 1.7rem; 
         letter-spacing: -0.05em;
     }
     
