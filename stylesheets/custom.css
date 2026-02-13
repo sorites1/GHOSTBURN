@@ -489,7 +489,7 @@ body, .md-container, .md-main {
     }
     
     .md-hero {
-        min-height: 60vh; 
+        min-height: 100vh; 
         padding: 4rem 1rem; 
     }
     
