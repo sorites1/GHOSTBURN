@@ -4,12 +4,12 @@
 
 |   Cost   | Augment   | Mesh Cost | Keywords                                                                                                                      |
 | :------: | --------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------- |
-| 40,000 ⌆ | TGR Claws |     4     | [[Aug Blade](/../Keywords/Keyword_Aug_Blade)], [[Mod](/../Keywords/Keyword_Mod)], [[One Hand](/../Keywords/Keyword_One_Hand)] |
+| 40,000 ⌆ | TGR Claws |     4     | [[Aug Blade](../Keywords/Keyword_Aug_Blade\.md)], [[Mod](../Keywords/Keyword_Mod\.md)], [[One Hand](../Keywords/Keyword_One_Hand\.md)] |
 
-TGR Claws have a Base Value of 4 for its Melee [Damage Array](/../Gear_and_Augments/GaA_Damage_Array). 
+TGR Claws have a Base Value of 4 for its Melee [Damage Array](../Gear_and_Augments/GaA_Damage_Array.md). 
 
 You can extend and retract TGR Claws for free (0 AP).
 
-TGR Claws are [[Incompatible](/../Keywords/Keyword_Incompatible)] with [VPR Blade](/../Cybernetic_Augmentations/Aug_VPR_Blade) and [FNGR Razors](/../Aug_FNGR_Razors) in the same arm. 
+TGR Claws are [[Incompatible](../Keywords/Keyword_Incompatible.md)] with [VPR Blade](../Cybernetic_Augmentations/Aug_VPR_Blade.md) and [FNGR Razors](../Aug_FNGR_Razors.md) in the same arm. 
 
-TGR Claws can be installed as a [[Mod](/../Keywords/Keyword_Mod)] in the [Cybernetic Arm](/../Cybernetic_Augmentations/Aug_Cybernetic_Arm) augment.
+TGR Claws can be installed as a [[Mod](../Keywords/Keyword_Mod.md)] in the [Cybernetic Arm](../Cybernetic_Augmentations/Aug_Cybernetic_Arm.md) augment.

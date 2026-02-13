@@ -4,7 +4,7 @@ Non-Player Characters, or NPCs, are managed by the GM. They are contacts, enemie
 
 ## NPC Traits
 
-NPCs have three traits: [[Wits](/../Keywords/Keyword_Wits)], [[Fort](/../Keywords/Keyword_Fort)], and [[Threat](/../Keywords/Keyword_Threat)]. 
+NPCs have three traits: [[Wits](../Keywords/Keyword_Wits.md)], [[Fort](../Keywords/Keyword_Fort.md)], and [[Threat](../Keywords/Keyword_Threat.md)]. 
 
 ### Wits and Fort
 
@@ -12,7 +12,7 @@ NPCs have three traits: [[Wits](/../Keywords/Keyword_Wits)], [[Fort](/../Keyword
 
 \[Fort\], short for Fortitude, represents the NPC's willpower, grit, and determination. When a player uses a trick to intimidate an NPC, they roll against the NPC's \[Fort\].
 
-\[Wits\] and \[Fort\] are each expressed as a [[Difficulty Level](/../PtG_Difficulty_Level)] based on how hard or easy it is to manipulate or intimidate the NPC. For example, a snooty *maître d'* who notices everything but who is also a coward might have a \[Wits\] of Hard (20) and a \[Fort\] of Easy (8).
+\[Wits\] and \[Fort\] are each expressed as a [[Difficulty Level](../PtG_Difficulty_Level.md)] based on how hard or easy it is to manipulate or intimidate the NPC. For example, a snooty *maître d'* who notices everything but who is also a coward might have a \[Wits\] of Hard (20) and a \[Fort\] of Easy (8).
 
 ### Threat
 
@@ -20,7 +20,7 @@ NPCs have three traits: [[Wits](/../Keywords/Keyword_Wits)], [[Fort](/../Keyword
 
 \[Threat\] is expressed as a bonus of between +1 and +20. When the GM rolls for the NPC, they add \[Threat\] to get the result. \[Threat\] is used for all NPC rolls. 
 
-The GM can assign a \[Threat\] based on the table below, or they use the rules for [Calculating Threat](/../GM_Calculating_Threat) to derive a bonus from the NPC's \[Wits\] and \[Fort\].
+The GM can assign a \[Threat\] based on the table below, or they use the rules for [Calculating Threat](../GM_Calculating_Threat.md) to derive a bonus from the NPC's \[Wits\] and \[Fort\].
 
 | NPC Tier         | Threat Range   | Examples                                                      |
 | ---------------- | -------------- | ------------------------------------------------------------- |

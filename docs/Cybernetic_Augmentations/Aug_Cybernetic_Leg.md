@@ -19,7 +19,7 @@ You can install a Concealed Holster Mod in a free Mod Slot in a Cybernetic Leg, 
 
 |  Cost   | Mod               | Keywords                                                                             |
 | :-----: | ----------------- | ------------------------------------------------------------------------------------ |
-| 5,000 ⌆ | Concealed Holster | [[Concealable](/../Keywords/Keyword_Concealable)], [[Mod](/../Keywords/Keyword_Mod)] |
+| 5,000 ⌆ | Concealed Holster | [[Concealable](../Keywords/Keyword_Concealable\.md)], [[Mod](../Keywords/Keyword_Mod\.md)] |
 
 You may store a Light Pistol or Heavy Pistol in a Concealed Holster. 
 
@@ -27,25 +27,25 @@ Activating Concealed Holster is free (0 AP). Activation causes a panel in your l
 
 ## Speed Mod
 
-You can install the Speed Mod in a free Mod Slot in a Cybernetic Leg, as shown below. You may only install this \[Mod\] once. If you have one Cybernetic Leg, you must activate Speed Mod to use it. Activating Speed Mod costs 1 AP and causes you to gain [[Fast](/../Keywords/Keyword_Fast)] for the remainder of the scene. If you have two Cybernetic Legs, then this \[Mod\] is always active and you permanently gain [[Fast](/../Keywords/Keyword_Fast)].
+You can install the Speed Mod in a free Mod Slot in a Cybernetic Leg, as shown below. You may only install this \[Mod\] once. If you have one Cybernetic Leg, you must activate Speed Mod to use it. Activating Speed Mod costs 1 AP and causes you to gain [[Fast](../Keywords/Keyword_Fast.md)] for the remainder of the scene. If you have two Cybernetic Legs, then this \[Mod\] is always active and you permanently gain [[Fast](../Keywords/Keyword_Fast.md)].
 
 |   Cost   | Mod       | Keywords                          |
 | :------: | --------- | --------------------------------- |
-| 30,000 ⌆ | Speed Mod | [[Mod](/../Keywords/Keyword_Mod)] |
+| 30,000 ⌆ | Speed Mod | [[Mod](../Keywords/Keyword_Mod\.md)] |
 
 ## Hydraulic Mod
 
-You can install the Hydraulic Mod in a free Mod Slot in a Cybernetic Leg, as shown below. When you [[Move](/../Keywords/Keyword_Move)], you may spend an additional 1 AP to jump to a spot \[Nearby\] instead of moving normally and without the need for an [Athletic Move](/../Skills_and_Tricks/Trick_Athletics_Core_Athletic_Move) roll.
+You can install the Hydraulic Mod in a free Mod Slot in a Cybernetic Leg, as shown below. When you [[Move](../Keywords/Keyword_Move.md)], you may spend an additional 1 AP to jump to a spot \[Nearby\] instead of moving normally and without the need for an [Athletic Move](../Skills_and_Tricks/Trick_Athletics_Core_Athletic_Move.md) roll.
 
 |   Cost   | Mod           | Keywords                          |
 | :------: | ------------- | --------------------------------- |
-| 20,000 ⌆ | Hydraulic Mod | [[Mod](/../Keywords/Keyword_Mod)] |
+| 20,000 ⌆ | Hydraulic Mod | [[Mod](../Keywords/Keyword_Mod\.md)] |
 
 ## Balance Mod
 
-You can install the Balance Mod in a free Mod Slot in a Cybernetic Leg, as shown below. You are steady on your feet. You gain [[Perfect Balance](/../Keywords/Keyword_Perfect_Balance)].
+You can install the Balance Mod in a free Mod Slot in a Cybernetic Leg, as shown below. You are steady on your feet. You gain [[Perfect Balance](../Keywords/Keyword_Perfect_Balance.md)].
 
 |   Cost   | Mod         | Keywords                          |
 | :------: | ----------- | --------------------------------- |
-| 10,000 ⌆ | Balance Mod | [[Mod](/../Keywords/Keyword_Mod)] |
+| 10,000 ⌆ | Balance Mod | [[Mod](../Keywords/Keyword_Mod\.md)] |
 

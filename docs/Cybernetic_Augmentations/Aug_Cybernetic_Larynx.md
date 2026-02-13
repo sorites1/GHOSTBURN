@@ -11,4 +11,4 @@ Cybernetic Larynx (Base) is a replacement only. It performs all the functions of
 
 ## Augment Mods
 
-The following augments have the [[Mod](/../Keywords/Keyword_Mod)] keyword and can be installed in a Cybernetic Larynx with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [Voice Box](/../Cybernetic_Augmentations/Aug_Voice_Box)
+The following augments have the [[Mod](../Keywords/Keyword_Mod.md)] keyword and can be installed in a Cybernetic Larynx with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [Voice Box](../Cybernetic_Augmentations/Aug_Voice_Box.md)

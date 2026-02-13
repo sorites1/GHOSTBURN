@@ -1,5 +1,6 @@
 site_name: GHOSTBURN
 site_description: GHOSTBURN System Reference Document 1.0
+site_url: https://sorites1.github.io/GHOSTBURN/
 site_author: sorites
 docs_dir: docs/
 theme:
@@ -431,6 +432,7 @@ nav:
       - Heavy Pistol: Keywords/Keyword_Heavy_Pistol.md
       - High Speed: Keywords/Keyword_High_Speed.md
       - Hostile: Keywords/Keyword_Hostile.md
+      - Incompatible: Keywords/Keyword_Incompatible.md
       - Improvised Trick: Keywords/Keyword_Improvised_Trick.md
       - Language: Keywords/Keyword_Language.md
       - Light Arms: Keywords/Keyword_Light_Arms.md

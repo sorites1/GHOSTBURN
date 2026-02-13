@@ -13,12 +13,12 @@ Cybernetic Spine (Base) is a replacement only. It performs all the functions of 
 
 ## Augment Mods
 
-The following augments have the [[Mod](/../Keywords/Keyword_Mod)] keyword and can be installed in a Cybernetic Spine with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [Glide-By-Wire Reflexes](/../Cybernetic_Augmentations/Aug_Glide_By_Wire_Reflexes) and [Skillset](/../Cybernetic_Augmentations/Aug_Skillset)
+The following augments have the [[Mod](../Keywords/Keyword_Mod.md)] keyword and can be installed in a Cybernetic Spine with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [Glide-By-Wire Reflexes](../Cybernetic_Augmentations/Aug_Glide_By_Wire_Reflexes.md) and [Skillset](../Cybernetic_Augmentations/Aug_Skillset.md)
 
 ## Balance Mod
 
-You can also install a Balance Mod in a free Mod Slot in a Cybernetic Spine to gain [[Perfect Balance](/../Keywords/Keyword_Perfect_Balance)], as shown below. You may only install this \[Mod\] once. 
+You can also install a Balance Mod in a free Mod Slot in a Cybernetic Spine to gain [[Perfect Balance](../Keywords/Keyword_Perfect_Balance.md)], as shown below. You may only install this \[Mod\] once. 
 
 |   Cost   | Mod         | Keywords                                                                                     |
 | :------: | ----------- | -------------------------------------------------------------------------------------------- |
-| 25,000 ⌆ | Balance Mod | [[Mod](/../Keywords/Keyword_Mod)], [[Perfect Balance](/../Keywords/Keyword_Perfect_Balance)] |
+| 25,000 ⌆ | Balance Mod | [[Mod](../Keywords/Keyword_Mod\.md)], [[Perfect Balance](../Keywords/Keyword_Perfect_Balance\.md)] |

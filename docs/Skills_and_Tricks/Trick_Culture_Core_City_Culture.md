@@ -2,7 +2,7 @@
 
 | Difficulty Level (DL) | Skill   | Keywords        |
 | --------------------- | ------- | --------------- |
-| Moderate (14)         | Culture | [[Concentrate](/../Keywords/Keyword_Concentrate)] |
+| Moderate (14)         | Culture | [[Concentrate](../Keywords/Keyword_Concentrate\.md)] |
 
 *You know this city like the back of your hand.* 
 
@@ -10,7 +10,7 @@ When you use City Culture, you ask the GM a question related to the city you're 
 
 | Outcome      | Description                                                                                |
 | ------------ | ------------------------------------------------------------------------------------------ |
-| Cool Success | The GM answers the question and you gain a [[Secret](/../Keywords/Keyword_Secret)]         |
+| Cool Success | The GM answers the question and you gain a [[Secret](../Keywords/Keyword_Secret\.md)]         |
 | Success      | The GM answers the question                                                                |
-| Fade         | The GM answers the question and you gain a [[Bad Memory](/../Keywords/Keyword_Bad_Memory)] |
+| Fade         | The GM answers the question and you gain a [[Bad Memory](../Keywords/Keyword_Bad_Memory\.md)] |
 | Glitch       | You don't know and you gain a \[Bad Memory\]                                               |

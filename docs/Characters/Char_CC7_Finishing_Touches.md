@@ -4,7 +4,7 @@ There are a few last things you need to do to finish creating your character.
 
 ## Luck Points 
 
-You start the game with one [Luck Point](/../Playing_the_Game/PtG_Luck_Points). Write a 1 in the space labeled Luck Points on your character sheet. Later in the game, once you've earned XP, you can purchase up to two more Luck Points, for a maximum of three.
+You start the game with one [Luck Point](../Playing_the_Game/PtG_Luck_Points.md). Write a 1 in the space labeled Luck Points on your character sheet. Later in the game, once you've earned XP, you can purchase up to two more Luck Points, for a maximum of three.
 
 ## Derived Characteristics
 

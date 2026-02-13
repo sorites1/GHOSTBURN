@@ -24,15 +24,15 @@ The level above Extreme (32) is considered impossible. If the DL is Extreme (32)
 
 ### Conditions
 
-Conditions like [[Wounded](/../Conditions/Condition_Wounded)], [[Distracted](/../Conditions/Condition_Distracted)], and [[Inspired](/../Conditions/Condition_Inspired)] raise or lower the DL on rolls you make. Conditions are described in their own section later in this book. If a character is under the effects of multiple conditions that alter the DL, they all apply.
+Conditions like [[Wounded](../Conditions/Condition_Wounded.md)], [[Distracted](../Conditions/Condition_Distracted.md)], and [[Inspired](../Conditions/Condition_Inspired.md)] raise or lower the DL on rolls you make. Conditions are described in their own section later in this book. If a character is under the effects of multiple conditions that alter the DL, they all apply.
 
 #### Environmental Effects
 
-When the environment could negatively influence the outcome of a roll, refer to the appropriate conditions in these rules. Some tricks are more difficult to pull off successfully when it is [[Raining](/../Conditions/Condition_Raining)], [[Foggy](/../Conditions/Condition_Foggy)], [[Windy](/../Conditions/Condition_Windy)] or [[Dark](/../Conditions/Condition_Dark)]. To keep things quick, the GM can eschew these specific conditions and decide to simply raise the DL by one anytime there are one or more environmental effects that make a trick more difficult.
+When the environment could negatively influence the outcome of a roll, refer to the appropriate conditions in these rules. Some tricks are more difficult to pull off successfully when it is [[Raining](../Conditions/Condition_Raining.md)], [[Foggy](../Conditions/Condition_Foggy.md)], [[Windy](../Conditions/Condition_Windy.md)] or [[Dark](../Conditions/Condition_Dark.md)]. To keep things quick, the GM can eschew these specific conditions and decide to simply raise the DL by one anytime there are one or more environmental effects that make a trick more difficult.
 
 ### Attitude
 
-When you use a [[Social](/../Keywords/Keyword_Social)] trick on an NPC, their [[Attitude](/../Keywords/Keyword_Attitude)] towards you can raise or lower the DL.
+When you use a [[Social](../Keywords/Keyword_Social.md)] trick on an NPC, their [[Attitude](../Keywords/Keyword_Attitude.md)] towards you can raise or lower the DL.
 
 | Attitude | Effect                                         |
 | -------- | ---------------------------------------------- |

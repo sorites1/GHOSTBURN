@@ -4,8 +4,8 @@
 
 |   Cost   | Augment        | Mesh Cost | Keywords                                                                                                                      |
 | :------: | -------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------- |
-| 40,000 ⌆ | Spider Fingers |     2     | [[Mod](/../Keywords/Keyword_Mod)], [[Physical](/../Keywords/Keyword_Physical)], [[Two Hands](/../Keywords/Keyword_Two_Hands)] |
+| 40,000 ⌆ | Spider Fingers |     2     | [[Mod](../Keywords/Keyword_Mod\.md)], [[Physical](../Keywords/Keyword_Physical\.md)], [[Two Hands](../Keywords/Keyword_Two_Hands\.md)] |
 
-When you make a Hacking roll using your [[Cyber Rig](/../Keywords/Keyword_Cyber_Rig)], lower the DL by one.
+When you make a Hacking roll using your [[Cyber Rig](../Keywords/Keyword_Cyber_Rig.md)], lower the DL by one.
 
-Spider Fingers can be installed as a [[Mod](/../Keywords/Keyword_Mod)] in the [Cybernetic Arm](/../Cybernetic_Augmentations/Aug_Cybernetic_Arm) or [Cybernetic Hand](/../Aug_Cybernetic_Hand) augments.
+Spider Fingers can be installed as a [[Mod](../Keywords/Keyword_Mod.md)] in the [Cybernetic Arm](../Cybernetic_Augmentations/Aug_Cybernetic_Arm.md) or [Cybernetic Hand](../Aug_Cybernetic_Hand.md) augments.

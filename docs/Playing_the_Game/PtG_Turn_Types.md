@@ -4,13 +4,13 @@ There are four types of turns in this game: **out-of-combat turns**, **combat tu
 
 ### Out-of-Combat Turns
 
-During an out-of-combat turn, you might tell the GM your character wants to sneak into the warehouse you learned about from your contact. The GM sets the scene, and you describe what your character is doing. You decide to hop the fence, and the GM calls for an [Athletic Move](/../Skills_and_Tricks/Trick_Athletics_Core_Athletic_Move) roll (1 AP). As you cautiously approach the warehouse, the GM calls for a [Sneak](/../Skills_and_Tricks/Trick_Stealth_Core_Sneak) roll (1 AP) to avoid being noticed by the patrolling guards. Last, you use [Disable Device](/../Skills_and_Tricks/Trick_Hacking_Core_Disable_Device) (1 AP) to override the electronic lock on the door. Those three actions used your 3 AP. If you want to go inside and explore further, you'll have to wait until your next turn. 
+During an out-of-combat turn, you might tell the GM your character wants to sneak into the warehouse you learned about from your contact. The GM sets the scene, and you describe what your character is doing. You decide to hop the fence, and the GM calls for an [Athletic Move](../Skills_and_Tricks/Trick_Athletics_Core_Athletic_Move.md) roll (1 AP). As you cautiously approach the warehouse, the GM calls for a [Sneak](../Skills_and_Tricks/Trick_Stealth_Core_Sneak.md) roll (1 AP) to avoid being noticed by the patrolling guards. Last, you use [Disable Device](../Skills_and_Tricks/Trick_Hacking_Core_Disable_Device.md) (1 AP) to override the electronic lock on the door. Those three actions used your 3 AP. If you want to go inside and explore further, you'll have to wait until your next turn. 
 
-The GM is not required to call for any rolls during your turn, and it's important to remember [When to Roll](/../PtG_When_to_Roll). Out-of-combat turns can feel less structured than combat turns and rely on both the GM and player to regulate the amount of time spent.
+The GM is not required to call for any rolls during your turn, and it's important to remember [When to Roll](../PtG_When_to_Roll.md). Out-of-combat turns can feel less structured than combat turns and rely on both the GM and player to regulate the amount of time spent.
 
 ### Combat Turns
 
-During a combat turn, the types of actions may be different, but the process works the same way. If you [[Move](/../Keywords/Keyword_Move)] to an area [[Nearby](/../Keywords/Keyword_Nearby)] (1 AP), draw your weapon (1 AP), and use [Burst Fire](/../Skills_and_Tricks/Trick_Firearms_Core_Burst_Fire) to attack an enemy (1 AP), you have spent a total of 3 AP, and your turn ends. At the start of your next turn, your AP will refresh, and you can take three more actions.
+During a combat turn, the types of actions may be different, but the process works the same way. If you [[Move](../Keywords/Keyword_Move.md)] to an area [[Nearby](../Keywords/Keyword_Nearby.md)] (1 AP), draw your weapon (1 AP), and use [Burst Fire](../Skills_and_Tricks/Trick_Firearms_Core_Burst_Fire.md) to attack an enemy (1 AP), you have spent a total of 3 AP, and your turn ends. At the start of your next turn, your AP will refresh, and you can take three more actions.
 
 ### Group Turns
 

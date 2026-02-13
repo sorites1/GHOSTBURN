@@ -4,7 +4,7 @@
 
 |   Cost    | Augment               | Mesh Cost | Keywords                                    |
 | :-------: | --------------------- | :-------: | :------------------------------------------ |
-| 75,000 ⌆  | Faceshifter (Level 1) |     5     | [[Physical](/../Keywords/Keyword_Physical)] |
+| 75,000 ⌆  | Faceshifter (Level 1) |     5     | [[Physical](../Keywords/Keyword_Physical\.md)] |
 | 200,000 ⌆ | Faceshifter (Level 2) |     6     | \[Physical\]                                |
 | 500,000 ⌆ | Faceshifter (Level 3) |     7     | \[Physical\]                                |
 
@@ -12,4 +12,4 @@ When you use Faceshifter, spend 1 AP as you take a moment to examine a face you 
 
 While you are wearing a face, you may store it as your "default" in the Faceshifter augment. You may only store one face at a time, and if you store a new face, it overwrites the previous one. You can shift to and from your default face for free (0 AP), even if it's not your turn.
 
-An NPC who becomes [[Suspicious](/../Conditions/Condition_Suspicous)] of you makes a \[Basic\] Threat roll to recognize that your face is cybernetic. The DL for this roll is based on the augment's level. Faceshifter (Level 1): \[Suspicious\] NPCs roll Threat vs. Moderate (14), Faceshifter (Level 2): \[Suspicious\] NPCs roll Threat vs. Hard (20), and Faceshifter (Level 3). \[Suspicious\] NPCs roll Threat vs. Severe (26).
+An NPC who becomes [[Suspicious](../Conditions/Condition_Suspicous.md)] of you makes a \[Basic\] Threat roll to recognize that your face is cybernetic. The DL for this roll is based on the augment's level. Faceshifter (Level 1): \[Suspicious\] NPCs roll Threat vs. Moderate (14), Faceshifter (Level 2): \[Suspicious\] NPCs roll Threat vs. Hard (20), and Faceshifter (Level 3). \[Suspicious\] NPCs roll Threat vs. Severe (26).

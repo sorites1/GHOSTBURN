@@ -4,7 +4,7 @@ On your turn, you tell the GM what you want your character to do. You can also a
 
 ## Action Points
 
-At the start of your turn, you get 3 Action Points (AP), which you can spend to take actions, such to [Move](/../Keywords/Keyword_Move), or use a trick. On your turn, each action you take costs 1 AP. You cannot save AP turn over turn. If you decide to end your turn without spending all three AP, you lose the remainder (though they will refresh as normal at the start of your next turn).
+At the start of your turn, you get 3 Action Points (AP), which you can spend to take actions, such to [Move](../Keywords/Keyword_Move.md), or use a trick. On your turn, each action you take costs 1 AP. You cannot save AP turn over turn. If you decide to end your turn without spending all three AP, you lose the remainder (though they will refresh as normal at the start of your next turn).
 
 ## End of the Action
 

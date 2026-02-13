@@ -4,6 +4,6 @@
 
 |   Cost   | Augment    | Mesh Cost | Keywords                              |
 | :------: | ---------- | :-------: | :------------------------------------ |
-| 80,000 ⌆ | PheroSynth |     4     | [[Range](/../Keywords/Keyword_Range)] |
+| 80,000 ⌆ | PheroSynth |     4     | [[Range](../Keywords/Keyword_Range\.md)] |
 
-When you use a [[Social](/../Keywords/Keyword_Social)] trick on targets who are [[Close](/../Keywords/Keyword_Close)], lower the DL by one.
+When you use a [[Social](../Keywords/Keyword_Social.md)] trick on targets who are [[Close](../Keywords/Keyword_Close.md)], lower the DL by one.

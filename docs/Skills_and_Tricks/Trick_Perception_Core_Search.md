@@ -2,7 +2,7 @@
 
 | Difficulty Level (DL) | Skill      | Keywords                           |
 | --------------------- | ---------- | ---------------------------------- |
-| Hard (20)             | Perception | [[Move](/../Keywords/Keyword_Move)], [[Physical](/../Keywords/Keyword_Physical)], [[Visual](/../Keywords/Keyword_Visual)] |
+| Hard (20)             | Perception | [[Move](../Keywords/Keyword_Move\.md)], [[Physical](../Keywords/Keyword_Physical\.md)], [[Visual](../Keywords/Keyword_Visual\.md)] |
 
 *You move about and study your surroundings for hidden people or objects.* 
 
@@ -10,7 +10,7 @@ When you use Search, define the scope of your search to the GM, such as *I want 
 
 | Outcome      | Description                                                                                                  |
 | ------------ | ------------------------------------------------------------------------------------------------------------ |
-| Cool Success | The GM tells you what you find (if anything) and you learn a [[Secret](/../Keywords/Keyword_Secret)]         |
+| Cool Success | The GM tells you what you find (if anything) and you learn a [[Secret](../Keywords/Keyword_Secret\.md)]         |
 | Success      | The GM tells you what you find (if anything)                                                                 |
-| Fade         | The GM tells you what you find (if anything) and you are [[Distracted](/../Conditions/Condition_Distracted)] |
-| Glitch       | You find something unpleasant and you are [[Shaken](/../Conditions/Condition_Shaken)]                        |
+| Fade         | The GM tells you what you find (if anything) and you are [[Distracted](../Conditions/Condition_Distracted\.md)] |
+| Glitch       | You find something unpleasant and you are [[Shaken](../Conditions/Condition_Shaken\.md)]                        |

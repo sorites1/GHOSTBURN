@@ -2,11 +2,11 @@
 
 | Difficulty Level (DL) | Skill   | Keywords                    |
 | --------------------- | ------- | --------------------------- |
-| Moderate (14)         | Insight | [[Concentrate](/../Keywords/Keyword_Concentrate)], [[Visual](/../Keywords/Keyword_Visual)] |
+| Moderate (14)         | Insight | [[Concentrate](../Keywords/Keyword_Concentrate\.md)], [[Visual](../Keywords/Keyword_Visual\.md)] |
 
 *You perform a mental assessment of an opponent's combat prowess, taking into account all information you can see, such as their weapons, cyberware, armor, insignias or tattoos, and the way they carry themselves.* 
 
-To use Size Up Opponent on someone, they must be [[Close](/../Keywords/Keyword_Close)] or [[Nearby](/../Keywords/Keyword_Nearby)].
+To use Size Up Opponent on someone, they must be [[Close](../Keywords/Keyword_Close.md)] or [[Nearby](../Keywords/Keyword_Nearby.md)].
 
 | Outcome      | Description                                                 |
 | ------------ | ----------------------------------------------------------- |

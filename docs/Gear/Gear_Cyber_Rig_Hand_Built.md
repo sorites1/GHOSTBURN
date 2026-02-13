@@ -2,4 +2,4 @@
 
 |  Cost   | Gear                 | Keywords                                      |
 | :-----: | -------------------- | --------------------------------------------- |
-| 3,000 ⌆ | Hand-Built Cyber Rig | [[Cyber Rig](/../Keywords/Keyword_Cyber_Rig)] |
+| 3,000 ⌆ | Hand-Built Cyber Rig | [[Cyber Rig](../Keywords/Keyword_Cyber_Rig\.md)] |

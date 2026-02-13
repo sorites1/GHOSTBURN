@@ -2,7 +2,7 @@
 
 | Difficulty Level (DL) | Skill      | Keywords                                                            |
 | --------------------- | ---------- | ------------------------------------------------------------------- |
-| Hard (20)             | Perception | [[Auditory](/../Keywords/Keyword_Auditory)], [[Concentrate](/../Keywords/Keyword_Concentrate)], [Language](/../Keywords/Keyword_Language), \[Verbal\], [[Visual](/../Keywords/Keyword_Visual)] |
+| Hard (20)             | Perception | [[Auditory](../Keywords/Keyword_Auditory\.md)], [[Concentrate](../Keywords/Keyword_Concentrate\.md)], [Language](../Keywords/Keyword_Language\.md), \[Verbal\], [[Visual](../Keywords/Keyword_Visual\.md)] |
 
 *You survey the combat zone and relay relevant information to your crew, noting the positions and movements of friends, enemies, and civilians.* 
 
@@ -10,7 +10,7 @@ When you use Overwatch, pick one ally in the same battle as you. The ally must h
 
 | Outcome      | Description                                                                                                                                                       |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cool Success | Their next \[Attack\] is \[Upgraded\] and they gain 1 [[Temporary](/../Keywords/Keyword_Temporary)] [[Reaction](/../Keywords/Keyword_Reaction)]                   |
+| Cool Success | Their next \[Attack\] is \[Upgraded\] and they gain 1 [[Temporary](../Keywords/Keyword_Temporary\.md)] [[Reaction](../Keywords/Keyword_Reaction\.md)]                   |
 | Success      | Their next \[Attack\] is \[Upgraded\]                                                                                                                             |
-| Fade         | Their next [[Attack](/../Keywords/Keyword_Attack)] is [[Upgraded](/../Keywords/Keyword_Upgraded)] and you are [[Distracted](/../Conditions/Condition_Distracted)] |
-| Glitch       | They get no benefit and you are [[Confused](/../Conditions/Condition_Confused)]                                                                                   |
+| Fade         | Their next [[Attack](../Keywords/Keyword_Attack\.md)] is [[Upgraded](../Keywords/Keyword_Upgraded\.md)] and you are [[Distracted](../Conditions/Condition_Distracted\.md)] |
+| Glitch       | They get no benefit and you are [[Confused](../Conditions/Condition_Confused\.md)]                                                                                   |

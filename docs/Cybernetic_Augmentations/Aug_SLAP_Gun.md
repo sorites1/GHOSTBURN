@@ -4,10 +4,10 @@
 
 |   Cost   | Augment  | Mesh Cost | Keywords                                                                             |
 | :------: | -------- | :-------: | :----------------------------------------------------------------------------------- |
-| 20,000 ⌆ | SLAP Gun |     2     | [[Concealable](/../Keywords/Keyword_Concealable)], [[Mod](/../Keywords/Keyword_Mod)] |
+| 20,000 ⌆ | SLAP Gun |     2     | [[Concealable](../Keywords/Keyword_Concealable\.md)], [[Mod](../Keywords/Keyword_Mod\.md)] |
 
-Activating SLAP Gun is free (0 AP). Activation causes you to equip the [[Light Pistol](/../Keywords/Keyword_Light_Pistol)] hidden in your arm, and you may immediately use [Single Shot](/../Skills_and_Tricks/Trick_Firearms_Core_Single_Shot) or [Burst Fire](/../Skills_and_Tricks/Trick_Firearms_Core_Burst_Fire) at no additional AP cost. Stowing the weapon in its compartment costs 1 AP. 
+Activating SLAP Gun is free (0 AP). Activation causes you to equip the [[Light Pistol](../Keywords/Keyword_Light_Pistol.md)] hidden in your arm, and you may immediately use [Single Shot](../Skills_and_Tricks/Trick_Firearms_Core_Single_Shot.md) or [Burst Fire](../Skills_and_Tricks/Trick_Firearms_Core_Burst_Fire.md) at no additional AP cost. Stowing the weapon in its compartment costs 1 AP. 
 
-SLAP Gun comes preloaded with a [Ranco Ripper AP9](/../Firearms/Firearms_LP_Ranco_Ripper_AP9), but any \[Light Pistol\] (which may contain its own mods) can be mounted in its compartment. It costs 1 AP to mount or unmount a \[Light Pistol\], a task which can be performed anywhere and without the need for special tools. 
+SLAP Gun comes preloaded with a [Ranco Ripper AP9](../Firearms/Firearms_LP_Ranco_Ripper_AP9.md), but any \[Light Pistol\] (which may contain its own mods) can be mounted in its compartment. It costs 1 AP to mount or unmount a \[Light Pistol\], a task which can be performed anywhere and without the need for special tools. 
 
-SLAP Gun can be installed as a [[Mod](/../Keywords/Keyword_Mod)] in the [Cybernetic Arm](/../Cybernetic_Augmentations/Aug_Cybernetic_Arm) augment.
+SLAP Gun can be installed as a [[Mod](../Keywords/Keyword_Mod.md)] in the [Cybernetic Arm](../Cybernetic_Augmentations/Aug_Cybernetic_Arm.md) augment.

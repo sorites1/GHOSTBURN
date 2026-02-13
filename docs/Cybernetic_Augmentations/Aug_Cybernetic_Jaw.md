@@ -13,15 +13,15 @@ Cybernetic Jaw (Base) is a replacement only. It performs all the functions of a 
 
 ## Augment Mods
 
-The following augments have the [[Mod](/../Keywords/Keyword_Mod)] keyword and can be installed in a Cybernetic Jaw with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [Poison Reservoir](/../Cybernetic_Augmentations/Aug_Poison_Reservoir) 
+The following augments have the [[Mod](../Keywords/Keyword_Mod.md)] keyword and can be installed in a Cybernetic Jaw with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [Poison Reservoir](../Cybernetic_Augmentations/Aug_Poison_Reservoir.md) 
 
 ## Titanium Structure Mod
 
-You can install the Titanium Structure Mod in a free Mod Slot in Cybernetic Jaw. Titanium Structure is treated as [[Armor](/../Keywords/Keyword_Armor)] rated against [[Blunt Force](/../Keywords/Keyword_Blunt_Force)] damage dealt by [Unarmed Strike](/../Skills_and_Tricks/Trick_Brawl_Core_Unarmed_Strike).
+You can install the Titanium Structure Mod in a free Mod Slot in Cybernetic Jaw. Titanium Structure is treated as [[Armor](../Keywords/Keyword_Armor.md)] rated against [[Blunt Force](../Keywords/Keyword_Blunt_Force.md)] damage dealt by [Unarmed Strike](../Skills_and_Tricks/Trick_Brawl_Core_Unarmed_Strike.md).
 
 |   Cost   | Mod                | Keywords                                                                 |
 | :------: | ------------------ | ------------------------------------------------------------------------ |
-| 60,000 ⌆ | Titanium Structure | [[Armor](/../Keywords/Keyword_Armor)], [[Mod](/../Keywords/Keyword_Mod)] |
+| 60,000 ⌆ | Titanium Structure | [[Armor](../Keywords/Keyword_Armor\.md)], [[Mod](../Keywords/Keyword_Mod\.md)] |
 
 ## Presence Mod
 
@@ -29,6 +29,6 @@ You can install a Presence Mod in a free Mod Slot in Cybernetic Jaw to permanent
 
 |   Cost   | Mod               | Keywords                                                                               |
 | :------: | ----------------- | -------------------------------------------------------------------------------------- |
-| 60,000 ⌆ | +1 Presence (Aug) | [[Aug Increase](/../Keywords/Keyword_Aug_Increase)], [[Mod](/../Keywords/Keyword_Mod)] |
+| 60,000 ⌆ | +1 Presence (Aug) | [[Aug Increase](../Keywords/Keyword_Aug_Increase\.md)], [[Mod](../Keywords/Keyword_Mod\.md)] |
 
 You should update your Deception, Intimidate, and Persuade skills to use your new Presence score.

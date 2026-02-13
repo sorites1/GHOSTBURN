@@ -54,7 +54,7 @@ def convert_obsidian_links(text):
             path = path[:-6]  # Remove '/index' (6 characters)
         
         # Convert to MkDocs format and wrap in brackets
-        mkdocs_link = f"[{display}](/../{path})"
+        mkdocs_link = f"[{display}](../{path}.md)"
         return f"[{mkdocs_link}]"
     
     text = re.sub(r'\\\[\[\[([^\]]+)\]\]\\\]', replace_escaped_link, text)
@@ -79,7 +79,7 @@ def convert_obsidian_links(text):
         if path.endswith('/index'):
             path = path[:-6]  # Remove '/index' (6 characters)
         
-        return f"[{display}](/../{path})"
+        return f"[{display}](../{path}.md)"
     
     # Only match [[ ]] that are NOT followed by markdown link syntax
     text = re.sub(r'\[\[([^\]]+)\]\](?!\()', replace_regular_link, text)
@@ -155,7 +155,6 @@ def main():
         'Health_and_Healing',
         'Making_a_Roll',
         'Mods',
-        'Mods_Augment',
         'Mods_Weapon',
         'Keywords',
         'Lexicon',

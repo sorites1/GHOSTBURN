@@ -4,6 +4,6 @@
 
 |   Cost   | Augment      | Mesh Cost | Keywords                                    |
 | :------: | ------------ | :-------: | :------------------------------------------ |
-| 10,000 ⌆ | Control Port |     1     | [[Physical](/../Keywords/Keyword_Physical)] |
+| 10,000 ⌆ | Control Port |     1     | [[Physical](../Keywords/Keyword_Physical\.md)] |
 
-A Control Port plugs into a [[Control Deck](/../Keywords/Keyword_Control_Deck)], which is used to control drones and vehicles. 
+A Control Port plugs into a [[Control Deck](../Keywords/Keyword_Control_Deck.md)], which is used to control drones and vehicles. 

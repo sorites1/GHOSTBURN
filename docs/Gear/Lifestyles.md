@@ -4,9 +4,9 @@ In this game, your character has a monthly bill you have to pay called a Lifesty
 
 | Lifestyle                                   | Cost per Month |
 | ------------------------------------------- | -------------- |
-| [Street Lifestyle](/../Gear/Lifestyle_Street) | Free (0 ⌆)     |
-| [Low Lifestyle](/../Gear/Lifestyle_Low)       | 1,000 ⌆        |
-| [Middle Lifestyle](/../Gear/Lifestyle_Middle) | 5,000 ⌆        |
-| [High Lifestyle](/../Gear/Lifestyle_High)     | 10,000 ⌆       |
-| [Luxury Lifestyle](/../Gear/Lifestyle_Luxury) | 100,000 ⌆      |
-| [Elite Lifestyle](/../Gear/Lifestyle_Elite)   | 1,000,000 ⌆    |
+| [Street Lifestyle](../Gear/Lifestyle_Street\.md) | Free (0 ⌆)     |
+| [Low Lifestyle](../Gear/Lifestyle_Low\.md)       | 1,000 ⌆        |
+| [Middle Lifestyle](../Gear/Lifestyle_Middle\.md) | 5,000 ⌆        |
+| [High Lifestyle](../Gear/Lifestyle_High\.md)     | 10,000 ⌆       |
+| [Luxury Lifestyle](../Gear/Lifestyle_Luxury\.md) | 100,000 ⌆      |
+| [Elite Lifestyle](../Gear/Lifestyle_Elite\.md)   | 1,000,000 ⌆    |

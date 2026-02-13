@@ -2,7 +2,7 @@
 
 | Difficulty Level (DL) | Skill     | Keywords                                                           |
 | --------------------- | --------- | ------------------------------------------------------------------ |
-| Hard (20)             | Deception | [[Concentrate](/../Keywords/Keyword_Concentrate)], [[Language](/../Keywords/Keyword_Language)], [[Physical](/../Keywords/Keyword_Physical)], [[Social](/../Keywords/Keyword_Social)], [[Vocal](/../Keywords/Keyword_Vocal)] |
+| Hard (20)             | Deception | [[Concentrate](../Keywords/Keyword_Concentrate\.md)], [[Language](../Keywords/Keyword_Language\.md)], [[Physical](../Keywords/Keyword_Physical\.md)], [[Social](../Keywords/Keyword_Social\.md)], [[Vocal](../Keywords/Keyword_Vocal\.md)] |
 
 *By altering your voice, facial expressions, and even the way you sit or stand, you convincingly impersonate another person.*
 
@@ -10,7 +10,7 @@ You can use Impersonate to trick someone into thinking you are someone else. If 
 
 | Outcome      | Description                                                                                                                                          |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cool Success | They believe you and you gain an [[Ally](/../Conditions/Condition_Ally)]                                                                             |
+| Cool Success | They believe you and you gain an [[Ally](../Conditions/Condition_Ally\.md)]                                                                             |
 | Success      | They believe you                                                                                                                                     |
 | Fade         | They believe you (but remain unsure) and they become \[Suspicious\]                                                                                  |
-| Glitch       | They don't believe you, their [[Attitude](/../Keywords/Keyword_Attitude)] worsens, and they become [[Confident](/../Conditions/Condition_Confident)] |
+| Glitch       | They don't believe you, their [[Attitude](../Keywords/Keyword_Attitude\.md)] worsens, and they become [[Confident](../Conditions/Condition_Confident\.md)] |

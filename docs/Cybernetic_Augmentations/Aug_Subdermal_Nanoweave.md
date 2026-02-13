@@ -4,8 +4,8 @@
 
 |   Cost   | Augment             | Mesh Cost | Keywords                              |
 | :------: | ------------------- | :-------: | ------------------------------------- |
-| 30,000 ⌆ | Subdermal Nanoweave |     3     | [[Armor](/../Keywords/Keyword_Armor)] |
+| 30,000 ⌆ | Subdermal Nanoweave |     3     | [[Armor](../Keywords/Keyword_Armor\.md)] |
 
-Subdermal NanoWeave counts as wearing [NanoWeave Armor](/../Gear/Armor_NanoWeave_Armor) all the time. 
+Subdermal NanoWeave counts as wearing [NanoWeave Armor](../Gear/Armor_NanoWeave_Armor.md) all the time. 
 
-Subdermal NanoWeave is [[Incompatible](/../Keywords/Keyword_Incompatible)] with [Dermal Armor](/../Cybernetic_Augmentations/Aug_Dermal_Armor).
+Subdermal NanoWeave is [[Incompatible](../Keywords/Keyword_Incompatible.md)] with [Dermal Armor](../Cybernetic_Augmentations/Aug_Dermal_Armor.md).

@@ -17,6 +17,6 @@ You may install this \[Mod\] multiple times, and its effects are cumulative. Eac
 
 |   Cost    | Mod                 | Keywords                                                                               |
 | :-------: | ------------------- | -------------------------------------------------------------------------------------- |
-| 100,000 ⌆ | +1 Resilience (Aug) | [[Aug Increase](/../Keywords/Keyword_Aug_Increase)], [[Mod](/../Keywords/Keyword_Mod)] |
+| 100,000 ⌆ | +1 Resilience (Aug) | [[Aug Increase](../Keywords/Keyword_Aug_Increase\.md)], [[Mod](../Keywords/Keyword_Mod\.md)] |
 
-Recalculate your [Hit Points and Health Conditions](/../Health_and_Healing/HaH_Hit_Points_and_Conditions) using your increased Resilience score and make the necessary adjustments to your character sheet. If your old Resilience score was less than 5, you should also update your [Stabilization DL](/../Keywords/Keyword_Stabilization_DL).
+Recalculate your [Hit Points and Health Conditions](../Health_and_Healing/HaH_Hit_Points_and_Conditions.md) using your increased Resilience score and make the necessary adjustments to your character sheet. If your old Resilience score was less than 5, you should also update your [Stabilization DL](../Keywords/Keyword_Stabilization_DL.md).

@@ -1,6 +1,6 @@
 # Tiers of Play
 
-There are three tiers of play in this game, as shown in the table below. This table is meant to help the GM understand how effective a character's bonus will be in overcoming a given [[Difficulty Level](/../PtG_Difficulty_Level)]. Savvy players will find ways to lower the DL, which can allow them to punch above their weight, so to speak.
+There are three tiers of play in this game, as shown in the table below. This table is meant to help the GM understand how effective a character's bonus will be in overcoming a given [[Difficulty Level](../PtG_Difficulty_Level.md)]. Savvy players will find ways to lower the DL, which can allow them to punch above their weight, so to speak.
 
 | Character Tier | Bonus Range    | Their "Standard" Challenge | Their "Hard" Challenge |
 | -------------- | -------------- | -------------------------- | ---------------------- |

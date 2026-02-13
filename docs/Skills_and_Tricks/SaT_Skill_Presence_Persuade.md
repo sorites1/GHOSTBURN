@@ -2,7 +2,7 @@
 
 | Difficulty Level (DL) | Ability  | Keywords                                                              |
 | --------------------- | -------- | --------------------------------------------------------------------- |
-| Wits                  | Presence | \[Attitude\], [[Language](/../Keywords/Keyword_Language)], [[Social](/../Keywords/Keyword_Social)], [[Vocal](/../Keywords/Keyword_Vocal)] |
+| Wits                  | Presence | \[Attitude\], [[Language](../Keywords/Keyword_Language\.md)], [[Social](../Keywords/Keyword_Social\.md)], [[Vocal](../Keywords/Keyword_Vocal\.md)] |
 
 *Using charm and a bit of psychology, you convince the target to help you, typically without offering anything in return.* 
 

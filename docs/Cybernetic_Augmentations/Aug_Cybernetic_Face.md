@@ -13,7 +13,7 @@ Cybernetic Face (Base) is a replacement only. It performs all the functions of a
 
 ## Augment Mods
 
-The following augments have the [[Mod](/../Keywords/Keyword_Mod)] keyword and can be installed in a Cybernetic Face with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [Faceshifter](/../Cybernetic_Augmentations/Aug_Faceshifter) and [Poison Reservoir](/../Cybernetic_Augmentations/Aug_Poison_Reservoir)
+The following augments have the [[Mod](../Keywords/Keyword_Mod.md)] keyword and can be installed in a Cybernetic Face with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [Faceshifter](../Cybernetic_Augmentations/Aug_Faceshifter.md) and [Poison Reservoir](../Cybernetic_Augmentations/Aug_Poison_Reservoir.md)
 
 ## Presence Mod
 
@@ -21,6 +21,6 @@ You can install a Presence Mod in a free Mod Slot in Cybernetic Face to permanen
 
 |   Cost   | Mod               | Keywords                                                                               |
 | :------: | ----------------- | -------------------------------------------------------------------------------------- |
-| 60,000 ⌆ | +1 Presence (Aug) | [[Aug Increase](/../Keywords/Keyword_Aug_Increase)], [[Mod](/../Keywords/Keyword_Mod)] |
+| 60,000 ⌆ | +1 Presence (Aug) | [[Aug Increase](../Keywords/Keyword_Aug_Increase\.md)], [[Mod](../Keywords/Keyword_Mod\.md)] |
 
 You should update your Deception, Intimidate, and Persuade skills to use your new Presence score.

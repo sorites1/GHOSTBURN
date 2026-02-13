@@ -15,4 +15,4 @@ If you have two Cybernetic Hands, they may be of different levels and each has i
 
 ## Augment Mods
 
-The following augments have the [[Mod](/../Keywords/Keyword_Mod)] keyword and can be installed in a Cybernetic Hand with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [FNGR Razors](/../Cybernetic_Augmentations/Aug_FNGR_Razors), [Multitool](/../Cybernetic_Augmentations/Aug_Multitool), and [Spider Fingers](/../Cybernetic_Augmentations/Aug_Spider_Fingers)
+The following augments have the [[Mod](../Keywords/Keyword_Mod.md)] keyword and can be installed in a Cybernetic Hand with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [FNGR Razors](../Cybernetic_Augmentations/Aug_FNGR_Razors.md), [Multitool](../Cybernetic_Augmentations/Aug_Multitool.md), and [Spider Fingers](../Cybernetic_Augmentations/Aug_Spider_Fingers.md)

@@ -4,7 +4,7 @@
 
 |   Cost   | Gear                   | Keywords                                        |
 | :------: | ---------------------- | ----------------------------------------------- |
-| 10,000 ⌆ | Doc-in-a-Box (Level 1) | [[Gear Bonus](/../Keywords/Keyword_Gear_Bonus)] |
+| 10,000 ⌆ | Doc-in-a-Box (Level 1) | [[Gear Bonus](../Keywords/Keyword_Gear_Bonus\.md)] |
 | 25,000 ⌆ | Doc-in-a-Box (Level 2) | \[Gear Bonus\]                                  |
 | 75,000 ⌆ | Doc-in-a-Box (Level 3) | \[Gear Bonus\]                                  |
 

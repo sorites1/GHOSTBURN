@@ -1,6 +1,6 @@
 # 1. Choose a Background
 
-Refer to the [Backgrounds List](/../Characters/Char_Backgrounds) and choose one for your character. 
+Refer to the [Backgrounds List](../Characters/Char_Backgrounds.md) and choose one for your character. 
 
 Your background describes who your character used to be and includes a culture, favored skill, and an additional benefit.
 

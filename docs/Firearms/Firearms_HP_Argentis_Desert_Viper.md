@@ -2,4 +2,4 @@
 
 |  Cost   | Weapon                | Weapon Type                                         | Optimal Range                     | Single Shot | Burst Fire | Full Auto | Mods/Keywords |
 | :-----: | --------------------- | --------------------------------------------------- | --------------------------------- | ----------- | ---------- | --------- | ------------- |
-| 5,000 ⌆ | Argentis Desert Viper | [[Heavy Pistol](/../Keywords/Keyword_Heavy_Pistol)] | [[Far](/../Keywords/Keyword_Far)] | 10/20/50    | -          | -         | -             |
+| 5,000 ⌆ | Argentis Desert Viper | [[Heavy Pistol](../Keywords/Keyword_Heavy_Pistol\.md)] | [[Far](../Keywords/Keyword_Far\.md)] | 10/20/50    | -          | -         | -             |

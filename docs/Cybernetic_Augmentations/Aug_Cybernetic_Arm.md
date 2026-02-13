@@ -15,7 +15,7 @@ If you have two Cybernetic Arms, they may be of different levels and each has it
 
 ## Augment Mods
 
-The following augments have the [[Mod](/../Keywords/Keyword_Mod)] keyword and can be installed in a Cybernetic Arm with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [FNGR Razors](/../Cybernetic_Augmentations/Aug_FNGR_Razors), [Gunwires](/../Cybernetic_Augmentations/Aug_Gunwires), [Multitool](/../Cybernetic_Augmentations/Aug_Multitool), [SLAP Gun](/../Cybernetic_Augmentations/Aug_SLAP_Gun), [Spider Fingers](/../Cybernetic_Augmentations/Aug_Spider_Fingers), [TGR Claws](/../Cybernetic_Augmentations/Aug_TGR_Claws), and [VPR Blade](/../Cybernetic_Augmentations/Aug_VPR_Blade)
+The following augments have the [[Mod](../Keywords/Keyword_Mod.md)] keyword and can be installed in a Cybernetic Arm with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [FNGR Razors](../Cybernetic_Augmentations/Aug_FNGR_Razors.md), [Gunwires](../Cybernetic_Augmentations/Aug_Gunwires.md), [Multitool](../Cybernetic_Augmentations/Aug_Multitool.md), [SLAP Gun](../Cybernetic_Augmentations/Aug_SLAP_Gun.md), [Spider Fingers](../Cybernetic_Augmentations/Aug_Spider_Fingers.md), [TGR Claws](../Cybernetic_Augmentations/Aug_TGR_Claws.md), and [VPR Blade](../Cybernetic_Augmentations/Aug_VPR_Blade.md)
 
 ## Strength Mod
 
@@ -23,6 +23,6 @@ You can also install a Strength Mod in a free Mod Slot in a Cybernetic Arm to pe
 
 |   Cost    | Mod               | Keywords                                                                               |
 | :-------: | ----------------- | -------------------------------------------------------------------------------------- |
-| 100,000 ⌆ | +1 Strength (Aug) | [[Aug Increase](/../Keywords/Keyword_Aug_Increase)], [[Mod](/../Keywords/Keyword_Mod)] |
+| 100,000 ⌆ | +1 Strength (Aug) | [[Aug Increase](../Keywords/Keyword_Aug_Increase\.md)], [[Mod](../Keywords/Keyword_Mod\.md)] |
 
-Recalculate your [Hit Points and Health Conditions](/../Health_and_Healing/HaH_Hit_Points_and_Conditions) using your increased Strength score and make the necessary adjustments to your character sheet. You should also update your Athletics, Brawl, and Melee skills to use your new Strength score.
+Recalculate your [Hit Points and Health Conditions](../Health_and_Healing/HaH_Hit_Points_and_Conditions.md) using your increased Strength score and make the necessary adjustments to your character sheet. You should also update your Athletics, Brawl, and Melee skills to use your new Strength score.

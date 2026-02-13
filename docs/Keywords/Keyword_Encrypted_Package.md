@@ -4,4 +4,4 @@ An \[Encrypted Package\] is a data bundle that has been protected with encryptio
 
 For example, a DateTime Trigger unlocks an \[Encrypted Package\] at a specific date and time; a Visual Trigger unlocks an \[Encrypted Package\] when an attached video device sees a preselected image, such as a particular face or pattern; and a Location Trigger unlocks an \[Encrypted Package\] only when the device on which it is stored has been moved to a particular place, such as a certain address, or even to a specific floor, room, or chair at that address. 
 
-An \[Encrypted Package\] can be cracked by breaking the [[Security](/../Keywords/Keyword_Security)] that protects it. The \[Security\] of an \[Encrypted Package\] is determined by the device that encrypted the data.
+An \[Encrypted Package\] can be cracked by breaking the [[Security](../Keywords/Keyword_Security.md)] that protects it. The \[Security\] of an \[Encrypted Package\] is determined by the device that encrypted the data.

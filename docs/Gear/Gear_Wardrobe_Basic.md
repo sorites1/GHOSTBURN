@@ -12,4 +12,4 @@
 
 There are five versions of the Basic Wardrobe, one for each Culture (Street, City, Milsec, Underworld, and Corporate). If you own the correct Wardrobe and have the opportunity to use it to change clothes, you will never look out of place when visiting an area dominated by that Culture. For example, if you have Wardrobe (Corporate), and you use it to change clothes, you will always look the part when you visit a Corporate environment. 
 
-If you own all five Basic Wardrobes, you gain a +1 [[Gear Bonus](/../Keywords/Keyword_Gear_Bonus)] to [Disguise](/../Skills_and_Tricks/Trick_Deception_Disguise) rolls.
+If you own all five Basic Wardrobes, you gain a +1 [[Gear Bonus](../Keywords/Keyword_Gear_Bonus.md)] to [Disguise](../Skills_and_Tricks/Trick_Deception_Disguise.md) rolls.

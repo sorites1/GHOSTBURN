@@ -1,6 +1,6 @@
 # 2. Burn and Hook
 
-Look through the list of [Burns and Hooks](/../Characters/Char_Burns_and_Hooks) and choose one of each for your character.
+Look through the list of [Burns and Hooks](../Characters/Char_Burns_and_Hooks.md) and choose one of each for your character.
 
 Your **Burn** is a pivotal event in your life. It helps explain why your character is no longer living the life described by their **Background**. Your **Hook** represents the lasting consequences of the burn. 
 

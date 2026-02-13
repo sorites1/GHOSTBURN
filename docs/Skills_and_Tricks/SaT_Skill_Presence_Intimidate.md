@@ -2,7 +2,7 @@
 
 | Difficulty Level (DL)  | Ability  | Keywords                                                |
 | ---------------------- | -------- | ------------------------------------------------------- |
-| [Fort](/../Keywords/Keyword_Fort) | Presence | [[Language](/../Keywords/Keyword_Language)], [[Social](/../Keywords/Keyword_Social)], [[Vocal](/../Keywords/Keyword_Vocal)] |
+| [Fort](../Keywords/Keyword_Fort\.md) | Presence | [[Language](../Keywords/Keyword_Language\.md)], [[Social](../Keywords/Keyword_Social\.md)], [[Vocal](../Keywords/Keyword_Vocal\.md)] |
 
 *With threats of damage to income, reputation, or bodily health, you force the targe to comply with your instructions.* 
 

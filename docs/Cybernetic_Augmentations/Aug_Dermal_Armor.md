@@ -4,8 +4,8 @@
 
 |   Cost   | Augment      | Mesh Cost | Keywords                              |
 | :------: | ------------ | :-------: | :------------------------------------ |
-| 20,000 ⌆ | Dermal Armor |     3     | [[Armor](/../Keywords/Keyword_Armor)] |
+| 20,000 ⌆ | Dermal Armor |     3     | [[Armor](../Keywords/Keyword_Armor\.md)] |
 
-Dermal Armor counts as wearing [Soft Armor](/../Gear/Armor_Soft_Armor) all the time.
+Dermal Armor counts as wearing [Soft Armor](../Gear/Armor_Soft_Armor.md) all the time.
 
-Dermal Armor is [[Incompatible](/../Keywords/Keyword_Incompatible)] with [Subdermal NanoWeave](/../Cybernetic_Augmentations/Aug_Subdermal_Nanoweave).
+Dermal Armor is [[Incompatible](../Keywords/Keyword_Incompatible.md)] with [Subdermal NanoWeave](../Cybernetic_Augmentations/Aug_Subdermal_Nanoweave.md).

@@ -13,19 +13,19 @@ Cybernetic Lungs (Base) are a replacement only. They performs all the functions 
 
 ## Oxygen Reservoir Mod
 
-You can install an Oxygen Reservoir Mod in a free Mod Slot in Cybernetic Lungs, as shown below. The Oxygen Reservoir has the following effect: If you would gain [[Drowning](/../Conditions/Condition_Drowning)] or [[Suffocating](/../Conditions/Condition_Suffocating)], you do not gain them. You may only install this \[Mod\] once.
+You can install an Oxygen Reservoir Mod in a free Mod Slot in Cybernetic Lungs, as shown below. The Oxygen Reservoir has the following effect: If you would gain [[Drowning](../Conditions/Condition_Drowning.md)] or [[Suffocating](../Conditions/Condition_Suffocating.md)], you do not gain them. You may only install this \[Mod\] once.
 
 |   Cost   | Mod              | Keywords                          |
 | :------: | ---------------- | --------------------------------- |
-| 10,000 ⌆ | Oxygen Reservoir | [[Mod](/../Keywords/Keyword_Mod)] |
+| 10,000 ⌆ | Oxygen Reservoir | [[Mod](../Keywords/Keyword_Mod\.md)] |
 
 ## Assistive Breather Mod
 
-You can also install an Assistive Breather Mod in a free Mod Slot in Cybernetic Lungs, as shown below. The Assistive Breather Mod has the following effect: You gain a +1 [[Aug Bonus](/../Keywords/Keyword_Aug_Bonus)] to Athletics.  You may only install this \[Mod\] once.
+You can also install an Assistive Breather Mod in a free Mod Slot in Cybernetic Lungs, as shown below. The Assistive Breather Mod has the following effect: You gain a +1 [[Aug Bonus](../Keywords/Keyword_Aug_Bonus.md)] to Athletics.  You may only install this \[Mod\] once.
 
 |  Cost   | Mod                | Keywords                                                                         |
 | :-----: | ------------------ | -------------------------------------------------------------------------------- |
-| 5,000 ⌆ | Assistive Breather | [[Mod](/../Keywords/Keyword_Mod)], [[Aug Bonus](/../Keywords/Keyword_Aug_Bonus)] |
+| 5,000 ⌆ | Assistive Breather | [[Mod](../Keywords/Keyword_Mod\.md)], [[Aug Bonus](../Keywords/Keyword_Aug_Bonus\.md)] |
 
 ## Toxin Filter Mod
 
@@ -33,5 +33,5 @@ You can also install a Toxin Filter Mod in a free Mod Slot in Cybernetic Lungs, 
 
 |   Cost   | Mod          | Keywords                          |
 | :------: | ------------ | --------------------------------- |
-| 15,000 ⌆ | Toxin Filter | [[Mod](/../Keywords/Keyword_Mod)] |
+| 15,000 ⌆ | Toxin Filter | [[Mod](../Keywords/Keyword_Mod\.md)] |
 

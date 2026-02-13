@@ -13,8 +13,8 @@ If you have two Cybernetic Feet, they may be of different levels and each has it
 
 ## Sprint Mod
 
-You can install the Sprint Mod in a free Mod Slot in a Cybernetic Foot, as shown below. You may only install this \[Mod\] once. Activating Speed Mod costs 1 AP and causes you to gain [[Fast](/../Keywords/Keyword_Fast)] for the remainder of the turn.
+You can install the Sprint Mod in a free Mod Slot in a Cybernetic Foot, as shown below. You may only install this \[Mod\] once. Activating Speed Mod costs 1 AP and causes you to gain [[Fast](../Keywords/Keyword_Fast.md)] for the remainder of the turn.
 
 |   Cost   | Mod        | Keywords                          |
 | :------: | ---------- | --------------------------------- |
-| 15,000 ⌆ | Sprint Mod | [[Mod](/../Keywords/Keyword_Mod)] |
+| 15,000 ⌆ | Sprint Mod | [[Mod](../Keywords/Keyword_Mod\.md)] |

@@ -4,10 +4,10 @@
 
 |   Cost   | Augment         | Mesh Cost | Keywords                                    |
 | :------: | --------------- | :-------: | :------------------------------------------ |
-| 1,000 ⌆  | Comms (Level 1) |     3     | [[Wireless](/../Keywords/Keyword_Wireless)] |
-| 5,000 ⌆  | Comms (Level 2) |     3     | [[Wireless](/../Keywords/Keyword_Wireless)] |
-| 20,000 ⌆ | Comms (Level 3) |     3     | [[Wireless](/../Keywords/Keyword_Wireless)] |
-| 75,000 ⌆ | Comms (Level 4) |     3     | [[Wireless](/../Keywords/Keyword_Wireless)] |
+| 1,000 ⌆  | Comms (Level 1) |     3     | [[Wireless](../Keywords/Keyword_Wireless\.md)] |
+| 5,000 ⌆  | Comms (Level 2) |     3     | [[Wireless](../Keywords/Keyword_Wireless\.md)] |
+| 20,000 ⌆ | Comms (Level 3) |     3     | [[Wireless](../Keywords/Keyword_Wireless\.md)] |
+| 75,000 ⌆ | Comms (Level 4) |     3     | [[Wireless](../Keywords/Keyword_Wireless\.md)] |
 
 Use Comms to wirelessly access the Net. The quality and quantity of content available to you is based on your Lifestyle. You can also use Comms to make and receive calls and messages. When speaking through \[Comms\], you may do so silently by forming the words with your tongue in your mouth (while keeping your lips closed).
 

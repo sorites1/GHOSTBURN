@@ -2,15 +2,15 @@
 
 | Difficulty Level (DL) | Skill    | Keywords                                                                |
 | --------------------- | -------- | ----------------------------------------------------------------------- |
-| Hard (20)             | Firearms | [[Attack](/../Keywords/Keyword_Attack)], [[Gun](/../Keywords/Keyword_Gun)], [[Physical](/../Keywords/Keyword_Physical)], [[Range](/../Keywords/Keyword_Range)], [[Two Hands](/../Keywords/Keyword_Two_Hands)], [[Visual](/../Keywords/Keyword_Visual)] |
+| Hard (20)             | Firearms | [[Attack](../Keywords/Keyword_Attack\.md)], [[Gun](../Keywords/Keyword_Gun\.md)], [[Physical](../Keywords/Keyword_Physical\.md)], [[Range](../Keywords/Keyword_Range\.md)], [[Two Hands](../Keywords/Keyword_Two_Hands\.md)], [[Visual](../Keywords/Keyword_Visual\.md)] |
 
 *You take careful aim and target one of your opponent's legs with your shot.* 
 
-When you use Crippling Shot, if the target is at a \[Range\] other than the weapon's [[Optimal Range](/../Keywords/Keyword_Optimal_Range)], raise the DL by one. Use your weapon's Single Shot [[Damage Array](/../Keywords/Keyword_Damage_Array)] with this trick.
+When you use Crippling Shot, if the target is at a \[Range\] other than the weapon's [[Optimal Range](../Keywords/Keyword_Optimal_Range.md)], raise the DL by one. Use your weapon's Single Shot [[Damage Array](../Keywords/Keyword_Damage_Array.md)] with this trick.
 
 | Outcome      | Description                                                                                                                                                                                    |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cool Success | You deal [[Maximum Damage](/../Keywords/Keyword_Maximum_Damage)] and they gain [[Movement Impaired](/../Conditions/Condition_Movement_Impaired)] and [[Prone](/../Conditions/Condition_Prone)] |
-| Success      | You deal [[Normal Damage](/../Keywords/Keyword_Normal_Damage)] and they gain [[Movement Restricted](/../Conditions/Condition_Movement_Restricted)]                                             |
-| Fade         | You deal [[Minimum Damage](/../Keywords/Keyword_Minimum_Damage)] and they gain a  [[Combat Opportunity](/../Keywords/Keyword_Combat_Opportunity)]                                              |
+| Cool Success | You deal [[Maximum Damage](../Keywords/Keyword_Maximum_Damage\.md)] and they gain [[Movement Impaired](../Conditions/Condition_Movement_Impaired\.md)] and [[Prone](../Conditions/Condition_Prone\.md)] |
+| Success      | You deal [[Normal Damage](../Keywords/Keyword_Normal_Damage\.md)] and they gain [[Movement Restricted](../Conditions/Condition_Movement_Restricted\.md)]                                             |
+| Fade         | You deal [[Minimum Damage](../Keywords/Keyword_Minimum_Damage\.md)] and they gain a  [[Combat Opportunity](../Keywords/Keyword_Combat_Opportunity\.md)]                                              |
 | Glitch       | You miss the shot and they gain a \[Combat Opportunity\]                                                                                                                                       |

@@ -4,7 +4,7 @@
 
 |   Cost    | Augment               | Mesh Cost | Keywords                                            |
 | :-------: | --------------------- | :-------: | :-------------------------------------------------- |
-| 100,000 ⌆ | Neuromatrix (Level 1) |     4     | [[Aug Increase](/../Keywords/Keyword_Aug_Increase)] |
+| 100,000 ⌆ | Neuromatrix (Level 1) |     4     | [[Aug Increase](../Keywords/Keyword_Aug_Increase\.md)] |
 | 400,000 ⌆ | Neuromatrix (Level 2) |     6     | \[Aug Increase\]                                    |
 | 800,000 ⌆ | Neuromatrix (Level 3) |     8     | \[Aug Increase\]                                    |
 

@@ -12,7 +12,7 @@ Cybernetic Lips (Base) are a replacement only. They performs all the functions o
 
 ## Augment Mods
 
-The following augments have the [[Mod](/../Keywords/Keyword_Mod)] keyword and can be installed in a Cybernetic Lips with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [Poison Reservoir](/../Aug_Poison_Reservoir)
+The following augments have the [[Mod](../Keywords/Keyword_Mod.md)] keyword and can be installed in a Cybernetic Lips with a free Mod Slot. Each \[Mod\] augment takes one Mod Slot. Mods: [Poison Reservoir](../Aug_Poison_Reservoir.md)
 
 ## Presence Mod
 
@@ -20,6 +20,6 @@ You can install a Presence Mod in a free Mod Slot in Cybernetic Lips to permanen
 
 |   Cost   | Mod               | Keywords                                                                               |
 | :------: | ----------------- | -------------------------------------------------------------------------------------- |
-| 60,000 ⌆ | +1 Presence (Aug) | [[Aug Increase](/../Keywords/Keyword_Aug_Increase)], [[Mod](/../Keywords/Keyword_Mod)] |
+| 60,000 ⌆ | +1 Presence (Aug) | [[Aug Increase](../Keywords/Keyword_Aug_Increase\.md)], [[Mod](../Keywords/Keyword_Mod\.md)] |
 
 You should update your Deception, Intimidate, and Persuade skills to use your new Presence score.

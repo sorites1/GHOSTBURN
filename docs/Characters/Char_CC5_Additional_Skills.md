@@ -2,7 +2,7 @@
 
 Choose three skills, and write +1 in the skill bonus box for each. You cannot choose your favored skill, and no skill can have a skill bonus higher than +1 at the start of the game.
 
-The chart below includes a list of skills, along with each skill's associated ability and a basic description. For details about a skill and the tricks it includes, refer to [Skills and Tricks](/../Skills_and_Tricks).
+The chart below includes a list of skills, along with each skill's associated ability and a basic description. For details about a skill and the tricks it includes, refer to [Skills and Tricks](../Skills_and_Tricks.md).
 
 | Skill      | Ability      | Description                              |
 | ---------- | ------------ | ---------------------------------------- |

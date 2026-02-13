@@ -1,6 +1,6 @@
 # 6. Starting Package
 
-Choose a starting package, or build your own. Starting characters get 30,000 ⌆ to spend on starting [Gear and Augments](/../Gear_and_Augments), which includes a starting [Lifestyle](/../Gear/Lifestyles). If you do not purchase a Lifestyle, you start on the [Street](/../Gear/Lifestyle_Street). Your starting package represents gear and augments you've accumulated over time or which you've recently obtained with the help of your medium. 
+Choose a starting package, or build your own. Starting characters get 30,000 ⌆ to spend on starting [Gear and Augments](../Gear_and_Augments.md), which includes a starting [Lifestyle](../Gear/Lifestyles.md). If you do not purchase a Lifestyle, you start on the [Street](../Gear/Lifestyle_Street.md). Your starting package represents gear and augments you've accumulated over time or which you've recently obtained with the help of your medium. 
 
 ## Hacker 
 
@@ -8,12 +8,12 @@ Choose a starting package, or build your own. Starting characters get 30,000 ⌆
 
 | Hacker Package                                                      | Type         |
 | ------------------------------------------------------------------- | ------------ |
-| [Datajack](/../Cybernetic_Augmentations/Aug_Datajack)                 | Augment      |
-| [Comms (Level 1)](/../Cybernetic_Augmentations/Aug_Comms)             | Augment      |
-| [Komodo Ripsaw](/../Gear/Gear_Cyber_Rig_Komodo_Ripsaw)                | Cyber Rig    |
-| [EZTech Punisher Lite](/../Firearms/Firearms_LP_EZTech_Punisher_Lite) | Light Pistol |
-| [Leather Jacket](/../Gear/Armor_Leather_Jacket)                       | Armor        |
-| [Low Lifestyle](/../Gear/Lifestyle_Low)                               | Lifestyle    |
+| [Datajack](../Cybernetic_Augmentations/Aug_Datajack\.md)                 | Augment      |
+| [Comms (Level 1)](../Cybernetic_Augmentations/Aug_Comms\.md)             | Augment      |
+| [Komodo Ripsaw](../Gear/Gear_Cyber_Rig_Komodo_Ripsaw\.md)                | Cyber Rig    |
+| [EZTech Punisher Lite](../Firearms/Firearms_LP_EZTech_Punisher_Lite\.md) | Light Pistol |
+| [Leather Jacket](../Gear/Armor_Leather_Jacket\.md)                       | Armor        |
+| [Low Lifestyle](../Gear/Lifestyle_Low\.md)                               | Lifestyle    |
 
 ## Merc
 
@@ -21,12 +21,12 @@ Choose a starting package, or build your own. Starting characters get 30,000 ⌆
 
 | Merc Package                                                          | Type         |
 | --------------------------------------------------------------------- | ------------ |
-| [Comms (Level 1)](/../Cybernetic_Augmentations/Aug_Comms)               | Augment      |
-| [Argentis Desert Viper](/../Firearms/Firearms_HP_Argentis_Desert_Viper) | Heavy Pistol |
-| [Graham PX-90 Carbine](/../Firearms/Firearms_Rifle_Graham_PX90_Carbine) | Rifle        |
-| [Combat Knife](/../Melee_Weapons/Melee_Combat_Knife)                    | Melee        |
-| [Soft Armor](/../Gear/Armor_Soft_Armor)                                 | Armor        |
-| [Low Lifestyle](/../Gear/Lifestyle_Low)                                 | Lifestyle    |
+| [Comms (Level 1)](../Cybernetic_Augmentations/Aug_Comms\.md)               | Augment      |
+| [Argentis Desert Viper](../Firearms/Firearms_HP_Argentis_Desert_Viper\.md) | Heavy Pistol |
+| [Graham PX-90 Carbine](../Firearms/Firearms_Rifle_Graham_PX90_Carbine\.md) | Rifle        |
+| [Combat Knife](../Melee_Weapons/Melee_Combat_Knife\.md)                    | Melee        |
+| [Soft Armor](../Gear/Armor_Soft_Armor\.md)                                 | Armor        |
+| [Low Lifestyle](../Gear/Lifestyle_Low\.md)                                 | Lifestyle    |
 
 ## Infiltrator
 
@@ -34,12 +34,12 @@ Choose a starting package, or build your own. Starting characters get 30,000 ⌆
 
 | Infiltrator Package                                            | Type         |
 | -------------------------------------------------------------- | ------------ |
-| [Comms (Level 1)](/../Cybernetic_Augmentations/Aug_Comms)        | Augment      |
-| [Multitool](/../Cybernetic_Augmentations/Aug_Multitool)          | Augment      |
-| [Sterling Elite .45](/../Firearms/Firearms_HP_Sterling_Elite_45) | Heavy Pistol |
-| [Hand Built Cyber Rig](/../Gear/Gear_Cyber_Rig_Hand_Built)       | Cyber Rig    |
-| [Leather Jacket](/../Gear/Armor_Leather_Jacket)                  | Armor        |
-| [Low Lifestyle](/../Gear/Lifestyle_Low)                          | Lifestyle    |
+| [Comms (Level 1)](../Cybernetic_Augmentations/Aug_Comms\.md)        | Augment      |
+| [Multitool](../Cybernetic_Augmentations/Aug_Multitool\.md)          | Augment      |
+| [Sterling Elite .45](../Firearms/Firearms_HP_Sterling_Elite_45\.md) | Heavy Pistol |
+| [Hand Built Cyber Rig](../Gear/Gear_Cyber_Rig_Hand_Built\.md)       | Cyber Rig    |
+| [Leather Jacket](../Gear/Armor_Leather_Jacket\.md)                  | Armor        |
+| [Low Lifestyle](../Gear/Lifestyle_Low\.md)                          | Lifestyle    |
 
 ## Bruiser
 
@@ -47,11 +47,11 @@ Choose a starting package, or build your own. Starting characters get 30,000 ⌆
 
 | Bruiser Package                                                    | Type         |
 | ------------------------------------------------------------------ | ------------ |
-| [Dermal Armor](/../Cybernetic_Augmentations/Aug_Dermal_Armor)        | Augment      |
-| [Sledgehammer](/../Melee_Sledgehammer)                               | Melee        |
-| [Ranco .357 Equalizer](/../Firearms/Firearms_HP_Ranco_357_Equalizer) | Heavy Pistol |
-| [Leather Jacket](/../Gear/Armor_Leather_Jacket)                      | Armor        |
-| [Low Lifestyle](/../Gear/Lifestyle_Low)                              | Lifestyle    |
+| [Dermal Armor](../Cybernetic_Augmentations/Aug_Dermal_Armor\.md)        | Augment      |
+| [Sledgehammer](../Melee_Sledgehammer\.md)                               | Melee        |
+| [Ranco .357 Equalizer](../Firearms/Firearms_HP_Ranco_357_Equalizer\.md) | Heavy Pistol |
+| [Leather Jacket](../Gear/Armor_Leather_Jacket\.md)                      | Armor        |
+| [Low Lifestyle](../Gear/Lifestyle_Low\.md)                              | Lifestyle    |
 
 # Face
 
@@ -59,12 +59,12 @@ Choose a starting package, or build your own. Starting characters get 30,000 ⌆
 
 | Face Package                                                    | Type         |
 | --------------------------------------------------------------- | ------------ |
-| [Comms (Level 1)](/../Cybernetic_Augmentations/Aug_Comms)         | Augment      |
-| [Salvati Carino 9mm](/../Firearms/Firearms_LP_Salvati_Carino_9mm) | Light Pistol |
-| [Leather Jacket](/../Gear/Armor_Leather_Jacket)                   | Armor        |
-| [Wardrobe, Basic (Choose One](/../Gear/Gear_Wardrobe_Basic)       | Wardrobe     |
-| [Fiesta Fortuna](/../Gear/Vehicle_Fiesta_Fortuna)                 | Vehicle      |
-| [Middle Lifestyle](/../Gear/Lifestyle_Middle)                     | Lifestyle    |
+| [Comms (Level 1)](../Cybernetic_Augmentations/Aug_Comms\.md)         | Augment      |
+| [Salvati Carino 9mm](../Firearms/Firearms_LP_Salvati_Carino_9mm\.md) | Light Pistol |
+| [Leather Jacket](../Gear/Armor_Leather_Jacket\.md)                   | Armor        |
+| [Wardrobe, Basic (Choose One](../Gear/Gear_Wardrobe_Basic\.md)       | Wardrobe     |
+| [Fiesta Fortuna](../Gear/Vehicle_Fiesta_Fortuna\.md)                 | Vehicle      |
+| [Middle Lifestyle](../Gear/Lifestyle_Middle\.md)                     | Lifestyle    |
 
 ## Medic
 
@@ -72,11 +72,11 @@ Choose a starting package, or build your own. Starting characters get 30,000 ⌆
 
 | Medic Package                                                       | Type         |
 | ------------------------------------------------------------------- | ------------ |
-| [Stun Baton](/../Melee_Weapons/Melee_Stun_Baton)                      | Melee        |
-| [EZTech Punisher Lite](/../Firearms/Firearms_LP_EZTech_Punisher_Lite) | Light Pistol |
-| [Soft Armor](/../Gear/Armor_Soft_Armor)                               | Armor        |
-| [Doc-in-a-Box](/../Gear/Gear_Doc_in_a_Box)                            | Medical      |
-| [Middle Lifestyle](/../Gear/Lifestyle_Middle)                         | Lifestyle    |
+| [Stun Baton](../Melee_Weapons/Melee_Stun_Baton\.md)                      | Melee        |
+| [EZTech Punisher Lite](../Firearms/Firearms_LP_EZTech_Punisher_Lite\.md) | Light Pistol |
+| [Soft Armor](../Gear/Armor_Soft_Armor\.md)                               | Armor        |
+| [Doc-in-a-Box](../Gear/Gear_Doc_in_a_Box\.md)                            | Medical      |
+| [Middle Lifestyle](../Gear/Lifestyle_Middle\.md)                         | Lifestyle    |
 
 ## Driver
 
@@ -84,12 +84,12 @@ Choose a starting package, or build your own. Starting characters get 30,000 ⌆
 
 | Driver Package                                                     | Type         |
 | ------------------------------------------------------------------ | ------------ |
-| [Comms (Level 1)](/../Cybernetic_Augmentations/Aug_Comms)            | Augment      |
-| [Ranco .357 Equalizer](/../Firearms/Firearms_HP_Ranco_357_Equalizer) | Heavy Pistol |
-| [Leather Jacket](/../Gear/Armor_Leather_Jacket)                      | Armor        |
-| [Wolff Horizon](/../Gear/Vehicle_Wolff_Horizon)                      | Vehicle      |
-| [Parking Space](/../Gear/Lifestyle_Parking_Space)                    | Lifestyle    |
-| [Low Lifestyle](/../Gear/Lifestyle_Low)                              | Lifestyle    |
+| [Comms (Level 1)](../Cybernetic_Augmentations/Aug_Comms\.md)            | Augment      |
+| [Ranco .357 Equalizer](../Firearms/Firearms_HP_Ranco_357_Equalizer\.md) | Heavy Pistol |
+| [Leather Jacket](../Gear/Armor_Leather_Jacket\.md)                      | Armor        |
+| [Wolff Horizon](../Gear/Vehicle_Wolff_Horizon\.md)                      | Vehicle      |
+| [Parking Space](../Gear/Lifestyle_Parking_Space\.md)                    | Lifestyle    |
+| [Low Lifestyle](../Gear/Lifestyle_Low\.md)                              | Lifestyle    |
 
 ## Drone Operator
 
@@ -97,11 +97,11 @@ Choose a starting package, or build your own. Starting characters get 30,000 ⌆
 
 | Drone Operator Package                                                  | Type         |
 | ----------------------------------------------------------------------- | ------------ |
-| [Control Port](/../Cybernetic_Augments/Aug_Control_Port)                  | Augment      |
-| [Gauss Firefly](/../Gear/Drone_Gauss_Firefly)                             | Drone        |
-| [Gauss Hornet](/../Gear/Drone_Gauss_Hornet)                               | Drone        |
-| [Yoshioka Night Runner](/../Gear/Gear_Control_Deck_Yoshioka_Night_Runner) | Control Deck |
-| [Street Lifestyle](/../Gear/Lifestyle_Street)                             | Lifestyle    |
+| [Control Port](../Cybernetic_Augments/Aug_Control_Port\.md)                  | Augment      |
+| [Gauss Firefly](../Gear/Drone_Gauss_Firefly\.md)                             | Drone        |
+| [Gauss Hornet](../Gear/Drone_Gauss_Hornet\.md)                               | Drone        |
+| [Yoshioka Night Runner](../Gear/Gear_Control_Deck_Yoshioka_Night_Runner\.md) | Control Deck |
+| [Street Lifestyle](../Gear/Lifestyle_Street\.md)                             | Lifestyle    |
 
 
 <div class="next-step-container"> <a href="../Char_CC7_Finishing_Touches/" class="button"> <span class="button-label">Next:</span> <span class="button-title">7. Finishing Touches ❯</span> </a> </div>

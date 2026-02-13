@@ -2,7 +2,7 @@
 
 | Difficulty Level (DL) | Skill   | Keywords        |
 | --------------------- | ------- | --------------- |
-| Hard (20)             | Culture | [[Concentrate](/../Keywords/Keyword_Concentrate)] |
+| Hard (20)             | Culture | [[Concentrate](../Keywords/Keyword_Concentrate\.md)] |
 
 *You know where to go and what to do to survive on the street.* 
 
@@ -10,7 +10,7 @@ When you use Street Culture, you ask the GM a question related to gangs (colors,
 
 | Outcome      | Description                                                                                |
 | ------------ | ------------------------------------------------------------------------------------------ |
-| Cool Success | The GM answers the question and you gain a [[Secret](/../Keywords/Keyword_Secret)]         |
+| Cool Success | The GM answers the question and you gain a [[Secret](../Keywords/Keyword_Secret\.md)]         |
 | Success      | The GM answers the question                                                                |
-| Fade         | The GM answers the question and you gain a [[Bad Memory](/../Keywords/Keyword_Bad_Memory)] |
+| Fade         | The GM answers the question and you gain a [[Bad Memory](../Keywords/Keyword_Bad_Memory\.md)] |
 | Glitch       | You don't know and you gain a \[Bad Memory\]                                               |

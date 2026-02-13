@@ -4,27 +4,27 @@ When the GM determines that a roll is necessary, follow the steps below.
 
 1. **Skill** - First, identify the skill to use based on what the character is trying to do. For example, use the Firearms skill to shoot a gun and the Athletics skill to make a running jump. If you have a bonus in the selected skill, it is added to your roll.
    
-2. **Ability Score** - The skill determines the [ability score](/../Characters/Char_Abilities_and_Ability_Scores) to use for the roll. For example, the Firearms skill uses Agility. You will add this ability score to your roll. 
+2. **Ability Score** - The skill determines the [ability score](../Characters/Char_Abilities_and_Ability_Scores.md) to use for the roll. For example, the Firearms skill uses Agility. You will add this ability score to your roll. 
    
-3. **Trick** - Determine which of the skill's tricks to use. You can use any of the skill's [core tricks](/../Keywords/Keyword_Core_Trick) or a [signature trick](/../Keywords/Keyword_Signature_Trick) if you know one that applies. If you want to do something these rules don't cover, your GM may allow it as an [improvised trick](/../Keywords/Keyword_Improvised_Trick).
+3. **Trick** - Determine which of the skill's tricks to use. You can use any of the skill's [core tricks](../Keywords/Keyword_Core_Trick.md) or a [signature trick](../Keywords/Keyword_Signature_Trick.md) if you know one that applies. If you want to do something these rules don't cover, your GM may allow it as an [improvised trick](../Keywords/Keyword_Improvised_Trick.md).
    
-4. **Difficulty Level** - The trick specifies the [Difficulty Level](/../PtG_Difficulty_Level) for the roll. The GM adjusts the Difficulty Level up or down, as described in [Adjusting the Difficulty Level](/../PtG_Adjusting_the_Difficulty_Level). 
+4. **Difficulty Level** - The trick specifies the [Difficulty Level](../PtG_Difficulty_Level.md) for the roll. The GM adjusts the Difficulty Level up or down, as described in [Adjusting the Difficulty Level](../PtG_Adjusting_the_Difficulty_Level.md). 
    
 5. **Roll 2d10** - Roll 2d10 (two ten-sided dice) and sum them together. For example, if you rolled a 2 on one die and a 9 on the other die, you would have rolled 11.
 
-6. **Ability Score and Skill Bonus** - Add the primary ability score based for the skill you're using. If you have a [skill bonus](/../Keywords/Keyword_Skill_Bonus), add that too. For example, the Firearms skill is associated with Agility. If your character has an Agility score of 3 and a +1 skill bonus in Firearms, you would add +4 to your Firearms roll.
+6. **Ability Score and Skill Bonus** - Add the primary ability score based for the skill you're using. If you have a [skill bonus](../Keywords/Keyword_Skill_Bonus.md), add that too. For example, the Firearms skill is associated with Agility. If your character has an Agility score of 3 and a +1 skill bonus in Firearms, you would add +4 to your Firearms roll.
 
-7. **Gear and Aug Bonuses** - If you have a [gear bonus](/../Keywords/Keyword_Gear_Bonus) from a piece of equipment or an [aug bonus](/../Keywords/Keyword_Aug_Bonus) from a cybernetic augmentation or psionic mutation, add those as well. For example, using a laser sight grants a +1 gear bonus to Firearms rolls. Bonuses of the same type do not stack, as described below.
+7. **Gear and Aug Bonuses** - If you have a [gear bonus](../Keywords/Keyword_Gear_Bonus.md) from a piece of equipment or an [aug bonus](../Keywords/Keyword_Aug_Bonus.md) from a cybernetic augmentation or psionic mutation, add those as well. For example, using a laser sight grants a +1 gear bonus to Firearms rolls. Bonuses of the same type do not stack, as described below.
    
 8. **Result of the Roll** - The sum of your dice roll, plus your ability score and your bonuses is called the result. 
    
-9. **Luck Bonus** - After you roll the dice and determine the result, you can spend a [Luck Point](/../PtG_Luck_Points) to add a [Luck Bonus](/../Keywords/Keyword_Luck_Bonus) to the result. 
+9. **Luck Bonus** - After you roll the dice and determine the result, you can spend a [Luck Point](../PtG_Luck_Points.md) to add a [Luck Bonus](../Keywords/Keyword_Luck_Bonus.md) to the result. 
    
 10. **Outcome** - Compare the result to the outcomes chart in the description of the trick you used to determine what happens. 
 
 | Making a Roll                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2d10 + [Ability Score](/../Characters/Char_Abilities_and_Ability_Scores) + [Skill Bonus](/../Keywords/Keyword_Skill_Bonus) + [Gear Bonus](/../Keywords/Keyword_Gear_Bonus) + [Aug Bonus](/../Keywords/Keyword_Aug_Bonus) = Result (+ [Luck Bonus](/../Keywords/Keyword_Luck_Bonus)) |
+| 2d10 + [Ability Score](../Characters/Char_Abilities_and_Ability_Scores\.md) + [Skill Bonus](../Keywords/Keyword_Skill_Bonus\.md) + [Gear Bonus](../Keywords/Keyword_Gear_Bonus\.md) + [Aug Bonus](../Keywords/Keyword_Aug_Bonus\.md) = Result (+ [Luck Bonus](../Keywords/Keyword_Luck_Bonus\.md)) |
 ### Stacking Bonuses
 
 For any roll, you add at most one **ability score**, one **skill bonus**, one **gear bonus**, one **aug bonus**, and one **luck bonus**. You always add one ability score, but you might not have all (or any) of these bonuses.

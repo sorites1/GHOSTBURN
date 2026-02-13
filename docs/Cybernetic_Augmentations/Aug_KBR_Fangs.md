@@ -8,4 +8,4 @@
 
 You can extend and retract KBR Fangs for free (0 AP).
 
-When you use a Brawl trick and score a Success or Cool Success, you may choose to bite the target with your KBR Fangs for free (0 AP). A bite automatically deals 1 [[Absolute Damage](/../Keywords/Keyword_Absolute_Damage)] and gives the target [[Bleeding](/../Conditions/Condition_Bleeding)].
+When you use a Brawl trick and score a Success or Cool Success, you may choose to bite the target with your KBR Fangs for free (0 AP). A bite automatically deals 1 [[Absolute Damage](../Keywords/Keyword_Absolute_Damage.md)] and gives the target [[Bleeding](../Conditions/Condition_Bleeding.md)].

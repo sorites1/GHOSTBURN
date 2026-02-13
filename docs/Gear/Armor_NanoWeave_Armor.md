@@ -2,4 +2,4 @@
 
 |   Cost   | Armor           | Rated Against                                                                            | Keywords                                                                                 |
 | :------: | --------------- | :--------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 15,000 ⌆ | NanoWeave Armor | [[Blades](/../Keywords/Keyword_Blades)], [[Small Arms](/../Keywords/Keyword_Small_Arms)] | [[Armor](/../Keywords/Keyword_Armor)], [[Concealable](/../Keywords/Keyword_Concealable)] |
+| 15,000 ⌆ | NanoWeave Armor | [[Blades](../Keywords/Keyword_Blades\.md)], [[Small Arms](../Keywords/Keyword_Small_Arms\.md)] | [[Armor](../Keywords/Keyword_Armor\.md)], [[Concealable](../Keywords/Keyword_Concealable\.md)] |
