@@ -16,6 +16,7 @@ theme:
   features:
   - navigation.indexes
   - navigation.tabs
+  - navigation.tabs.sticky
   - navigation.sections
   - search.suggest
   - content.code.copy
@@ -525,8 +526,8 @@ nav:
     - 3. Difficulty Level: Playing_the_Game/Rolling_the_Dice/Difficulty_Level.md
     - 4. Adjusting the Difficulty Level: Playing_the_Game/Rolling_the_Dice/Adjusting_the_Difficulty_Level.md
     - 5. Outcomes: Playing_the_Game/Rolling_the_Dice/Outcomes.md
-    - 7. Damage Array: Playing_the_Game/Rolling_the_Dice/Damage_Array.md
-    - 6. Luck Points: Playing_the_Game/Rolling_the_Dice/Luck_Points.md
+    - 6. Damage Array: Playing_the_Game/Rolling_the_Dice/Damage_Array.md
+    - 7. Luck Points: Playing_the_Game/Rolling_the_Dice/Luck_Points.md
   - ⚏ The Flow of the Game:
     - 1. Round Robin: Playing_the_Game/Flow_of_the_Game/Round_Robin.md
     - 2. Turn Order: Playing_the_Game/Flow_of_the_Game/Turn_Order.md
