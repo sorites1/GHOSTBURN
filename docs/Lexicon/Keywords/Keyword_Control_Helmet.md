@@ -1,0 +1,3 @@
+# Control Helmet
+
+A helmet designed for use with a [[Control Deck](../../Lexicon/Keywords/Keyword_Control_Deck.md)], often stylized with an opaque visor. A \[Control Helmet\] is [[Incompatible](../../Lexicon/Keywords/Keyword_Incompatible.md)] with the [[Cybernetic_Augments/Aug_Control_Port|Control Port]] augment. That is, if you have a \[Control Port\] augment, you have no need for a \[Control Helmet\].

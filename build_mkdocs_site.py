@@ -40,9 +40,8 @@ def main():
     scripts = [
         '0_delete_folders.py',
         '1_obsidian_copy_to_docs.py',
-        '2_obsidian_mkdocs_converter_nocopy_v5.py',
-        '3_obsidian_fix_table_links.py',
-        '4_obsidian_image_converter.py'
+        '2_convert_obsidian_links_to_mkdocs_links.py',
+        '3_convert_obsidian_images_to_mkdocs_images.py'
     ]
     
     # Run each script

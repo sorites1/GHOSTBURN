@@ -1,0 +1,13 @@
+# Gunwires \[Augment\]
+
+*Gunwires run from a contact pad installed in the palm of your hand, up the arm, to your brainstem. When paired with a compatible firearm, Gunwires use data from your weapon to provide aim assistance.*
+
+|   Cost   | Augment  | Mesh Cost | Keywords                                                                                                                                                                   |
+| :------: | -------- | :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 20,000 ⌆ | Gunwires |     2     | [[Aug Bonus](../../../Lexicon/Keywords/Keyword_Aug_Bonus.md)], [[Mod](../../../Lexicon/Keywords/Keyword_Mod.md)], [[One Hand](../../../Lexicon/Keywords/Keyword_One_Hand.md)], [[Physical](../../../Lexicon/Keywords/Keyword_Physical.md)] |
+
+Gunwires allows you to get the +2 [[Gear Bonus](../../../Lexicon/Keywords/Keyword_Gear_Bonus.md)] to Firearms granted by a weapon's [[Gunwire Grip](../../../Gear_and_Augments/Firearms/Firearms_Mods/Gunwire_Grip.md)]. 
+
+If you have [Cybernetic Eyes](../../../Gear_and_Augments/Augments/Body_Augments/Cybernetic_Eye.md) installed, Gunwires grant a +1 [[Aug Bonus](../../../Lexicon/Keywords/Keyword_Aug_Bonus.md)] to Firearms. This bonus is not dependent upon the weapon having a \[Gunwire Grip\].
+
+Gunwires can be installed as a [[Mod](../../../Lexicon/Keywords/Keyword_Mod.md)] in the [Cybernetic Arm](../../../Gear_and_Augments/Augments/Body_Augments/Cybernetic_Arm.md) augment.

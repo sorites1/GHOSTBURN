@@ -1,0 +1,3 @@
+# Strap In
+
+When you \[Strap In\], you get into the driver's seat of a vehicle equipped with an onboard \[[[Lexicon/Keywords/Keyword_Control_Deck|Control Deck]]\], and you connect it to the [[Cybernetic_Augments/Aug_Control_Port|Control Port]] augment in the back of your head. In this configuration, you use your body, your arms and legs, your eyes and ears, just like an unaugmented driver, but your movements and senses are enhanced, supercharged, by the vehicle's \[Control Deck\]. Data bleeds into your view of the street. Digital timers, targeting reticules, and distance markers litter your view, yet somehow your brain absorbs the information they provide, improving your performance. 

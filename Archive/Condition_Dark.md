@@ -2,6 +2,6 @@
 
 **Cause:** When darkness makes it very difficult (but not impossible) to see, it is \[Dark\].
 
-**Effect:** Anyone in the \[Dark\] has \[[[Conditions/Condition_Concealment_Total|Concealment, Total]]\] to you.
+**Effect:** Anyone in the \[Dark\] has \[[[Lexicon/Conditions/Condition_Concealment_Total|Concealment, Total]]\] to you.
 
 **Removal:** When the area is illuminated, it loses \[Dark\].

@@ -1,0 +1,7 @@
+# Aug Blade
+
+\[Aug Blade] is a [[Weapon Type](../../Lexicon/Keywords/Keyword_Weapon_Types.md)]. It belongs to the [[Bladed](../../Lexicon/Keywords/Keyword_Blades.md)] weapon group. The \[Aug Blade\] weapon type includes the following keywords: [[Brawl](../../Lexicon/Keywords/Keyword_Brawl.md)], [[Melee](../../Lexicon/Keywords/Keyword_Melee.md)], [[One Hand](../../Lexicon/Keywords/Keyword_One_Hand.md)], and [[Physical](../../Lexicon/Keywords/Keyword_Physical.md)]. 
+
+Weapons with this \[Weapon Type\] use the Brawl skill to [[Attack](../../Lexicon/Keywords/Keyword_Attack.md)], but they use the Melee [Damage Array](../../Playing_the_Game/Rolling_the_Dice/Damage_Array.md) and can only use tricks from the Melee skill. 
+
+For example, the [TGR Claws](../../Gear_and_Augments/Augments/Combat_Augments/TGR_Claws.md) augment is classified as an \[Aug Blade\]. To make an \[Attack\], you would [Make a Roll](../../Playing_the_Game/Rolling_the_Dice/Making_a_Roll.md) using Brawl, but you would not use the [Unarmed Strike](../../Skills_and_Tricks/Brawl/Unarmed_Strike.md) trick. Instead, you would choose from the tricks found in the Melee skill, such as [Melee Strike](../../Skills_and_Tricks/Melee/Melee_Strike.md), [Dazzling Strike](../../Skills_and_Tricks/Melee/Dazzling_Strike.md), or [Leaping Strike](../../Skills_and_Tricks/Melee/Leaping_Strike.md).

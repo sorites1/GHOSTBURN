@@ -1,0 +1,5 @@
+# Scope
+
+A \[Scope\] extends the effective [[Optimal Range](../../../Lexicon/Keywords/Keyword_Optimal_Range.md)] of a [[Firearm](../../../Lexicon/Keywords/Keyword_Firearm.md)] and helps you hit distant targets. A \[Scope\] can only be attached to a Heavy Pistol or Rifle. When you use a weapon with a \[Scope\] to make an [[Attack](../../../Lexicon/Keywords/Keyword_Attack.md)], the weapon's \[Optimal Range\] extends to include the next farther \[Range\]. If the weapon's \[Optimal Range\] is already [[Far](../../../Lexicon/Keywords/Keyword_Far.md)], then a \[Scope\] extends its \[Optimal Range\] to include targets beyond \[Far\] range. This is the only way to make an \[Attack\] on a target at extreme distances beyond \[Far\] range.
+
+For example, a Ranco .357 Equalizer has an \[Optimal Range\] of [[Nearby](../../../Lexicon/Keywords/Keyword_Nearby.md)]. Attaching a \[Scope\] to this weapon would mean \[Nearby\] and \[Far\] are both treated as being at \[Optimal Range\]. A Salvati Duro Carbine has an \[Optimal Range\] of \[Far\], so its \[Scope\] means a target at \[Far\] \[Range\] or beyond would be treated as being in \[Optimal Range\].

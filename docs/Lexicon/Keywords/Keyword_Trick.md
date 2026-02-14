@@ -1,0 +1,3 @@
+# Trick
+
+A trick is a specific use of a skill. Each skill includes [[Core Tricks](../../Lexicon/Keywords/Keyword_Core_Trick.md)] and [[Signature Tricks](../../Lexicon/Keywords/Keyword_Signature_Trick.md)] Core tricks and signature tricks include their own rules and their own outcomes. When a player wants to try something not covered by the rules, the GM can allow it as an [[Improvised Trick](../../Lexicon/Keywords/Keyword_Improvised_Trick.md)]. 

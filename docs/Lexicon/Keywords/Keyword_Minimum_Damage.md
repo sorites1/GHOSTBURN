@@ -1,0 +1,3 @@
+# Minimum Damage
+
+In a [[Damage Array](../../Lexicon/Keywords/Keyword_Damage_Array.md)], the first number listed is the \[Minimum Damage\] value, also known as base damage. For example, in the \[Damage Array\], 5/10/25, the 5 is the \[Minimum Damage\] value.

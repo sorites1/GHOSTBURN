@@ -1,0 +1,5 @@
+# Recoil
+
+A \[[[Lexicon/Keywords/Keyword_Firearm|Firearm]]\] with \[Recoil\] is more difficult to shoot multiple times on the same turn. When you use a weapon with \[Recoil\], every \[[[Lexicon/Keywords/Keyword_Attack|Attack]]\] you make beyond the first with the same weapon on the same turn has its [[Playing_the_Game/Rolling_the_Dice/Difficulty_Level|Difficulty Level]] raised by one. This DL increase is cumulative. \[Recoil\] is a \[[[Lexicon/Keywords/Keyword_Weapon_Types|Weapon Type]]\] characteristic and is found on Heavy Pistols, Rifles, Shotguns, and SMGs. 
+
+For example, the Desert Viper is a Heavy Pistol, which means it has the \[Recoil\] trait. The first shot with the Desert Viper using the [[Single_Shot|Single Shot]] trick has a DL of Moderate (14). The second shot (with Single Shot) on the same turn has a DL of Hard (20), and the third shot has a DL of Severe (26). 

@@ -1,0 +1,3 @@
+# Folding Stock
+
+A \[Folding Stock\] is built into or attached to a firearm and helps reduce [[Recoil](../../../Lexicon/Keywords/Keyword_Recoil.md)]. It can be deployed or folded in combat by spending 1 AP. When deployed, your second [[Attack](../../../Lexicon/Keywords/Keyword_Attack.md)] with the same weapon on the same turn ignores \[Recoil\]. If you make a third \[Attack\], \[Recoil\] is applied. If a weapon with a \[Folding Stock\] is also [[Concealable](../../../Lexicon/Keywords/Keyword_Concealable.md)], it loses the \[Concealable\] quality while the \[Folding Stock\] is deployed. \[Folding Stock\] does not stack with [[Gas Vents](../../../Gear_and_Augments/Firearms/Firearms_Mods/Gas_Vents.md)].

@@ -1,0 +1,3 @@
+# Out of Ammo
+
+Some tricks result in you running \[Out of Ammo\] on a Face or Glitch. If you are using a [[Firearm](../../Lexicon/Keywords/Keyword_Firearm.md)] when you run \[Out of Ammo\], you must spend 1 AP to use that weapon again. If you are controlling a [[Drone](../../Lexicon/Keywords/Keyword_Drone.md)] when you run \[Out of Ammo\], you must recover the drone and then spend 1 AP to use its weapon again.

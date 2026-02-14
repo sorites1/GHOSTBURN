@@ -1,0 +1,5 @@
+# Hard Armor \[Armor\]
+
+|   Cost   | Armor      | Rated Against                                                                                                                                                                        | Keywords                                                                                                 |
+| :------: | ---------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 15,000 ⌆ | Hard Armor | \[[[Lexicon/Keywords/Keyword_Blades\|Blades]]\], \[[[Lexicon/Keywords/Keyword_Blunt_Force\|Blunt Force]]\], \[[[Lexicon/Keywords/Keyword_Small_Arms\|Small Arms]]\], \[[[Lexicon/Keywords/Keyword_Rifles\|Rifles]]\] | \[[[Lexicon/Keywords/Keyword_Armor\|Armor]]\], \[[[Lexicon/Conditions/Condition_Movement_Impaired\|Movement Impaired]]\] |

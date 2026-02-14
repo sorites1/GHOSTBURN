@@ -1,3 +1,0 @@
-# Bad Memory
-
-Some tricks give you a \[Bad Memory\] when you roll a Fade or Glitch. As long as you hold onto that \[Bad Memory\], you are \[[[Conditions/Condition_Preoccupied|Preoccupied]]\]. To get rid of the \[Bad Memory\], you must describe it (make it up) and share it with the group on your turn. Your \[Bad Memory\] will ideally be related to your Background, Burn, or Hook. You are not required to share the \[Bad Memory\] in character, and you are free to solicit ideas and help from the GM or the other players. The idea is that \[Bad Memory\] offers an opportunity to share a moment from your character's backstory. Players and GMs should refrain from straying into topics or themes that other players may find uncomfortable.

@@ -6,7 +6,7 @@ from pathlib import Path
 VAULT_PATH = Path(r"C:\GHOSTBURN_2325")
 DOCS_FOLDER = VAULT_PATH / "docs"
 
-EXCLUDED_FOLDERS = {".git", ".obsidian", "Archive", "docs"}
+EXCLUDED_FOLDERS = {".git", ".obsidian", "Archive", "docs", "site"}
 EXCLUDED_FILES = {".gitignore"}
 EXCLUDED_EXTENSIONS = {".py"}
 

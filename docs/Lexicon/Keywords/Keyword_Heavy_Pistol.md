@@ -1,0 +1,3 @@
+# Heavy Pistol
+
+\[Heavy Pistol\] is a [[Weapon Type](../../Lexicon/Keywords/Keyword_Weapon_Types.md)]. It belongs to the \[[[Keywords/Keyword_Heavy_Arms|Heavy Arms]]\] weapon group. The \[Heavy Pistol\] weapon type includes the following keywords: [[Firearm](../../Lexicon/Keywords/Keyword_Firearm.md)], [[One Hand](../../Lexicon/Keywords/Keyword_One_Hand.md)]. [[Recoil](../../Lexicon/Keywords/Keyword_Recoil.md)], and [[Two-Handed Grip](../../Lexicon/Keywords/Keyword_Two_Handed_Grip.md)].

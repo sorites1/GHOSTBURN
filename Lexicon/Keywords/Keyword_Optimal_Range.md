@@ -1,0 +1,3 @@
+# Optimal Range
+
+A \[[[Lexicon/Keywords/Keyword_Firearm|Firearm]]\] has an attribute called \[Optimal Range\]. A weapon's \[Optimal Range\] is one of the \[[[Lexicon/Keywords/Keyword_Range|Range]]\] values: \[[[Lexicon/Keywords/Keyword_Close|Close]]\], \[[[Lexicon/Keywords/Keyword_Nearby|Nearby]]\], and \[[[Lexicon/Keywords/Keyword_Far|Far]]\]. If you make an \[[[Lexicon/Keywords/Keyword_Attack|Attack]]\] against a target at a \[Range\] other than the \[Optimal Range\], raise the DL by one for each range increment the target is away from the \[Optimal Range\]. For example, if your weapon has an \[Optimal Range\] of \[Far\], and you try to hit a target that is \[Nearby\], the DL is raised by one. To hit a target that is \[Close\] would mean the DL is raised by two.

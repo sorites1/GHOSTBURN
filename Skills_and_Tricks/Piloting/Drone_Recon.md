@@ -1,0 +1,16 @@
+# Drone Recon \[Core Trick\]
+
+| Difficulty Level (DL)                       | Skill    | Keywords                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \[[[Lexicon/Keywords/Keyword_Security\|Security]]\] | Piloting | \[[[Lexicon/Keywords/Keyword_Concentrate\|Concentrate]]\], \[[[Lexicon/Keywords/Keyword_Control_Deck\|Control Deck]]\], \[[[Lexicon/Keywords/Keyword_Drone\|Drone]]\], \[[[Lexicon/Keywords/Keyword_Fly\|Fly]]\], \[[[Lexicon/Keywords/Keyword_Range\|Range]]\], \[[[Lexicon/Keywords/Keyword_Physical\|Physical]]\], \[[[Lexicon/Keywords/Keyword_Two_Hands\|Two Hands]]\], \[[[Lexicon/Keywords/Keyword_Visual\|Visual]]\], \[[[Lexicon/Keywords/Keyword_Wireless\|Wireless]]\] |
+
+*Sitting on the side of the road, you remotely pilot a drone and use it to collect intel on your target.*
+
+When you use Drone Recon, describe a location \[[[Lexicon/Keywords/Keyword_Far|Far]]\] away and state the scope of your search. For example, *I want to fly up to the 38th floor and see if I can find the room we're looking for*, or *I want to do a flyover of the junkyard and see where the gang's guards are stationed*. The Difficulty Level is based on the \[[[Lexicon/Keywords/Keyword_Security|Security]]\] of the airspace you are entering to perform your search. 
+
+| Outcome      | Description                                                                                                                                                                                  |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cool Success | You \[Fly\] the \[Drone\] \[Far\], the GM tells you what you find, and you learn a \[[[Lexicon/Keywords/Keyword_Secret\|Secret]]\]                                                                   |
+| Success      | You \[Fly\] the \[Drone\] \[Far\] and the GM tells you what you find                                                                                                                         |
+| Fade         | You \[Fly\] the \[Drone\] \[Far\], the GM tells you what you find, and you have \[[[Lexicon/Conditions/Condition_Stress\|Stress]]\] vs. \[[[Lexicon/Keywords/Keyword_Security\|Security]]\]                  |
+| Glitch       | You \[Fly\] the \[Drone\] \[[[Lexicon/Keywords/Keyword_Nearby\|Nearby]]\], it triggers a \[[[Lexicon/Keywords/Keyword_Security_Alert\|Security Alert]]\], and is \[[[Lexicon/Conditions/Condition_Jammed\|Jammed]]\] |

@@ -1,0 +1,3 @@
+# Short Blade
+
+\[Short Blade] is a [[Weapon Type](../../Lexicon/Keywords/Keyword_Weapon_Types.md)]. It belongs to the [[Bladed](../../Lexicon/Keywords/Keyword_Blades.md)] weapon group. The \[Short Blade\] weapon type includes the following keywords: [[Concealable](../../Lexicon/Keywords/Keyword_Concealable.md)], [[Melee](../../Lexicon/Keywords/Keyword_Melee.md)], and [[One Hand](../../Lexicon/Keywords/Keyword_One_Hand.md)]. 

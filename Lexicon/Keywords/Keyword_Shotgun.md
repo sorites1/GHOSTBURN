@@ -1,0 +1,3 @@
+# Shotgun
+
+\[Shotgun\] is a \[[[Lexicon/Keywords/Keyword_Weapon_Types|Weapon Type]]\]. It belongs to the \[[[Lexicon/Keywords/Keyword_Small_Arms|Light Arms]]\] weapon group. The \[Shotgun\] weapon type includes the following keywords: \[[[Lexicon/Keywords/Keyword_Firearm|Firearm]]\], \[[[Lexicon/Keywords/Keyword_Recoil|Recoil]]\], \[[[Lexicon/Keywords/Keyword_Spread|Spread]]\], and \[[[Lexicon/Keywords/Keyword_Two_Hands|Two Hands]]\].

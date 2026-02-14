@@ -1,0 +1,5 @@
+# Fiesta Fortuna \[Vehicle\]
+
+|   Cost   | Vehicle        | Type  | Top Speed                                                | Handling | Stability     | Security | Structure | Keywords |
+| :------: | -------------- | ----- | -------------------------------------------------------- | -------- | ------------- | -------- | --------- | -------- |
+| 14,000 ⌆ | Fiesta Fortuna | Sedan | 235 kph, [[High Speed](../../../Lexicon/Keywords/Keyword_High_Speed.md)] | Poor     | Moderate (14) | Easy (8) | 45 HP     | -        |
