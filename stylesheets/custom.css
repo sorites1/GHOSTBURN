@@ -719,3 +719,12 @@ body, .md-container, .md-main {
     font-size: 20px !important; 
     color: red !important;
 }
+
+/* Keep site name visible even when scrolling */
+.md-header__topic:first-child {
+  display: block !important;
+}
+
+.md-header__topic:last-child {
+  display: none !important;
+}
