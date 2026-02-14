@@ -399,10 +399,10 @@ body, .md-container, .md-main {
 
 /* Container to push button to the bottom right */
 .next-step-container {
-    display: flex;
-    justify-content: flex-end;
-    margin-top: 4rem;
-    margin-bottom: 2rem;
+    justify-content: center; 
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding: 0 1rem;
 }
 
 /* Button Styling */
@@ -499,6 +499,10 @@ body, .md-container, .md-main {
         padding: 0.3rem 0.8rem; 
         margin-top: 1rem;
     }
+
+    .md-content {
+        padding-right: 0.8rem;
+    }
 }
 
 /* Smaller screens */
@@ -517,6 +521,10 @@ body, .md-container, .md-main {
         font-size: 0.75rem;
         letter-spacing: 1px;
         padding: 0.2rem 0.6rem;
+    }
+
+    .md-content {
+        padding-right: 0.8rem;
     }
 }
 
@@ -537,6 +545,10 @@ body, .md-container, .md-main {
         letter-spacing: 1px;
         padding: 0.2rem 0.6rem;
     }
+
+    .md-content {
+        padding-right: 0.8rem;
+    }
 }
 
 /* Smallest phones */
@@ -555,6 +567,10 @@ body, .md-container, .md-main {
         font-size: 0.7rem;
         letter-spacing: 0.8px;
         padding: 0.2rem 0.6rem;
+    }
+
+    .md-content {
+        padding-right: 0.8rem;
     }
 }
 
@@ -579,24 +595,21 @@ body, .md-container, .md-main {
     }
 }
 
-/* ==========================================
-   FIX 3: Next Button Positioning
-   ========================================== */
 
 /* Make the next button full-width and centered on mobile */
 @media screen and (max-width: 768px) {
     .next-step-container {
-        justify-content: center; /* Center instead of flex-end */
+        justify-content: center; 
         margin-top: 2rem;
         margin-bottom: 1rem;
-        padding: 0 1rem; /* Add some breathing room */
+        padding: 0 1rem;
     }
     
     .gbutton {
-        width: 100%; /* Full width on mobile */
-        max-width: 300px; /* But cap it so it doesn't get ridiculous */
+        width: 100%; 
+        max-width: 300px;
         padding: 1rem 1.5rem;
-        align-items: center; /* Center the text */
+        align-items: center; 
     }
     
     .button-label {
@@ -604,22 +617,18 @@ body, .md-container, .md-main {
     }
     
     .button-title {
-        font-size: 1rem; /* Slightly smaller */
+        font-size: 1rem; 
     }
 }
 
-/* ==========================================
-   FIX 4: Hero Image Containers
-   ========================================== */
-
-/* Reduce height of hero sections on mobile */
+/* Hero sections on mobile */
 @media screen and (max-width: 768px) {
     .index-hero-char, 
     .index-hero-gear, 
     .index-hero-skills, 
     .index-hero-keywords, 
     .index-hero-play {
-        height: 300px; /* Down from 450px */
+        height: 300px; 
         margin-bottom: 1rem;
     }
     
@@ -628,8 +637,8 @@ body, .md-container, .md-main {
     .index-hero-skills > .index-hero-title, 
     .index-hero-keywords > .index-hero-title, 
     .index-hero-play > .index-hero-title {
-        font-size: 1.8rem !important; /* Down from 2.5rem */
-        left: 1rem; /* Less left padding */
+        font-size: 1.8rem !important; 
+        left: 1rem; 
         bottom: 3%;
     }
 }
@@ -659,7 +668,7 @@ body, .md-container, .md-main {
 @media screen and (max-width: 768px) {
     /* Make headers more compact */
     .md-typeset h1 {
-        font-size: 0.7rem; /* Down from 1.1rem */
+        font-size: 0.9rem; /* Down from 1.1rem */
         letter-spacing: 1.5px; /* Down from 4px */
         padding: 0.3rem 0.8rem 0.3rem 0.2rem;
     }
@@ -704,29 +713,9 @@ body, .md-container, .md-main {
     }
 }
 
-/* ==========================================
-   OPTIONAL: Table Wrapper Helper Class
-   ========================================== */
-
-/* If you want to manually wrap specific tables for better mobile control,
-   add this class to a div around your table in your markdown:
-   
-   <div class="table-wrapper">
-   | Column 1 | Column 2 | Column 3 |
-   |----------|----------|----------|
-   | Data     | Data     | Data     |
-   </div>
-*/
-
-.table-wrapper {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    margin: 1rem 0;
-}
-
-@media screen and (max-width: 768px) {
-    .table-wrapper table {
-        min-width: 100%;
-        font-size: 0.7rem;
-    }
+.md-tooltip, 
+.md-tooltip__inner, 
+.md-tooltip .md-typeset {
+    font-size: 20px !important; 
+    color: red !important;
 }
