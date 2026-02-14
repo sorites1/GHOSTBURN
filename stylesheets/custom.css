@@ -459,7 +459,7 @@ body, .md-container, .md-main {
     background-color: rgba(0, 240, 255, 0.1) !important;
     color: #d9fdff !important;
     font-family: 'Roboto Mono', monospace;
-    font-size: 0.89rem;
+    font-size: 0.79rem;
     font-weight: bold;
     letter-spacing: 1px;
 }
@@ -471,7 +471,7 @@ body, .md-container, .md-main {
 
 /* Stylethe Callout text */
 .admonition.note p {
-    font-size: 0.85rem;
+    font-size: 0.75rem;
     font-family: 'Roboto Mono', monospace;
     color: #d9fdff;
 }
