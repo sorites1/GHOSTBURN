@@ -17,7 +17,6 @@ theme:
   - navigation.indexes
   - navigation.tabs
   - navigation.sections
-  - navigation.top
   - search.suggest
   - content.code.copy
   - toc.integrate
@@ -46,6 +45,9 @@ markdown_extensions:
 - pymdownx.tasklist:
     custom_checkbox: true
 - pymdownx.tilde
+copyright: Copyright &copy; 2026 Justin Smith
+extra:
+  generator: false
 plugins:
 - search:
     separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
