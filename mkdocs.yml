@@ -1,6 +1,6 @@
 site_name: GHOSTBURN
 site_description: GHOSTBURN System Reference Document 1.0
-site_url: https://sorites1.github.io/GHOSTBURN/
+site_url: https://ghostburnrpg.com/
 site_author: sorites
 docs_dir: docs/
 theme:
@@ -16,7 +16,6 @@ theme:
   features:
   - navigation.indexes
   - navigation.tabs
-  - navigation.tabs.sticky
   - navigation.sections
   - navigation.top
   - search.suggest
