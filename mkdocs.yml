@@ -67,12 +67,11 @@ nav:
   - Character Creation: 
     - Character Creation: Characters/Character_Creation/index.md  
     - 1. Background: Characters/Character_Creation/Background.md
-    - 1.1 Backgrounds List: Characters/Character_Creation/Backgrounds.md
+    - 1.1 Backgrounds List: Characters/Character_Creation/Backgrounds_List.md
     - 2. Burn and Hook: Characters/Character_Creation/Burn_and_Hook.md
-    - 2.1 Burns and Hooks: Characters/Character_Creation/Burns_and_Hooks.md
+    - 2.1 Burns and Hooks List: Characters/Character_Creation/Burns_and_Hooks_List.md
     - 3. Contacts: Characters/Character_Creation/Contacts.md
     - 4. Ability Scores: Characters/Character_Creation/Ability_Scores.md
-    - 4.1 Abilities and Ability Scores: Characters/Character_Creation/Abilities_and_Ability_Scores.md
     - 5. Additional Skills: Characters/Character_Creation/Additional_Skills.md
     - 6. Starting Package: Characters/Character_Creation/Starting_Package.md
     - 7. Finishing Touches: Characters/Character_Creation/Finishing_Touches.md 
@@ -397,6 +396,8 @@ nav:
       - Windy: Lexicon/Conditions/Condition_Windy.md
       - Wounded: Lexicon/Conditions/Condition_Wounded.md
     - ⚏ Keywords:
+      - Abilities: Lexicon/Keywords/Keyword_Abilities.md
+      - Ability Score: Lexicon/Keywords/Keyword_Ability_Score.md
       - Absolute Damage: Lexicon/Keywords/Keyword_Absolute_Damage.md
       - Admin: Lexicon/Keywords/Keyword_Admin.md
       - Advanced Supplies: Lexicon/Keywords/Keyword_Advanced_Supplies.md
@@ -432,6 +433,7 @@ nav:
       - Drone: Lexicon/Keywords/Keyword_Drone.md
       - Enabled: Lexicon/Keywords/Keyword_Enabled.md
       - Encrypted Packages: Lexicon/Keywords/Keyword_Encrypted_Package.md
+      - Extra Luck: Lexicon/Keywords/Keyword_Extra_Luck.md
       - Far: Lexicon/Keywords/Keyword_Far.md
       - Fast: Lexicon/Keywords/Keyword_Fast.md
       - Fierce Look: Lexicon/Keywords/Keyword_Fierce_Look.md
