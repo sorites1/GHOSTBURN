@@ -1,26 +1,23 @@
 # 1. Background
 
-Refer to the [Backgrounds List](../../Characters/Character_Creation/Backgrounds.md) and choose one for your character. 
+[⇐ Back](../../Characters/Character_Creation/index.md) | [▌ 1.1 Backgrounds List ⇒](../../Characters/Character_Creation/Backgrounds_List.md)
 
-Your background describes who your character used to be and includes a culture, favored skill, and an additional benefit.
+---
 
-## Background Name
+Refer to the **[Backgrounds List](../../Characters/Character_Creation/Backgrounds_List.md)** and choose one for your character.
 
-Write the name of your background in the space labeled Background on your character sheet.
+Write the name of your background in the space at the top of your character sheet.
 
-## Culture
+Your background describes who your character used to be and includes a **Culture** and a **Favored Skill**.
 
-Your background gives you one Culture (Corporate, Milsec, Street, or Underworld). Write a +1 in the box next to your Culture in the Cultures section at the bottom of the character sheet.
+| Culture                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Your background gives you one Culture (Corporate, Milsec, Street, or Underworld). Write a +1 in the box next to your **Culture** in the Cultures section at the bottom of the character sheet. |
 
-## Favored Skill
+| Favored Skill                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Your background gives you one favored skill. Fill in the diamond symbol (◇) next to the skill name on your character sheet to indicate it as a favored skill, and write +1 in its skill bonus box. |
 
-Your background gives you one favored skill. Fill in the diamond symbol (◇) next to the skill name on your character sheet to indicate it as a favored skill, and write +1 in its skill bonus box.
 
-!!! note "[INFO\] //Favored Skills"
-    It costs fewer XP to improve favored skills and to purchase signature tricks for your favored skills than it does for non-favored skills.
-
-## Additional Benefit
-
-Your background also gives you an additional benefit, which varies from one background to another. Your background may give you a piece of Gear, a Cybernetic Augment, a Signature Trick, or even a bit of Extra Luck. Write the additional benefit on your character sheet in the appropriate area. 
-
-<div class="next-step-container"> <a href="../Char_CC2_Burn_and_Hook/" class="button"> <span class="button-label">Next:</span> <span class="button-title">2. Burn and Hook ❯</span> </a> </div>
+!!! note "GET -Favored_Skill //info"
+    When you spend a [Luck Point](../../Playing_the_Game/Rolling_the_Dice/Luck_Points.md) to get a [[Luck Bonus](../../Lexicon/Keywords/Keyword_Luck_Bonus.md)] on a **favored skill**, you get a +3 (instead of a 2). It costs fewer XP to improve favored skills and to purchase signature tricks for favored skills than it does for non-favored skills.

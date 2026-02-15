@@ -1,14 +1,23 @@
 # 2. Burn and Hook
 
-Look through the list of [[Burns_and_Hooks|Burns and Hooks]] and choose one of each for your character.
+[[Backgrounds_List|⇐ Back]] | [[Burns_and_Hooks_List|▌ 2.1 Burns and Hooks List ⇒]]
+
+---
+
+Look through the list of [[Burns_and_Hooks_List|Burns and Hooks]] and choose one of each for your character.
 
 Your **Burn** is a pivotal event in your life. It helps explain why your character is no longer living the life described by their **Background**. Your **Hook** represents the lasting consequences of the burn. 
 
-| Your background, burn, and hook should all tie together to show your character's story                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Like this: <br><br>*I am a **\[Background\]** who was **\[Burned\]**, and now I am **\[Hook\]**.*                                                               |
-| Example: <br><br>*I am a **\[Street Vendor\]** who was **\[Witness\]** to a murder, and now I'm being **\[Hunted\]** by the megacorp that wants to silence me.* |
+These three elements tie together to show your character's story.
+
+> *I was a **\[Background\]** who got **\[Burned\]**, and now I am **\[Hook\]**.*
+
+Example 1: 
+
+> *I was a **\[Smuggler\]** who **\[Made Enemies\]** of the Mafia when I helped a poor sap get the hell out of Dodge before they could put two in the back of his head. The thing is, it felt good, even though I didn't get paid or nothin'. So, I kept on doing it, being a **\[Helper\]**.*
+
+Example 2: 
+
+> *I was a **\[Bartender\]** at a classy joint on the upper ridge, but my life took a turn when I became a **\[Key Witness\]** to a crime I still don't understand. All I know is, one of my regulars gave me a minidisk, asked me to hold onto it for a few days. Then I hear he turned up dead, and before you know it, I'm being **\[Hunted\]** by armed goons. They trashed my apartment, and now they're after me for whatever's inside the encrypted package on that minidisk.*
 
 Write your burn and hook at the top of your character sheet.
-
-<div class="next-step-container"> <a href="../Char_CC3_Contacts/" class="button"> <span class="button-label">Next:</span> <span class="button-title">3. Contacts ❯</span> </a> </div>

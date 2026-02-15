@@ -4,7 +4,7 @@ When the GM determines that a roll is necessary, follow the steps below.
 
 1. **Skill** - First, identify the skill to use based on what the character is trying to do. For example, use the Firearms skill to shoot a gun and the Athletics skill to make a running jump. If you have a bonus in the selected skill, it is added to your roll.
    
-2. **Ability Score** - The skill determines the [ability score](../../Characters/Character_Creation/Abilities_and_Ability_Scores.md) to use for the roll. For example, the Firearms skill uses Agility. You will add this ability score to your roll. 
+2. **Ability Score** - The skill determines the [[Archive/Abilities_and_Ability_Scores|ability score]] to use for the roll. For example, the Firearms skill uses Agility. You will add this ability score to your roll. 
    
 3. **Trick** - Determine which of the skill's tricks to use. You can use any of the skill's [core tricks](../../Lexicon/Keywords/Keyword_Core_Trick.md) or a [signature trick](../../Lexicon/Keywords/Keyword_Signature_Trick.md) if you know one that applies. If you want to do something these rules don't cover, your GM may allow it as an [improvised trick](../../Lexicon/Keywords/Keyword_Improvised_Trick.md).
    
@@ -24,7 +24,7 @@ When the GM determines that a roll is necessary, follow the steps below.
 
 | Making a Roll                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2d10 + [Ability Score](../../Characters/Character_Creation/Abilities_and_Ability_Scores.md) + [Skill Bonus](../../Lexicon/Keywords/Keyword_Skill_Bonus.md) + [Gear Bonus](../../Lexicon/Keywords/Keyword_Gear_Bonus.md) + [Aug Bonus](../../Lexicon/Keywords/Keyword_Aug_Bonus.md) = Result (+ [Luck Bonus](../../Lexicon/Keywords/Keyword_Luck_Bonus.md)) |
+| 2d10 + [[Archive/Abilities_and_Ability_Scores\|Ability Score]] + [Skill Bonus](../../Lexicon/Keywords/Keyword_Skill_Bonus.md) + [Gear Bonus](../../Lexicon/Keywords/Keyword_Gear_Bonus.md) + [Aug Bonus](../../Lexicon/Keywords/Keyword_Aug_Bonus.md) = Result (+ [Luck Bonus](../../Lexicon/Keywords/Keyword_Luck_Bonus.md)) |
 ### Stacking Bonuses
 
 For any roll, you add at most one **ability score**, one **skill bonus**, one **gear bonus**, one **aug bonus**, and one **luck bonus**. You always add one ability score, but you might not have all (or any) of these bonuses.

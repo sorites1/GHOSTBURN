@@ -1,16 +1,16 @@
 # Dead Eye \[Signature Trick\]
 
-| Difficulty Level (DL) | Skill      | Keywords                                     |
-| --------------------- | ---------- | -------------------------------------------- |
-| Hard (20)             | Perception | [[Gun](../../Lexicon/Keywords/Keyword_Gun.md)], [[One Hand](../../Lexicon/Keywords/Keyword_One_Hand.md)] \[Ranged\], [[Visual](../../Lexicon/Keywords/Keyword_Visual.md)] |
+| Difficulty Level (DL) | Skill      | Keywords                                                                                                                                                                                                                                                         |
+| --------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hard (20)             | Perception | [[Concentrate](../../Lexicon/Keywords/Keyword_Concentrate.md)], [[Firearm](../../Lexicon/Keywords/Keyword_Firearm.md)], [[One Hand](../../Lexicon/Keywords/Keyword_One_Hand.md)] [[Range](../../Lexicon/Keywords/Keyword_Range.md)], [[Visual](../../Lexicon/Keywords/Keyword_Visual.md)] |
 
 *You zero in on your opponent and raise your gun. One heartbeat later, you send hot lead their way.* 
 
-To use Dead Eye on an opponent, they must be [[Close](../../Lexicon/Keywords/Keyword_Close.md)] or [[Nearby](../../Lexicon/Keywords/Keyword_Nearby.md)]. If you are wielding a pistol, lower the DL by one.
+To use Dead Eye, you must be wielding a [[Firearm](../../Lexicon/Keywords/Keyword_Firearm.md)], and you must be able to see your target. If you are wielding a [[Light Pistol](../../Lexicon/Keywords/Keyword_Light_Pistol.md)] or [[Heavy Pistol](../../Lexicon/Keywords/Keyword_Heavy_Pistol.md)] and your target is at [[Optimal Range](../../Lexicon/Keywords/Keyword_Optimal_Range.md)], lower the DL by one.
 
-| Outcome      | Description                                                                                                                                                            |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cool Success | The next \[Gun\] \[Attack\] you make on them this turn is is an automatic \[Cool Success\]                                                                             |
-| Success      | The next \[Gun\] \[Attack\] you make on them this turn is \[Upgraded\]                                                                                                 |
-| Fade         | Your next \[Gun\] \[Attack\] you make on them this turn is [[Upgraded](../../Lexicon/Keywords/Keyword_Upgraded.md)] and you are [[Distracted](../../Lexicon/Conditions/Condition_Distracted.md)] |
-| Glitch       | Your next [[Gun](../../Lexicon/Keywords/Keyword_Gun.md)] [[Attack](../../Lexicon/Keywords/Keyword_Attack.md)] you make on anyone this turn is [[Downgraded](../../Lexicon/Keywords/Keyword_Downgraded.md)]    |
+| Outcome      | Description                                                                                                                                                                                                      |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cool Success | If the next action you take this turn is to [[Attack](../../Lexicon/Keywords/Keyword_Attack.md)] the target with your [[Firearm](../../Lexicon/Keywords/Keyword_Firearm.md)], the outcome is an automatic \[Cool Success\] |
+| Success      | If the next action you take this turn is to \[Attack\] the target with your \[Firearm\], the outcome is [[Upgraded](../../Lexicon/Keywords/Keyword_Upgraded.md)]                                                      |
+| Fade         | If the next action you take this turn is to \[Attack\] the target with your \[Firearm\], the outcome is \[Upgraded\]; regardless, you are [[Distracted](../../Lexicon/Conditions/Condition_Distracted.md)]            |
+| Glitch       | You gain no benefit, and you are [[Distracted](../../Lexicon/Conditions/Condition_Distracted.md)]                                                                                                                     |

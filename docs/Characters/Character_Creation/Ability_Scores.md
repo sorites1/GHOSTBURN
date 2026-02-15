@@ -1,6 +1,10 @@
 # 4. Ability Scores
 
-A character's ability scores reflect their natural, human qualities, such as strength and intelligence. 
+[⇐ Back](../../Characters/Character_Creation/Contacts.md) | [▌ 5. Additional Skills ⇒](../../Characters/Character_Creation/Additional_Skills.md)
+
+---
+
+A character's [[Ability Scores](../../Lexicon/Keywords/Keyword_Ability_Score.md)] reflect their natural, human qualities, such as strength and intelligence. 
 
 | Ability Name | Description                                                  |
 | :----------- | :----------------------------------------------------------- |
@@ -23,7 +27,7 @@ The higher the score, the greater the ability. Natural ability scores range from
 |       2       | Below Average | Less capable than most, often struggles           |
 |       3       | Average       | Human average, sufficient for most things in life |
 |       4       | Exceptional   | Better than most, a serious contender             |
-|       5       | Peak Human    | The best of the best                              |
+|       5       | Peak Human    | The best humankind has to offer                   |
 
 ### Example Distribution
 
@@ -32,5 +36,3 @@ The higher the score, the greater the ability. Natural ability scores range from
 | Presence 1<br>Agility 5<br>Strength 4<br>Awareness 2<br>Intelligence 2<br>Resilience 3 |
 
 Write your ability scores on your character sheet.
-
-<div class="next-step-container"> <a href="../Char_CC5_Additional_Skills/" class="button"> <span class="button-label">Next:</span> <span class="button-title">5. Additional Skills ❯</span> </a> </div>

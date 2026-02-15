@@ -1,8 +1,8 @@
 # Search \[Core Trick\]
 
-| Difficulty Level (DL) | Skill      | Keywords                           |
-| --------------------- | ---------- | ---------------------------------- |
-| Hard (20)             | Perception | \[[[Lexicon/Keywords/Keyword_Move\|Move]]\], \[[[Lexicon/Keywords/Keyword_Physical\|Physical]]\], \[[[Lexicon/Keywords/Keyword_Visual\|Visual]]\] |
+| Difficulty Level (DL) | Skill      | Keywords                                                                                                                                                                                                     |
+| --------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Hard (20)             | Perception | \[[[Lexicon/Keywords/Keyword_Concentrate\|Concentrate]]\], \[[[Lexicon/Keywords/Keyword_Move\|Move]]\], \[[[Lexicon/Keywords/Keyword_Physical\|Physical]]\], \[[[Lexicon/Keywords/Keyword_Visual\|Visual]]\] |
 
 *You move about and study your surroundings for hidden people or objects.* 
 

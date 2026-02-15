@@ -1,3 +1,0 @@
-# Vans
-
-index

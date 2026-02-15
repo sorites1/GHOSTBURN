@@ -1,9 +1,19 @@
 # Persuade \[Skill\]
 
-| Difficulty Level (DL) | Ability  | Keywords                                                              |
-| --------------------- | -------- | --------------------------------------------------------------------- |
-| Wits                  | Presence | \[Attitude\], \[[[Lexicon/Keywords/Keyword_Language\|Language]]\], \[[[Lexicon/Keywords/Keyword_Social\|Social]]\], \[[[Lexicon/Keywords/Keyword_Vocal\|Vocal]]\] |
+| Key Ability | Keywords                                                                                                                                                  |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Presence    | \[[[Lexicon/Keywords/Keyword_Attitude\|Attitude]]\], \[[[Lexicon/Keywords/Keyword_Language\|Language]]\], \[[[Lexicon/Keywords/Keyword_Social\|Social]]\] |
 
-*Using charm and a bit of psychology, you convince the target to help you, typically without offering anything in return.* 
+*To **Persuade** someone to your point of view, you must employ a combination of charm, flattery, and psychology.* 
 
-If your request is unreasonable, the DL is raised by one. The target will refuse truly outrageous requests. 
+## Persuade Tricks
+
+The following tricks are included in the Persuade skill.
+
+| Trick                                               | Type            |
+| --------------------------------------------------- | --------------- |
+| [[Skills_and_Tricks/Persuade/Convince\|Convice]]    | Core Trick      |
+| [[Skills_and_Tricks/Persuade/Haggle\|Haggle]]       | Core Trick      |
+| [[Skills_and_Tricks/Persuade/Captivate\|Captivate]] | Signature Trick |
+| [[Skills_and_Tricks/Persuade/Entertain\|Entertain]] | Signature Trick |
+

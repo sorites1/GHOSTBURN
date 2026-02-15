@@ -1,6 +1,14 @@
 # 6. Starting Package
 
-Choose a starting package, or build your own. Starting characters get 30,000 ⌆ to spend on starting [[Gear_and_Augments/index|Gear and Augments]], which includes a starting [[Characters/Lifestyles/Overview|Lifestyle]]. If you do not purchase a Lifestyle, you start on the [[Street|Street]]. Your starting package represents gear and augments you've accumulated over time or which you've recently obtained with the help of your medium. 
+[[Characters/Character_Creation/Additional_Skills|⇐ Back]] | [[Characters/Character_Creation/Finishing_Touches|▌ 7. Finishing Touches ⇒]]
+
+---
+
+Choose a starting package from those shown below, or build your own. 
+
+Starting characters get 30,000 ⌆ to spend on starting [[Gear_and_Augments/index|Gear and Augments]], which includes a starting [[Characters/Lifestyles/Overview|Lifestyle]]. If you do not purchase a Lifestyle, you start on the [[Street|Street]]. 
+
+Your starting package represents gear and augments you've accumulated over time or which you've recently obtained with the help of your medium. 
 
 ## Hacker 
 
@@ -95,13 +103,10 @@ Choose a starting package, or build your own. Starting characters get 30,000 ⌆
 
 *Your drones are everything. Life is hard when you have to scrounge for food and have nowhere to rest your head, but you wouldn't give up your drones for the world.*
 
-| Drone Operator Package                                                  | Type         |
-| ----------------------------------------------------------------------- | ------------ |
-| [[Cybernetic_Augments/Aug_Control_Port\|Control Port]]                  | Augment      |
-| [[Gauss_Firefly\|Gauss Firefly]]                             | Drone        |
-| [[Gauss_Hornet\|Gauss Hornet]]                               | Drone        |
-| [[Yoshioka_Night_Runner\|Yoshioka Night Runner]] | Control Deck |
-| [[Street\|Street Lifestyle]]                             | Lifestyle    |
-
-
-<div class="next-step-container"> <a href="../Char_CC7_Finishing_Touches/" class="button"> <span class="button-label">Next:</span> <span class="button-title">7. Finishing Touches ❯</span> </a> </div>
+| Drone Operator Package                                                     | Type         |
+| -------------------------------------------------------------------------- | ------------ |
+| [[Gear_and_Augments/Augments/Utility_Augments/Control_Port\|Control Port]] | Augment      |
+| [[Gauss_Firefly\|Gauss Firefly]]                                           | Drone        |
+| [[Gauss_Hornet\|Gauss Hornet]]                                             | Drone        |
+| [[Yoshioka_Night_Runner\|Yoshioka Night Runner]]                           | Control Deck |
+| [[Street\|Street Lifestyle]]                                               | Lifestyle    |

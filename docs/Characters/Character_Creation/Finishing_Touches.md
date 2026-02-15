@@ -1,5 +1,9 @@
 # 7. Finishing Touches
 
+[⇐ Back](../../Characters/Character_Creation/Starting_Package.md) | End of Character Creation
+
+---
+
 There are a few last things you need to do to finish creating your character.
 
 ## Luck Points 

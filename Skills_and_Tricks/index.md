@@ -5,7 +5,7 @@
 <img src="../assets/skills_withlines.png" alt="Section Banner"> </div>
 
 
-There are fifteen skills in this game, three for each of the core five [[Abilities_and_Ability_Scores|abilities]] (Presence, Awareness, Agility, Intelligence, and Strength). For example, the three skills associated with Agility are Drive, Firearms, and Stealth.
+There are fifteen skills in this game, three for each of the core five [[Archive/Abilities_and_Ability_Scores|abilities]] (Presence, Awareness, Agility, Intelligence, and Strength). For example, the three skills associated with Agility are Drive, Firearms, and Stealth.
 
 If your character knows a skill, it will have a [[Lexicon/Keywords/Keyword_Skill_Bonus|skill bonus]] ranging from +1 to +3. When you [[Playing_the_Game/Rolling_the_Dice/Making_a_Roll|make a roll]] with a skill, you add your skill bonus and the skill's primary ability score to the roll. 
 

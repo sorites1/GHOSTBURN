@@ -4,17 +4,23 @@ Luck Points can give you bonuses to your rolls and help you avoid glitches, as d
 
 ## Spending a Luck Point
 
-To use a Luck Point you must declare to the GM and the other players that you are using a Luck Point and how you are using it. There are two ways to use a Luck Point: 1) Get a Luck Bonus to a roll; and 2) Avoid a Glitch. 
-
-For example, *"Dang, I rolled a glitch. I'll use a Luck Point to avoid it,"* or *"I just missed a Success on this roll, so I'll use a Luck Point to get a +2 Luck Bonus. That bumps me up to a Success!"*
+To use a Luck Point you must declare to the GM and the other players that you are using a Luck Point and how you are using it. There are two ways to use a Luck Point: 1) Add a Luck Bonus to a roll; and 2) Avoid a Glitch. 
 
 ### Luck Bonus
 
 After you [[Playing_the_Game/Rolling_the_Dice/Making_a_Roll|Make a Roll]], you can spend a Luck Point to get a +2 Luck Bonus to your result, or a +3 Luck Bonus if you're using a favored skill.
 
+ Example
+ 
+>   *I got a Fade on this roll, but just barely. If I use a Luck Point to get a +2 Luck Bonus, that'll bump it up to a Success! Heck yeah, that's what I'm going to do.*
+
 ### Avoid a Glitch
 
 If you roll a Glitch, you can spend a Luck Point to \[[[Lexicon/Keywords/Keyword_Upgraded|Upgrade]]\] the outcome to a Fade.
+
+Example
+
+> *Dang, I rolled a Glitch. I'll use a Luck Point to avoid it. So, that means I got a Fade instead.*
 
 ## Recovering Luck Points
 

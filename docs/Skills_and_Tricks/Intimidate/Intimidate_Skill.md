@@ -1,9 +1,19 @@
 # Intimidate \[Skill\]
 
-| Difficulty Level (DL)  | Ability  | Keywords                                                |
-| ---------------------- | -------- | ------------------------------------------------------- |
-| [Fort](../../Lexicon/Keywords/Keyword_Fort.md) | Presence | [[Language](../../Lexicon/Keywords/Keyword_Language.md)], [[Social](../../Lexicon/Keywords/Keyword_Social.md)], [[Vocal](../../Lexicon/Keywords/Keyword_Vocal.md)] |
+| Key Ability | Keywords                                                                                                                                            |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Presence    | [[Language](../../Lexicon/Keywords/Keyword_Language.md)], [[Social](../../Lexicon/Keywords/Keyword_Social.md)], [[Vocal](../../Lexicon/Keywords/Keyword_Vocal.md)] |
 
-*With threats of damage to income, reputation, or bodily health, you force the targe to comply with your instructions.* 
+**Intimidate** allows you to use words, including threats, to provoke someone into doing what you want.
 
-If your instructions put the target in harm's way, the DL is raised by one. The target will refuse to follow suicidal instructions.
+## Intimidate Tricks
+
+The following tricks are included in the Intimidate skill.
+
+| Trick                                                 | Type            |
+| ----------------------------------------------------- | --------------- |
+| [Coerce](../../Skills_and_Tricks/Intimidate/Coerce.md)       | Core Trick      |
+| [Mock](../../Skills_and_Tricks/Intimidate/Mock.md)           | Core Trick      |
+| [Frighten](../../Skills_and_Tricks/Intimidate/Frighten.md)   | Core Trick      |
+| [Shakedown](../../Skills_and_Tricks/Intimidate/Shakedown.md) | Signature Trick |
+| [Shred](../../Skills_and_Tricks/Intimidate/Shred.md)         | Signature Trick |

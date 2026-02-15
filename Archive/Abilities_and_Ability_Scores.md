@@ -2,19 +2,18 @@
 
 Abilities represent a character's body and mind. Each character is composed of the following abilities:
 
-| **Ability**  | **Description**                                                        |
-| ------------ | ---------------------------------------------------------------------- |
-| Presence     | A combination of raw magnetism, artistic talent, and social insight    |
-| Agility      | Reflects a character's quickness, reaction speed, and manual dexterity |
-| Strength     | A measure of a character's physical form and raw strength              |
-| Awareness    | Represents a character's senses and insights                           |
-| Intelligence | Indicates a character's education and critical thinking                |
-| Resilience   | Mental and physical fortitude; resist injury and psychic burn          |
-| Psi          | Represents a character's raw psionic ability                           |
+| Ability Name | Description                                                  |
+| :----------- | :----------------------------------------------------------- |
+| Presence     | Force of personality, social awareness, and artistic ability |
+| Awareness    | Physical senses, insight, and abstract thinking              |
+| Agility      | Quickness, nimbleness, balance, and coordination             |
+| Intelligence | Education, reasoning, quick thinking, and general knowledge  |
+| Strength     | Physical strength and general athleticism                    |
+| Resilience   | Bodily fortitude, health, and willpower                      |
 
 # Ability Scores
 
-Each of your abilities has a number associated with it called an ability score. An ability score has a natural range of 1 to 5. Cybernetic augmentations and psionic mutations can increase your ability score (up to +3), for a maximum augmented ability score of 8. Each of your ability scores must be at least 1, except for Psi, which is 0 if you are not playing a psionic character.
+Each of your abilities has a number associated with it called an ability score. An ability score has a natural range of 1 to 5. Cybernetic augmentations and psionic mutations can increase your ability score (up to +3), for a maximum augmented ability score of 8. Each of your ability scores must be at least 1.
 
 | Ability Score | Ability Level | Description                                         |
 | :-----------: | :------------ | :-------------------------------------------------- |

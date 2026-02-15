@@ -1,6 +1,14 @@
 # 6. Starting Package
 
-Choose a starting package, or build your own. Starting characters get 30,000 ⌆ to spend on starting [Gear and Augments](../../Gear_and_Augments/index.md), which includes a starting [Lifestyle](../../Characters/Lifestyles/Overview.md). If you do not purchase a Lifestyle, you start on the [Street](../../Characters/Lifestyles/Street.md). Your starting package represents gear and augments you've accumulated over time or which you've recently obtained with the help of your medium. 
+[⇐ Back](../../Characters/Character_Creation/Additional_Skills.md) | [▌ 7. Finishing Touches ⇒](../../Characters/Character_Creation/Finishing_Touches.md)
+
+---
+
+Choose a starting package from those shown below, or build your own. 
+
+Starting characters get 30,000 ⌆ to spend on starting [Gear and Augments](../../Gear_and_Augments/index.md), which includes a starting [Lifestyle](../../Characters/Lifestyles/Overview.md). If you do not purchase a Lifestyle, you start on the [Street](../../Characters/Lifestyles/Street.md). 
+
+Your starting package represents gear and augments you've accumulated over time or which you've recently obtained with the help of your medium. 
 
 ## Hacker 
 
@@ -95,13 +103,10 @@ Choose a starting package, or build your own. Starting characters get 30,000 ⌆
 
 *Your drones are everything. Life is hard when you have to scrounge for food and have nowhere to rest your head, but you wouldn't give up your drones for the world.*
 
-| Drone Operator Package                                                  | Type         |
-| ----------------------------------------------------------------------- | ------------ |
-| [[Cybernetic_Augments/Aug_Control_Port\|Control Port]]                  | Augment      |
-| [Gauss Firefly](../../Gear_and_Augments/Drones/Recon_Drones/Gauss_Firefly.md)                             | Drone        |
-| [Gauss Hornet](../../Gear_and_Augments/Drones/Light_Combat_Drones/Gauss_Hornet.md)                               | Drone        |
-| [Yoshioka Night Runner](../../Gear_and_Augments/Control_Decks/Yoshioka_Night_Runner.md) | Control Deck |
-| [Street Lifestyle](../../Characters/Lifestyles/Street.md)                             | Lifestyle    |
-
-
-<div class="next-step-container"> <a href="../Char_CC7_Finishing_Touches/" class="button"> <span class="button-label">Next:</span> <span class="button-title">7. Finishing Touches ❯</span> </a> </div>
+| Drone Operator Package                                                     | Type         |
+| -------------------------------------------------------------------------- | ------------ |
+| [Control Port](../../Gear_and_Augments/Augments/Utility_Augments/Control_Port.md) | Augment      |
+| [Gauss Firefly](../../Gear_and_Augments/Drones/Recon_Drones/Gauss_Firefly.md)                                           | Drone        |
+| [Gauss Hornet](../../Gear_and_Augments/Drones/Light_Combat_Drones/Gauss_Hornet.md)                                             | Drone        |
+| [Yoshioka Night Runner](../../Gear_and_Augments/Control_Decks/Yoshioka_Night_Runner.md)                           | Control Deck |
+| [Street Lifestyle](../../Characters/Lifestyles/Street.md)                                               | Lifestyle    |
