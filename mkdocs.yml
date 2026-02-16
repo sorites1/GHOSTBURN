@@ -144,10 +144,10 @@ nav:
       - Street Hack [Signature]: Skills_and_Tricks/Hacking/Street_Hack.md
     - Insight:
       - Insight [Skill]: Skills_and_Tricks/Insight/Insight_Skill.md
-      - Dodge [Core]: Skills_and_Tricks/Insight/Dodge.md
       - Read Person [Core]: Skills_and_Tricks/Insight/Read_Person.md
       - Sense Lies [Core]: Skills_and_Tricks/Insight/Sense_Lies.md
       - Size Up Opponent [Core]: Skills_and_Tricks/Insight/Size_Up_Opponent.md
+      - Dodge [Signature]: Skills_and_Tricks/Insight/Dodge.md      
     - Intimidate: 
       - Intimidate [Skill]: Skills_and_Tricks/Intimidate/Intimidate_Skill.md
       - Coerce [Core]: Skills_and_Tricks/Intimidate/Coerce.md
