@@ -181,8 +181,8 @@ nav:
       - Entertain [Signature]: Skills_and_Tricks/Persuade/Entertain.md
     - Piloting:
       - Piloting [Skill]: Skills_and_Tricks/Piloting/Piloting_Skill.md
-      - Deploy Payload [Core]: Skills_and_Tricks/Piloting/Deploy_Payload.md
       - Drone Recon [Core]: Skills_and_Tricks/Piloting/Drone_Recon.md
+      - Deploy Payload [Signature]: Skills_and_Tricks/Piloting/Deploy_Payload.md
       - Initiate Countermeasures [Signature]: Skills_and_Tricks/Piloting/Initiate_Countermeasures.md
       - Manipulate Object [Signature]: Skills_and_Tricks/Piloting/Manipulate_Object.md
       - Strafing Run [Signature]: Skills_and_Tricks/Piloting/Strafing_Run.md
