@@ -8,7 +8,7 @@
 
 ## Rolling the Dice
 
-This section explains how dice are used in the game. , starting with
+This section explains the core mechanics used by this game, including what dice to roll and when and how to determine the outcomes of all the risky things you're going to do. 
 
 | Rolling the Dice                                                                                        |
 | ------------------------------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ This section explains how dice are used in the game. , starting with
 
 ## The Flow of the Game
 
-This section explains how play passes from one player to the next, Round Robin style.
+This section explains how play passes from one player to the next, Round Robin style. It describes the social contract between the players at the table. 
 
 | The Flow of the Game                                                    |
 | ----------------------------------------------------------------------- |
@@ -35,7 +35,7 @@ This section explains how play passes from one player to the next, Round Robin s
 
 ## Game Master
 
-This section provides rules on NPCs and provides other resources to the Game Master (GM).
+This section provides rules that the Game Master (GM) should understand.
 
 | Game Master                                                             |
 | ----------------------------------------------------------------------- |

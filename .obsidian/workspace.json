@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gear_and_Augments/index.md",
+                "file": "About/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,7 +182,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dab7700461c9934b",
+  "active": "19d0da4132853b01",
   "lastOpenFiles": [
     "site/search/search_index.json",
     "site/search",
@@ -203,10 +203,14 @@
     "site/assets/cityscape_withlines.png",
     "site/assets/character_bashv2_withlines.png",
     "site/assets/character_bash_v3.png",
+    "Playing_the_Game/index.md",
+    "docs/About/index.md",
+    "About/index.md",
+    "Gear_and_Augments/index.md",
+    "Anarchy! by Chail Pittman WORT News - CC BY 2.0 - flckr.jpg",
     "site/Anarchy! by Chail Pittman WORT News - CC BY 2.0 - flckr.jpg",
     "docs/Gear_and_Augments/index 1.md",
     "Gear_and_Augments/Miscellaneous/Doc_in_a_Box.md",
-    "Gear_and_Augments/index.md",
     "Gear_and_Augments/Miscellaneous/Wardrobe_Basic.md",
     "Gear_and_Augments/Firearms/Rifles/Salvati_Duro_Carbine.md",
     "Gear_and_Augments/Firearms/Firearms_Mods/Gas_Vents.md",
@@ -226,10 +230,6 @@
     "Gear_and_Augments/Melee_Weapons/Long_Blades/Plasma_Sword.md",
     "Gear_and_Augments/Melee_Weapons/Long_Blades/Katana.md",
     "Gear_and_Augments/Melee_Weapons/Long_Blades/Combat_Axe.md",
-    "Gear_and_Augments/Melee_Weapons/Blunt_Weapons/Sledgehammer.md",
-    "Gear_and_Augments/Melee_Weapons/Blunt_Weapons/Stun_Baton.md",
-    "Gear_and_Augments/Firearms/Rifles/Graham_PX90_Carbine.md",
-    "docs/Anarchy! by Chail Pittman WORT News - CC BY 2.0 - flckr.jpg",
     "Character Origins Brainstorm.canvas",
     "Untitled 1.canvas"
   ]

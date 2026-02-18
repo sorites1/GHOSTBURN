@@ -15,6 +15,7 @@ theme:
     accent: cyan
   features:
   - navigation.indexes
+  - navigation.instant
   - navigation.tabs
   - navigation.tabs.sticky
   - navigation.sections
@@ -29,6 +30,12 @@ markdown_extensions:
 - footnotes
 - md_in_html
 - tables
+- material.extensions.preview:
+      configurations:
+        - targets:
+            include:
+              - Lexicon/Keywords/*
+              - Lexicon/Conditions/*
 - pymdownx.arithmatex:
     generic: true
 - pymdownx.betterem
@@ -543,3 +550,5 @@ nav:
     - Tiers of Play: Playing_the_Game/Game_Master/Tiers_of_Play.md
 - ⚏ Sign Up:
   - Sign Up: Sign_Up/index.md
+- ⚏ About:
+  - About: About/index.md

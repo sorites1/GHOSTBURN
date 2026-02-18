@@ -4,7 +4,7 @@
 <h1 class="index-hero-title">Gear and Augments</h1>
 <img src="../assets/weapon_withlines.png" alt="Section Banner"> </div>
 
-This page lists gear and augments available in **GHOSTBURN**. Click the name of any item to get more information about it.
+This page lists gear and augments available in **GHOSTBURN**. Click the name of an item to get more information about it.
 
 ## Armor
 
