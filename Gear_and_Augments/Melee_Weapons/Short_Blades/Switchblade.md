@@ -1,5 +1,5 @@
 # Switchblade
 
-| Points | Weapon      | Type        | Base Value | Mods |
-| :----: | ----------- | ----------- | :--------: | ---- |
-|   1    | Switchblade | Short Blade |     1      |      |
+| Cost  | Weapon      | Weapon Type                                               | Base Value | Mods |
+| :---: | ----------- | --------------------------------------------------------- | :--------: | ---- |
+| 500 ⌆ | Switchblade | \[[[Lexicon/Keywords/Keyword_Short_Blade\|Short Blade]]\] |     1      | -    |

@@ -2,9 +2,9 @@
 
 <div class="index-hero-char"> 
 <h1 class="index-hero-title">Characters</h1>
-<img src="../assets/character_bashv2_withlines.png" alt="Section Banner"> </div>
+<img src="../assets/character_bash_v3.png" alt="Section Banner"> </div>
 
-[Start: Character Creation ⇒](../Characters/Character_Creation/index.md)
+[▌ Begin: Character Creation ⇒](../Characters/Character_Creation/index.md)
 
  In **GHOSTBURN**, you are a **Ghost**, someone whose digital identity has been erased. You live outside the system, doing work for your **Medium**, the one who reached out and helped you when your life was in shambles.
 

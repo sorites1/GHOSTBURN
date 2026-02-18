@@ -792,3 +792,20 @@ body, .md-container, .md-main {
     }
 }
 
+/* position subscriber form */
+#mlb2-37245509.ml-form-embedContainer {
+  display: block !important;
+  margin: 0 !important;
+  width: 100% !important;
+}
+
+#mlb2-37245509.ml-form-embedContainer .ml-form-align-center {
+  text-align: left !important;
+}
+
+#mlb2-37245509.ml-form-embedContainer .ml-form-embedWrapper {
+  display: block !important;
+  width: 100% !important;
+  max-width: 500px !important;
+  margin: 0 !important;
+}

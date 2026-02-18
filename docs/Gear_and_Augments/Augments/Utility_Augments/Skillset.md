@@ -8,7 +8,7 @@
 | 1,000,000 ⌆ | Skillset (Level 2) |    10     | \[Mod\], \[Wireless\]                                                          |
 | 1,400,000 ⌆ | Skillset (Level 3) |    14     | \[Mod\], \[Wireless\]                                                          |
 
-Spend 1 AP to activate Skillset and name the [Skill](../../../Skills_and_Tricks/All_Skills.md) you want to download. You gain an [[Aug Bonus](../../../Lexicon/Keywords/Keyword_Aug_Bonus.md)] for the downloaded skill equal to the level of Skillset. Skillset (Level 1) grants a +1 \[Aug Bonus\]. Skillset (Level 2) grants a +2 \[Aug Bonus\]. Skillset (Level 3) grants a +3 \[Aug Bonus\].
+Spend 1 AP to activate Skillset and name the [Skill](../../../Skills_and_Tricks/Understanding_Skills_and_Tricks.md) you want to download. You gain an [[Aug Bonus](../../../Lexicon/Keywords/Keyword_Aug_Bonus.md)] for the downloaded skill equal to the level of Skillset. Skillset (Level 1) grants a +1 \[Aug Bonus\]. Skillset (Level 2) grants a +2 \[Aug Bonus\]. Skillset (Level 3) grants a +3 \[Aug Bonus\].
 
 Once downloaded, a skill and its \[Aug Bonus\] remain available until you download another one (which replaces the first). A \[Skillset\] can only hold one skill at a time. This augment does not grant access to a skill's [Signature Tricks](../../../Lexicon/Keywords/Keyword_Signature_Trick.md).
 

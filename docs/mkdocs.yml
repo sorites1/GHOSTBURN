@@ -92,8 +92,8 @@ nav:
       - Elite Lifestyle: Characters/Lifestyles/Elite.md
 - ⚏ Skills and Tricks:
   - Skills and Tricks: Skills_and_Tricks/index.md
+  - Understanding Skills and Tricks: Skills_and_Tricks/Understanding_Skills_and_Tricks.md
   - Skill List: 
-    - All Skills: Skills_and_Tricks/All_Skills.md
     - Athletics:
       - Athletics [Skill]: Skills_and_Tricks/Athletics/Athletics_Skill.md
       - Athletic Move [Core]: Skills_and_Tricks/Athletics/Athletic_Move.md
@@ -119,7 +119,7 @@ nav:
       - Bluff [Core]: Skills_and_Tricks/Deception/Bluff.md
       - Misdirect [Core]: Skills_and_Tricks/Deception/Misdirect.md
       - Disguise [Signature]: Skills_and_Tricks/Deception/Disguise.md
-      - Forgery [Signature[]]: Skills_and_Tricks/Deception/Forgery.md
+      - Forgery [Signature]: Skills_and_Tricks/Deception/Forgery.md
       - Impersonate [Signature]: Skills_and_Tricks/Deception/Impersonate.md
     - Drive: 
       - Drive [Skill]: Skills_and_Tricks/Drive/Drive_Skill.md
@@ -144,10 +144,10 @@ nav:
       - Street Hack [Signature]: Skills_and_Tricks/Hacking/Street_Hack.md
     - Insight:
       - Insight [Skill]: Skills_and_Tricks/Insight/Insight_Skill.md
-      - Dodge [Core]: Skills_and_Tricks/Insight/Dodge.md
       - Read Person [Core]: Skills_and_Tricks/Insight/Read_Person.md
       - Sense Lies [Core]: Skills_and_Tricks/Insight/Sense_Lies.md
       - Size Up Opponent [Core]: Skills_and_Tricks/Insight/Size_Up_Opponent.md
+      - Dodge [Signature]: Skills_and_Tricks/Insight/Dodge.md      
     - Intimidate: 
       - Intimidate [Skill]: Skills_and_Tricks/Intimidate/Intimidate_Skill.md
       - Coerce [Core]: Skills_and_Tricks/Intimidate/Coerce.md
@@ -181,8 +181,8 @@ nav:
       - Entertain [Signature]: Skills_and_Tricks/Persuade/Entertain.md
     - Piloting:
       - Piloting [Skill]: Skills_and_Tricks/Piloting/Piloting_Skill.md
-      - Deploy Payload [Core]: Skills_and_Tricks/Piloting/Deploy_Payload.md
       - Drone Recon [Core]: Skills_and_Tricks/Piloting/Drone_Recon.md
+      - Deploy Payload [Signature]: Skills_and_Tricks/Piloting/Deploy_Payload.md
       - Initiate Countermeasures [Signature]: Skills_and_Tricks/Piloting/Initiate_Countermeasures.md
       - Manipulate Object [Signature]: Skills_and_Tricks/Piloting/Manipulate_Object.md
       - Strafing Run [Signature]: Skills_and_Tricks/Piloting/Strafing_Run.md
@@ -263,7 +263,7 @@ nav:
       - Wardrobe, Basic: Gear_and_Augments/Miscellaneous/Wardrobe_Basic.md
       - Wardrobe, High End: Gear_and_Augments/Miscellaneous/Wardrobe_High_End.md
     - ⚏ Vehicles:
-      - ⚏ Motorcyles:
+      - ⚏ Motorcycles:
         - Fiesta Lobo: Gear_and_Augments/Vehicles/Motorcycles/Fiesta_Lobo.md
         - Kangjun Cyclone: Gear_and_Augments/Vehicles/Motorcycles/Kangjun_Cyclone.md
         - Yoshioka Shadow: Gear_and_Augments/Vehicles/Motorcycles/Yoshioka_Shadow.md
@@ -541,3 +541,5 @@ nav:
     - NPCs: Playing_the_Game/Game_Master/NPCs.md
     - Calculating Threat: Playing_the_Game/Game_Master/Calculating_Threat.md
     - Tiers of Play: Playing_the_Game/Game_Master/Tiers_of_Play.md
+- ⚏ Sign Up:
+  - Sign Up: Sign_Up/index.md

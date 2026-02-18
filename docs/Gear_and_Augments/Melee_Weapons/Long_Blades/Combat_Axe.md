@@ -1,5 +1,5 @@
 # Combat Axe
 
-| Points | Weapon     | Type       | Base Value | Mods                                                            |
-| :----: | ---------- | ---------- | :--------: | --------------------------------------------------------------- |
-|   8    | Combat Axe | Long Blade |     8      | [[Off Balance](../../../Lexicon/Conditions/Condition_Off_Balance.md)] on Glitch |
+|  Cost   | Weapon     | Weapon Type                                             | Base Value | Mods                                                                    |
+| :-----: | ---------- | ------------------------------------------------------- | :--------: | ----------------------------------------------------------------------- |
+| 3,500 ⌆ | Combat Axe | [[Long Blade](../../../Lexicon/Keywords/Keyword_Long_Blade.md)] |     8      | [[Off Balance](../../../Lexicon/Conditions/Condition_Off_Balance.md)] on Glitch |
