@@ -53,7 +53,7 @@ markdown_extensions:
 - pymdownx.tasklist:
     custom_checkbox: true
 - pymdownx.tilde
-copyright: Copyright &copy; 2026 Justin Smith
+copyright: Copyright &copy; 2026 Justin Smith. All Rights Reserved.
 extra:
   generator: false
 plugins:
