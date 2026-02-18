@@ -56,6 +56,9 @@ markdown_extensions:
 copyright: Copyright &copy; 2026 Justin Smith. All Rights Reserved.
 extra:
   generator: false
+  analytics:
+    provider: google
+    property: G-LKFMNYFXDP
 plugins:
 - search:
     separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
