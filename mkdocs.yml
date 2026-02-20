@@ -73,8 +73,8 @@ extra_css:
 - stylesheets/custom.css
 nav:
 - ⚏ Characters: 
-  - Character Sheet: Characters/Character_Sheet.md
   - Characters: Characters/index.md
+  - Character Sheet: Characters/Character_Sheet.md
   - Character Creation: 
     - Character Creation: Characters/Character_Creation/index.md  
     - 1. Background: Characters/Character_Creation/Background.md
