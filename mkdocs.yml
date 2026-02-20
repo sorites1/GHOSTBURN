@@ -5,10 +5,9 @@ site_author: sorites
 docs_dir: docs/
 theme:
   name: material
-  icon:
-    logo: material/skull-scan
-    admonition:
-      note: material/console-line
+  favicon: assets/favicon.png
+  admonition:
+    note: material/console-line
   palette:
   - scheme: slate
     primary: black
