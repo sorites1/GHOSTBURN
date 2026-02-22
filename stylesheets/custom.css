@@ -473,20 +473,19 @@ body,
 
 /* ===========================================
    13. CYBER-ITEM IMAGE CONTAINER
-   (FIXED: Added padding, preserved hover effect)
    =========================================== */
 
 .md-content .cyber-img-container {
     width: 100%;
-    max-height: 250px;
+    max-height: 400px;
     overflow: hidden;
     position: relative;
     margin-bottom: 1.5rem;
     clip-path: polygon(0 0, 100% 0, 100% 88%, 92% 100%, 0 100%);
     border-left: 3px solid var(--pink);
     background: var(--dark-bg);
-    padding-left: 8px; /* FIXED: Added breathing space */
-    transition: all 0.3s ease; /* FIXED: Added transition for hover */
+    padding-left: 8px; 
+    transition: all 0.3s ease; /* hover transition */
 }
 
 /* FIXED: Hover effect on container changes border */
@@ -496,7 +495,7 @@ body,
 
 .md-content .cyber-img-container img {
     width: 100%;
-    height: 250px;
+    height: 400px;
     object-fit: cover;
     object-position: center; 
     margin: 0;
