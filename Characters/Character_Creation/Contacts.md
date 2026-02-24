@@ -1,6 +1,6 @@
 # 3. Contacts
 
-[[Burns_and_Hooks_List|⇐ Back]] | [[Characters/Character_Creation/Ability_Scores|▌ 4. Ability Scores ⇒]]
+[[Burns_and_Haunts_List|⇐ Back]] | [[Characters/Character_Creation/Ability_Scores|▌ 4. Ability Scores ⇒]]
 
 ---
 

@@ -1,6 +1,6 @@
 # 3. Contacts
 
-[⇐ Back](../../Characters/Character_Creation/Burns_and_Hooks_List.md) | [▌ 4. Ability Scores ⇒](../../Characters/Character_Creation/Ability_Scores.md)
+[⇐ Back](../../Characters/Character_Creation/Burns_and_Haunts_List.md) | [▌ 4. Ability Scores ⇒](../../Characters/Character_Creation/Ability_Scores.md)
 
 ---
 

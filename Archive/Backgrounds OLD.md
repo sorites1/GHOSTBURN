@@ -1,6 +1,6 @@
 # 1.1 Backgrounds
 
-[[Characters/Character_Creation/Background|⇐ 1. Background]] | [[Characters/Character_Creation/Burn_and_Hook|2. Burn and Hook ⇒]]
+[[Characters/Character_Creation/Background|⇐ 1. Background]] | [[Burn_and_Haunt|2. Burn and Hook ⇒]]
 
 ---
 

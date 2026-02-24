@@ -25,7 +25,7 @@ hide:
   </div>
   <div>
  
-Welcome to Ridgeworld Sprawl
+<a href="Characters/">Welcome to Ridgeworld Sprawl</a>
 
   </div>
 </section>

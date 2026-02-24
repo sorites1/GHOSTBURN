@@ -9,7 +9,7 @@ To create a character in ***GHOSTBURN***, follow the steps below.
 | Step                                            | Seven Questions                  |
 | :---------------------------------------------- | -------------------------------- |
 | **[[Background\|1. Background]]**               | What was your old life?          |
-| **[[Burn_and_Hook\|2. Burn and Hook]]**         | How were you burned?             |
+| **[[Burn_and_Haunt\|2. Burn and Hook]]**         | How were you burned?             |
 | **[[Contacts\|3. Contacts]]**                   | Who can you trust?               |
 | **[[Ability_Scores\|4. Ability Scores]]**       | What are your natural abilities? |
 | **[[Additional_Skills\|5. Additional Skills]]** | What are your skills?            |
