@@ -502,8 +502,8 @@ body,
     padding: 0;
     border: none; /* Only remove the default image border, not container's */
     box-shadow: none; /* Remove default image shadow */
-    mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
-    -webkit-mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
+    /* mask-image: linear-gradient(to bottom, black 80%, transparent 100%); */
+    /* -webkit-mask-image: linear-gradient(to bottom, black 80%, transparent 100%); */
 }
 
 /* Scanline effect for cyber-img-container */
