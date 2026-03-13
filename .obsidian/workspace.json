@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Reference.md",
+                "file": "Archive/Worldbuilding/Scenario/Scenario_Chapter_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reference"
+              "title": "Scenario_Chapter_1"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gear_and_Augments/Firearms/Heavy_Pistols/Sterling_Elite_45.md",
-                "mode": "source",
+                "file": "Archive/Reference.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sterling_Elite_45"
+              "title": "Reference"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,54 +181,54 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "19d0da4132853b01",
+  "active": "10b2e811b1f5b37c",
   "lastOpenFiles": [
-    "site/Lexicon/Conditions/Condition_Disfigured_Minor/index.html",
-    "site/Lexicon/Conditions/Condition_Disfigured_Minor",
-    "site/Lexicon/Conditions/Condition_Disfigured_Major/index.html",
-    "site/Lexicon/Conditions/Condition_Disfigured_Major",
-    "site/Lexicon/Conditions/Condition_Deaths_Door/index.html",
-    "site/Lexicon/Conditions/Condition_Deaths_Door",
-    "site/Lexicon/Conditions/Condition_Deafened/index.html",
-    "site/Lexicon/Conditions/Condition_Deafened",
-    "site/Lexicon/Conditions/Condition_Dark/index.html",
-    "site/Lexicon/Conditions/Condition_Dark",
-    "site/Lexicon/Conditions/Condition_Critical_Condition/index.html",
+    "Lexicon/Conditions/Condition_Blinded.md",
+    "Archive/Worldbuilding/Scenario/Scenario_Chapter_1.md",
+    "Lexicon/Keywords/Keyword_Threat.md",
+    "Archive/Publisher/GHOSTBURN Quickstart Guide by Justin Smith.afpub~lock~",
+    "Archive/Publisher/~$GHOSTBURN Quickstart Guide by Justin Smith.afpub~tmp",
+    "Lexicon/Keywords/Keyword_Wits.md",
+    "Lexicon/Keywords/Keyword_Wireless.md",
+    "Lexicon/Keywords/Keyword_Weapon_Types.md",
+    "Lexicon/Keywords/Keyword_Weapon_Group.md",
+    "Lexicon/Keywords/Keyword_Visual.md",
+    "Lexicon/Keywords/Keyword_Armor.md",
+    "Lexicon/Keywords/Keyword_Vicinity.md",
+    "Lexicon/Keywords/Keyword_Upgraded.md",
+    "Lexicon/Keywords/Keyword_Two_Hands.md",
+    "Lexicon/Keywords/Keyword_Two_Handed_Grip.md",
+    "Lexicon/Keywords/Keyword_Trick.md",
+    "Lexicon/Keywords/Keyword_Tools.md",
+    "Lexicon/Keywords/Keyword_Stabilization_DL.md",
+    "Lexicon/Keywords/Keyword_Spread.md",
+    "Lexicon/Keywords/Keyword_Spray.md",
+    "Lexicon/Keywords/Keyword_Social.md",
+    "Lexicon/Keywords/Keyword_SMG.md",
+    "Lexicon/Keywords/Keyword_Small_Item.md",
+    "Lexicon/Keywords/Keyword_Small_Arms.md",
+    "Lexicon/Keywords/Keyword_Skill_Bonus.md",
+    "Lexicon/Keywords/Keyword_Shotgun.md",
+    "Lexicon/Keywords/Keyword_Security_Alert.md",
+    "Lexicon/Keywords/Keyword_Security.md",
+    "Keywords",
+    "site/search/search_index.json",
+    "site/search",
+    "site/Skills_and_Tricks/Stealth/Stealth_Skill/index.html",
+    "site/Skills_and_Tricks/Stealth/Stealth_Skill",
+    "site/Skills_and_Tricks/Stealth/Sneak/index.html",
+    "site/Skills_and_Tricks/Stealth/Sneak",
+    "site/Skills_and_Tricks/Stealth/Shadow_Target/index.html",
     "site/assets/images/favicon.png",
     "site/assets/weapon_withlines.png",
     "site/assets/sterling_elite_45.png",
     "site/assets/spider_fingers.png",
     "site/assets/skills_withlines.png",
     "site/assets/ranco_357_equalizer.png",
-    "site/assets/GHOSBURN_2325_Character_Sheet.png",
-    "site/assets/favicon.png",
     "site/assets/graffiti2_withlines.png",
+    "site/assets/favicon.png",
     "site/assets/cyberpunk1_by_Sheam_Bo_CreativeCommons4.jpg",
-    "Gear_and_Augments/Firearms/Firearms_Mods/Laser_Sight.md",
-    "Gear_and_Augments/Firearms/Heavy_Pistols/Sterling_Elite_45.md",
-    "Gear_and_Augments/Firearms/Heavy_Pistols/Ranco_357_Equalizer.md",
-    "Gear_and_Augments/Firearms/Heavy_Pistols/Argentis_Desert_Viper.md",
-    "docs/Lexicon/Keywords/Keyword_Skill_Bonus.md",
-    "docs/Lexicon/Keywords/Keyword_Signature_Trick.md",
-    "docs/Lexicon/Keywords/Keyword_Shotgun.md",
-    "docs/Lexicon/Keywords/Keyword_Short_Blade.md",
-    "docs/Lexicon/Keywords/Keyword_Security_Alert.md",
-    "docs/Lexicon/Keywords/Keyword_Security.md",
-    "docs/Lexicon/Keywords/Keyword_Secret.md",
-    "docs/Lexicon/Keywords/Keyword_Rifles.md",
-    "docs/Lexicon/Keywords/Keyword_Rifle.md",
-    "docs/Lexicon/Conditions/Condition_Jammed.md",
-    "docs/Lexicon/Conditions/Condition_Inspired.md",
-    "docs/Lexicon/Conditions/Condition_Incapable.md",
-    "docs/Lexicon/Conditions/Condition_Immobilized.md",
-    "docs/Lexicon/Conditions/Condition_Hidden.md",
-    "docs/Lexicon/Conditions/Condition_Hearing_Impairment.md",
-    "docs/Lexicon/Conditions/Condition_Healthy.md",
-    "docs/Lexicon/Conditions/Condition_Foggy.md",
-    "docs/Lexicon/Conditions/Condition_Fine_Motor_Impairment.md",
-    "docs/Lexicon/Conditions/Condition_Entertained.md",
-    "docs/Lexicon/Conditions/Condition_Emotional.md",
-    "docs/Lexicon/Conditions/Condition_Dying.md",
+    "site/assets/cityscape_withlines.png",
     "Character Origins Brainstorm.canvas",
     "Untitled 1.canvas"
   ]

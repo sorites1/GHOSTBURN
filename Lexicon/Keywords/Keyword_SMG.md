@@ -1,3 +1,3 @@
 # SMG
 
-\[SMG\] is a \[[[Lexicon/Keywords/Keyword_Weapon_Types|Weapon Type]]\]. It belongs to the \[[[Lexicon/Keywords/Keyword_Small_Arms|Light Arms]]\] weapon group. The \[SMG\] weapon type includes the following keywords: \[[[Lexicon/Keywords/Keyword_Firearm|Firearm]]\], \[[[Lexicon/Keywords/Keyword_One_Hand|One Hand]]\], \[[[Lexicon/Keywords/Keyword_Recoil|Recoil]]\], and \[[[Lexicon/Keywords/Keyword_Spray|Spray]]\].
+\[SMG\] is a \[[[Lexicon/Keywords/Keyword_Weapon_Types|Weapon Type]]\]. It belongs to the \[[[Lexicon/Keywords/Keyword_Small_Arms|Small Arms]]\] \[[[Keyword_Weapon_Group|Weapon Group]]\]. The \[SMG\] \[Weapon Type\] includes the following keywords: \[[[Lexicon/Keywords/Keyword_Firearm|Firearm]]\], \[[[Lexicon/Keywords/Keyword_One_Hand|One Hand]]\], \[[[Lexicon/Keywords/Keyword_Recoil|Recoil]]\], and \[[[Lexicon/Keywords/Keyword_Spray|Spray]]\].

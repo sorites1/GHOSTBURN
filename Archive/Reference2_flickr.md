@@ -50,6 +50,7 @@
 
 **13** by Anastasia Dutova - CC BY-SA 2.0 - flckr - https://flic.kr/p/63qAso
 
+**Dice selection accoutrements for random selection of precincts to audit in an election** by Joe Hall - CC-BY 2.0 - flickr - https://flic.kr/p/4sbTNg
 
 
 

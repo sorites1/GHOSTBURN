@@ -14,7 +14,7 @@ There are six dominant megacorporations in the world.
 ## Gauss Industries
 **Primary Domains:** Drones, Robotics, Rare Earths
 
-## Rancor Security Systems
+## Ranco Incorporated
 **Primary Domains:** Mil-Sec, Law Enforcement, Weapons R&D
 
 ## Knifepoint Capital

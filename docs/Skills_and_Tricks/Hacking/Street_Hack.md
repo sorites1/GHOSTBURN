@@ -4,9 +4,9 @@
 | ------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Security](../../Lexicon/Keywords/Keyword_Security.md)] | Hacking | [[Cyber Rig](../../Lexicon/Keywords/Keyword_Cyber_Rig.md)], [[Physical](../../Lexicon/Keywords/Keyword_Physical.md)], [[Range](../../Lexicon/Keywords/Keyword_Range.md)], [[Two Hands](../../Lexicon/Keywords/Keyword_Two_Hands.md)], [[Visual](../../Lexicon/Keywords/Keyword_Visual.md)], [[Wireless](../../Lexicon/Keywords/Keyword_Wireless.md)] |
 
-*Your type in the command and your cyber rig spins up, creating an AR overlay of the world around you. By selecting one of the color-coded devices in your field of view, you execute the hack.* 
+*Your fingers fly across the keyboard of your cyber rig; a harsh, blue glow from the screen lights your face. You enter commands to identify nearby wireless targets and write ad hoc scripts to gain access and control.* 
 
-To use Street Hack, the device must be [[Close](../../Lexicon/Keywords/Keyword_Close.md)] or [[Nearby](../../Lexicon/Keywords/Keyword_Nearby.md)].
+To use Street Hack, the target device must be [[Close](../../Lexicon/Keywords/Keyword_Close.md)] or [[Nearby](../../Lexicon/Keywords/Keyword_Nearby.md)].
 
 | Outcome      | Description                                                                                                                                                 |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |

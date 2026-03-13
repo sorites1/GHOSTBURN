@@ -12,6 +12,7 @@
 | Title           | Artist   | Source                                                          | License                                                          | Were Changes Made? | Use Case                |
 | --------------- | -------- | --------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------ | ----------------------- |
 | **Cyberpunk 1** | Sheam Bo | [Behance](https://www.behance.net/gallery/75440891/cyberpunk-1) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | No                 | Hero image on home page |
+
 I want to thank Sheam Bo for releasing such a stellar illustration into Creative Commons. 
 
 I also want to thank the wonderful photographers and other artists on https://unsplash.com/ who so generously donated their work under the [Unsplash License](https://unsplash.com/license). I used these images as the starting place for creating my own versions, which now appear as the section headers on the Characters, Skills and Tricks, Gear and Augments, Lexicon, and Playing the Game sections of this website.

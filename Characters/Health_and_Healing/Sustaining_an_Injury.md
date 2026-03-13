@@ -14,14 +14,14 @@ Some extra dangerous attacks available to the GM indicate that if the attack dro
 
 Make your Injury Roll and consult the Injury Level Chart below to determine your character's injury.
 
-| Roll 2d10 | Injury Level       | Effect                                                         |
-| :-------: | ------------------ | -------------------------------------------------------------- |
-|    2-3    | None               | You do not sustain an injury. You gain \[Lucky\].              |
-|    4-5    | Minor Injury       | You are \[Traumatized\]. Roll on the Minor Injury Chart.       |
-|    6-8    | Significant Injury | You are \[Traumatized\]. Roll on the Significant Injury Chart. |
-|   9-12    | Terrible Injury    | You are \[Traumatized\]. Roll on the Terrible Injury Chart.    |
-|   13-16   | Grievous Injury    | You are \[Traumatized\]. Roll on the Grievous Injury Chart.    |
-|   17-20   | Massive Injury     | You are \[Traumatized\]. Roll on the Massive Injury Chart.     |
+| Roll 2d10 | Injury Level       | Effect                                                                                |
+| :-------: | ------------------ | ------------------------------------------------------------------------------------- |
+|    2-3    | None               | You do not sustain an injury. You gain \[[[Lexicon/Keywords/Keyword_Lucky\|Lucky]]\]. |
+|    4-5    | Minor Injury       | You are \[Traumatized\]. Roll on the Minor Injury Chart.                              |
+|    6-8    | Significant Injury | You are \[Traumatized\]. Roll on the Significant Injury Chart.                        |
+|   9-12    | Terrible Injury    | You are \[Traumatized\]. Roll on the Terrible Injury Chart.                           |
+|   13-16   | Grievous Injury    | You are \[Traumatized\]. Roll on the Grievous Injury Chart.                           |
+|   17-20   | Massive Injury     | You are \[Traumatized\]. Roll on the Massive Injury Chart.                            |
 
 ## Resist the Injury
 
@@ -43,14 +43,14 @@ Some injuries can be treated in the field, while others require the patient to b
 
 ### Minor Injury Chart
 
-| Roll 2d10 | Injury        | Effect                                                                                                                        | Qualifies for Field Surgery | Treatment                                                                                                                                                                         |
-| :-------: | ------------- | ----------------------------------------------------------------------------------------------------------------------------- | :-------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    2-3    | Lost a Tooth  | \[[[Lexicon/Conditions/Condition_Speech_Impairment\|Speech Impairment]]\]                                                             |             Yes             | Requires a [[Surgery\|Surgery]] roll with a DL of Easy (8).                                                                                      |
-|    4-5    | Ringing Ears  | \[[[Lexicon/Conditions/Condition_Hearing_Impairment\|Hearing Impairment]]\]                                                           |             No              | You lose this injury after taking over-the-counter meds or sleeping for 8 hours.                                                                                                  |
-|    6-8    | Double Vision | \[[[Lexicon/Conditions/Condition_Vision_Impairment\|Vision Impairment]]\]                                                             |             No              | You lose this injury after taking over-the-counter meds or sleeping for 8 hours.                                                                                                  |
-|   9-12    | Broken Finger | \[[[Lexicon/Conditions/Condition_Fine_Motor_Impairment\|Fine Motor Impairment]]\]                                                     |             No              | Once per session, make a \[[[Lexicon/Keywords/Keyword_Basic\|Basic]]\] Resilience roll with a DL of Easy (8). Success means you lose the injury.                                          |
-|   13-16   | Broken Nose   | \[[[Lexicon/Conditions/Condition_Mouth_Breather\|Mouth Breather]]\], \[[[Lexicon/Conditions/Condition_Disfigured_Minor\|Disfigured, Minor]]\] |             No              | Once per session, you (or someone of your choosing) may make a \[[[Lexicon/Keywords/Keyword_Basic\|Basic]]\] Medicine roll with a DL of Moderate (14). Success means you lose the injury. |
-|   17-20   | Concussion    | \[[[Lexicon/Conditions/Condition_Cognitive_Impairment\|Cognitive Impairment]]\]                                                       |             No              | You lose this injury after sleeping for 8 hours.                                                                                                                                  |
+| Roll 2d10 | Injury        | Effect                                                                                                                                        | Qualifies for Field Surgery | Treatment                                                                                                                                        |
+| :-------: | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+|    2-3    | Lost a Tooth  | \[[[Lexicon/Conditions/Condition_Speech_Impairment\|Speech Impairment]]\]                                                                     |             Yes             | Requires a [[Surgery\|Surgery]] roll with a DL of Easy (8).                                                                                      |
+|    4-5    | Ringing Ears  | \[[[Lexicon/Conditions/Condition_Hearing_Impairment\|Hearing Impairment]]\]                                                                   |             No              | Requires a [[Skills_and_Tricks/Medicine/First_Aid\|First Aid]] roll with a DL of Easy (8) or 8 hours of sleep                                    |
+|    6-8    | Double Vision | \[[[Lexicon/Conditions/Condition_Vision_Impairment\|Vision Impairment]]\]                                                                     |             No              | Requires a [[Skills_and_Tricks/Medicine/First_Aid\|First Aid]] roll with a DL of Easy (8) or 8 hours of sleep                                    |
+|   9-12    | Broken Finger | \[[[Lexicon/Conditions/Condition_Fine_Motor_Impairment\|Fine Motor Impairment]]\]                                                             |             No              | Once per session, make a \[[[Lexicon/Keywords/Keyword_Basic\|Basic]]\] Resilience roll with a DL of Easy (8). Success means you lose the injury. |
+|   13-16   | Broken Nose   | \[[[Lexicon/Conditions/Condition_Mouth_Breather\|Mouth Breather]]\], \[[[Lexicon/Conditions/Condition_Disfigured_Minor\|Disfigured, Minor]]\] |             No              | Once per session, make a [Basic] Resilience roll with a DL of Moderate (14). Success means you lose the injury.                                  |
+|   17-20   | Concussion    | \[[[Lexicon/Conditions/Condition_Cognitive_Impairment\|Cognitive Impairment]]\]                                                               |             No              | Once per session, make a \[Basic\] Resilience roll with a DL of Moderate (14). Success means you lose the injury.                                |
 
 ### Significant Injury Chart
 

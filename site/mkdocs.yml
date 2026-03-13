@@ -131,7 +131,7 @@ nav:
       - Misdirect [Core]: Skills_and_Tricks/Deception/Misdirect.md
       - Disguise [Signature]: Skills_and_Tricks/Deception/Disguise.md
       - Forgery [Signature]: Skills_and_Tricks/Deception/Forgery.md
-      - Impersonate [Signature]: Skills_and_Tricks/Deception/Impersonate.md
+      - Impression [Signature]: Skills_and_Tricks/Deception/Impression.md
     - Drive: 
       - Drive [Skill]: Skills_and_Tricks/Drive/Drive_Skill.md
       - Avoid Crash [Core]: Skills_and_Tricks/Drive/Avoid_Crash.md
@@ -436,6 +436,7 @@ nav:
       - Core Trick: Lexicon/Keywords/Keyword_Core_Trick.md
       - Counterattack: Lexicon/Keywords/Keyword_Counterattack.md
       - Crashes: Lexicon/Keywords/Keyword_Crashes.md
+      - Crawl: Lexicon/Keywords/Keyword_Crawl.md
       - Cyber Rig: Lexicon/Keywords/Keyword_Cyber_Rig.md
       - Damage Array: Lexicon/Keywords/Keyword_Damage_Array.md
       - Datajack: Lexicon/Keywords/Keyword_Datajack.md

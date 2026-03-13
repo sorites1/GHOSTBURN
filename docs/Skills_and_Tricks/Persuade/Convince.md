@@ -6,6 +6,8 @@
 
 *By appealing to the other person's sensibilities, you find a way to convince them to help you or to see things from your point of view.* 
 
+If you offer a suitable bribe, lower the DL by one. Some targets may be offended by the offer a bribe (GM's discretion), in which case the DL is raised by one instead.
+
 | Outcome      | Description                                                                                         |
 | ------------ | --------------------------------------------------------------------------------------------------- |
 | Cool Success | They agree and their \[Attitude\] improves                                                          |

@@ -35,13 +35,13 @@ NPCs have hit points equal to their \[Threat\] x 5. For example, an NPC with a \
 
 ### NPC Health Levels
 
-An NPC has four health levels, as described below.
+An NPC has three health levels, as described below.
 
-| NPC Health Level | NPC Hit Points     | Penalty           | Description                                                                                                                                                                                       |
-| ---------------- | ------------------ | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Uninjured        | Max HP             | None              | NPC has full hit points. No penalties.                                                                                                                                                            |
-| Hurt             | At or Below 50% HP | DLs Raised by one | NPC has half (or less) of their hit points remaining. DLs are raised by one.                                                                                                                      |
-| Defeated         | At or Below 10% HP | Cannot Make Rolls | NPC has 10% (or less) of their hit points remaining. NPC is dead or nearly so. They cannot make rolls, though they may be able to take actions like crawling or speaking, at the GM's discretion. |
+| NPC Health Level | NPC Hit Points     | Penalty                     | Description                                                                                                                                                                                                                              |
+| ---------------- | ------------------ | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Uninjured        | More than 50% HP   | None                        | NPC has more than half their hit points. No penalties.                                                                                                                                                                                   |
+| Hurt             | At or Below 50% HP | Their DLs are raised by one | NPC has half (or less) of their hit points remaining. DLs are raised by one.                                                                                                                                                             |
+| Defeated         | At or Below 10% HP | They cannot make rolls      | NPC has 10% (or less) of their hit points remaining. NPC is dead or nearly so. They cannot make rolls, though they may be able to take actions like speaking or using [[Lexicon/Keywords/Keyword_Crawl\|Crawl]], at the GM's discretion. |
 
 ### NPC Health Array
 

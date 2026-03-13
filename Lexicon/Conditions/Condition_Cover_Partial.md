@@ -4,4 +4,4 @@
 
 **Effect:** Attacks made against you by an observer to whom you have \[Cover, Partial\] have their DL raised by one. Attempts to locate you through sight alone have their DL raised by one. If you are hit by an attacker from whom you have \[Cover, Partial\], the damage is \[[[Lexicon/Keywords/Keyword_Reduced|Reduced]]\]. 
 
-**Removal:** When you become fully visible to an observer or gain \[[[Lexicon/Conditions/Condition_Concealment_Total|Concealment, Total]]\] to them, you no longer have \[Concealment, Partial\] to them.
+**Removal:** When you become fully visible to an observer or gain \[[[Lexicon/Conditions/Condition_Cover_Full|Cover, Full]]\] to them, you no longer have \[Cover, Partial\] to them.

@@ -1,6 +1,6 @@
 # Weapon Types
 
-Each weapon has a \[Weapon Type\] which has a set of keywords, as shown below. Each \[Weapon Type\] belongs to a \[[[Lexicon/Keywords/Keyword_Weapon_Groups|Weapon Group]]\].
+Each weapon has a \[Weapon Type\] which has a set of keywords, as shown below. Each \[Weapon Type\] belongs to a \[[[Keyword_Weapon_Group|Weapon Group]]\].
 
 | Weapon Type                                         | Weapon Group                                  | Weapon Type Keywords                                                                                                                                                                                                                        |
 | --------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

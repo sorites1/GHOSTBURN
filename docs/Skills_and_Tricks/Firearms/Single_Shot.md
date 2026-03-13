@@ -6,11 +6,11 @@
 
 *You point your gun and shoot.* 
 
-When you use Single Shot, your target must be at the optimal range listed for your weapon. If they are at a different range, raise the DL by one. If you use [[Two Hands](../../Lexicon/Keywords/Keyword_Two_Hands.md)], lower the DL by one. Use your weapon's Single Shot [[Damage Array](../../Lexicon/Keywords/Keyword_Damage_Array.md)] with this trick.
+When you use Single Shot, your target must be at the [[Optimal Range](../../Lexicon/Keywords/Keyword_Optimal_Range.md)] listed for your weapon. If they are at a different range, raise the DL by one. If you use [[Two Handed Grip](../../Lexicon/Keywords/Keyword_Two_Handed_Grip.md)], lower the DL by one. Use your weapon's Single Shot [[Damage Array](../../Lexicon/Keywords/Keyword_Damage_Array.md)] with this trick.
 
-| Outcome      | Description                                                                                                                                                |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cool Success | Choose to deal [[Maximum Damage](../../Lexicon/Keywords/Keyword_Maximum_Damage.md)] or deal \[Normal Damage\] and make a free [[Move](../../Lexicon/Keywords/Keyword_Move.md)]       |
-| Success      | You deal [[Normal Damage](../../Lexicon/Keywords/Keyword_Normal_Damage.md)]                                                                                             |
-| Fade         | You deal [[Minimum Damage](../../Lexicon/Keywords/Keyword_Minimum_Damage.md)] and your opponent gains a [[Combat Opportunity](../../Lexicon/Keywords/Keyword_Combat_Opportunity.md)] |
-| Glitch       | You miss and your opponent gains a \[Combat Opportunity\]                                                                                                  |
+| Outcome      | Description                                                                                                                                                              |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Cool Success | Choose to deal [[Maximum Damage](../../Lexicon/Keywords/Keyword_Maximum_Damage.md)] or deal \[Normal Damage\] and make a free [[Move](../../Lexicon/Keywords/Keyword_Move.md)]     |
+| Success      | You deal [[Normal Damage](../../Lexicon/Keywords/Keyword_Normal_Damage.md)]                                                                                                   |
+| Fade         | You deal [[Minimum Damage](../../Lexicon/Keywords/Keyword_Minimum_Damage.md)] and your target gains a [[Combat Opportunity](../../Lexicon/Keywords/Keyword_Combat_Opportunity.md)] |
+| Glitch       | You miss and your target gains a \[Combat Opportunity\]                                                                                                                  |

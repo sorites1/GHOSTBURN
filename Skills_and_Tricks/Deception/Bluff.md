@@ -6,9 +6,11 @@
 
 *With a straight face, you tell a lie, obscure the truth, or omit key details to deceive the person you're talking to.*
 
-| Outcome      | Description                                                                                   |
-| ------------ | --------------------------------------------------------------------------------------------- |
-| Cool Success | They believe you and you are \[[[Lexicon/Conditions/Condition_Inspired\|Inspired]]\]                  |
-| Success      | They believe you                                                                              |
+If you use Bluff on a \[[[Lexicon/Keywords/Keyword_Group|Group]]\], use the highest \[[[Lexicon/Keywords/Keyword_Wits|Wits]]\] among them and apply the effect to the \[Group\]. If the lie is unbelievable (GM's discretion), raise the DL by one.
+
+| Outcome      | Description                                                                                           |
+| ------------ | ----------------------------------------------------------------------------------------------------- |
+| Cool Success | They believe you and their \[[[Lexicon/Keywords/Keyword_Attitude\|Attitude]]\] towards you improves   |
+| Success      | They believe you                                                                                      |
 | Fade         | They believe you (but are unsure) and gain \[[[Lexicon/Conditions/Condition_Suspicous\|Suspicious]]\] |
-| Glitch       | They become \[Suspicious\]                                                                    |
+| Glitch       | They do not believe you and gain \[Suspicious\]                                                       |

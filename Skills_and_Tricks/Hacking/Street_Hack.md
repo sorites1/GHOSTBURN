@@ -4,9 +4,9 @@
 | ------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | \[[[Lexicon/Keywords/Keyword_Security\|Security]]\] | Hacking | \[[[Lexicon/Keywords/Keyword_Cyber_Rig\|Cyber Rig]]\], \[[[Lexicon/Keywords/Keyword_Physical\|Physical]]\], \[[[Lexicon/Keywords/Keyword_Range\|Range]]\], \[[[Lexicon/Keywords/Keyword_Two_Hands\|Two Hands]]\], \[[[Lexicon/Keywords/Keyword_Visual\|Visual]]\], \[[[Lexicon/Keywords/Keyword_Wireless\|Wireless]]\] |
 
-*Your type in the command and your cyber rig spins up, creating an AR overlay of the world around you. By selecting one of the color-coded devices in your field of view, you execute the hack.* 
+*Your fingers fly across the keyboard of your cyber rig; a harsh, blue glow from the screen lights your face. You enter commands to identify nearby wireless targets and write ad hoc scripts to gain access and control.* 
 
-To use Street Hack, the device must be \[[[Lexicon/Keywords/Keyword_Close|Close]]\] or \[[[Lexicon/Keywords/Keyword_Nearby|Nearby]]\].
+To use Street Hack, the target device must be \[[[Lexicon/Keywords/Keyword_Close|Close]]\] or \[[[Lexicon/Keywords/Keyword_Nearby|Nearby]]\]. When you have \[[[Lexicon/Keywords/Keyword_Operator|Operator]]\] access and no \[[[Lexicon/Conditions/Condition_Stress|Stress]]\], you can use Street Hack to try and elevate your privileges to \[[[Lexicon/Keywords/Keyword_Admin|Admin]]\] (by getting a Cool Success); when you make a roll to elevate your privileges, lower the DL by one.
 
 | Outcome      | Description                                                                                                                                                 |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |

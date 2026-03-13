@@ -1,3 +1,3 @@
 # Small Arms
 
-The \[Small Arms\] \[[[Lexicon/Keywords/Keyword_Weapon_Groups|Weapon Group]]\] contains the following [[Lexicon/Keywords/Keyword_Weapon_Types|Weapon Types]]: Light Pistol, Heavy Pistol, Shotgun, and SMG.
+The \[Small Arms\] \[[[Keyword_Weapon_Group|Weapon Group]]\] contains the following [[Lexicon/Keywords/Keyword_Weapon_Types|Weapon Types]]: \[[[Lexicon/Keywords/Keyword_Light_Pistol|Light Pistol]]\], \[[[Lexicon/Keywords/Keyword_Heavy_Pistol|Heavy Pistol]]\], \[[[Lexicon/Keywords/Keyword_Shotgun|Shotgun]]\], and \[[[Lexicon/Keywords/Keyword_SMG|SMG]]\].
