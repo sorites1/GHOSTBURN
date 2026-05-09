@@ -1,8 +1,8 @@
 # Finishing Move \[Signature Trick\]
 
-| Difficulty Level (DL) | Skill | Keywords                                                                              |
-| --------------------- | ----- | ------------------------------------------------------------------------------------- |
-| \[[[Lexicon/Keywords/Keyword_Opposed\|Opposed]]\]           | Melee | \[[[Lexicon/Keywords/Keyword_Attack\|Attack]]\], \[[[Lexicon/Keywords/Keyword_Move\|Move]]\], \[[[Lexicon/Keywords/Keyword_Melee\|Melee]]\], \[[[Lexicon/Keywords/Keyword_One_Hand\|One Hand]]\], \[[[Lexicon/Keywords/Keyword_Physical\|Physical]]\], \[[[Lexicon/Keywords/Keyword_Reaction\|Reaction]]\], \[[[Lexicon/Keywords/Keyword_Visual\|Visual]]\] |
+| Difficulty Level (DL) | Skill | Keywords                                                                                                                                                                                                                                                                                                                                                    |
+| --------------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Severe (26)           | Melee | \[[[Lexicon/Keywords/Keyword_Attack\|Attack]]\], \[[[Lexicon/Keywords/Keyword_Move\|Move]]\], \[[[Lexicon/Keywords/Keyword_Melee\|Melee]]\], \[[[Lexicon/Keywords/Keyword_One_Hand\|One Hand]]\], \[[[Lexicon/Keywords/Keyword_Physical\|Physical]]\], \[[[Lexicon/Keywords/Keyword_Reaction\|Reaction]]\], \[[[Lexicon/Keywords/Keyword_Visual\|Visual]]\] |
 
 *You sense your opponent's weakness and use your weapon to finish them.* 
 

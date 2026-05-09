@@ -14,14 +14,14 @@ Your starting package represents gear and augments you've accumulated over time 
 
 *A hacker relies on their cyber rig to take on wireless devices they can see, but with a datajack, they can droptrip into the Foam Network and penetrate remote systems.*
 
-| Hacker Package                                                      | Type         |
-| ------------------------------------------------------------------- | ------------ |
-| [[Datajack\|Datajack]]                 | Augment      |
-| [[Comms\|Comms (Level 1)]]             | Augment      |
-| [[Komodo_Ripsaw\|Komodo Ripsaw]]                | Cyber Rig    |
+| Hacker Package                                 | Type         |
+| ---------------------------------------------- | ------------ |
+| [[Datajack\|Datajack]]                         | Augment      |
+| [[Comms\|Comms (Level 1)]]                     | Augment      |
+| Hand Built Cyber Rig                           | Cyber Rig    |
 | [[EZTech_Punisher_Lite\|EZTech Punisher Lite]] | Light Pistol |
-| [[Leather_Jacket\|Leather Jacket]]                       | Armor        |
-| [[Low\|Low Lifestyle]]                               | Lifestyle    |
+| [[Leather_Jacket\|Leather Jacket]]             | Armor        |
+| [[Low\|Low Lifestyle]]                         | Lifestyle    |
 
 ## Merc
 

@@ -12,5 +12,5 @@ When you use Single Shot, your target must be at the \[[[Lexicon/Keywords/Keywor
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Cool Success | Choose to deal \[[[Lexicon/Keywords/Keyword_Maximum_Damage\|Maximum Damage]]\] or deal \[Normal Damage\] and make a free \[[[Lexicon/Keywords/Keyword_Move\|Move]]\]     |
 | Success      | You deal \[[[Lexicon/Keywords/Keyword_Normal_Damage\|Normal Damage]]\]                                                                                                   |
-| Fade         | You deal \[[[Lexicon/Keywords/Keyword_Minimum_Damage\|Minimum Damage]]\] and your target gains a \[[[Lexicon/Keywords/Keyword_Combat_Opportunity\|Combat Opportunity]]\] |
+| Fade         | You deal \[[[Lexicon/Keywords/Keyword_Minimum_Damage\|Normal Damage]]\] and your target gains a \[[[Lexicon/Keywords/Keyword_Combat_Opportunity\|Combat Opportunity]]\] |
 | Glitch       | You miss and your target gains a \[Combat Opportunity\]                                                                                                                  |

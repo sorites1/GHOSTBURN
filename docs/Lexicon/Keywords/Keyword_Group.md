@@ -1,3 +1,3 @@
 # Group
 
-This trick can be used on a group of people. Raise the DL of the skill action by one for every 10 members. If the trick uses [[Wits](../../Lexicon/Keywords/Keyword_Wits.md)] or [[Fort](../../Lexicon/Keywords/Keyword_Fort.md)] as its DL, use the highest amongst the group.
+This trick can be used on a \[Group\] of people. Raise the DL of the skill action by one for every 10 members in the \[Group\]. If the trick targets [[Wits](../../Lexicon/Keywords/Keyword_Wits.md)] or [[Fort](../../Lexicon/Keywords/Keyword_Fort.md)], use the highest among the \[Group\].

@@ -29,16 +29,3 @@ When you use a trick included in these rules, you should use the specific outcom
 | Cool Success | You get 20% better price and a \[Gift\]                 |
 
 For example, a player rolls Persuade (Haggle) with a DL of Moderate (14). After applying bonuses, their roll results in a 15. This is a Success because the result falls inside the DL range for Moderate (14), which is 14-19.
-
-### Opposed Outcomes
-
-When the rules call for an \[Opposed\] roll (or when the GM decides an \[Opposed\] roll is appropriate), you and the GM both roll, add your bonuses, and compare results. Tricks that use \[Opposed\] rolls have their own specific outcomes. When the GM declares an action to be an improvised trick, they should refer to the chart below to determine the outcome of the contest.
-
-| Outcome      | Roll                          | Description                                                   |
-| ------------ | ----------------------------- | ------------------------------------------------------------- |
-| Glitch       | Lower than the GM's roll      | The task failed with a complication                           |
-| Fade         | Equals the GM's roll          | The task was completed successfully but with a complication   |
-| Success      | 1-5 higher than the GM's roll | The task was completed successfully                           |
-| Cool Success | 6+ higher than the GM's roll  | The task was completed successfully and with an extra benefit |
-
-For example, a player wants their character to use Brawl (Grapple) on an opponent. This is an \[Opposed\] roll, so both the GM and the player roll. After applying their bonuses, the GM's result is 9 and the player's result is 12. This is a Success because 12 is 1-5 higher than the GM's result which was 9. 

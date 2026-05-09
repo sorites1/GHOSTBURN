@@ -8,9 +8,9 @@
 
 When you use Burst Fire, your target must be at the \[[[Lexicon/Keywords/Keyword_Optimal_Range|Optimal Range]]\] for your weapon. If they are at a different range, raise the DL by one. You may use \[[[Lexicon/Keywords/Keyword_Spray|Spray]]\] to hit an additional target. If you use \[[[Lexicon/Keywords/Keyword_One_Hand|One Hand]]\], raise the DL by one. Use your weapon's Burst Fire \[[[Lexicon/Keywords/Keyword_Damage_Array|Damage Array]]\] with this trick.
 
-| Outcome      | Description                                                                                                                                       |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cool Success | You deal \[[[Lexicon/Keywords/Keyword_Maximum_Damage\|Maximum Damage]]\] and they are \[Suppressed\]                                                      |
-| Success      | Choose to either deal \[[[Lexicon/Keywords/Keyword_Normal_Damage\|Normal Damage]]\] or make them \[[[Lexicon/Conditions/Condition_Suppressed\|Suppressed]]\]      |
-| Fade         | You deal \[[[Lexicon/Keywords/Keyword_Minimum_Damage\|Minimum Damage]]\] and they gain a  \[[[Lexicon/Keywords/Keyword_Combat_Opportunity\|Combat Opportunity]]\] |
-| Glitch       | Out of ammo. Spend 1 AP to use this weapon again.                                                                                                 |
+| Outcome      | Description                                                                                                                                                  |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Cool Success | You deal \[[[Lexicon/Keywords/Keyword_Maximum_Damage\|Maximum Damage]]\] and they are \[Suppressed\]                                                         |
+| Success      | Choose to either deal \[[[Lexicon/Keywords/Keyword_Normal_Damage\|Normal Damage]]\] or make them \[[[Lexicon/Conditions/Condition_Suppressed\|Suppressed]]\] |
+| Fade         | You deal \[[[Lexicon/Keywords/Keyword_Minimum_Damage\|Minimum Damage]]\] and suffer a \[[[Lexicon/Keywords/Keyword_Weapon_Jam\|Weapon Jam]]\]                |
+| Glitch       | You suffer a \[Weapon Jam\]                                                                                                                                  |

@@ -8,9 +8,9 @@
 
 To use Melee Strike, your opponent must be [[Close](../../Lexicon/Keywords/Keyword_Close.md)]. 
 
-| Outcome      | Description                                                                                                                     |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| Outcome      | Description                                                                                                                                               |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Cool Success | You deal [[Maximum Damage](../../Lexicon/Keywords/Keyword_Maximum_Damage.md)] to them and they are [[Prone](../../Lexicon/Conditions/Condition_Prone.md)] |
-| Success      | You deal [[Normal Damage](../../Lexicon/Keywords/Keyword_Normal_Damage.md)] to them                                                          |
-| Fade         | You deal [[Minimum Damage](../../Lexicon/Keywords/Keyword_Minimum_Damage.md)] to them                                                        |
-| Glitch       | You miss and are [[Off Balance](../../Lexicon/Conditions/Condition_Off_Balance.md)]                                                          |
+| Success      | You deal [[Normal Damage](../../Lexicon/Keywords/Keyword_Normal_Damage.md)] to them                                                                       |
+| Fade         | You deal [[Minimum Damage](../../Lexicon/Keywords/Keyword_Minimum_Damage.md)] to them                                                                     |
+| Glitch       | You miss and are [[Off Balance](../../Lexicon/Conditions/Condition_Off_Balance.md)]                                                                       |

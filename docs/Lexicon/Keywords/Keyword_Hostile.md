@@ -1,4 +1,4 @@
- Hostile
+# Hostile
 
 When an NPC has an [[Attitude](../../Lexicon/Keywords/Keyword_Attitude.md)] of \[Hostile\] towards you, they are discourteous and unkind to you, and they might even [[Attack](../../Lexicon/Keywords/Keyword_Attack.md)] you. When you use a [[Social](../../Lexicon/Keywords/Keyword_Social.md)] trick on a \[Hostile\] NPC, raise the DL by one.
 

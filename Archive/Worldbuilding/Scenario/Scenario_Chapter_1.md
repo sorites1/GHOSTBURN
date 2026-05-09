@@ -120,15 +120,15 @@ This scene features a combat sequence between the players and a couple of ganger
 
 #### "Bounce Boy (B.B.)" (In the Bathroom)
 
-| Name | Attitude                                          | Wits          | Fort      | Threat | Health Array | Armor                                                      | Gear                                                                             |
-| ---- | ------------------------------------------------- | ------------- | --------- | ------ | ------------ | ---------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| B.B. | \[[[Lexicon/Keywords/Keyword_Hostile\|Hostile]]\] | Moderate (14) | Hard (20) | +8     | 40/20/4      | [[Gear_and_Augments/Armor/Leather_Jacket\|Leather Jacket]] | [[Gear_and_Augments/Firearms/Shotguns/Ranco_12G_Dominator\|Ranco 12G Dominator]] |
+| Name | Attitude                                          | Wits     | Fort          | Threat | Health Array | Armor                                                      | Gear                                                                             |
+| ---- | ------------------------------------------------- | -------- | ------------- | ------ | ------------ | ---------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| B.B. | \[[[Lexicon/Keywords/Keyword_Hostile\|Hostile]]\] | Easy (8) | Moderate (14) | +5     | 40/20/4      | [[Gear_and_Augments/Armor/Leather_Jacket\|Leather Jacket]] | [[Gear_and_Augments/Firearms/Shotguns/Ranco_12G_Dominator\|Ranco 12G Dominator]] |
 
 #### "Pixie Stix" (In the Bedroom Closet)
 
-| Name  | Attitude                                          | Wits          | Fort      | Threat | Health Array | Armor                                                      | Gear                                                                    |
-| ----- | ------------------------------------------------- | ------------- | --------- | ------ | ------------ | ---------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Pixie | \[[[Lexicon/Keywords/Keyword_Hostile\|Hostile]]\] | Moderate (14) | Hard (20) | +8     | 40/20/4      | [[Gear_and_Augments/Armor/Leather_Jacket\|Leather Jacket]] | [[Gear_and_Augments/Augments/Combat_Augments/FNGR_Razors\|FNGR Razors]] |
+| Name  | Attitude                                          | Wits     | Fort          | Threat | Health Array | Armor                                                      | Gear                                                                    |
+| ----- | ------------------------------------------------- | -------- | ------------- | ------ | ------------ | ---------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Pixie | \[[[Lexicon/Keywords/Keyword_Hostile\|Hostile]]\] | Easy (8) | Moderate (14) | +5     | 40/20/4      | [[Gear_and_Augments/Armor/Leather_Jacket\|Leather Jacket]] | [[Gear_and_Augments/Augments/Combat_Augments/FNGR_Razors\|FNGR Razors]] |
 
 #### NPC Health Levels
 
@@ -180,6 +180,7 @@ If B.B. or Pixie are still alive after combat, they can be interrogated. Remembe
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Use [[Skills_and_Tricks/Intimidate/Coerce\|Coerce]]   | On any outcome other than a glitch, the ganger(s) will answer questions to the best of their ability.<br><br>                                                                        |
 | Use [[Skills_and_Tricks/Persuade/Convince\|Convince]] | On any outcome other than a glitch, the ganger(s) will answer questions to the best of their ability. If the players offer medical treatment (a bribe), lower the DL by one.<br><br> |
+|                                                       |                                                                                                                                                                                      |
 
 
 B.B. and Pixie can provide the following information: 

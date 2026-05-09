@@ -99,7 +99,7 @@ Once the players are ready, they will enter the warehouse. Both entry points (th
 
 When the players enter Warehouse 11, regardless of which door they use, read the following: 
 
-*You step through the entrance, into a massive room that opens up all the way to its three-story-high ceiling. The air is cold, but there is also a noticeable moisture that makes your skin feel clammy. The hum and gasps of medical equipment echo through the space.*
+*You step through the entrance, into a massive room that opens up all the way to its ten-story-high ceiling. The air is cold, but there is also a noticeable moisture that makes your skin feel clammy. The hum and gasps of medical equipment echo through the space.*
 
 *Enormous shelves fill the warehouse in rows, but the uniformity of their contents belies this as a place to store simple merchandise. By looking more closely at a nearby unit, you see it is numbered and has a frosted window. Inside, you can just make out the details of a what appears to be a woman's face, as if lying down sleeping, or maybe dead.*
 

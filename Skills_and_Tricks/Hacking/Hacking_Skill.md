@@ -13,6 +13,7 @@ The following tricks are included in the Hacking skill.
 | Trick                                                          | Type            |
 | -------------------------------------------------------------- | --------------- |
 | [[Skills_and_Tricks/Hacking/Disable_Device\|Disable Device]]   | Core Trick      |
+| [[Skills_and_Tricks/Hacking/Bootstrap\|Bootstrap]]             | Signature Trick |
 | [[Skills_and_Tricks/Hacking/Cybernetic_Hack\|Cybernetic Hack]] | Signature Trick |
 | [[Skills_and_Tricks/Hacking/Droptrip\|Droptrip]]               | Signature Trick |
 | [[Skills_and_Tricks/Hacking/Street_Hack\|Street Hack]]         | Signature Trick |

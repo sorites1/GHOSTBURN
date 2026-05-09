@@ -4,7 +4,7 @@
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Strength    | \[[[Lexicon/Keywords/Keyword_Attack\|Attack]]\], \[[[Lexicon/Keywords/Keyword_Melee\|Melee]]\], \[[[Lexicon/Keywords/Keyword_Physical\|Physical]]\] |
 
-The **Melee** skill is used to attack an opponent with a melee weapon, such as a knife, sword, or blunt object.
+The **Melee** skill is used to attack an opponent with a melee weapon, such as a knife, sword, or blunt object, or with a bladed augment, such as FNGR Razors or VPR Blade.
 
 ## Melee Tricks
 

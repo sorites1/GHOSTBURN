@@ -1,6 +1,6 @@
 # Armor
 
-If you're wearing armor when you take damage from an \[Attack\], the damage is [[Reduced](../../Lexicon/Keywords/Keyword_Reduced.md)]. If your armor is rated against the [[Weapon Group](../../Lexicon/Keywords/Keyword_Weapon_Groups.md)] used to make the \[Attack\], the damage is \[Reduced\] again. 
+If you're wearing armor when you take damage from an \[Attack\], the damage is [[Reduced](../../Lexicon/Keywords/Keyword_Reduced.md)]. If your armor is rated against the [[Weapon Group](../../Lexicon/Keywords/Keyword_Weapon_Group.md)] used to make the \[Attack\], the damage is \[Reduced\] again. 
 
 | Armor Type                                            | Rated Against Weapon Groups                                                                                                                                                 |
 | :---------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -34,7 +34,7 @@ This scene potentially involves Sal the bartender, three gangers, and Ellison "B
 | ----------------- | ------------------------------------------------- | ------------- | -------- | ------ | ------------ | ----- | ------------------------------------------------------------------------------------------------ |
 | Sal the Bartender | \[[[Lexicon/Keywords/Keyword_Neutral\|Neutral]]\] | Moderate (14) | Easy (8) | +4     | 20/10/2      | -     | [[Gear_and_Augments/Firearms/Shotguns/Ranco_12G_Dominator\|Ranco 12G Dominator]] (under the bar) |
 
-### Skidmark, Choosey, and Snapper (Gangers)
+### Skidmark, Choosy, and Snapper (Gangers)
 
 | Name   | Attitude                                          | Wits     | Fort          | Threat | Health Array | Armor                                                      | Gear                                                                                 |
 | ------ | ------------------------------------------------- | -------- | ------------- | ------ | ------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------ |

@@ -1,6 +1,6 @@
 # 3. Setting the Difficulty Level
 
-Each trick described in these rules includes an entry for Difficulty Level (DL). The Difficulty Level for a trick is usually either a **static DL**, or it is based on one of an NPC's **traits**. Occasionally, a trick eschews the typical DL framework by calling for an **\[Opposed\] roll**. 
+Each trick described in these rules includes an entry for Difficulty Level (DL). The Difficulty Level for a trick is usually either a **static DL**, or it is based on one of an NPC's **traits**. 
 
 The only time the GM needs to set the DL themselves is when the rules don't cover the action a player wants their character to take. If the GM allows it, the player can roll it as an **improvised trick**, as described below.
 
@@ -29,10 +29,6 @@ Traits are expressed as Difficulty Levels. For example, Rico the food cart vendo
 ## Static DL
 
 Some tricks simply state the DL to use. For example, Insight (Size Up Opponent) has a DL of Moderate (14).
-
-## Opposed Rolls
-
-Occasionally, the rules call for an \[Opposed\] roll, which means both you and the GM roll (and add your bonuses) and then compare your results to determine the outcome. As such, \[Opposed\] rolls do not use Difficulty Levels.
 
 ## Improvised Tricks
 
