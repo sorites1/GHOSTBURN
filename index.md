@@ -23,16 +23,11 @@ hide:
   </div>
   <div>
   </div>
-  <div>
- 
-<a href="Characters/">Welcome to Ridgeworld</a>
-
-  </div>
   
 <img src="../assets/Point_of_No_Return_Advert.png" alt="Point of No Return Advert" width="50%" height="50%"> 
 
 <div>
-<a href="https://www.drivethrurpg.com//product/565932/ghostburn-point-of-no-return?affiliate_id=537847&discount=9873c2e407"><strong>Buy Point of No Return</strong> on DriveThru RPG</a>
+<a href="https://www.drivethrurpg.com//product/565932/ghostburn-point-of-no-return?affiliate_id=537847&discount=9873c2e407">Buy <strong>Point of No Return</strong> on DriveThru RPG and save 25%</a>
 </div>
 
 </section>
