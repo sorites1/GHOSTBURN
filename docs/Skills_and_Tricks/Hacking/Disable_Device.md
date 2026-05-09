@@ -8,9 +8,9 @@
 
 Disable Device is a hands-on activity that requires you to directly interact with the target's hardware. If you do not have proper [[Tools](../../Lexicon/Keywords/Keyword_Tools.md)], raise the DL by one.
 
-| Outcome      | Description                                                                                          |
-| ------------ | ---------------------------------------------------------------------------------------------------- |
-| Cool Success | The device is \[Disabled\] and you gain a [[Secret](../../Lexicon/Keywords/Keyword_Secret.md)]            |
-| Success      | The device is \[Disabled\]                                                                           |
-| Fade         | The device is [[Disabled](../../Lexicon/Keywords/Keyword_Disabled.md)] and you have \[Vision Impairment\] |
-| Glitch       | You fail and have [[Vision Impairment](../../Lexicon/Conditions/Condition_Vision_Impairment.md)]          |
+| Outcome      | Description                                                                                                                            |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Cool Success | The device is \[Disabled\] and you gain a [[Secret](../../Lexicon/Keywords/Keyword_Secret.md)]                                              |
+| Success      | The device is \[Disabled\]                                                                                                             |
+| Fade         | The device is [[Disabled](../../Lexicon/Keywords/Keyword_Disabled.md)] and you have [[Bad Memory](../../Lexicon/Keywords/Keyword_Bad_Memory.md)] |
+| Glitch       | You fail and have \[Bad Memory\]                                                                                                       |

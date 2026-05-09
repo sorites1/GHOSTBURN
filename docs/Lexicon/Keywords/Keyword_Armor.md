@@ -1,6 +1,6 @@
 # Armor
 
-If you're wearing armor when you take damage from an \[Attack\], the damage is [[Reduced](../../Lexicon/Keywords/Keyword_Reduced.md)]. If your armor is rated against the [[Weapon Group](../../Lexicon/Keywords/Keyword_Weapon_Group.md)] used to make the \[Attack\], the damage is \[Reduced\] again. 
+If you're wearing armor when you take damage from an \[Attack\], the damage is [[Reduced](../../Lexicon/Keywords/Keyword_Reduced.md)] if your armor is rated against the [[Weapon Group](../../Lexicon/Keywords/Keyword_Weapon_Group.md)] used to make the \[Attack\]. However, damage cannot be \[Reduced\] below the weapon's \[Minimum Damage\].
 
 | Armor Type                                            | Rated Against Weapon Groups                                                                                                                                                 |
 | :---------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -12,6 +12,4 @@ If you're wearing armor when you take damage from an \[Attack\], the damage is [
 
 For example, say your character is wearing Soft Armor, which is rated against \[Small Arms\]. 
 
-You are hit by an [EZTech Punisher Lite](../../Gear_and_Augments/Firearms/Light_Pistols/EZTech_Punisher_Lite.md) (which is belongs to the \[Small Arms\] weapon group) for [[Normal Damage](../../Lexicon/Keywords/Keyword_Normal_Damage.md)] of 10. Since you are wearing armor, the damage is [[Reduced](../../Lexicon/Keywords/Keyword_Reduced.md)] to [[Minimum Damage](../../Lexicon/Keywords/Keyword_Minimum_Damage.md)] of 5. Since your armor is rated against \[Small Arms\], the damage is \[Reduced\] again to [[Absolute Damage](../../Lexicon/Keywords/Keyword_Absolute_Damage.md)] of 1. 
-
-On the other hand, when you are hit by a [Graham PX-90 Carbine](../../Gear_and_Augments/Firearms/Rifles/Graham_PX90_Carbine.md) (Rifle) for \[Normal Damage\] of 18, the damage is \[Reduced\] to its \[Minimum Damage\] of 9. Since your armor is not rated against Rifles, the damage is not \[Reduced\] any further.
+You are hit by an [EZTech Punisher Lite](../../Gear_and_Augments/Firearms/Light_Pistols/EZTech_Punisher_Lite.md), which has a \[Damage Array\] of 5/10/25 and which belongs to the \[Small Arms\] weapon group. The attacker deals [[Normal Damage](../../Lexicon/Keywords/Keyword_Normal_Damage.md)] of 10. Since you are wearing armor that is rated against \[Small Arms\], the damage is [[Reduced](../../Lexicon/Keywords/Keyword_Reduced.md)] to [[Minimum Damage](../../Lexicon/Keywords/Keyword_Minimum_Damage.md)] of 5.

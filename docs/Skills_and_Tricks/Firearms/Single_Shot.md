@@ -12,5 +12,5 @@ When you use Single Shot, your target must be at the [[Optimal Range](../../Lexi
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Cool Success | Choose to deal [[Maximum Damage](../../Lexicon/Keywords/Keyword_Maximum_Damage.md)] or deal \[Normal Damage\] and make a free [[Move](../../Lexicon/Keywords/Keyword_Move.md)]     |
 | Success      | You deal [[Normal Damage](../../Lexicon/Keywords/Keyword_Normal_Damage.md)]                                                                                                   |
-| Fade         | You deal [[Minimum Damage](../../Lexicon/Keywords/Keyword_Minimum_Damage.md)] and your target gains a [[Combat Opportunity](../../Lexicon/Keywords/Keyword_Combat_Opportunity.md)] |
+| Fade         | You deal [[Normal Damage](../../Lexicon/Keywords/Keyword_Minimum_Damage.md)] and your target gains a [[Combat Opportunity](../../Lexicon/Keywords/Keyword_Combat_Opportunity.md)] |
 | Glitch       | You miss and your target gains a \[Combat Opportunity\]                                                                                                                  |

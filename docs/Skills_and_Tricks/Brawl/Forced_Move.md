@@ -1,16 +1,16 @@
 # Forced Move \[Core Trick\]
 
-| Difficulty Level (DL) | Skill | Keywords                                                  |
-| --------------------- | ----- | --------------------------------------------------------- |
-| [[Opposed](../../Lexicon/Keywords/Keyword_Opposed.md)]           | Brawl | [[Attack](../../Lexicon/Keywords/Keyword_Attack.md)], [[Move](../../Lexicon/Keywords/Keyword_Move.md)], [[Physical](../../Lexicon/Keywords/Keyword_Physical.md)], [[Range](../../Lexicon/Keywords/Keyword_Range.md)], [[Visual](../../Lexicon/Keywords/Keyword_Visual.md)] |
+| Difficulty Level (DL) | Skill | Keywords                                                                                                                                                                                                                                                                                                                                                         |
+| --------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fort                  | Brawl | [[Attack](../../Lexicon/Keywords/Keyword_Attack.md)], [[Move](../../Lexicon/Keywords/Keyword_Move.md)], [[Physical](../../Lexicon/Keywords/Keyword_Physical.md)], [[Range](../../Lexicon/Keywords/Keyword_Range.md)], [[Two Hands](../../Lexicon/Keywords/Keyword_Two_Hands.md)], [[Unarmed](../../Lexicon/Keywords/Keyword_Unarmed.md)], [[Visual](../../Lexicon/Keywords/Keyword_Visual.md)] |
 
 *You grab your opponent and force them to move with your superior ability.* 
 
-To use Forced Move, your opponent must be [[Close](../../Lexicon/Keywords/Keyword_Close.md)]. If they are [[Restrained](../../Lexicon/Conditions/Condition_Restrained.md)], your Forced Move outcome is [[Upgraded](../../Lexicon/Keywords/Keyword_Upgraded.md)].
+To use Forced Move, you must have your opponent [[Restrained](../../Lexicon/Conditions/Condition_Restrained.md)].
 
-| Outcome      | Description                                                                                     |
-| ------------ | ----------------------------------------------------------------------------------------------- |
-| Cool Success | You force them to \[Move\] and put them in [[Agony](../../Lexicon/Conditions/Condition_Agony.md)] if desired |
-| Success      | You force them to \[Move\]                                                                      |
-| Fade         | You force them to [[Move](../../Lexicon/Keywords/Keyword_Move.md)] and you are \[Off Balance\]               |
-| Glitch       | You fail and are [[Off Balance](../../Lexicon/Conditions/Condition_Off_Balance.md)]                          |
+| Outcome      | Description                                                                                                                         |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Cool Success | You both \[Move\] \[Nearby\]; you may end the \[Move\] by making them [[Prone](../../Lexicon/Conditions/Condition_Prone.md)], if desired |
+| Success      | You both \[Move\] [[Nearby](../../Lexicon/Keywords/Keyword_Nearby.md)]                                                                   |
+| Fade         | You both [[Move](../../Lexicon/Keywords/Keyword_Move.md)] \[Nearby\] and you are \[Off Balance\]                                         |
+| Glitch       | You are [[Off Balance](../../Lexicon/Conditions/Condition_Off_Balance.md)]                                                               |

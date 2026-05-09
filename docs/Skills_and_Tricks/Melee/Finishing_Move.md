@@ -1,8 +1,8 @@
 # Finishing Move \[Signature Trick\]
 
-| Difficulty Level (DL) | Skill | Keywords                                                                              |
-| --------------------- | ----- | ------------------------------------------------------------------------------------- |
-| [[Opposed](../../Lexicon/Keywords/Keyword_Opposed.md)]           | Melee | [[Attack](../../Lexicon/Keywords/Keyword_Attack.md)], [[Move](../../Lexicon/Keywords/Keyword_Move.md)], [[Melee](../../Lexicon/Keywords/Keyword_Melee.md)], [[One Hand](../../Lexicon/Keywords/Keyword_One_Hand.md)], [[Physical](../../Lexicon/Keywords/Keyword_Physical.md)], [[Reaction](../../Lexicon/Keywords/Keyword_Reaction.md)], [[Visual](../../Lexicon/Keywords/Keyword_Visual.md)] |
+| Difficulty Level (DL) | Skill | Keywords                                                                                                                                                                                                                                                                                                                                                    |
+| --------------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Severe (26)           | Melee | [[Attack](../../Lexicon/Keywords/Keyword_Attack.md)], [[Move](../../Lexicon/Keywords/Keyword_Move.md)], [[Melee](../../Lexicon/Keywords/Keyword_Melee.md)], [[One Hand](../../Lexicon/Keywords/Keyword_One_Hand.md)], [[Physical](../../Lexicon/Keywords/Keyword_Physical.md)], [[Reaction](../../Lexicon/Keywords/Keyword_Reaction.md)], [[Visual](../../Lexicon/Keywords/Keyword_Visual.md)] |
 
 *You sense your opponent's weakness and use your weapon to finish them.* 
 

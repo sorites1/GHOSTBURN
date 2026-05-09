@@ -14,14 +14,14 @@ Your starting package represents gear and augments you've accumulated over time 
 
 *A hacker relies on their cyber rig to take on wireless devices they can see, but with a datajack, they can droptrip into the Foam Network and penetrate remote systems.*
 
-| Hacker Package                                                      | Type         |
-| ------------------------------------------------------------------- | ------------ |
-| [Datajack](../../Gear_and_Augments/Augments/Utility_Augments/Datajack.md)                 | Augment      |
-| [Comms (Level 1)](../../Gear_and_Augments/Augments/Utility_Augments/Comms.md)             | Augment      |
-| [Komodo Ripsaw](../../Gear_and_Augments/Cyber_Rigs/Komodo_Ripsaw.md)                | Cyber Rig    |
+| Hacker Package                                 | Type         |
+| ---------------------------------------------- | ------------ |
+| [Datajack](../../Gear_and_Augments/Augments/Utility_Augments/Datajack.md)                         | Augment      |
+| [Comms (Level 1)](../../Gear_and_Augments/Augments/Utility_Augments/Comms.md)                     | Augment      |
+| Hand Built Cyber Rig                           | Cyber Rig    |
 | [EZTech Punisher Lite](../../Gear_and_Augments/Firearms/Light_Pistols/EZTech_Punisher_Lite.md) | Light Pistol |
-| [Leather Jacket](../../Gear_and_Augments/Armor/Leather_Jacket.md)                       | Armor        |
-| [Low Lifestyle](../../Characters/Lifestyles/Low.md)                               | Lifestyle    |
+| [Leather Jacket](../../Gear_and_Augments/Armor/Leather_Jacket.md)             | Armor        |
+| [Low Lifestyle](../../Characters/Lifestyles/Low.md)                         | Lifestyle    |
 
 ## Merc
 
